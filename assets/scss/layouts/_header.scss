@@ -1,0 +1,155 @@
+.invest-bar {
+    // background: #0AE02D;
+    background: url("../img/invest-bar-bg.png") no-repeat center / cover;
+    padding: 0 20px;
+    position: sticky;
+    top: 0;
+    z-index: 99990;
+
+    &-text {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 12px;
+
+        p {
+            color: black;
+            font-size: 28px;
+            font-weight: 400;
+            line-height: 31px;
+            letter-spacing: 0.78px;
+            word-wrap: break-word
+        }
+
+        a {
+            background: #fff;
+            padding: 10px;
+            border-radius: 10px;
+            // Learn more
+            color: black;
+            font-size: 15px;
+            font-family: Manrope;
+            font-weight: 600;
+            line-height: 20px;
+            word-wrap: break-word
+        }
+
+        &-wrap {
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 12px;
+        }
+    }
+
+    &-content {
+        position: relative;
+        padding: 8px 0;
+    }
+
+    .tSocial {
+        position: absolute;
+        right: 0;
+        top: 50%;
+        transform: translateY(-50%);
+        display: flex;
+        gap: 18px;
+        a{
+            color: #000;
+            font-size: 20px;
+        }
+    }
+}
+
+.navbar {
+    padding: 40px 0 30px;
+    background: transparent;
+    width: 100%;
+    z-index: 2;
+
+    .navbar-brand {
+        padding: 0;
+        margin-right: 50px;
+        max-width: 195px;
+    }
+
+    .navbar-nav {
+        @media (min-width: 1600px) {
+            gap: 50px;
+        }
+
+        gap: 35px;
+
+        // .the-header-logo{
+        //     width: 290px;
+        // }
+        &.rightNav {
+            .nav-link {
+                color: #000000;
+
+                &:hover,
+                &:focus {
+                    color: #000000;
+                }
+            }
+
+            @media (min-width:1600px) {
+                margin-left: 50px;
+            }
+
+            @media (max-width:1600px) {
+                margin-left: 35px;
+            }
+        }
+
+        .nav-link {
+            font-weight: 500;
+            font-size: 13px;
+            line-height: 140%;
+            color: #091113;
+            padding: 0;
+
+            &:hover,
+            &:focus,
+            &.active {
+                color: #0be02e;
+            }
+        }
+
+    }
+
+}
+
+.navbar-dark .navbar-toggler {
+    color: #fff;
+    border: 0;
+
+    &:focus {
+        outline: 0;
+        box-shadow: none;
+    }
+}
+
+.navbar-dark .navbar-toggler-icon {
+    background-image: url("data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'><path stroke='rgba%28255, 255, 255, 1%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/></svg>");
+}
+
+
+.homeC {
+    .navbar {
+        // position: absolute;
+
+        .navbar-nav {
+            .nav-link {
+                color: #000000;
+            }
+
+            &.rightNav {
+                .nav-link {
+                    color: #000000;
+                }
+            }
+        }
+    }
+
+}

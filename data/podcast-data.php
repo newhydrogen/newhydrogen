@@ -1,0 +1,801 @@
+<?php
+$videos = [
+    [
+        'title' => "It’s time to stop focusing on yesterday’s technology and start innovating for tomorrow.",
+        'videoID' => "KZQoy1kXV3M",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "it-time-to-stop-focusing-on-yesterday-technology-and-start-innovating-for-tomorrow.",
+        "display" => true
+    ],
+    [
+        'title' => "The future of hydrogen energy",
+        'videoID' => "IdlMTjZ3vmA",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-future-of-hydrogen-energy",
+        "display" => true
+    ],
+    [
+        'title' => "Do Californians know the value of a water bottle? (Quizshow!)",
+        'videoID' => "6cyPXzLF6II",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "do-californians-know-the-value-of-a-water-bottle",
+        "display" => true
+    ],
+    [
+        'title' => "Power Created From Water",
+        'videoID' => "m9s7RGcfXOk",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "power-created-from-water",
+        "display" => true
+    ],
+    [
+        'title' => "Cleaner, cheaper, and more effective - green hydrogen",
+        'videoID' => "JQ4y6KRBvno",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "cleaner-cheaper-and-more-effective-green-hydrogen",
+        "display" => true
+    ],
+    [
+        'title' => "NewHydrogen is powering ahead on the path to clean energy!",
+        'videoID' => "dYvbVp47OSY",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "newHydrogen-is-powering-ahead-on-the-path-to-clean-energy",
+        "display" => true
+    ],
+    [
+        'title' => "The Insane Power of Pure Water (700 Miles per Gallon)",
+        'videoID' => "gxhoaLxN77Y",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-insane-power-of-pure-water",
+        "display" => true
+    ],
+    [
+        'title' => "Making Your Toyota Run on Tap Water!",
+        'videoID' => "q7jE9hOZYvU",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "making-your-toyota-run-on-tap-water",
+        "display" => true
+    ],
+    [
+        'title' => "The Math Behind a Stanley-Cup Powered Toyota",
+        'videoID' => "rG_C3QFiLk8",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-math-behind-a-stanley-cup-powered-toyota",
+        "display" => true
+    ],
+    [
+        'title' => "Energy is the Foundation of Everything!",
+        'videoID' => "48wothuH5Ks",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "energy-is-the-foundation-of-everything",
+        "display" => true
+    ],
+    [
+        'title' => "Hydroelectric isn't the only way to harness the power of our water sources!",
+        'videoID' => "d-gWDbEiytE",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "hydroelectric-isnt-the-only-way-to-harness-the-power-of-our-wwater-sources",
+        "display" => true
+    ],
+    [
+        'title' => "The smallest element has the biggest impact on our world!",
+        'videoID' => "2J-LcmkRAlM",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-smallest-element-has-the-biggest-impact-on-our-world",
+        "display" => true
+    ],
+    [
+        'title' => "Hydrogen forms the basis of most fertilizers.",
+        'videoID' => "xkmweO-K2YE",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "hydrogen-forms-the-basis-of-most-fertilizers",
+        "display" => true
+    ],
+    [
+        'title' => "Big News for Disney World- Moana's Journey of Water's Celebration of Science!",
+        'videoID' => "mFOOLtsYA7M",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "big-news-for-disney-world-moana-journey-of-water-celebration-of-science",
+        "display" => true
+    ],
+    [
+        'title' => "How Hydrogen is Changing Electrical Grids For Good",
+        'videoID' => "GNkolN9ZjW8",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "how-hydrogen-is-changing-electrical-grids-for-good",
+        "display" => true
+    ],
+    [
+        'title' => "The Problems with Diesel Power - An Inside Look",
+        'videoID' => "k5fLXrVqcJc",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-problems-with-diesel-power-an-inside-look",
+        "display" => true
+    ],
+    [
+        'title' => "With Green Hydrogen: Slow to Invest is Quick to Regret!",
+        'videoID' => "L-OEsvNiBYA",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "with-green-hydrogen-slow-to-invest-is-quick-to-regret",
+        "display" => true
+    ],
+    [
+        'title' => "How Hydrogen is Revolutionizing the Transportation Industry",
+        'videoID' => "PVi70lFkaTk",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "how-hydrogen-is-revolutionizing-the-transportation-industry",
+        "display" => true
+    ],
+    [
+        'title' => "California Invested $106M into Better Fuel Sources",
+        'videoID' => "09ux-nmmKRg",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "california-invested-106m-into-better-fuel-sources",
+        "display" => true
+    ],
+    [
+        'title' => "The Staggering Impact of Maritime Shipping on the Environment!",
+        'videoID' => "euKREzOmBZ4",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-staggering-impact-of-maritime-shipping-on-the-environment",
+        "display" => true
+    ],
+    [
+        'title' => "How to Make Renewable Energy in Bad Weather",
+        'videoID' => "mePTGm3NqM0",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "how-to-make-renewable-energy-in-bad-weather",
+        "display" => true
+    ],
+    [
+        'title' => "The Energy of The Future: Hydrogen Power Explained",
+        'videoID' => "_p0AtMQZAXA",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-energy-of-the-future-hydrogen-power-explained",
+        "display" => true
+    ],
+    [
+        'title' => "Sending a Toyota Mirai Around the World 24x",
+        'videoID' => "NVe9bhO3sCg",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "sending-a-toyota-mirai-around-the-world-24x",
+        "display" => true
+    ],
+    [
+        'title' => "First Place in the Race Towards Renewable Energy",
+        'videoID' => "q56-8IFRX8M",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "first-place-in-the-race-towards-renewable-energy",
+        "display" => true
+    ],
+    [
+        'title' => "Stanford's Innovative Approach to the Hydrogen Economy!",
+        'videoID' => "G5Ncugka_cE",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "stanford-innovative-approach-to-the-hydrogen-economy",
+        "display" => true
+    ],
+    [
+        'title' => "Transportation at it's fastest and most efficient.",
+        'videoID' => "CWrDfhkoBIk",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "transportation-at-its-fastest-and-most-efficient",
+        "display" => true
+    ],
+    [
+        'title' => "The technology that powers tomorrow is being made today at NewHydrogen.",
+        'videoID' => "u9jnJ_3ARSQ",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-technology-that-powers-tomorrow-is-being-made-today-at-newhydrogen",
+        "display" => true
+    ],
+    [
+        'title' => "The Skittles Approach to Carbon Neutrality!",
+        'videoID' => "ICEjaymJVOo",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-skittles-approach-to-carbon-neutrality",
+        "display" => true
+    ],
+    [
+        'title' => "The Rainbow of Hydrogen Production!",
+        'videoID' => "BtNGUh9rLHk",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-rainbow-of-hydrogen-production",
+        "display" => true
+    ],
+    [
+        'title' => "How can we make grocery shopping accessible again?",
+        'videoID' => "bHOkhCQqXS4",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "how-can-we-make-grocery-shopping-accessible-again",
+        "display" => true
+    ],
+    [
+        'title' => "What the public thinks about grocery prices!",
+        'videoID' => "oahj2M-GITE",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "what-the-public-thinks-about-grocery-prices",
+        "display" => true
+    ],
+    [
+        'title' => "Watering Down Your Power Bill!",
+        'videoID' => "zNYXBBkPwW0",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "watering-down-your-power-bill",
+        "display" => true
+    ],
+    [
+        'title' => "How Hydrogen Can Replace Carbon Dioxide.",
+        'videoID' => "24OOLtsGbQI",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "how-hydrogen-can-replace-carbon-dioxide",
+        "display" => true
+    ],
+    [
+        'title' => "V1 WITH MUSIC Pumpkin Patch 1",
+        'videoID' => "a6sVB7eOXMs",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "v1-with-music-pumpkin-patch-1",
+        "display" => true
+    ],
+    [
+        'title' => "How is cheap hydrogen helping your local farmer's market?",
+        'videoID' => "kmBsIlRz230",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "how-is-cheap-hydrogen-helping-your-local-farmer-market",
+        "display" => true
+    ],
+    [
+        'title' => "How Thermoloop is Changing the Renewable Game!",
+        'videoID' => "5BEf0J9Y-yY",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "how-thermoloop-is-changing-the-renewable-game",
+        "display" => true
+    ],
+    [
+        'title' => "The Green-Hydrogen Economy is Ready to Go!",
+        'videoID' => "Fak2jxnpR9Q",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-green-hydrogen-economy-is-ready-to-go",
+        "display" => true
+    ],
+    [
+        'title' => "How are Hydrogen Fertilizers Changing Agriculture?",
+        'videoID' => "4XJb_jRRiO8",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "how-are-hydrogen-fertilizers-changing-agriculture",
+        "display" => true
+    ],
+    [
+        'title' => "Let's Start a Discussion about Green Hydrogen. We'll Go First!",
+        'videoID' => "GCFQE-mtew8",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "let-start-a-discussion-about-green-hydrogen-we-will-go-first",
+        "display" => true
+    ],
+    [
+        'title' => "Never Wasting a Watt!",
+        'videoID' => "yUBt3113jr4",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "never-wasting-a-watt",
+        "display" => true
+    ],
+    [
+        'title' => "Hydrogen Powered Aircrafts are Coming Soon!",
+        'videoID' => "JaKH85UcxXc",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "hydrogen-powered-aircrafts-are-coming-soon",
+        "display" => true
+    ],
+    [
+        'title' => "How is Hydrogen Critical to American Agriculture?",
+        'videoID' => "81UDvF72fYo",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "how-is-hydrogen-critical-to-american-agriculture",
+        "display" => true
+    ],
+    [
+        'title' => "How Hydrogen Helps Our Farmers Every Day",
+        'videoID' => "6F-m-N6cuQs",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "how-hydrogen-helps-our-farmers-every-day",
+        "display" => true
+    ],
+    [
+        'title' => "Hydrogen Revolution: Paving the Way to Sustainable Industries",
+        'videoID' => "5lQWmZI0Gt8",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "hydrogen-revolution-paving-the-way-to-sustainable-industries",
+        "display" => true
+    ],
+    [
+        'title' => "The #1 Element",
+        'videoID' => "HoAKGK6C9ZQ",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-1-element",
+        "display" => true
+    ],
+    [
+        'title' => "Something to think about this summer.",
+        'videoID' => "Z8Xg2LfuETk",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "something-to-think-about-this-summer",
+        "display" => true
+    ],
+    [
+        'title' => "Big Power in a Small Package!",
+        'videoID' => "cd-RQ27GvTA",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "big-power-in-a-small-package",
+        "display" => true
+    ],
+    [
+        'title' => "The Fast and the Futuristic",
+        'videoID' => "Rp7ViESbRxs",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-fast-and-the-futuristic",
+        "display" => true
+    ],
+    [
+        'title' => "Energy without the climate cost.",
+        'videoID' => "Qdnri3_Xm2k",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "energy-without-the-climate-cost",
+        "display" => true
+    ],
+    [
+        'title' => "With zero emissions and far better utilization, the future is green, not grey.",
+        'videoID' => "_1pUYS6LBLg",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "with-zero-emissions-and-far-better-utilization-the-future-is-green-not-grey",
+        "display" => true
+    ],
+    [
+        'title' => "Hydrogen production is the bedrock of many industries, but it has been costly in the past.",
+        'videoID' => "vhFcUfVXcHM",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "hydrogen-production-is-the-bedrock-of-many-industries-but-it-has-been-costly-in-the-past",
+        "display" => true
+    ],
+    [
+        'title' => "The Hydrogen Revolution",
+        'videoID' => "v_OYIwdw3Mw",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-hydrogen-revolution",
+        "display" => true
+    ],
+    [
+        'title' => "Clean energy benefits everyone, both on the ground and in the air.",
+        'videoID' => "Gy7oKQgZ9K4",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "clean-energy-benefits-everyone-both-on-the-ground-and-in-the-air",
+        "display" => true
+    ],
+    [
+        'title' => "The Hydrogen Rainbow",
+        'videoID' => "keWqCbP4V50",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-hydrogen-rainbow",
+        "display" => true
+    ],
+    [
+        'title' => "Progress will not stop for anybody; neither will we.",
+        'videoID' => "ZpQkip0-_Xo",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "progress-will-not-stop-for-anybody-neither-will-we",
+        "display" => true
+    ],
+    [
+        'title' => "Green hydrogen has 60 countries' worth of support of a hydrogen-powered world.",
+        'videoID' => "yp_1Y2IhYag",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "green-hydrogen-has-60-countries-worth-of-support-of-a-hydrogen-powered-world",
+        "display" => true
+    ],
+    [
+        'title' => "Hydrogen is the foundation of most industries today.",
+        'videoID' => "E16fxm0fzHU",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "hydrogen-is-the-foundation-of-most-industries-today",
+        "display" => true
+    ],
+    [
+        'title' => "Excitement for the Hydrogen Revolution is growing- as it should!",
+        'videoID' => "miUsogZ4B4s",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "excitement-for-the-hydrogen-revolution-is-growing-as-it-should",
+        "display" => true
+    ],
+    [
+        'title' => "Our mission is to provide the world with THE CHEAPEST HYDROGEN.",
+        'videoID' => "3VNfr-e2TjA",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "our-mission-is-to-provide-the-world-with-the-cheapest-hydrogen",
+        "display" => true
+    ],
+    [
+        'title' => "The time for energy equity is now.",
+        'videoID' => "-jWwEtNvSfk",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-time-for-energy-equity-is-now",
+        "display" => true
+    ],
+    [
+        'title' => "Our planet is begging us to stop producing and releasing fossil fuels into the atmosphere.",
+        'videoID' => "T4LY5CSpwgE",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "our-planet-is-begging-us-to-stop-producing-and-releasing-fossil-fuels-into-the-atmosphere",
+        "display" => true
+    ],
+    [
+        'title' => "We are on a mission to provide the world's cheapest green hydrogen.",
+        'videoID' => "FVnrYO_lVwI",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "we-are-on-a-mission-to-provide-the-world-cheapest-green-hydrogen",
+        "display" => true
+    ],
+    [
+        'title' => "The best way to go about changing the world is to make it a better and safer place to live!",
+        'videoID' => "43rbZ319DH4",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-best-way-to-go-about-changing-the-world-is-to-make-it-a-better-and-safer-place-to-live",
+        "display" => true
+    ],
+    [
+        'title' => "Andrew Thomas - Cleveland State University",
+        'videoID' => "IrSEdtDAgsM",
+        'date' => "November 21, 2023",
+        'category' => "ceo-podcast",
+        'slug' => "andrew-thomas-cleveland-state-university",
+        "display" => false
+    ],
+    [
+        'title' => "Dr. Mohamed F Sanad Noufal Hampton University",
+        'videoID' => "at3pL6ooXCo",
+        'date' => "November 21, 2023",
+        'category' => "ceo-podcast",
+        'slug' => "dr-mohamed-f-sanad-noufal-hampton-university",
+        "display" => true
+    ],
+    [
+        'title' => "Dr. Faisal Alamgir - Georgia Institute of Technology",
+        'videoID' => "-nL_QZpENBk",
+        'date' => "November 15, 2023",
+        'category' => "ceo-podcast",
+        'slug' => "dr-faisal-alamgir-georgia-institute-of-technology",
+        "display" => false
+    ],
+    [
+        'title' => "Alan Lloyd",
+        'videoID' => "eNg6arNE7S0",
+        'date' => "November 7, 2023",
+        'category' => "ceo-podcast",
+        'slug' => "alan-lloyd",
+        "display" => true
+    ],
+    [
+        'title' => "Dr. Jeffrey Reed - UC Irvine",
+        'videoID' => "JcE8xrs2njk",
+        'date' => "November 6, 2023",
+        'category' => "ceo-podcast",
+        'slug' => "dr-jeffrey-reed-uc-irvine",
+        "display" => false
+    ],
+    [
+        'title' => "Dr. Kevin Huang - University of South Carolina",
+        'videoID' => "dYo4duianfg",
+        'date' => "November 6, 2023",
+        'category' => "ceo-podcast",
+        'slug' => "dr-kevin-huang-university-of-south-carolina",
+        "display" => false
+    ],
+    [
+        'title' => "Dr. Ben Emerson Georgia Tech",
+        'videoID' => "SK6lcbTVM3g",
+        'date' => "October 21, 2023",
+        'category' => "ceo-podcast",
+        'slug' => "dr-ben-emerson-georgia-tech",
+        "display" => false
+    ],
+    [
+        'title' => "Valerie Thomas Georgia Tech",
+        'videoID' => "DcKvQOTSxYs",
+        'date' => "October 16, 2023",
+        'category' => "ceo-podcast",
+        'slug' => "valerie-thomas-georgia-tech",
+        "display" => false
+    ],
+    [
+        'title' => "Hydrogen Reservoir Discovered!",
+        'videoID' => "HY9f8esnfio",
+        'date' => "November 4, 2023",
+        'category' => "news-commentary",
+        'slug' => "hydrogen-reservoir-discovered",
+        "display" => true
+    ],
+    [
+        'title' => "H2 Hubs",
+        'videoID' => "FDhJP4pHRkQ",
+        'date' => "October 16, 2023",
+        'category' => "news-commentary",
+        'slug' => "h2-hubs",
+        "display" => true
+    ],
+    [
+        'title' => "Extreme H",
+        'videoID' => "cXDNWoi8yqc",
+        'date' => "October 13, 2023",
+        'category' => "news-commentary",
+        'slug' => "extreme-h",
+        "display" => true
+    ],
+    [
+        'title' => "Killing the Colors of Hydrogen",
+        'videoID' => "b_C140ZgMM4",
+        'date' => "October 10, 2023",
+        'category' => "news-commentary",
+        'slug' => "killing-the-colors-of-hydrogen",
+        "display" => true
+    ],
+    [
+        'title' => "Dr. Chengzhang Wan - UCLA",
+        'videoID' => "ugybxCsUKa8",
+        'date' => "October 24, 2023",
+        'category' => "ceo-podcast",
+        'slug' => "dr-chengzhang-wan-ucla",
+        "display" => true
+    ],
+    [
+        'title' => "Johannes Schwank - University of Michigan",
+        'videoID' => "ywfKFPCIdHk",
+        'date' => "October 9, 2023",
+        'category' => "ceo-podcast",
+        'slug' => "johannes-schwank-university-of-michigan",
+        "display" => true
+    ],
+    [
+        'title' => "Dr. Pradeep Haldar University of South Florida",
+        'videoID' => "YpCaGT-V1FA",
+        'date' => "September 28, 2023",
+        'category' => "ceo-podcast",
+        'slug' => "dr-pradeep-haldar-university-of-south-florida",
+        "display" => false
+    ],
+  
+    [
+        'title' => "Eugene Holubnyak - Hydrogen Energy Research Center",
+        'videoID' => "luvHuNAWr7U",
+        'date' => "September 26, 2023",
+        'category' => "ceo-podcast",
+        'slug' => "eugene-holubnyak-hydrogen-energy-research-center",
+        "display" => true
+    ],
+    [
+        'title' => "Investor Confidence Builds for Green Hydrogen",
+        'videoID' => "nrWm-W2JBLc",
+        'date' => "September 18, 2023",
+        'category' => "news-commentary",
+        'slug' => "investor-confidence-builds-for-green-hydrogen",
+        "display" => true
+    ],
+   
+    [
+        'title' => "Naomi Boness - Stanford",
+        'videoID' => "i7GYiQmcg3Y",
+        'date' => "September 2, 2023",
+        'category' => "ceo-podcast",
+        'slug' => "naomi-boness-stanford",
+        "display" => true
+    ],
+    [
+        'title' => "The pioneers of green hydrogen power!",
+        'videoID' => "1zw_BE6G_rw",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-pioneers-of-green-hydrogen-power",
+        "display" => true
+    ],
+    [
+        'title' => "We will provide the cleanest, cheapest hydrogen in the near future so that you can live sustainably!",
+        'videoID' => "gjT91nqbPWI",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "we-will-provide-the-cleanest-cheapest-hydrogen-in-the-near-future-so-that-you-can-live-sustainably",
+        "display" => true
+    ],
+    [
+        'title' => "Hydrogen is everywhere, both outside of our planet and inside of it.",
+        'videoID' => "MilhwOj5Ess",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "hydrogen-is-everywhere-both-outside-of-our-planet-and-inside-of-it",
+        "display" => true
+    ],
+    [
+        'title' => "The time for green hydrogen is now!",
+        'videoID' => "nCC1XaFCf_U",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-time-for-green-hydrogen-is-now",
+        "display" => true
+    ],
+  
+    [
+        'title' => "Summer 2023 has been the hottest ever recorded!",
+        'videoID' => "287dPw97T-w",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "summer-2023-has-been-the-hottest-ever-recorded",
+        "display" => true
+    ],
+    [
+        'title' => "Soon enough, we will be providing the world's cheapest hydrogen!",
+        'videoID' => "9HweYPtjE_Y",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "soon-enough-we-will-be-providing-the-world-cheapest-hydrogen",
+        "display" => true
+    ],
+    [
+        'title' => "Technologies that were once impossible are now in reach",
+        'videoID' => "v4w_NqwFjqQ",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "technologies-that-were-once-impossible-are-now-in-reach",
+        "display" => true
+    ],
+    [
+        'title' => "Why California is So Pro Electric Vehicles",
+        'videoID' => "TdAA4y--eeA",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "why-california-is-so-pro-electric-vehicles",
+        "display" => true
+    ],
+    [
+        'title' => "Warm Thanksgiving wishes, from NewHydrogen.",
+        'videoID' => "7yerul-11l0",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "warm-thanksgiving-wishes-from-newhydrogen",
+        "display" => true
+    ],
+    [
+        'title' => "Down the drain it goes...",
+        'videoID' => "_WFS59Xx2Uo",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "down-the-drain-it-goes",
+        "display" => true
+    ],
+    [
+        'title' => "We're saying cheers to the newest technological innovations!",
+        'videoID' => "SNljgvaLLhc",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "we-are-saying-cheers-to-the-newest-technological-innovations",
+        "display" => true
+    ],
+    [
+        'title' => "This renewable energy source is becoming more and more popular, year after year.",
+        'videoID' => "Q-zmtIhCtlk",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "this-renewable-energy-source-is-becoming-more-and-more-popular-year-after-year",
+        "display" => true
+    ],
+    [
+        'title' => "Yes, solar and wind provide energy, but not as efficiently as hydrogen!",
+        'videoID' => "mXT2Dy3b6Ck",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "yes-solar-and-wind-provide-energy-but-not-as-efficiently-as-hydrogen",
+        "display" => true
+    ],
+    [
+        'title' => "Cheap green hydrogen is the energy of the future!",
+        'videoID' => "ycMHaVr90kI",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "cheap-green-hydrogen-is-the-energy-of-the-future",
+        "display" => true
+    ],
+    [
+        'title' => "Let’s not wait ten years for green hydrogen to be affordable.",
+        'videoID' => "BqWTYxX3Vnw",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "lets-not-wait-ten-years-for-green-hydrogen-to-be-affordable",
+        "display" => true
+    ],
+    [
+        'title' => "A Catalyst for Decarbonization In An All-Electric World",
+        'videoID' => "0z8ZyOKYzMU",
+        'date' => "August 4, 2023",
+        'category' => "news-commentary",
+        'slug' => "a-catalyst-for-decarbonization-in-an-all-electric-world",
+        "display" => true
+    ],
+    [
+        'title' => "Impacts of green Hydrogen",
+        'videoID' => "DZswRQKwR4A",
+        'date' => "June 24, 2023",
+        'category' => "news-commentary",
+        'slug' => "impacts-of-green-hydrogen",
+        "display" => true
+    ],
+    [
+        'title' => "Ivor John",
+        'videoID' => "eGWvZwTK9i4",
+        'date' => "July 18, 2023",
+        'category' => "ceo-podcast",
+        'slug' => "ivor-john",
+        "display" => true
+    ],
+];
+
+
+return $videos;
