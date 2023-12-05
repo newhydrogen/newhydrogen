@@ -569,6 +569,14 @@ $videos = [
         "display" => false
     ],
     [
+        'title' => "Dr. Pradeep Haldar University of South Florida",
+        'videoID' => "YpCaGT-V1FA",
+        'date' => "December 5, 2023",
+        'category' => "news-commentary",
+        'slug' => "dr-pradeep-haldar-university-of-south-florida",
+        "display" => true
+    ],
+    [
         'title' => "Hydrogen Reservoir Discovered!",
         'videoID' => "HY9f8esnfio",
         'date' => "November 4, 2023",
@@ -616,14 +624,7 @@ $videos = [
         'slug' => "johannes-schwank-university-of-michigan",
         "display" => true
     ],
-    [
-        'title' => "Dr. Pradeep Haldar University of South Florida",
-        'videoID' => "YpCaGT-V1FA",
-        'date' => "September 28, 2023",
-        'category' => "ceo-podcast",
-        'slug' => "dr-pradeep-haldar-university-of-south-florida",
-        "display" => false
-    ],
+ 
   
     [
         'title' => "Eugene Holubnyak - Hydrogen Energy Research Center",

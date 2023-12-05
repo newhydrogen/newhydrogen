@@ -3,6 +3,47 @@
 
 $news = [
     [
+        'id' => "48",
+        'title' => "NewHydrogen CEO Steve Hill Discusses Green Hydrogen Potential with Sustainability and Clean Energy Expert",
+        'date' => "December 5, 2023",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of a breakthrough technology that uses clean energy and water to produce the world’s cheapest green hydrogen, today announced that in a recent podcast the Company’s CEO Steve Hill spoke with Dr. Pradeep Haldar, director of sustainable business practices at the Patel College of Global Sustainability, University of South Florida […]
+        ",
+        'description' => [
+            [
+                "<p><strong>Dr. Pradeep Haldar emphasized the need for significant cost reductions in green hydrogen production, aligning with the Department of Energy's Hydrogen Shot program  </strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (December 5, 2023) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of a breakthrough technology that uses clean energy and water to produce the world’s cheapest green hydrogen, today announced that in a recent podcast the Company’s CEO Steve Hill spoke with Dr. Pradeep Haldar, director of sustainable business practices at the Patel College of Global Sustainability, University of South Florida.   </p>"
+            ],
+            [
+                "<p>During the conversation, Dr. Haldar discussed the need for incentives to encourage industries to adopt greener hydrogen production methods and the potential role of the federal government in the adoption of hydrogen. He emphasized the need for significant cost reductions in hydrogen production, aligning with the Department of Energy's Hydrogen Shot program, and identified scaling up as a significant challenge, emphasizing the need for large-scale manufacturing and investment in 'giga factories'.  </p>"
+            ],
+            [
+                "<p>On the use of hydrogen in the renewable energy sector. Dr. Pradeep said, “Hydrogen is already used in various sectors and could potentially replace fossil energy in the future. While the cost of production remains high, it has the potential to contribute to reducing greenhouse gas emissions by at least 10-15% by 2030.”   </p>"
+            ],
+            [
+                "<p>On the potential of hydrogen as an energy source and the federal government's role in its adoption, Dr. Pradeep said, “There is a need for the cost of hydrogen to decrease significantly, aiming for a dollar per kilogram production cost within the next decade. This goal aligns with the Department of Energy's Hydrogen Shot program.” He compared this initiative to similar efforts in solar and battery energy storage, noting that these technologies have become commoditized due to significant cost reductions. Dr. Pradeep also identified scaling up as a significant challenge for fledgling technologies, citing the need for large-scale manufacturing and investment in 'giga factories'.  </p>"
+            ],
+            [
+                "<p>Both agreed on the importance of building public awareness about the benefits of technologies. They also discussed the need for new technologies and expressed optimism about the future of their industry.   </p>"
+            ],
+            [
+                "<p>Mr. Hill concluded, “In addition to the further advancements in cheap green hydrogen production technology that will help complete the transition to sustainable hydrogen economy, we acknowledge the importance of building public awareness about the benefits of technologies.”   </p>"
+            ],
+            [
+                "<p>Dr. Haldar is an adjunct professor at the Patel College of Global Sustainability and a Fulbright Scholar. He currently serves as president at Halovation, a management and technology consulting organization for energy, semiconductor and materials technology based in the Tampa Bay Area. He previously served in multiple roles in industry and academia that included: president and chief operating officer of Dais Corporation, a publicly traded company providing nanotechnology products for energy, air and water industries located in Tampa Bay, Florida; vice president of Entrepreneurship, Innovation and Clean Energy Programs at the Colleges of Nanoscale Science and Engineering (CNSE) at State University of New York, University at Albany, New York (now SUNY Poly); chief operating and technical officer of the U.S. Photovoltaic Manufacturing Consortium (USPVMC) in partnership with SEMATECH; professor and head of NanoEconomics and NanoEngineering at CNSE; and director of the Energy and Environmental Technology Applications Center at CNSE. Prior to joining SUNY, Dr. Haldar founded and served as general manager and director of technology, of rapidly growing SuperPower (now part of Furukawa), a start-up and new spin-out subsidiary of Intermagnetics (now Philips). Dr. Haldar received his Ph.D. from Northeastern University and an MBA from Rensselaer Polytechnic Institute. </p>"
+            ],
+            [
+                "<p>Watch the full discussion on the NewHydrogen Podcast featuring Dr. Noufal at <a href=\"https://newhydrogen.com/single-video.php?id=YpCaGT-V1FA\" target=\"_blank\">https://newhydrogen.com/single-video.php?id=YpCaGT-V1FA</a> </p>"
+            ],
+            [
+                "<p>For more information about NewHydrogen, please visit <a href=\"https://newhydrogen.com/\">https://newhydrogen.com/</a></p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "47",
         'title' => "NewHydrogen CEO Steve Hill Discusses Advancements in Sustainable Hydrogen Catalysts with Hampton University Energy Expert ",
         'date' => "November 21, 2023",
