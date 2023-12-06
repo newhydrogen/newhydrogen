@@ -31,7 +31,7 @@
         flex-direction: column;
         align-items: center;
         max-width: 250px;
-        padding: 15px;
+        padding: 12px;
         padding-top: 9px;
         border-radius: 6px;
 
@@ -1764,7 +1764,7 @@
         ul li::before {
             content: "\25FC";
             position: absolute;
-            color: #4fe653;
+            color: #000;
             margin-left: -30px;
         }
 
@@ -4939,17 +4939,21 @@
         padding: 105px 0;
 
         .ucsd-heading-wrap {
-
-            display: flex;
-            gap: 164px;
-            max-width: 900px;
+            max-width: 650px;
             margin: auto;
             padding-left: 20px;
             padding-right: 20px;
         }
 
         h4 {
-            color: #EFEFEF;
+            color: #FFF;
+            text-align: center;
+            font-family: Manrope;
+            font-size: 70px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 96px;
+            margin-bottom: 84px;
         }
 
         p {

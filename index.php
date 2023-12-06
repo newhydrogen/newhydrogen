@@ -67,12 +67,12 @@ include('header.php'); ?>
     </div>
     <div class="banner-teams">
         <h5>
-            Working with World Class Tech Teams at
+        Working with a World Class Tech Team at
         </h5>
         <div class="banner-teams-image">
-            <div class="ucla">
+            <!-- <div class="ucla">
                 <img src="./assets/img/ucla.png" alt="ucla">
-            </div>
+            </div> -->
             <div class="ucsb">
                 <img src="./assets/img/ucsb.png" alt="ucsb">
             </div>
@@ -91,31 +91,27 @@ include('header.php'); ?>
             </div>
             <div class="col-lg-7">
                 <div class="nn-abt-wrap">
-                    <h2 class="text-lg-center">NewHydrogen is developing a breakthrough technology that uses water and heat instead of electricity to produce the world’s cheapest green hydrogen</h2>
-                    <p>Hydrogen is the cleanest and most abundant element in the universe, and we can’t live
-                        without it. Hydrogen is the key ingredient in making fertilizers needed to grow food
-                        for the world. It is also used for transportation, refining oil and making steel, glass,
-                        pharmaceuticals and more. Unfortunately, most of the hydrogen today is made from
-                        non-renewable dirty resources such as natural gas, coal and oil.</p>
+                    <h2 class="text-lg-center">NewHydrogen is developing ThermoLoop™ - a breakthrough technology that uses water and heat instead of electricity to produce the world’s cheapest green hydrogen</h2>
+                    <p>Hydrogen is the cleanest and most abundant element in the universe, and we can’t live without it.
+Hydrogen is the key ingredient in making fertilizers needed to grow food for the world. It is also used for
+transportation, refining oil and making steel, glass, pharmaceuticals and more. Unfortunately, most of the
+hydrogen today is made from non-renewable dirty resources such as natural gas, coal and oil.</p>
                     <p>
-                        Currently, the most common method of making green hydrogen is to split water into
-                        oxygen and hydrogen with an electrolyzer using green electricity produced from solar
-                        or wind. However, green electricity is and always will be very expensive. It currently
-                        accounts for 73% of the cost of green hydrogen.
+                    Currently, the most common method of making green hydrogen is to split water into oxygen and hydrogen
+with an electrolyzer using green electricity produced from solar or wind. However, green electricity is and
+always will be very expensive. It currently accounts for 73% of the cost of green hydrogen.
                     </p>
                     <p>
-                        In most power plants, heat is generated first to run a steam turbine to produce
-                        electricity. Therefore, by using heat directly we can skip the expensive process of
-                        making electricity, and fundamentally lower the cost of green hydrogen. Inexpensive
-                        heat can be obtained from concentrated solar, geothermal, nuclear reactors and
-                        industrial waste heat. Working with a team of world-class chemical and materials
-                        engineers, we are developing a novel low-cost thermochemical process to split water
-                        using heat, instead of electricity.
+                    In most power plants, heat is generated first to run a steam turbine to produce electricity. Therefore, by
+using heat directly we can skip the expensive process of making electricity, and fundamentally lower the
+cost of green hydrogen. Inexpensive heat can be obtained from concentrated solar, geothermal, nuclear
+reactors and industrial waste heat. Working with a team of world-class chemical and materials engineers,
+we are developing a novel low-cost thermochemical process to split water using heat, instead of
+electricity.
                     </p>
                     <p>
-                        Our mission is to help produce unlimited quantities of the world’s cheapest green
-                        hydrogen, and usher in the green hydrogen economy that Goldman Sachs estimated to
-                        be worth $12 trillion in the near future.
+                    Our mission is to help produce unlimited quantities of the world’s cheapest green hydrogen, and usher in
+the green hydrogen economy that Goldman Sachs estimated to be worth $12 trillion in the near future.
                     </p>
                     <a href="breakthrough-tech.php" class="theme-btn">Learn More</a>
                 </div>
@@ -174,15 +170,12 @@ include('header.php'); ?>
                         cleanest and most
                         abundant element in the universe,
                         and we can’t live without it.</h3>
-                    <p>Hydrogen is the key ingredient in
-                        making fertilizers needed to grow
-                        food for the world. It is also used for
-                        transportation, refining oil and making
-                        steel, glass, pharmaceuticals and
-                        more. Unfortunately, most of the
-                        hydrogen today is made from
-                        non-renewable dirty resources such as
-                        natural gas, coal and oil.
+                    <p>Hydrogen is the key ingredient in making fertilizers needed to
+                       grow food for the world. It is also used for transportation,
+                       refining oil and making steel, glass, pharmaceuticals and
+                       more. Unfortunately, most of the hydrogen today is made from
+                       non-renewable dirty resources such as natural gas, coal and
+                       oil.
                     </p>
                 </div>
             </div>

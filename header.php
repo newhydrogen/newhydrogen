@@ -164,9 +164,9 @@
                     <li class="nav-item">
                         <a class="nav-link <?php active('breakthrough-tech'); ?>" href="/breakthrough-tech">Breakthrough Tech</a>
                     </li>
-                    <li class="nav-item">
+                    <!-- <li class="nav-item">
                         <a class="nav-link <?php active('electrolyzer-tech'); ?>" href="/electrolyzer-tech">Electrolyzer Tech</a>
-                    </li>
+                    </li> -->
                     <li class="nav-item">
                         <a class="nav-link <?php active('applications'); ?>" href="/applications">Applications</a>
                     </li>

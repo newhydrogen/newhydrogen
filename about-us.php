@@ -42,9 +42,7 @@ include('header.php'); ?>
                     <br>
                     <p>
                         Working with a team of world-class chemical and materials engineers, we are developing a novel
-                        low-cost thermochemical process to split water using heat, instead of electricity. Additionally,
-                        we are developing innovative technologies to lower the cost of electrolyzers for the current
-                        market.
+                        low-cost thermochemical process to split water using heat, instead of electricity.
                     </p>
                     <br>
                     <p>
@@ -67,30 +65,7 @@ include('header.php'); ?>
             <div class="about-item">
                 <div class="about-item-basic">
                     <div class="about-item-face">
-                        <img src="./assets/img/david-lee.png" alt="david-lee">
-                    </div>
-                    <h6>Dr. David Lee</h6>
-                    <span>Chairman of the Board & President</span>
-                </div>
-                <div class="about-item-detail">
-                    <p>
-                        David Lee, founder of NewHydrogen, has over 30 years of engineering, marketing, sales, and
-                        corporate management experience in the areas of military and consumer communication systems,
-                        automotive electronics, software development and consulting. He has held senior management
-                        positions in a number of technology companies over the course of his career including Chief
-                        Operating Officer for Applied Reasoning, Inc., an Internet software development company; Vice
-                        President and General Manager of RF-Link Technology, Inc., a wireless technology company;
-                        Program Manager at TRW Transportation Electronics, and Systems Engineer at TRW Space and
-                        Defense. Dr. Lee holds a Ph.D. in Electrical Engineering from Purdue University, a Master of
-                        Science in Electrical Engineering from the University of Michigan Ann Arbor, and a Bachelor of
-                        Science in Electrical Engineering from the University of Texas at Austin.
-                    </p>
-                </div>
-            </div>
-            <div class="about-item">
-                <div class="about-item-basic">
-                    <div class="about-item-face">
-                        <img src="./assets/img/steve-hill.png" alt="steve-hill">
+                    <img src="./assets/img/steve-hill.png" alt="steve-hill">
                     </div>
                     <h6>Steve Hill</h6>
                     <span>Chief Executive Officer</span>
@@ -108,6 +83,29 @@ include('header.php'); ?>
                         of Business Administration degree from IE Business School, a Bachelor of Science in Technology
                         Management degree from Utah Valley University and an Associate of Science in Aviation Science
                         degree from Utah Valley University.
+                    </p>
+                </div>
+            </div>
+            <div class="about-item">
+                <div class="about-item-basic">
+                    <div class="about-item-face">
+                    <img src="./assets/img/david-lee.png" alt="david-lee">
+                    </div>
+                    <h6>Dr. David Lee</h6>
+                    <span>Chairman of the Board & President </span>
+                </div>
+                <div class="about-item-detail">
+                    <p>
+                        David Lee, founder of NewHydrogen, has over 30 years of engineering, marketing, sales, and
+                        corporate management experience in the areas of military and consumer communication systems,
+                        automotive electronics, software development and consulting. He has held senior management
+                        positions in a number of technology companies over the course of his career including Chief
+                        Operating Officer for Applied Reasoning, Inc., an Internet software development company; Vice
+                        President and General Manager of RF-Link Technology, Inc., a wireless technology company;
+                        Program Manager at TRW Transportation Electronics, and Systems Engineer at TRW Space and
+                        Defense. Dr. Lee holds a Ph.D. in Electrical Engineering from Purdue University, a Master of
+                        Science in Electrical Engineering from the University of Michigan Ann Arbor, and a Bachelor of
+                        Science in Electrical Engineering from the University of Texas at Austin.
                     </p>
                 </div>
             </div>
@@ -186,7 +184,7 @@ include('header.php'); ?>
                             <h5>Research Scientist</h5>
                         </div>
                     </div>
-                    <div class="divider"></div>
+                    <!-- <div class="divider"></div>
                     <div class="col-md-4">
                         <div class="about-box mx-md-auto">
                             <div class="about-box-face">
@@ -206,7 +204,7 @@ include('header.php'); ?>
                             <span>UCLA</span>
                             <h5>Research Scientist</h5>
                         </div>
-                    </div>
+                    </div> -->
                 </div>
             </div>
             <!-- <div class="about-item">
