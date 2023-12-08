@@ -1,6 +1,102 @@
 <?php
 $videos = [
     [
+        'title' => "Take a guess as to when the first zero-emission vehicle was created",
+        'videoID' => "LTub7TEH2Pg",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "take-a-guess-as-to-when-the-first-zero-emission-vehicle-was-created",
+        "display" => true
+    ],
+    [
+        'title' => "What to do with wastewater?",
+        'videoID' => "MuPu0A8nMIA",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "what-to-do-with-wastewater",
+        "display" => true
+    ],
+    [
+        'title' => "Why Toyota won't give up on hydrogen fuel cells",
+        'videoID' => "9aYbq2aEelI",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "why-toyota-wont-give-up-on-hydrogen-fuel-cells",
+        "display" => true
+    ],
+    [
+        'title' => "A closer look at energy on a global scale",
+        'videoID' => "o615-PeLET0",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "a-closer-look-at-energy-on-a-global-scale",
+        "display" => true
+    ],
+    [
+        'title' => "The greatest tool for decarbonization is coming now!",
+        'videoID' => "ZwL3phtN4hA",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-greatest-tool-for-decarbonization-is-coming-now",
+        "display" => true
+    ],
+    [
+        'title' => "Taller than the Statue of Liberty!",
+        'videoID' => "u4W1WBqlWDM",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "taller-than-the-statue-of-liberty",
+        "display" => true
+    ],
+    [
+        'title' => "The Expert Opinion on Hydrogen Combustion",
+        'videoID' => "9CqiCLyVhy8",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-expert-opinion-on-hydrogen-combustion",
+        "display" => true
+    ],
+    [
+        'title' => "The Power Possible in a Bottle of Water",
+        'videoID' => "vYpU8y3xkxA",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-power-possible-in-a-bottle-of-water",
+        "display" => true
+    ],
+    [
+        'title' => "The future of cars is coming: this is what's driving it!",
+        'videoID' => "S3U4Gt0jwRs",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-future-of-cars-is-coming-this-is-what-driving-it",
+        "display" => true
+    ],
+    [
+        'title' => "What is ammonia actually used for? Hint- it's a lot!",
+        'videoID' => "P93p9YkQ_-E",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "what-is-ammonia-actually-used-for",
+        "display" => true
+    ],
+    [
+        'title' => "What can you do with $12 TRILLION in pennies?",
+        'videoID' => "F6Seknou9Vs",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "what-can-you-do-with-12-trillion-in-pennies",
+        "display" => true
+    ],
+    [
+        'title' => "Did you know we've had zero-emission vehicles since the 90's?",
+        'videoID' => "zv-GNaBJvUg",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "did-you-know-we-had-zero-emission-vehicles-since-the-90",
+        "display" => true
+    ],
+    [
         'title' => "It’s time to stop focusing on yesterday’s technology and start innovating for tomorrow.",
         'videoID' => "KZQoy1kXV3M",
         'date' => "",

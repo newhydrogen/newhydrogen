@@ -146,7 +146,7 @@ include('header.php'); ?>
                 <div class="about-head-uni">
                     <img src="./assets/img/ucla-about-image.jpg" alt="ucla">
                 </div>
-                <h4>World Class <br> Research Teams</h4>
+                <h4>World Class <br> Research Team</h4>
                 <div class="about-head-uni">
                     <img src="./assets/img/ucsb-about-image.jpg" alt="ucsb">
                 </div>
