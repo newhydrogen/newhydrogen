@@ -144,7 +144,7 @@ include('header.php'); ?>
         <div class="about-wrap">
             <div class="about-head">
                 <div class="about-head-uni">
-                    <img src="./assets/img/ucla-about-image.jpg" alt="ucla">
+                    <img src="./assets/img/ucla-about-image.png" alt="ucla">
                 </div>
                 <h4>World Class <br> Research Team</h4>
                 <div class="about-head-uni">
