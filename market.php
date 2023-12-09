@@ -67,10 +67,12 @@ include('header.php'); ?>
         </div>
         <div class="marketC__paragraph">
             <p>
-                Unfortunately, hydrogen does not exist in its pure form on Earth and must be extracted from sources that
-                contain hydrogen, such as hydrocarbons (hydrogen + carbon) and water (hydrogen + oxygen). Nearly all the
-                hydrogen today is made from hydrocarbons like coal, oil, and natural gas, which are dirty and limited
-                resources. Water, on the other hand, is an infinite and renewable worldwide resource.
+            Unfortunately, hydrogen does not exist in its pure form on Earth and
+            must be extracted from sources that contain hydrogen, such as
+            hydrocarbons (hydrogen + carbon) and water (hydrogen + oxygen).
+            Nearly all the hydrogen today is made from hydrocarbons like coal, oil,
+            and natural gas, which are dirty and limited resources. Water, on the
+            other hand, is an infinite and renewable worldwide resource.
             </p>
         </div>
     </div>
@@ -80,17 +82,21 @@ include('header.php'); ?>
     <div class="container">
         <div class="dSectionMarket__wrap">
             <p>
-                Accordingly to Grandview Research, hydrogen is a $155 billion market today and nearly all of it is made
-                from natural gas. Goldman Sachs projected that hydrogen will be a $12 trillion market in the future if
-                it can be made green by using renewable resources such as sun, wind and water.
+            Accordingly to Grandview Research, hydrogen is a $155 billion market
+            today and nearly all of it is made from natural gas. Goldman Sachs
+            projected that hydrogen will be a $12 trillion market in the future if it can
+            be made green by using renewable resources such as sun, wind and
+            water.
             </p>
             <br>
             <p>
-                Green hydrogen is crucial in meeting the greenhouse gas emission goals described in United Nation’s
-                Paris Agreement. Solar, wind and batteries alone simply cannot be relied upon to decarbonize industries,
-                such as aviation, maritime, steel, cement, fertilizers, oil refining and pharmaceuticals. The expected
-                global drive towards “net-zero emission” by 2050 will create tremendous demand for green hydrogen for
-                decades to come.
+            Green hydrogen is crucial in meeting the greenhouse gas emission goals
+            described in United Nation’s Paris Agreement. Solar, wind and batteries
+            alone simply cannot be relied upon to decarbonize industries, such as
+            aviation, maritime, steel, cement, fertilizers, oil refining and
+            pharmaceuticals. The expected global drive towards “net-zero emission”
+            by 2050 will create tremendous demand for green hydrogen for decades
+            to come.
             </p>
         </div>
         <div class="dSectionMarket__callouts">
@@ -176,8 +182,8 @@ include('header.php'); ?>
     <div class="container">
         <p>To Meet
             This
-            Demand <br> NewHydrogen is Developing a Disruptive
-            Technology to Produce <br>
+            Demand <br> NewHydrogen is Developing a Breakthrough
+            Technology <br>to Produce 
             <span>the World’s
             Cheapest
             Hydrogen</span> </p>

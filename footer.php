@@ -35,7 +35,7 @@ if ($domain === 'localhost' || $domain === '127.0.0.1') {
             <div class="footer-nav">
                 <a href="/market">Market</a>
                 <a href="/breakthrough-tech">Breakthrough Tech</a>
-                <a href="/electrolyzer-tech">Electrolyzer Tech</a>
+                <!-- <a href="/electrolyzer-tech">Electrolyzer Tech</a> -->
                 <a href="/applications">Applications</a>
                 <a href="/news">Newsroom</a>
                 <a href="/videos">Videos</a>

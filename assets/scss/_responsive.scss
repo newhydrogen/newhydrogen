@@ -1418,8 +1418,6 @@
     }
 
     .footer-nav {
-        gap: 23px;
-        margin-bottom: 42px;
         padding: 0 30px;
 
         a {
@@ -2908,5 +2906,12 @@
     }
     .listmain-nob{
         margin-bottom: 0;
+    }
+    .ucsb-team-heading h4{
+        font-size: 40px !important;
+        margin-bottom: 65px;
+    }
+    .pb-electro h4 span{
+        font-size: 18px !important;
     }
 }
