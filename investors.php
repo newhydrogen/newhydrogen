@@ -33,7 +33,7 @@ include('header.php'); ?>
    
         <div class="container">
             <div class="invester-wwwct">
-                <div class="row align-items-center">
+                <div class="row">
                     <div class="col-lg-7">
                         <div class="text_div">
                             <p>
@@ -71,9 +71,9 @@ include('header.php'); ?>
                         <div class="image_div text-lg-end">
                             <img src="./assets/img/investors-ucsb.png" alt="ucsb">
                         </div>
-                        <div class="image_div text-lg-end">
+                        <!-- <div class="image_div text-lg-end">
                             <img src="./assets/img/investors-ucla.png" alt="ucla">
-                        </div>
+                        </div> -->
 
                     </div>
                 </div>
