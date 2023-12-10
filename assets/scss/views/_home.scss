@@ -2822,7 +2822,9 @@
         .about-head {
             display: flex;
             align-items: center;
-            justify-content: space-between;
+            // justify-content: space-between;
+            gap: 50px;
+            justify-content: center;
             margin-bottom: 86px;
             padding-bottom: 83px;
             border-bottom: 1px solid #fff;
@@ -2832,7 +2834,7 @@
             }
 
             h4 {
-                text-align: center;
+                text-align: left;
                 color: #EFEFEF;
                 font-size: 25px;
 

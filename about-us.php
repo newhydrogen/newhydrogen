@@ -65,6 +65,29 @@ include('header.php'); ?>
             <div class="about-item">
                 <div class="about-item-basic">
                     <div class="about-item-face">
+                    <img src="./assets/img/david-lee.png" alt="david-lee">
+                    </div>
+                    <h6>Dr. David Lee</h6>
+                    <span>Chairman of the Board & President </span>
+                </div>
+                <div class="about-item-detail">
+                    <p>
+                        David Lee, founder of NewHydrogen, has over 30 years of engineering, marketing, sales, and
+                        corporate management experience in the areas of military and consumer communication systems,
+                        automotive electronics, software development and consulting. He has held senior management
+                        positions in a number of technology companies over the course of his career including Chief
+                        Operating Officer for Applied Reasoning, Inc., an Internet software development company; Vice
+                        President and General Manager of RF-Link Technology, Inc., a wireless technology company;
+                        Program Manager at TRW Transportation Electronics, and Systems Engineer at TRW Space and
+                        Defense. Dr. Lee holds a Ph.D. in Electrical Engineering from Purdue University, a Master of
+                        Science in Electrical Engineering from the University of Michigan Ann Arbor, and a Bachelor of
+                        Science in Electrical Engineering from the University of Texas at Austin.
+                    </p>
+                </div>
+            </div>
+            <div class="about-item">
+                <div class="about-item-basic">
+                    <div class="about-item-face">
                     <img src="./assets/img/steve-hill.png" alt="steve-hill">
                     </div>
                     <h6>Steve Hill</h6>
@@ -86,29 +109,7 @@ include('header.php'); ?>
                     </p>
                 </div>
             </div>
-            <div class="about-item">
-                <div class="about-item-basic">
-                    <div class="about-item-face">
-                    <img src="./assets/img/david-lee.png" alt="david-lee">
-                    </div>
-                    <h6>Dr. David Lee</h6>
-                    <span>Chairman of the Board & President </span>
-                </div>
-                <div class="about-item-detail">
-                    <p>
-                        David Lee, founder of NewHydrogen, has over 30 years of engineering, marketing, sales, and
-                        corporate management experience in the areas of military and consumer communication systems,
-                        automotive electronics, software development and consulting. He has held senior management
-                        positions in a number of technology companies over the course of his career including Chief
-                        Operating Officer for Applied Reasoning, Inc., an Internet software development company; Vice
-                        President and General Manager of RF-Link Technology, Inc., a wireless technology company;
-                        Program Manager at TRW Transportation Electronics, and Systems Engineer at TRW Space and
-                        Defense. Dr. Lee holds a Ph.D. in Electrical Engineering from Purdue University, a Master of
-                        Science in Electrical Engineering from the University of Michigan Ann Arbor, and a Bachelor of
-                        Science in Electrical Engineering from the University of Texas at Austin.
-                    </p>
-                </div>
-            </div>
+           
          
             <div class="about-item">
                 <div class="about-item-basic">
@@ -143,9 +144,9 @@ include('header.php'); ?>
     <div class="container">
         <div class="about-wrap">
             <div class="about-head">
-                <div class="about-head-uni">
+                <!-- <div class="about-head-uni">
                     <img src="./assets/img/ucla-about-image.png" alt="ucla">
-                </div>
+                </div> -->
                 <h4>World Class <br> Research Team</h4>
                 <div class="about-head-uni">
                     <img src="./assets/img/ucsb-about-image.jpg" alt="ucsb">
