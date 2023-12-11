@@ -66,7 +66,7 @@ include('header.php'); ?>
                     </div>
                     <div class="col-lg-5">
                         <div class="investor-wWCT ms-lg-auto">
-                            Working With World Class Teams At
+                            Working With World Class Team At
                         </div>
                         <div class="image_div text-lg-end">
                             <img src="./assets/img/investors-ucsb.png" alt="ucsb">

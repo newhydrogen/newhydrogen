@@ -79,20 +79,28 @@
 
     <!-- Meta Pixel Code -->
     <script>
-    !function(f,b,e,v,n,t,s)
-    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
-    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
-    n.queue=[];t=b.createElement(e);t.async=!0;
-    t.src=v;s=b.getElementsByTagName(e)[0];
-    s.parentNode.insertBefore(t,s)}(window, document,'script',
-    'https://connect.facebook.net/en_US/fbevents.js');
-    fbq('init', '1435998830509717');
-    fbq('track', 'PageView');
+        ! function(f, b, e, v, n, t, s) {
+            if (f.fbq) return;
+            n = f.fbq = function() {
+                n.callMethod ?
+                    n.callMethod.apply(n, arguments) : n.queue.push(arguments)
+            };
+            if (!f._fbq) f._fbq = n;
+            n.push = n;
+            n.loaded = !0;
+            n.version = '2.0';
+            n.queue = [];
+            t = b.createElement(e);
+            t.async = !0;
+            t.src = v;
+            s = b.getElementsByTagName(e)[0];
+            s.parentNode.insertBefore(t, s)
+        }(window, document, 'script',
+            'https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '1435998830509717');
+        fbq('track', 'PageView');
     </script>
-    <noscript><img height="1" width="1" style="display:none"
-    src="https://www.facebook.com/tr?id=1435998830509717&ev=PageView&noscript=1"
-    /></noscript>
+    <noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1435998830509717&ev=PageView&noscript=1" /></noscript>
     <!-- End Meta Pixel Code -->
 </head>
 
@@ -111,101 +119,104 @@
         }
     }
     ?>
-    <div class="invest-bar">
-        <div class="container">
-            <div class="invest-bar-content">
-                <div class="invest-bar-text">
-                    <div class="invest-bar-text-wrap">
-                        <p>Stock Symbol: NEWH</p>
-                        <a href="/investors">
-                            Learn more
-                        </a>
+    <!-- Hedaer -->
+    <header class="header-top">
+        <div class="invest-bar">
+            <div class="container">
+                <div class="invest-bar-content">
+                    <div class="invest-bar-text">
+                        <div class="invest-bar-text-wrap">
+                            <p>Stock Symbol: NEWH</p>
+                            <a href="/investors">
+                                Learn more
+                            </a>
+                        </div>
+                    </div>
+                    <div class="tSocial d-none d-lg-flex">
+                        <a href="https://www.facebook.com/NewHydrogen/" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-square"></i></a>
+                        <a href="https://www.instagram.com/newhydrogen/" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i></a>
+                        <a href="https://www.youtube.com/@NewHydrogenEnergy" target="_blank" rel="noopener noreferrer"><i class="fab fa-youtube"></i></a>
                     </div>
                 </div>
-                <div class="tSocial d-none d-lg-flex">
-                    <a href="https://www.facebook.com/NewHydrogen/" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-square"></i></a>
-                    <a href="https://www.instagram.com/newhydrogen/" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i></a>
-                    <a href="https://www.youtube.com/@NewHydrogenEnergy" target="_blank" rel="noopener noreferrer"><i class="fab fa-youtube"></i></a>
-                </div>
             </div>
         </div>
-    </div>
-    <!-- Hedaer -->
-    <nav class="navbar navbar-expand-lg navbar-dark">
-        <div class="container">
-            <a class="navbar-brand" href="/">
-                <?php
-                $page_name = basename($_SERVER['PHP_SELF']);
-                if ($page_name == "investors.php" || $page_name == "applications.php") {
-                ?>
-                    <img src="<?php echo  $full_url; ?>/assets/img/logo-light.png" class="the-header-logo" alt="logo">
-                <?php } else { ?>
-                    <img src="<?php echo  $full_url; ?>/assets/img/logo-dark.png" class=" the-header-logo" alt="logo">
-                    <img src="<?php echo  $full_url; ?>/assets/img/logo-light.png" class="d-lg-none d-none the-header-logo" alt="logo">
-                <?php } ?>
-            </a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 
-                <svg width="25" height="18" viewBox="0 0 25 18" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M1 1H23.9921" stroke="#091113" stroke-width="2" stroke-linecap="round" />
-                    <path d="M1 8.5H23.9921" stroke="#091113" stroke-width="2" stroke-linecap="round" />
-                    <path d="M7.70602 16.5H23.9921" stroke="#091113" stroke-width="2" stroke-linecap="round" />
-                </svg>
+        <nav class="navbar navbar-expand-lg navbar-dark">
+            <div class="container">
+                <a class="navbar-brand" href="/">
+                    <?php
+                    $page_name = basename($_SERVER['PHP_SELF']);
+                    if ($page_name == "investors.php" || $page_name == "applications.php") {
+                    ?>
+                        <img src="<?php echo  $full_url; ?>/assets/img/logo-light.png" class="the-header-logo" alt="logo">
+                    <?php } else { ?>
+                        <img src="<?php echo  $full_url; ?>/assets/img/logo-dark.png" class=" the-header-logo" alt="logo">
+                        <img src="<?php echo  $full_url; ?>/assets/img/logo-light.png" class="d-lg-none d-none the-header-logo" alt="logo">
+                    <?php } ?>
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 
-            </button>
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-                    <li class="nav-item d-lg-none">
-                        <a class="nav-link <?php active('/'); ?>" href="/">Home</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link <?php active('market'); ?>" href="/market">Market</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link <?php active('breakthrough-tech'); ?>" href="/breakthrough-tech">Breakthrough Tech</a>
-                    </li>
-                    <!-- <li class="nav-item">
+                    <svg width="25" height="18" viewBox="0 0 25 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M1 1H23.9921" stroke="#091113" stroke-width="2" stroke-linecap="round" />
+                        <path d="M1 8.5H23.9921" stroke="#091113" stroke-width="2" stroke-linecap="round" />
+                        <path d="M7.70602 16.5H23.9921" stroke="#091113" stroke-width="2" stroke-linecap="round" />
+                    </svg>
+
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                        <li class="nav-item d-lg-none">
+                            <a class="nav-link <?php active('/'); ?>" href="/">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link <?php active('market'); ?>" href="/market">Market</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link <?php active('breakthrough-tech'); ?>" href="/breakthrough-tech">Breakthrough Tech</a>
+                        </li>
+                        <!-- <li class="nav-item">
                         <a class="nav-link <?php active('electrolyzer-tech'); ?>" href="/electrolyzer-tech">Electrolyzer Tech</a>
                     </li> -->
-                    <li class="nav-item">
-                        <a class="nav-link <?php active('applications'); ?>" href="/applications">Applications</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link <?php active('news'); ?>" href="/news">Newsroom</a>
-                    </li>
+                        <li class="nav-item">
+                            <a class="nav-link <?php active('applications'); ?>" href="/applications">Applications</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link <?php active('news'); ?>" href="/news">Newsroom</a>
+                        </li>
 
 
 
-                    <li class="nav-item d-lg-none">
-                        <a class="nav-link <?php active('videos'); ?>" href="/videos">Videos</a>
-                    </li>
-                    <li class="nav-item d-lg-none">
-                        <a class="nav-link <?php active('investors'); ?>" href="/investors">Investors</a>
-                    </li>
-                    <li class="nav-item d-lg-none">
-                        <a class="nav-link <?php active('about-us'); ?>" href="/about-us">About</a>
-                    </li>
+                        <li class="nav-item d-lg-none">
+                            <a class="nav-link <?php active('videos'); ?>" href="/videos">Videos</a>
+                        </li>
+                        <li class="nav-item d-lg-none">
+                            <a class="nav-link <?php active('investors'); ?>" href="/investors">Investors</a>
+                        </li>
+                        <li class="nav-item d-lg-none">
+                            <a class="nav-link <?php active('about-us'); ?>" href="/about-us">About</a>
+                        </li>
 
-                    <li class="nav-item d-lg-none">
-                        <a class="nav-link <?php active('contact-us'); ?>" href="/contact-us">Contact</a>
-                    </li>
-                </ul>
+                        <li class="nav-item d-lg-none">
+                            <a class="nav-link <?php active('contact-us'); ?>" href="/contact-us">Contact</a>
+                        </li>
+                    </ul>
 
-                <ul class="navbar-nav d-none d-lg-flex rightNav">
-                    <li class="nav-item">
-                        <a class="nav-link <?php active('videos'); ?>" href="/videos">Videos</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link <?php active('investors'); ?>" href="/investors">Investors</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link <?php active('about-us'); ?>" href="/about-us">About</a>
-                    </li>
+                    <ul class="navbar-nav d-none d-lg-flex rightNav">
+                        <li class="nav-item">
+                            <a class="nav-link <?php active('videos'); ?>" href="/videos">Videos</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link <?php active('investors'); ?>" href="/investors">Investors</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link <?php active('about-us'); ?>" href="/about-us">About</a>
+                        </li>
 
-                    <li class="nav-item">
-                        <a class="nav-link <?php active('contact-us'); ?>" href="/contact-us">Contact</a>
-                    </li>
-                </ul>
+                        <li class="nav-item">
+                            <a class="nav-link <?php active('contact-us'); ?>" href="/contact-us">Contact</a>
+                        </li>
+                    </ul>
+                </div>
             </div>
-        </div>
-    </nav>
+        </nav>
+    </header>
