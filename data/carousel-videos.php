@@ -1,6 +1,14 @@
 <?php
 $videos = [
     [
+        'title' => "The Rise of Hydrogen in Heavy Transportation",
+        'videoID' => "K9io-BTYPII",
+        'date' => "December 12, 2023",
+        'category' => "news-commentary",
+        'slug' => "the-rise-of-hydrogen-in-heavy-transportation",
+        "display" => true
+    ],
+    [
         'title' => "Dr. Mohamed F Sanad Noufal Hampton University",
         'videoID' => "at3pL6ooXCo",
         'date' => "November 21, 2023",
@@ -30,14 +38,6 @@ $videos = [
         'date' => "October 9, 2023",
         'category' => "ceo-podcast",
         'slug' => "johannes-schwank-university-of-michigan",
-        "display" => true
-    ],
-    [
-        'title' => "Dr. Chengzhang Wan - UCLA",
-        'videoID' => "ugybxCsUKa8",
-        'date' => "October 24, 2023",
-        'category' => "ceo-podcast",
-        'slug' => "dr-chengzhang-wan-ucla",
         "display" => true
     ]
 ];
