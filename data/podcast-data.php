@@ -665,6 +665,14 @@ $videos = [
         "display" => false
     ],
     [
+        'title' => "The Rise of Hydrogen in Heavy Transportation",
+        'videoID' => "K9io-BTYPII",
+        'date' => "December 12, 2023",
+        'category' => "news-commentary",
+        'slug' => "the-rise-of-hydrogen-in-heavy-transportation",
+        "display" => true
+    ],
+    [
         'title' => "Dr. Pradeep Haldar University of South Florida",
         'videoID' => "YpCaGT-V1FA",
         'date' => "December 5, 2023",

@@ -1,10 +1,24 @@
+.header-top {
+    position: sticky;
+    top: 0;
+    z-index: 99999;
+    background-color: #fff;
+    transition: 0.5s ease all;
+    &.scrolled{
+        box-shadow: 0 0.5rem 1rem rgba(0,0,0,.15);
+    }
+}
+.nav_darkk{
+    .header-top, .navbar {
+        background-color: #000;
+    }
+}
+
 .invest-bar {
     // background: #0AE02D;
     background: url("../img/invest-bar-bg.png") no-repeat center / cover;
     padding: 0 20px;
-    position: sticky;
-    top: 0;
-    z-index: 99990;
+
 
     &-text {
         display: flex;
@@ -54,7 +68,8 @@
         transform: translateY(-50%);
         display: flex;
         gap: 18px;
-        a{
+
+        a {
             color: #000;
             font-size: 20px;
         }
