@@ -43,7 +43,7 @@ include('header.php'); ?>
                         cost of green hydrogen.
                     </p>
                     <br>
-                    <p>By using heat directly we can skip the expensive process of making electricity, and
+                    <p>By using heat directly, we can skip the expensive process of making electricity, and
                         fundamentally lower the cost of green hydrogen. Inexpensive heat can be obtained from
                         concentrated solar, geothermal, nuclear reactors and industrial waste heat for use in our novel low-cost thermochemical water splitting process. </p>
                     <br>
