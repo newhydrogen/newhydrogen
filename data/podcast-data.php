@@ -9,6 +9,30 @@ $videos = [
         "display" => false
     ],
     [
+        'title' => "As carbon-reducing policies take hold worldwide",
+        'videoID' => "I5VcyEtreC0",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "as-carbon-reducing-policies-take-hold-worldwide",
+        "display" => true
+    ],
+    [
+        'title' => "The rainbow of possibilities for the world's most abundant element cannot be overstated.",
+        'videoID' => "3FIVoLs2eIg",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-rainbow-of-possibilities-for-the-world-most-abundant-element-cannot-be-overstated",
+        "display" => true
+    ],
+    [
+        'title' => "This is the Future of Long-Distance Travel",
+        'videoID' => "832z-7VmcmY",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "this-is-the-future-of-long-distance-travel",
+        "display" => true
+    ],
+    [
         'title' => "Take a guess as to when the first zero-emission vehicle was created",
         'videoID' => "LTub7TEH2Pg",
         'date' => "",

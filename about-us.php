@@ -25,7 +25,7 @@ include('header.php'); ?>
         <div class="d-flex-aboutmarket">
             <div class="col-lg-6">
                 <div class="marketC__content">
-                    <p>NewHydrogen is developing ThermoLoop<sup>TM</sup> a breakthrough technology that uses water and heat instead of electricity to
+                    <p>NewHydrogen is developing ThermoLoop<sup>TM</sup> - a breakthrough technology that uses water and heat instead of electricity to
                         produce the world’s cheapest green hydrogen. </p>
                     <br>
                     <p>
