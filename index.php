@@ -105,8 +105,8 @@ always will be very expensive. It currently accounts for 73% of the cost of gree
                     In most power plants, heat is generated first to run a steam turbine to produce electricity. Therefore, by
 using heat directly we can skip the expensive process of making electricity, and fundamentally lower the
 cost of green hydrogen. Inexpensive heat can be obtained from concentrated solar, geothermal, nuclear
-reactors and industrial waste heat. Working with a team of world-class chemical and materials engineers,
-we are developing a novel low-cost thermochemical process to split water using heat, instead of
+reactors and industrial waste heat. Working with a team of world-class chemical and materials engineers at UC
+Santa Barbara (UCSB), we are developing a novel low-cost thermochemical process to split water using heat, instead of
 electricity.
                     </p>
                     <p>

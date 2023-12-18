@@ -1,6 +1,14 @@
 <?php
 $videos = [
     [
+        'title' => "Dr. William Eckenhoff - Rhodes College",
+        'videoID' => "6S06yhKlDjc",
+        'date' => "December 16, 2023",
+        'category' => "ceo-podcast",
+        'slug' => "dr-william-eckenhoff-rhodes-college",
+        "display" => false
+    ],
+    [
         'title' => "Take a guess as to when the first zero-emission vehicle was created",
         'videoID' => "LTub7TEH2Pg",
         'date' => "",

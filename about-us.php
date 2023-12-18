@@ -25,8 +25,16 @@ include('header.php'); ?>
         <div class="d-flex-aboutmarket">
             <div class="col-lg-6">
                 <div class="marketC__content">
-                    <p>NewHydrogen is developing a breakthrough technology that uses water and heat instead of electricity to
+                    <p>NewHydrogen is developing ThermoLoop<sup>TM</sup> a breakthrough technology that uses water and heat instead of electricity to
                         produce the world’s cheapest green hydrogen. </p>
+                    <br>
+                    <p>
+                    Hydrogen is the cleanest and most abundant element in the universe, and we can’t live without it. Hydrogen is the key ingredient in making fertilizers needed to grow food for the world. It is also used for transportation, refining oil and making steel, glass, pharmaceuticals and more. 
+                    </p>
+                    <br>
+                    <p>
+                    Nearly all the hydrogen today is made from hydrocarbons like coal, oil, and natural gas, which are dirty and limited resources. Water, on the other hand, is an infinite and renewable worldwide resource. 
+                    </p>
                     <br>
                     <p>
                         Currently, the most common method of making green hydrogen is to split water into oxygen and
@@ -35,18 +43,12 @@ include('header.php'); ?>
                         cost of green hydrogen.
                     </p>
                     <br>
-                    <p>In most power plants, heat is generated first to run a steam turbine to produce electricity.
-                        Therefore, by using heat directly we can skip the expensive process of making electricity, and
+                    <p>By using heat directly, we can skip the expensive process of making electricity, and
                         fundamentally lower the cost of green hydrogen. Inexpensive heat can be obtained from
-                        concentrated solar, geothermal, nuclear reactors and industrial waste heat. </p>
+                        concentrated solar, geothermal, nuclear reactors and industrial waste heat for use in our novel low-cost thermochemical water splitting process. </p>
                     <br>
                     <p>
-                        Working with a team of world-class chemical and materials engineers, we are developing a novel
-                        low-cost thermochemical process to split water using heat, instead of electricity.
-                    </p>
-                    <br>
-                    <p>
-                        Our mission is to help produce unlimited quantities of the world’s cheapest green hydrogen, and
+                    Working with a world class research team at UC Santa Barbara, our goal is to help 
                         usher in the green hydrogen economy that Goldman Sachs estimated to have a future market value
                         of $12 trillion.
                     </p>
