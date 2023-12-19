@@ -3,6 +3,49 @@
 
 $news = [
     [
+        'id' => "49",
+        'title' => "NewHydrogen CEO Steve Hill Discusses Hydrogen's Role in Future Fuels with Georgia Tech Energy and Environment Expert",
+        'date' => "December 19, 2023",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of a breakthrough technology that uses clean energy and water to produce the world’s cheapest green hydrogen, today announced that in a recent podcast the Company’s CEO Steve Hill spoke with Dr. Valerie M. Thomas, Georgia Tech Andersen Interface Chair of Natural Systems in the H. Milton Stewart School of Industrial and Systems Engineering and in the School of Public Policy regarding the challenges and opportunities in evaluating the carbon footprint of different fuels. Their discussion provided a comprehensive overview of the current state and future possibilities of hydrogen as a pivotal component in the global transition to sustainable energy",
+        'description' => [
+            [
+                "<p><strong>Dr. Valerie Thomas explores hydrogen's potential to decarbonize the global energy system </strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (December 19, 2023) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of a breakthrough technology that uses clean energy and water to produce the world’s cheapest green hydrogen, today announced that in a recent podcast the Company’s CEO Steve Hill spoke with Dr. Valerie M. Thomas, Georgia Tech Andersen Interface Chair of Natural Systems in the H. Milton Stewart School of Industrial and Systems Engineering and in the School of Public Policy regarding the challenges and opportunities in evaluating the carbon footprint of different fuels. Their discussion provided a comprehensive overview of the current state and future possibilities of hydrogen as a pivotal component in the global transition to sustainable energy. </p>"
+            ],
+            [
+                "<p>The podcast began with an exploration of the complexities surrounding the assessment of carbon footprints, especially in the context of low carbon fuel standards. Dr. Thomas said, “The conclusion of our recent National Academies study was not about which fuel was better, but rather about the ability to evaluate different methods and the need for further research. Rather, I would like to emphasize the need for robust evaluation methods and further research in the field.” </p>"
+            ],
+            [
+                "<p>Both Mr. Hill and Dr. Thomas underscored the inevitability of a diverse fuel landscape. Dr. Thomas said, “A mix of fuels would likely be necessary, with the need for change and acceleration towards lower carbon emitting fuels recognizing the critical role of advancements in technology and policy frameworks.” </p>"
+            ],
+            [
+                "<p>A significant highlight of the conversation was Dr. Thomas's insights into the potential of using ammonia as a hydrogen carrier for transportation. She emphasized its feasibility for energy storage and shared details about an ongoing demonstration at the Port of Savannah, where ammonia is being explored as a low carbon fuel. The demonstration aims to showcase the practical applications of ammonia in maritime transportation.  </p>"
+            ],
+            [
+                "<p>Mr. Hill expressed enthusiasm about these groundbreaking developments and delved into the process of deconstructing ammonia back into hydrogen. Dr. Thomas added, “In this specific application, the ammonia would be combusted directly as a fuel, eliminating the need to separate hydrogen.” Both concurred on the efficiency and practicality of ammonia as an energy carrier, given its existing infrastructure and higher energy value.   </p>"
+            ],
+            [
+                "<p>Mr. Hill concluded, “In addition to the further advancements in cheap green hydrogen production technology that will help complete the transition to sustainable hydrogen economy, we acknowledge the importance of building public awareness about the benefits of technologies.”   </p>"
+            ],
+            [
+                "<p>The podcast concluded with a forward-looking discussion on the current state and future trajectory of renewable energy, with a particular focus on hydrogen as a key fuel. Mr. Hill and Dr. Thomas painted an optimistic picture of a future where sustainable and innovative energy solutions play a central role in addressing global energy challenges.  </p>"
+            ],
+            [
+                "<p>Dr. Thomas received a PhD in physics from Cornell University. She is the Georgia Tech Anderson-Interface Chair of Natural Systems in the H. Milton Stewart School of Industrial and Systems Engineering, and in the School of Public Policy. Her research is in environmental lifecycle analysis, energy systems analysis, industrial ecology, and sustainability. She chaired the U.S. National Academies’ Committee on Current Methods for Life Cycle Analyses of Low Carbon Transportation Fuels in the United States and has been a member of the US EPA Science Advisory Board. Dr. Thomas is listed as a Google Scholar at  <a href=\"https://scholar.google.com/citations?user=KgIcD3cAAAAJ&hl=en\" target=\"_blank\">https://scholar.google.com/citations?user=KgIcD3cAAAAJ&hl=en</a></p>"
+            ],
+            [
+                "<p>The full podcast episode featuring Dr. Valerie Thomas is available on <a href=\"https://newhydrogen.com/single-video.php?id=DcKvQOTSxYs\" target=\"_blank\">https://newhydrogen.com/single-video.php?id=DcKvQOTSxYs</a> </p>"
+            ],
+            [
+                "<p>For more information about NewHydrogen, please visit <a href=\"https://newhydrogen.com/\">https://newhydrogen.com/</a></p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "48",
         'title' => "NewHydrogen CEO Steve Hill Discusses Green Hydrogen Potential with Sustainability and Clean Energy Expert",
         'date' => "December 5, 2023",
