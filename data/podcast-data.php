@@ -633,6 +633,14 @@ $videos = [
         "display" => true
     ],
     [
+        'title' => "Valerie Thomas Georgia Tech",
+        'videoID' => "DcKvQOTSxYs",
+        'date' => "December 19, 2023",
+        'category' => "ceo-podcast",
+        'slug' => "valerie-thomas-georgia-tech",
+        "display" => true
+    ],
+    [
         'title' => "Andrew Thomas - Cleveland State University",
         'videoID' => "IrSEdtDAgsM",
         'date' => "November 21, 2023",
@@ -688,14 +696,7 @@ $videos = [
         'slug' => "dr-ben-emerson-georgia-tech",
         "display" => false
     ],
-    [
-        'title' => "Valerie Thomas Georgia Tech",
-        'videoID' => "DcKvQOTSxYs",
-        'date' => "October 16, 2023",
-        'category' => "ceo-podcast",
-        'slug' => "valerie-thomas-georgia-tech",
-        "display" => false
-    ],
+   
     [
         'title' => "The Rise of Hydrogen in Heavy Transportation",
         'videoID' => "K9io-BTYPII",
