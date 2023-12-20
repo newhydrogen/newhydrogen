@@ -633,6 +633,14 @@ $videos = [
         "display" => true
     ],
     [
+        'title' => "Dr David Bleckham - University of Colorado",
+        'videoID' => "CB1yNPBd4xM",
+        'date' => "December 20, 2023",
+        'category' => "ceo-podcast",
+        'slug' => "dr-david-bleckham-university-of-colorado",
+        "display" => false
+    ],
+    [
         'title' => "Valerie Thomas Georgia Tech",
         'videoID' => "DcKvQOTSxYs",
         'date' => "December 19, 2023",
