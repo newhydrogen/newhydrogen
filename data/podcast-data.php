@@ -633,11 +633,11 @@ $videos = [
         "display" => true
     ],
     [
-        'title' => "Dr David Bleckham - University of Colorado",
-        'videoID' => "CB1yNPBd4xM",
+        'title' => "David Bleckham - Cal State University Los Angeles",
+        'videoID' => "0YbvntRQ7IM",
         'date' => "December 20, 2023",
         'category' => "ceo-podcast",
-        'slug' => "dr-david-bleckham-university-of-colorado",
+        'slug' => "david-bleckham-cal-state-university-los-angeles",
         "display" => false
     ],
     [
