@@ -9,6 +9,54 @@ $videos = [
         "display" => false
     ],
     [
+        'title' => "What is the most versatile element?",
+        'videoID' => "00A36FrtBJo",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "what-is-the-most-versatile-element",
+        "display" => true
+    ],
+    [
+        'title' => "The foundation of the future",
+        'videoID' => "mV7PrOnSpFM",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-foundation-of-the-future",
+        "display" => true
+    ],
+    [
+        'title' => "With only steam as an emission",
+        'videoID' => "f1fkDcuUaAE",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "with-only-steam-as-an-emission",
+        "display" => true
+    ],
+    [
+        'title' => "The future of renewable energy is coming. Will you be a part of it?",
+        'videoID' => "jN6HWj3HDgg",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-future-of-renewable-energy-is-coming-Will-you-be-a-part-of-it",
+        "display" => true
+    ],
+    [
+        'title' => "More than just the fuel of the future",
+        'videoID' => "YyHxSZEUe9U",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "more-than-just-the-fuel-of-the-future",
+        "display" => true
+    ],
+    [
+        'title' => "clean, green hydrogen has the potential to power the world well beyond just electricity.",
+        'videoID' => "S4V_ngRY5Oo",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "clean-green-hydrogen-has-the-potential-to-power-the-world-well-beyond-just-electricity",
+        "display" => true
+    ],
+    [
         'title' => "As carbon-reducing policies take hold worldwide",
         'videoID' => "I5VcyEtreC0",
         'date' => "",
@@ -638,7 +686,7 @@ $videos = [
         'date' => "December 20, 2023",
         'category' => "ceo-podcast",
         'slug' => "david-bleckham-cal-state-university-los-angeles",
-        "display" => false
+        "display" => true
     ],
     [
         'title' => "Valerie Thomas Georgia Tech",
