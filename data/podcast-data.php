@@ -1,6 +1,14 @@
 <?php
 $videos = [
     [
+        'title' => "Dr. Faisal Alamgir - Georgia Institute of Technology",
+        'videoID' => "-nL_QZpENBk",
+        'date' => "January 2, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "dr-faisal-alamgir-georgia-institute-of-technology",
+        "display" => true
+    ],
+    [
         'title' => "Dr. William Eckenhoff - Rhodes College",
         'videoID' => "6S06yhKlDjc",
         'date' => "December 16, 2023",
@@ -680,6 +688,7 @@ $videos = [
         'slug' => "the-best-way-to-go-about-changing-the-world-is-to-make-it-a-better-and-safer-place-to-live",
         "display" => true
     ],
+  
     [
         'title' => "David Bleckham - Cal State University Los Angeles",
         'videoID' => "0YbvntRQ7IM",
@@ -712,14 +721,7 @@ $videos = [
         'slug' => "dr-mohamed-f-sanad-noufal-hampton-university",
         "display" => true
     ],
-    [
-        'title' => "Dr. Faisal Alamgir - Georgia Institute of Technology",
-        'videoID' => "-nL_QZpENBk",
-        'date' => "November 15, 2023",
-        'category' => "ceo-podcast",
-        'slug' => "dr-faisal-alamgir-georgia-institute-of-technology",
-        "display" => false
-    ],
+    
     [
         'title' => "Alan Lloyd",
         'videoID' => "eNg6arNE7S0",

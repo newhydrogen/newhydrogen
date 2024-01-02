@@ -1,6 +1,14 @@
 <?php
 $videos = [
     [
+        'title' => "Dr. Faisal Alamgir - Georgia Institute of Technology",
+        'videoID' => "-nL_QZpENBk",
+        'date' => "January 2, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "dr-faisal-alamgir-georgia-institute-of-technology",
+        "display" => true
+    ],
+    [
         'title' => "The Rise of Hydrogen in Heavy Transportation",
         'videoID' => "K9io-BTYPII",
         'date' => "December 12, 2023",
@@ -30,14 +38,6 @@ $videos = [
         'date' => "November 4, 2023",
         'category' => "news-commentary",
         'slug' => "hydrogen-reservoir-discovered",
-        "display" => true
-    ],
-    [
-        'title' => "Johannes Schwank - University of Michigan",
-        'videoID' => "ywfKFPCIdHk",
-        'date' => "October 9, 2023",
-        'category' => "ceo-podcast",
-        'slug' => "johannes-schwank-university-of-michigan",
         "display" => true
     ]
 ];

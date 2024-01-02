@@ -3,6 +3,46 @@
 
 $news = [
     [
+        'id' => "50",
+        'title' => "NewHydrogen CEO Steve Hill Discusses Novel Catalysts for Green Hydrogen Production with Georgia Tech Expert",
+        'date' => "January 2, 2024",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced that in a recent podcast the Company’s CEO Steve Hill spoke with Dr. Faisal Alamgir, professor of the School of Materials, Science and Engineering at the Georgia Institute of Technology regarding the potential use of graphene in catalysts for green hydrogen production and fuel cell technologies",
+        'description' => [
+            [
+                "<p><strong>Dr. Faisal Alamgir discusses the role of graphene in catalysts for green hydrogen production and fuel cell technologies  </strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (January 2, 2024) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced that in a recent podcast the Company’s CEO Steve Hill spoke with Dr. Faisal Alamgir, professor of the School of Materials, Science and Engineering at the Georgia Institute of Technology regarding the potential use of graphene in catalysts for green hydrogen production and fuel cell technologies. </p>"
+            ],
+            [
+                "<p>The conversation explored the properties and research of graphene, its potential in catalysis, and the challenges in controlling the size, shape, and active sites of particles in catalysts. Dr. Alamgir emphasized the importance of material selection and the supporting structure in catalytic activity.  </p>"
+            ],
+            [
+                "<p>Dr. Alamgir explained the concept of catalysis, highlighting the differences between homogeneous and heterogeneous catalysis. He emphasized his work in heterogeneous catalysis, particularly focusing on catalyst-reactant interactions and the design of catalysts that can be adjusted once in application. Dr. Alamgir said, “There are limitations on heterogeneous catalysts, such as the permanence of catalyst properties once applied and the activity of the catalyst happening on the surface of the catalyst. Therefore, researchers face challenges in balancing catalyst activity and stability. Graphene is a two-dimensional allotrope of carbon, found in graphite, and has a unique honeycomb structure. The research focuses on the interaction between the layers of graphene and the covalent bonds within it.”   </p>"
+            ],
+            [
+                "<p>Dr. Alamgir elaborated on the unique properties of graphene and its potential for use in catalysis. Dr. Alamgir said, “The material's atomic structure allows for the manipulation of metal catalysts grown on top of it, which could lead to the formation of a 2D metal. This metal, with its covalent bonds to the graphene and lateral metallic bonds with neighboring atoms, creates an isotropic material with distinct properties in different directions. It is possible to use this material to create a high surface area catalyst.”  </p>"
+            ],
+            [
+                "<p>On the key findings of the research activities, Dr. Alamgir said, “We studied the influence of metal properties on catalytic activity and the energy cost of a reaction, then concluded that selecting materials and the role of supporting structure are highly important.  We also explored the use of graphene as a diffusion barrier, maintaining the architecture and properties of the catalyst resulting in successful implementation of graphene in catalysts, demonstrating its potential for preserving the catalyst's activity and stability.”  </p>"
+            ],
+            [
+                "<p>Dr. Alamgir earned his B.S. degree in Physics and Mathematics (magna cum laude) from the Coe College and his Ph.D. in Materials Science and Engineering from Lehigh University. He held a postdoctoral position jointly between Brookhaven National Laboratory (BNL) and Hunter College of the City University of New York (CUNY) and a simultaneous position as adjunct professor at the CUNY Hunter College, where he taught physics courses. Dr. Alamgir is currently a Professor in the School of Materials Science and Engineering (MSE) and an initiative Lead in the Institute of Materials at the Georgia Institute of Technology (GT). As a faculty at MSE, he focuses on teaching the atomic-scale fundamentals of structure-property relations and on materials characterization. As the Initiative Lead for the Institute of Material at GT, he focuses on developing next generation capabilities in materials characterization. Prior to joining GT, he spent 1.5 years at the National Institute of Standards and Technology as a Visiting Scientist to help develop experimental capabilities at their hard x-ray spectroscopy beamline at Brookhaven National Laboratory.  </p>"
+            ],
+            [
+                "<p>Dr. Alamgir is listed as a Google Scholar at  <a href=\"https://scholar.google.com/citations?user=CT721oIAAAAJ&hl=en\" target=\"_blank\">https://scholar.google.com/citations?user=CT721oIAAAAJ&hl=en</a></p>"
+            ],
+            [
+                "<p>Watch the full discussion on the NewHydrogen Podcast featuring Dr. Alamgir at <a href=\"https://newhydrogen.com/videos/ceo-podcast/dr-faisal-alamgir-georgia-institute-of-technology\" target=\"_blank\">https://newhydrogen.com/videos/ceo-podcast/dr-faisal-alamgir-georgia-institute-of-technology</a> </p>"
+            ],
+            [
+                "<p>For more information about NewHydrogen, please visit <a href=\"https://newhydrogen.com/\">https://newhydrogen.com/</a></p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "49",
         'title' => "NewHydrogen CEO Steve Hill Discusses Hydrogen's Role in Future Fuels with Georgia Tech Energy and Environment Expert",
         'date' => "December 19, 2023",
