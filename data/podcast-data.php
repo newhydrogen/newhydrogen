@@ -2,7 +2,7 @@
 $videos = [
     [
         'title' => "Dr. Faisal Alamgir - Georgia Institute of Technology",
-        'videoID' => "-nL_QZpENBk",
+        'videoID' => "PL-JaIzTV0U",
         'date' => "January 2, 2024",
         'category' => "ceo-podcast",
         'slug' => "dr-faisal-alamgir-georgia-institute-of-technology",
@@ -15,6 +15,62 @@ $videos = [
         'category' => "ceo-podcast",
         'slug' => "dr-william-eckenhoff-rhodes-college",
         "display" => false
+    ],
+    [
+        'title' => "Clean, green hydrogen is no longer just a vision of the future- it's becoming tangible, today.",
+        'videoID' => "Xd7JUQhqGOY",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "clean-green-hydrogen-is-no-longer-just-a-vision-of-the-future-it's-becoming-tangible-today",
+        "display" => true
+    ],
+    [
+        'title' => "Taking science out of the beakers",
+        'videoID' => "VTDk_hDC8cc",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "taking-science-out-of-the-beakers",
+        "display" => true
+    ],
+    [
+        'title' => "Breaking Barriers for Cost-Effective Renewable Energy!",
+        'videoID' => "wx8fqmZ1UFA",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "breaking-barriers-for-cost-effective-renewable-energy",
+        "display" => true
+    ],
+    [
+        'title' => "To find out how you can be a part of the renewable revolution",
+        'videoID' => "LZIdfHQ-v6o",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "to-find-out-how-you-can-be-a-part-of-the-renewable-revolution",
+        "display" => true
+    ],
+    [
+        'title' => "The spark of progress toward a healthier energy-ecosystem is here!",
+        'videoID' => "WxYz-_LracA",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-spark-of-progress-toward-a-healthier-energy-ecosystem-is-here",
+        "display" => true
+    ],
+    [
+        'title' => "The Faster Way to Take Flight",
+        'videoID' => "L1N2yju7LFE",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-faster-way-to-take-flight",
+        "display" => true
+    ],
+    [
+        'title' => "From the Ocean to the Stars!",
+        'videoID' => "wqZz8Cc6r-g",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "from-the-ocean-to-the-stars",
+        "display" => true
     ],
     [
         'title' => "What is the most versatile element?",
