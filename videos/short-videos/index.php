@@ -70,7 +70,7 @@ if ($showAllVideo == 1) {
                     echo "<div class=\"col\">
                 <div class=\"short-item\">
                     <div class=\"short-item-thumbnail\">
-                    <a href=\"short-videos/{$string}\"></a>
+                    <a href=\"{$video['slug']}\"></a>
                         <svg xmlns='http://www.w3.org/2000/svg' width='64' height='64' viewBox='0 0 64 64' fill='none'>
                         <circle cx='32' cy='32' r='32' fill='#4fe653'/>
                         <path d='M38 32.5L27 39L27 26L38 32.5Z' fill='black'/>
