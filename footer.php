@@ -44,7 +44,7 @@ if ($domain === 'localhost' || $domain === '127.0.0.1') {
                 <a href="/contact-us">Contact</a>
             </div>
 
-            <p>© 2023 NewHydrogen. Inc.</p>
+            <p>© 2024 NewHydrogen. Inc.</p>
         </div>
     </div>
 </footer>
