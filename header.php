@@ -148,7 +148,7 @@
                 <a class="navbar-brand" href="/">
                     <?php
                     $page_name = basename($_SERVER['PHP_SELF']);
-                    if ($page_name == "investors.php" || $page_name == "applications.php") {
+                    if ($page_name == "applications.php") {
                     ?>
                         <img src="<?php echo  $full_url; ?>/assets/img/logo-light.png" class="the-header-logo" alt="logo">
                     <?php } else { ?>
