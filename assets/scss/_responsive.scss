@@ -91,15 +91,46 @@
     .bannerText h1 {
         font-size: 52px;
     }
+
+    .navbar .navbar-nav .nav-link {
+        padding: 5px 14px;
+    }
+
+    .invest__text h3 {
+        margin-left: 0;
+    }
 }
 
 @media (max-width:1200px) {
     .navbar .navbar-nav {
-        gap: 18px;
+        gap: 12px;
 
         &.rightNav {
-            margin-left: 18px;
+            margin-left: 12px;
         }
+    }
+
+    .navbar .navbar-nav .nav-link {
+        font-size: 13px;
+        border-width: 1px;
+        padding: 5px 10px;
+    }
+
+    .investBanner h1 {
+        font-size: 42px;
+    }
+
+    .invest__heading {
+        max-width: 760px;
+
+        h2 {
+            font-size: 44px;
+        }
+    }
+
+    .invest__text h3 {
+        color: #000;
+        font-size: 32px;
     }
 
     .navbar .navbar-brand {
@@ -636,7 +667,7 @@
     }
 
     .navbar {
-        padding: 40px 0 10px;
+        padding: 13px 0 10px;
     }
 
     .nn-abt .theme-btn {
@@ -668,6 +699,31 @@
         max-width: 100%;
     }
 
+    .investObj1,
+    .investObj2,
+    .investObj3 {
+        display: none;
+    }
+
+    .appBanner__vidInfo {
+        display: block;
+        padding-right: 0;
+    }
+
+    .inBanner__author {
+        flex-direction: row-reverse;
+        justify-content: flex-end;
+        margin-top: 12px;
+    }
+
+    .invest__text {
+        max-width: 100%;
+        margin-bottom: 32px;
+    }
+
+    .invest__img {
+        text-align: center;
+    }
 }
 
 @media (max-width: 767px) {
@@ -823,8 +879,9 @@
         flex-direction: column;
         align-items: center;
         gap: 58px;
-        h4{
-            br{
+
+        h4 {
+            br {
                 display: none;
             }
         }
@@ -859,14 +916,17 @@
         padding-bottom: 48px;
         padding-top: 0;
     }
-    .ucsb-work.ucsanta .ucsb-work-content{
+
+    .ucsb-work.ucsanta .ucsb-work-content {
         padding-left: 0;
     }
-    .ucsanta-textbox{
-        img{
+
+    .ucsanta-textbox {
+        img {
             margin-bottom: 20px;
         }
     }
+
     .dis-therma-box {
         max-width: 254px;
         min-height: 118px;
@@ -1979,7 +2039,8 @@
 
         .pb-dis-point {
             margin-bottom: 49px;
-            &:last-of-type{
+
+            &:last-of-type {
                 margin-bottom: 0;
             }
         }
@@ -2012,7 +2073,8 @@
         max-width: 280px;
         margin-left: auto;
         margin-right: auto;
-        span{
+
+        span {
             font-size: 18px;
             line-height: 23.40px;
         }
@@ -2022,9 +2084,11 @@
         margin: auto;
         margin-bottom: 0;
     }
+
     .ucsanta-textbox img {
         margin-left: -12px;
     }
+
     .dis-therma-content {
         margin: auto;
     }
@@ -2656,6 +2720,7 @@
 
     .investBanner h5 {
         margin-bottom: 20px;
+        display: none;
     }
 
     .investBanner h1 {
@@ -2668,9 +2733,43 @@
         font-size: 15px;
         max-width: 315px;
         margin: auto;
-        margin-top: 30px;
+        margin-top: 24px;
 
-        margin-bottom: 56px;
+        margin-bottom: 24px;
+    }
+
+    .investBanner .appBanner__banner {
+        margin-top: 40px;
+    }
+
+    .inBanner__vidTitle p {
+        margin: 0;
+        text-align: left;
+    }
+
+    .appBanner__vidInfo {
+        margin-top: 8px;
+    }
+
+    .invest__heading h2 {
+        font-size: 32px;
+    }
+
+    .invest__reasons .row {
+        margin-top: 60px;
+    }
+
+    .invest__text h3 {
+        font-size: 24px;
+        margin-left: -12px;
+        padding: 5px 20px;
+    }
+
+    .invest__text p,
+    .invest__text .dot-list li {
+        font-size: 15px;
+        font-weight: 400;
+        line-height: 20px;
     }
 
     .investBanner .appBanner__banner .appBanner__newh h5 {
@@ -2904,14 +3003,21 @@
     .invest-bar-text p {
         font-size: 18px;
     }
-    .listmain-nob{
+
+    .listmain-nob {
         margin-bottom: 0;
     }
-    .ucsb-team-heading h4{
+
+    .ucsb-team-heading h4 {
         font-size: 40px !important;
         margin-bottom: 65px;
     }
-    .pb-electro h4 span{
+
+    .pb-electro h4 span {
         font-size: 18px !important;
+    }
+
+    .invest__reasons {
+        margin: 60px 0 80px;
     }
 }

@@ -106,8 +106,10 @@
 
 <body class="<?php
                 $page_name = basename($_SERVER['PHP_SELF']);
-                if ($page_name == "index.php" || $page_name == "" || $page_name == "/" || $page_name == "investors.php") {
-                ?>homeC<?php } ?><?php if ($page_name == "applications.php" || $page_name == "investors.php") { ?> nav_darkk<?php } ?>">
+                if ($page_name == "index.php" || $page_name == "" || $page_name == "/") {
+                ?>homeC<?php } ?>
+                <?php if ($page_name == "applications.php") { ?> nav_darkk<?php } ?>
+                <?php if ($page_name == "investors.php") { ?> investPage<?php } ?>">
 
     <?php
     function active($currect_page)
