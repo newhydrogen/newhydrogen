@@ -146,7 +146,7 @@ include('header.php'); ?>
                         </a>
                         <hr>
                         <h2 class="f_div_title">
-                            <object data="./assets/img/message-question.svg" type="image/svg+xml"></object>
+                            <object data="./assets/img/briefcase.svg" type="image/svg+xml"></object>
                             Transfer Agent
                         </h2>
                         <br>
