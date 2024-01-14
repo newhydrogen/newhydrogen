@@ -101,7 +101,7 @@
             gap: 50px;
         }
 
-        gap: 6px;
+        gap: 35px;
 
         // .the-header-logo{
         //     width: 290px;
@@ -121,24 +121,21 @@
             }
 
             @media (max-width:1600px) {
-                margin-left: 6px;
+                margin-left: 35px;
             }
         }
 
         .nav-link {
             font-weight: 500;
-            font-size: 15px;
+            font-size: 13px;
             line-height: 140%;
             color: #091113;
             padding: 0;
-            border: 2px solid transparent;
-            border-radius: 30px;
-            padding: 5px 18px;
+          
             &:hover,
             &:focus,
             &.active {
-                color: #091113;
-                border-radius: #0be02e;
+                color: #0be02e;
             }
         }
 

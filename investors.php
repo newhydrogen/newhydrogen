@@ -39,16 +39,8 @@ include('header.php'); ?>
 
             </div>
 
-            <div class="appBanner__vidInfo">
-                <div class="inBanner__vidTitle">
-                    <svg width="18" height="18" viewBox="0 0 18 18" fill="none" xmlns="http://www.w3.org/2000/svg">
-                        <g id="Group 64">
-                            <path id="Polygon 2" d="M17.4512 9.06004L4.55252 16.5071L4.55252 1.613L17.4512 9.06004Z" fill="#4FE653" />
-                        </g>
-                    </svg>
-
-                    <p>Put the video title here with the big length, with the small details etc.</p>
-                </div>
+            <div class="appBanner__vidInfo justify-content-end">
+               
                 <div class="inBanner__author">
                     <p>Steve Hill </p>
                     <div class="inBanner__author__img">
