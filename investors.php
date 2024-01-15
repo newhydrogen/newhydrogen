@@ -39,7 +39,7 @@ include('header.php'); ?>
 
             </div>
 
-            <div class="appBanner__vidInfo justify-content-end">
+            <!-- <div class="appBanner__vidInfo justify-content-end">
                
                 <div class="inBanner__author">
                     <p>Steve Hill </p>
@@ -47,7 +47,7 @@ include('header.php'); ?>
                         <img src="./assets/img/steve-hill.png" alt="steve hill">
                     </div>
                 </div>
-            </div>
+            </div> -->
         </div>
     </div>
 </section>
