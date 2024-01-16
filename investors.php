@@ -18,9 +18,9 @@ include('header.php'); ?>
     <div class="container">
         <h5>Investors</h5>
         <div class="investBanner-wrap">
-            <h1>NewHydrogen is a Publicly Traded Company</h1>
+            <h1>NewHydrogen Is a Publicly Traded Company</h1>
             <p>
-                Developing a Breakthrough Technology that Uses Water and Heat Instead of Electricity to Produce the World’s Cheapest Green Hydrogen
+                Developing a Breakthrough Technology that Uses Water and Heat Instead of Electricity to Produce the <span>World’s Cheapest Green Hydrogen</span>
             </p>
             <a href="https://finance.yahoo.com/quote/NEWH" target="_blank" rel="noopener noreferrer" class="theme-btn">Stock Symbol: NEWH</a>
         </div>

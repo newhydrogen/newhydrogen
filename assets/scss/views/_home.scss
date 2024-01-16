@@ -1179,6 +1179,7 @@
 .investObj1, .investObj2{
     position: absolute;
     top: -134px;
+    z-index: -1;
 }
 .investObj1{
     left: 0;
@@ -1200,8 +1201,14 @@
     margin-top: 30px;
     &-wrap{
         position: relative;
-        max-width: 700px;
+        // max-width: 700px;
         margin-inline: auto;
+        p{
+            span{
+                font-size: 10px;
+                display: block;
+            }
+        }
     }
     &__banner {
         max-width: 1136px;
@@ -1426,12 +1433,13 @@
             &::after {
                 content: '';
                 background: url("../img/heading-bg-vector.png") center no-repeat;
-                height: 30px;
+                height: 23px;
                 width: 100%;
                 position: absolute;
                 left: 0px;
                 bottom: -4px;
                 background-size: contain;
+                z-index: -1;
             }
         }
     }
