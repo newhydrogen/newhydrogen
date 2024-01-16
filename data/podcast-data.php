@@ -1,6 +1,14 @@
 <?php
 $videos = [
     [
+        'title' => "Dr. Ben Emerson Georgia Tech",
+        'videoID' => "SK6lcbTVM3g",
+        'date' => "January 16, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "dr-ben-emerson-georgia-tech",
+        "display" => true
+    ],
+    [
         'title' => "Dr. Faisal Alamgir - Georgia Institute of Technology",
         'videoID' => "PL-JaIzTV0U",
         'date' => "January 2, 2024",
@@ -858,14 +866,7 @@ $videos = [
         'slug' => "dr-kevin-huang-university-of-south-carolina",
         "display" => false
     ],
-    [
-        'title' => "Dr. Ben Emerson Georgia Tech",
-        'videoID' => "SK6lcbTVM3g",
-        'date' => "October 21, 2023",
-        'category' => "ceo-podcast",
-        'slug' => "dr-ben-emerson-georgia-tech",
-        "display" => false
-    ],
+   
    
     [
         'title' => "The Rise of Hydrogen in Heavy Transportation",

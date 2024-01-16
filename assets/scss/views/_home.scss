@@ -1359,7 +1359,7 @@
 
     h3 {
         color: #000;
-        font-size: 30px;
+        font-size: 24px;
         font-weight: 600;
         line-height: 42px;
         word-wrap: break-word;
@@ -1379,21 +1379,17 @@
     p {
         font-weight: 400;
         word-wrap: break-word;
-        margin-bottom: 24px;
-        font-size: 19px;
+        margin-bottom: 16px;
+        font-size: 15px;
     }
 
     .dot-list {
         li {
             color: black;
             font-weight: 500;
-            font-size: 19px;
-            line-height: 30px;
             word-wrap: break-word;
 
             &::before {
-                width: 6px;
-                height: 6px;
                 background-color: #000;
                 top: 12px;
             }
