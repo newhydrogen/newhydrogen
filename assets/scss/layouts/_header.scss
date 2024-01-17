@@ -1,3 +1,11 @@
+.investPage{
+    .header-top{
+        background-color: transparent;
+        &.scrolled{
+            background-color: #fff;
+        }
+    }
+}
 .header-top {
     position: sticky;
     top: 0;
@@ -123,7 +131,7 @@
             line-height: 140%;
             color: #091113;
             padding: 0;
-
+          
             &:hover,
             &:focus,
             &.active {

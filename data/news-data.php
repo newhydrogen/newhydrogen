@@ -3,6 +3,47 @@
 
 $news = [
     [
+        'id' => "51",
+        'title' => "NewHydrogen CEO Steve Hill discusses the use of hydrogen in the space and aviation industries with Georgia Tech Expert",
+        'date' => "January 16, 2024",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced that in a recent podcast the Company’s CEO Steve Hill spoke with Dr. Ben Emerson, a principal research engineer at the Ben T. Zinn Combustion Laboratory at the Georgia Institute of Technology",
+        'description' => [
+            [
+                "<p><strong>Dr. Ben Emerson describes his research focus on decarbonization at the Ben T. Zinn Combustion Laboratory  </strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (January 16, 2024) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced that in a recent podcast the Company’s CEO Steve Hill spoke with Dr. Ben Emerson, a principal research engineer at the Ben T. Zinn Combustion Laboratory at the Georgia Institute of Technology.  </p>"
+            ],
+            [
+                "<p>During the conversation, Dr. Emerson explained the concept of combustion and shared his research focus on decarbonization. They discussed the role of hydrogen in the space industry and its potential in the aviation industry, despite its challenges such as energy density and volume. They also addressed the difficulties of storing and burning hydrogen in gas turbines, acknowledging the need for careful control to avoid pollutants like oxides of nitrogen.   </p>"
+            ],
+            [
+                "<p>Dr. Emerson spoke on the role of hydrogen in the space industry, highlighting its use in rocket engines due to its high specific impulse and lightweight. He also elaborated on its adoption in the aviation industry, noting that despite its potential, there were challenges, particularly in terms of energy density and volume. Dr. Emerson said, “Hydrogen has almost four times the energy content of kerosene by weight but takes up almost four times the volume.” Despite this, he acknowledged the need to decarbonize aviation and the potential for hydrogen to play a part in this process.  </p>"
+            ],
+            [
+                "<p>Dr. Emerson and Mr. Hill discussed the challenges of using hydrogen in aviation — the difficulty of storing liquid hydrogen due to its cryogenic requirements and the need for costly cryogenic systems and cryopumps. Despite this, the promise of decarbonizing an industry that has been difficult to decarbonize was seen as a motivating factor.   </p>"
+            ],
+            [
+                "<p>On the challenges of burning hydrogen in gas turbines, Dr. Emerson said, “The difficulties include hydrogen’s high flame speed and the need for careful control to avoid the formation of pollutants like oxides of nitrogen.” The discussion ended with the acknowledgment that current methods of low nitrogen oxide combustion, which involve pre-mixing fuel and oxidizer, might not be practical in aviation or in certain geographic locations.  </p>"
+            ],
+            [
+                "<p>Mr. Hill concluded, “The aviation application has been one of the most difficult areas to decarbonize up to this point due to low density of hydrogen compared to liquid fossil fuels. Additional challenges exist in controlling some of pollutant emissions, but it is highly encouraging to hear great progress is being made on hydrogen combustion.”  </p>"
+            ],
+            [
+                "<p>Dr. Emerson received his Ph. D. in Aerospace Engineering from Georgia Tech in 2013. Since then, Dr. Emerson has worked as a Research Engineer at the Ben T. Zinn Combustion Lab at Georgia Tech. His research portfolio includes projects on combustion instabilities, alternative fuels, and combustion system R&D with a core focus and motivation of cleaner combustion. Dr. Emerson’s research primarily consists of three core competencies, which are experimental combustion system development, combustor diagnostics, and combustion theory and modeling. Ben’s combustion system development work spans a wide variety of applications, from small lab-scale burners to combustor rigs that test full-scale gas turbine combustor hardware. His combustor diagnostics work encompasses the state-of-the-art optical diagnostic techniques for reacting flow field measurements and imaging and aims to implement those techniques in both laboratory-scale and large-scale rig tests. Finally, Dr. Emerson’s combustion theory and modeling work is geared towards analysis of experimental datasets, development of reduced-order engineering tools, and the development of a suite of hydrodynamic stability analysis tools. Together, these core competencies form the pillars of Ben’s research, which facilitates the design of cleaner-burning combustion systems.  </p>"
+            ],
+            [
+                "<p>Watch the full discussion on the NewHydrogen Podcast featuring Dr. Ben Emerson at  <a href=\"https://newhydrogen.com/videos/ceo-podcast/dr-ben-emerson-georgia-tech\" target=\"_blank\">https://newhydrogen.com/videos/ceo-podcast/dr-ben-emerson-georgia-tech</a></p>"
+            ],
+
+            [
+                "<p>For more information about NewHydrogen, please visit <a href=\"https://newhydrogen.com/\">https://newhydrogen.com/</a></p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "50",
         'title' => "NewHydrogen CEO Steve Hill Discusses Novel Catalysts for Green Hydrogen Production with Georgia Tech Expert",
         'date' => "January 2, 2024",

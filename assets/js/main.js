@@ -2,7 +2,7 @@ $(function () {
     $(window).scroll(function() {    
         var scroll = $(window).scrollTop();
     
-        if (scroll >= 56) {
+        if (scroll >= 10) {
             $(".header-top").addClass("scrolled");
         } else {
             $(".header-top").removeClass("scrolled");

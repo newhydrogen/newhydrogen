@@ -1,4 +1,4 @@
-/<?php
+<?php
 $GLOBALS['title'] = "Disruptive Tech | NewHydrogen";
 $GLOBALS['desc'] = "";
 $GLOBALS['keywords'] = "";

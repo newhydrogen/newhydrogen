@@ -5,88 +5,123 @@ $GLOBALS['keywords'] = "";
 include('header.php'); ?>
 
 
-<section class="investBanner application-banner">
+<section class="investBanner ">
+    <div class="investObj1">
+        <img src="./assets/img/investor-obj1.png" alt="investor">
+    </div>
+    <div class="investObj2">
+        <img src="./assets/img/investor-obj2.png" alt="investor">
+    </div>
+    <div class="investObj3">
+        <img src="./assets/img/investor-obj3.png" alt="investor">
+    </div>
     <div class="container">
         <h5>Investors</h5>
         <div class="investBanner-wrap">
-            <h1>NewHydrogen is a Publicly Traded Company</h1>
+            <h1>NewHydrogen Is a Publicly Traded Company</h1>
             <p>
-            Developing a Breakthrough Technology that Uses Water and Heat Instead of Electricity to Produce the World’s Cheapest Green Hydrogen
+                Developing a Breakthrough Technology that Uses Water and Heat Instead of Electricity to Produce the <span>World’s Cheapest Green Hydrogen</span>
             </p>
+            <a href="https://finance.yahoo.com/quote/NEWH" target="_blank" rel="noopener noreferrer" class="theme-btn">Stock Symbol: NEWH</a>
         </div>
 
         <div class="appBanner__banner">
-            <img src="./assets/img/investor-banner.jpg" class="w-100 d-block" alt="market">
 
-            <div class="appBanner__newh">
-                <h5>Stock Symbol: <a href="https://finance.yahoo.com/quote/NEWH" target="_blank" rel="noopener noreferrer">NEWH</a></h5>
-                <!-- <div class="appBanner__newT">
-                    <p>0.0098 <span>+0.0002 (+2.0833%)</span></p>
-                    <h6>As of 12:41PM EDT. <span>Market open</span> </h6>
-                </div> -->
+            <div class="appBanner_thumbnail">
+                <a href="https://www.youtube.com/watch?v=RH8Kwkn_6Pw" class="popup-youtube">
+                    <svg xmlns='http://www.w3.org/2000/svg' width='64' height='64' viewBox='0 0 64 64' fill='none'>
+                        <circle cx='32' cy='32' r='32' fill='#4fe653' />
+                        <path d='M38 32.5L27 39L27 26L38 32.5Z' fill='black' />
+                    </svg>
+                    <!-- <img src="./assets/img/investor-banner.jpg" class="w-100 d-block" alt="market"> -->
+                    <img src="https://img.youtube.com/vi/RH8Kwkn_6Pw/maxresdefault.jpg" alt="thumbnail">
+                </a>
+
+            </div>
+
+            <!-- <div class="appBanner__vidInfo justify-content-end">
+               
+                <div class="inBanner__author">
+                    <p>Steve Hill </p>
+                    <div class="inBanner__author__img">
+                        <img src="./assets/img/steve-hill.png" alt="steve hill">
+                    </div>
+                </div>
+            </div> -->
+        </div>
+    </div>
+</section>
+
+<section class="invest__reasons">
+    <div class="container">
+        <div class="invest__heading">
+            <h2><span>3 Reasons</span> Why We Are So Excited About NewHydrogen (NEWH)</h2>
+        </div>
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="invest__text">
+                    <h3><span>1</span>The Right Technology </h3>
+                    <p>We are developing ThermoLoop™, a breakthrough technology to produce the world’s cheapest green hydrogen.</p>
+                    <ul class="dot-list">
+                        <li>It will use abundantly available water as a feedstock.
+                        </li>
+                        <li>It will use inexpensive heat rather than expensive electricity to split the water into hydrogen.</li>
+                        <li>It can potentially reduce the cost of hydrogen production by 73% by eliminating electricity used in existing electrolyzers.</li>
+                        <li>We will take advantage of a simple low-cost design.</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="invest__img">
+                    <img src="./assets/img/right-technology.jpg" alt="right">
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="invest__img">
+                    <img src="./assets/img/right-time.jpg" alt="right">
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="invest__text">
+                    <h3><span>2</span> The Right Time </h3>
+                    <p>According to Goldman Sachs, green hydrogen is a massive once in a lifetime $12 trillion market opportunity.</p>
+                    <ul class="dot-list">
+                        <li>Pound for pound, hydrogen contains 3X as much energy as natural gas or gasoline, and 200X as much energy as lithium-ion batteries.</li>
+                        <li>It can be used in fuel cells to power electric vehicles or entire cities.</li>
+                        <li>It can be used as fuel in gas turbines or internal combustion engines.</li>
+                        <li>Green hydrogen is a zero-emission clean fuel and produces only water vapor when used.</li>
+                        <li>Hydrogen is the main ingredient in fertilizers that feed our hungry world.</li>
+                    </ul>
+                </div>
+            </div>
+
+        </div>
+        <div class="row">
+
+            <div class="col-lg-6">
+                <div class="invest__text">
+                    <h3><span>3</span> The Right Team </h3>
+                    <p>Developing a breakthrough technology requires a creative research team that has extensive materials and clean energy experience. Our research team at UC Santa Barbara is a perfect fit.</p>
+                    <ul class="dot-list">
+                        <li>UCSB is ranked one of the top research universities in the world and a global leader in bioengineering, chemical and computational engineering, materials science, nanotechnology and physics.</li>
+                        <li>UCSB boasts 6 Nobel Laureates (five in sciences and engineering) and one winner of the prestigious Millennium Technology Prize.</li>
+                    </ul>
+                </div>
+            </div>
+            <div class="col-lg-6">
+                <div class="invest__img">
+                    <img src="./assets/img/right-team.jpg" alt="right">
+                </div>
             </div>
         </div>
     </div>
 </section>
 
 <section class="appC investMarket">
-   
-        <div class="container">
-            <div class="invester-wwwct">
-                <div class="row">
-                    <div class="col-lg-7">
-                        <div class="text_div">
-                            <p>
-                                NewHydrogen is developing a breakthrough technology that uses water and heat instead of electricity to
-                                produce the world’s cheapest green hydrogen. <br>
-                                <br>
-                                Currently, the most common method of making green hydrogen is to split water into oxygen and
-                                hydrogen with an electrolyzer using green electricity produced from solar or wind. However,
-                                green electricity is and always will be very expensive. It currently accounts for 73% of the
-                                cost of green hydrogen. <br>
-                                <br>
-                                In most power plants, heat is generated first to run a steam turbine to produce electricity.
-                                Therefore, by using heat directly we can skip the expensive process of making electricity,
-                                and fundamentally lower the cost of green hydrogen. Inexpensive heat can be obtained from
-                                concentrated solar, geothermal, nuclear reactors and industrial waste heat.
-                                <br>
-                                <br>
-                                Working with a team of world-class chemical and materials engineers, we are developing a
-                                novel low-cost thermochemical process to split water using heat, instead of electricity.
-                                Additionally, we are developing innovative technologies to lower the cost of electrolyzers
-                                for the current market.
-                                <br>
-                                <br>
-                                Our mission is to help produce unlimited quantities of the world’s cheapest green hydrogen,
-                                and usher in the green hydrogen economy that Goldman Sachs estimated to have a future market
-                                value of $12 trillion.
-                            </p>
-                        </div>
-
-                    </div>
-                    <div class="col-lg-5">
-                        <div class="investor-wWCT ms-lg-auto">
-                            Working With World Class Team At
-                        </div>
-                        <div class="image_div text-lg-end">
-                            <img src="./assets/img/investors-ucsb.png" alt="ucsb">
-                        </div>
-                        <!-- <div class="image_div text-lg-end">
-                            <img src="./assets/img/investors-ucla.png" alt="ucla">
-                        </div> -->
-
-                    </div>
-                </div>
-            </div>
 
 
-            <div class="ourGoalInvest">
-                <p>
-                    Our goal is to help usher in the green hydrogen economy that Goldman Sachs estimated to have a
-                    future market value of $12 trillion.
-                </p>
-            </div>
-        </div>
 
     <!--  -->
     <div class="investBggray">
@@ -94,14 +129,16 @@ include('header.php'); ?>
             <div class="row">
                 <div class="col-lg-6 ">
                     <div class="f_div">
-                        <h2>
+                        <h2 class="f_div_title">
+                            <object data="./assets/img/clipboard-text.svg" type="image/svg+xml"></object>
                             SEC Filings
                         </h2>
                         <a href="https://www.sec.gov/edgar/browse/?CIK=1371128" target="_blank">
                             See our fillings at SEC.gov
                         </a>
                         <hr>
-                        <h2>
+                        <h2 class="f_div_title">
+                            <object data="./assets/img/briefcase.svg" type="image/svg+xml"></object>
                             Transfer Agent
                         </h2>
                         <br>
@@ -122,8 +159,8 @@ include('header.php'); ?>
                 <div class="col-lg-6 ">
                     <div class="s_div">
 
-
-                        <h2>
+                        <h2 class="f_div_title">
+                            <object data="./assets/img/message-question.svg" type="image/svg+xml"></object>
                             Investor FAQ
                         </h2>
                         <div class="faqs">
@@ -206,14 +243,15 @@ include('header.php'); ?>
 
                                                 F: 212-930-9725 <br>
 
-                                                Email: dmanno@srf.law</p>
+                                                Email: dmanno@srf.law
+                                            </p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <h2 class="accordion-header" id="headingFive">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
-                                        When and how are news releases issued by the company?
+                                            When and how are news releases issued by the company?
                                         </button>
                                     </h2>
                                     <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
@@ -225,7 +263,7 @@ include('header.php'); ?>
                                 <div class="accordion-item">
                                     <h2 class="accordion-header" id="headingFive">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSeven" aria-expanded="false" aria-controls="collapseSeven">
-                                        How can I receive on-going information about NewHydrogen?
+                                            How can I receive on-going information about NewHydrogen?
                                         </button>
                                     </h2>
                                     <div id="collapseSeven" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">

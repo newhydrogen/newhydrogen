@@ -1,6 +1,14 @@
 <?php
 $videos = [
     [
+        'title' => "Dr. Ben Emerson Georgia Tech",
+        'videoID' => "SK6lcbTVM3g",
+        'date' => "January 16, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "dr-ben-emerson-georgia-tech",
+        "display" => true
+    ],
+    [
         'title' => "Dr. Faisal Alamgir - Georgia Institute of Technology",
         'videoID' => "PL-JaIzTV0U",
         'date' => "January 2, 2024",
@@ -15,6 +23,62 @@ $videos = [
         'category' => "ceo-podcast",
         'slug' => "dr-william-eckenhoff-rhodes-college",
         "display" => false
+    ],
+    [
+        'title' => "We're Going the Distance",
+        'videoID' => "L_b_Uz49xE0",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "we-are-going-the-distance",
+        "display" => true
+    ],
+    [
+        'title' => "Doing more, for less!",
+        'videoID' => "sikp8AyYzkY",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "doing-more-for-less",
+        "display" => true
+    ],
+    [
+        'title' => "The Green Light on Renewable Energy!",
+        'videoID' => "7dpkuZmNAD0",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-green-light-on-renewable-energy",
+        "display" => true
+    ],
+    [
+        'title' => "Solutions for the Long-haul!",
+        'videoID' => "l54vFjz7GS8",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "solutions-for-the-long-haul",
+        "display" => true
+    ],
+    [
+        'title' => "Going into the science....",
+        'videoID' => "x8vyQVKuUcI",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "going-into-the-science",
+        "display" => true
+    ],
+    [
+        'title' => "What is your story?",
+        'videoID' => "nlyfGlfpjkU",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "what-is-your-story",
+        "display" => true
+    ],
+    [
+        'title' => "This is what you waited for!",
+        'videoID' => "GNjen89LYR8",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "this-is-what-you-waited-for",
+        "display" => true
     ],
     [
         'title' => "Clean, green hydrogen is no longer just a vision of the future- it's becoming tangible, today.",
@@ -802,14 +866,7 @@ $videos = [
         'slug' => "dr-kevin-huang-university-of-south-carolina",
         "display" => false
     ],
-    [
-        'title' => "Dr. Ben Emerson Georgia Tech",
-        'videoID' => "SK6lcbTVM3g",
-        'date' => "October 21, 2023",
-        'category' => "ceo-podcast",
-        'slug' => "dr-ben-emerson-georgia-tech",
-        "display" => false
-    ],
+   
    
     [
         'title' => "The Rise of Hydrogen in Heavy Transportation",
