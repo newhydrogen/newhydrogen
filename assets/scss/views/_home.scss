@@ -1201,14 +1201,8 @@
     margin-top: 30px;
     &-wrap{
         position: relative;
-        // max-width: 700px;
+        max-width: 700px;
         margin-inline: auto;
-        p{
-            span{
-                font-size: 10px;
-                display: block;
-            }
-        }
     }
     &__banner {
         max-width: 1136px;
@@ -3126,7 +3120,7 @@
 
             h2 {
                 color: #101010;
-                font-size: 30px;
+                font-size: 24px;
                 font-style: normal;
                 font-weight: 600;
                 line-height: normal;
@@ -3154,7 +3148,7 @@
             h3 {
                 color: rgba(17, 36, 55, 0.99);
                 padding-left: 16px;
-                font-size: 30px;
+                font-size: 24px;
                 font-style: normal;
                 font-weight: 500;
                 line-height: 40.5px;
@@ -3165,7 +3159,6 @@
             p {
                 color: rgba(17, 36, 55, 0.70);
                 padding-left: 16px;
-                font-size: 20px;
                 font-style: normal;
                 font-weight: 400;
                 line-height: 203.758%;
@@ -3178,7 +3171,7 @@
             h2 {
                 color: #101010;
                 font-family: Manrope;
-                font-size: 30px;
+                font-size: 24px;
                 font-style: normal;
                 font-weight: 600;
                 line-height: normal;

@@ -20,7 +20,7 @@ include('header.php'); ?>
         <div class="investBanner-wrap">
             <h1>NewHydrogen Is a Publicly Traded Company</h1>
             <p>
-                Developing a Breakthrough Technology that Uses Water and Heat Instead of Electricity to Produce the <span>World’s Cheapest Green Hydrogen</span>
+                Developing a Breakthrough Technology that Uses Water and Heat Instead of Electricity to Produce the World’s Cheapest Green Hydrogen
             </p>
             <a href="https://finance.yahoo.com/quote/NEWH" target="_blank" rel="noopener noreferrer" class="theme-btn">Stock Symbol: NEWH</a>
         </div>
