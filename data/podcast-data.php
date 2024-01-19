@@ -1,6 +1,14 @@
 <?php
 $videos = [
     [
+        'title' => "Dr. Jing Gu - San Diego State University",
+        'videoID' => "OBq2MwGHSgs",
+        'date' => "January 19, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "dr-jing-su-san-diego-state-university",
+        "display" => false
+    ],
+    [
         'title' => "Dr. Ben Emerson Georgia Tech",
         'videoID' => "SK6lcbTVM3g",
         'date' => "January 16, 2024",
