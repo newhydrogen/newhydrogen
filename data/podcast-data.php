@@ -17,6 +17,14 @@ $videos = [
         "display" => true
     ],
     [
+        'title' => "Dr. Kurt Kornbluth - UC Davis",
+        'videoID' => "rK2JgNjbrko",
+        'date' => "January 13, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "dr-kurt-kornbluth-uc-davis",
+        "display" => true
+    ],
+    [
         'title' => "Dr. Faisal Alamgir - Georgia Institute of Technology",
         'videoID' => "PL-JaIzTV0U",
         'date' => "January 2, 2024",
