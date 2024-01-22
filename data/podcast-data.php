@@ -41,6 +41,118 @@ $videos = [
         "display" => false
     ],
     [
+        'title' => "The Cat is Out The Hat",
+        'videoID' => "AZTFF1-SOEw",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-cat-is-out-the-hat",
+        "display" => true
+    ],
+    [
+        'title' => "Hydrogen WILL be a major part of the green energy movement!",
+        'videoID' => "Q65KaTHICWk",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "hydrogen-wILL-be-a-major-part-of-the-green-energy-movement",
+        "display" => true
+    ],
+    [
+        'title' => "Light pollution is dark topic",
+        'videoID' => "rOkH4zkWmkA",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "light-pollution-is-dark-topic",
+        "display" => true
+    ],
+    [
+        'title' => "If you love the planet, please share!",
+        'videoID' => "_bEP2-5z20k",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "if-you-love-the-planet-please-share",
+        "display" => true
+    ],
+    [
+        'title' => "Hydrogen can reshape many industries for the better.",
+        'videoID' => "UjAHbikLlIQ",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "hydrogen-can-reshape-many-industries-for-the-better",
+        "display" => true
+    ],
+    [
+        'title' => "Did you know lowering hydrogen cost can lower the cost of producing essentials like food?",
+        'videoID' => "LI3bNGW6GWE",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "did-you-know-lowering-hydrogen-cost-can-lower-the-cost-of-producing-essentials-like-food",
+        "display" => true
+    ],
+    [
+        'title' => "High Yields, Low Prices",
+        'videoID' => "DfTlSCJh8jo",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "high-yields-low-prices",
+        "display" => true
+    ],
+    [
+        'title' => "Sky high or long-haul....",
+        'videoID' => "M-1kux_WZxg",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "sky-high-or-long-haul",
+        "display" => true
+    ],
+    [
+        'title' => "Travel with peace of mind (and wallet) ✈️",
+        'videoID' => "5Thjkn9XfpM",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "travel-with-peace-of-mind",
+        "display" => true
+    ],
+    [
+        'title' => "Rooted in Science 🌱",
+        'videoID' => "MwngX7Uul3A",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "rooted-in-science",
+        "display" => true
+    ],
+    [
+        'title' => "The Season of Sustainability",
+        'videoID' => "bavuhT3JpTA",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-season-of-sustainability",
+        "display" => true
+    ],
+    [
+        'title' => "Driving progress forward, faster than ever before! 🚗",
+        'videoID' => "0_-146E7bfw",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "driving-progress-forward-faster-than-ever-before",
+        "display" => true
+    ],
+    [
+        'title' => "In for the Long-Haul 🚛",
+        'videoID' => "kMmRRc2eOn4",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "in-for-the-long-haul",
+        "display" => true
+    ],
+    [
+        'title' => "First Place in Power 🥇",
+        'videoID' => "Ea4DMnJ5y0o",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "first-place-in-power",
+        "display" => true
+    ],
+    [
         'title' => "We're Going the Distance",
         'videoID' => "L_b_Uz49xE0",
         'date' => "",
