@@ -3,6 +3,47 @@
 
 $news = [
     [
+        'id' => "52",
+        'title' => "NewHydrogen CEO Steve Hill Provides ThermoLoop<sup>TM</sup> Update ",
+        'date' => "January 23, 2024",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today provided a progress update about its ThermoLoopTM technology currently being developed with the University of California Santa Barbara (UCSB)",
+        'description' => [
+            [
+                "<p><strong>The company reports progress in the development of its novel low-cost thermochemical process to split water to produce the world’s cheapest green hydrogen </strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (January 23, 2024) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today provided a progress update about its ThermoLoopTM technology currently being developed with the University of California Santa Barbara (UCSB).    </p>"
+            ],
+            [
+                "<p>The most common method of making green hydrogen today is to split water into oxygen and hydrogen with an electrolyzer using green electricity produced from solar or wind. However, green electricity is, and always will be very expensive. It currently accounts for 73% of the cost of green hydrogen.   </p>"
+            ],
+            [
+                "<p>Steve Hill, the Company’s CEO, said, “Cheap, widely available green hydrogen could revolutionize global energy systems and presents a $12 trillion market opportunity. At NewHydrogen, we aim to play a leading role in capturing a share of this enormous potential market by developing a whole new way to reduce the cost of green hydrogen.”  </p>"
+            ],
+            [
+                "<p>“Working with a world class research team at UCSB, we are developing ThermoLoopTM, a novel low-cost thermochemical process to split water using inexpensive heat, instead of expensive electricity,” said Mr. Hill. “Previous thermochemical approaches use extremely hard to manage temperatures such as 2,000°C, or an inefficient series of step reactions at different temperatures to split water into oxygen and hydrogen. Using heat to split water isn’t new, but our goal with ThermoLoopTM is to develop an elegant and highly efficient chemical looping redox process operating at normal industrial temperatures ranges (below 1000°C).”   </p>"
+            ],
+            [
+                "<p>Mr. Hill continued, “One step oxidizes (changes) the material to facilitate hydrogen production, the other step(s) reduce (recover) the material and produce oxygen. These steps operate in a continuous process loop that splits an incoming supply of steam (water). This type of redox chemistry is simple on paper but hard in practice. We believe the magic lies in the redox properties of certain multiphase materials we are developing. To our knowledge, this has not been done before and represents an exciting development that may enable substantial cost reduction by skipping expensive electricity. Inexpensive heat can be obtained from concentrated solar, geothermal, nuclear reactors or industrial waste heat.” </p>"
+            ],
+            [
+                "<p>Since the commencement of the Company’s research project in August 2023, the UCSB team has been pursuing novel approaches for designing new material systems and process designs for thermochemical water splitting. The team has designed and built a reactor system test stand and has generated hydrogen from water using a thermochemical reaction cycle. This test bed reactor allows the team to characterize the performance of synthesized candidate materials under varying process conditions.  </p>"
+            ],
+            [
+                "<p>The UCSB team is making use of a thermodynamic screening methodology to identify candidate materials. The initial synthesized candidates undergo focused study including identifying the mechanisms of hydrogen and oxygen generation and the changes in candidate material structures and compositions. Thermogravimetric analysis is used to quantify the materials’ reduction and oxidation capabilities. X-ray diffraction analysis provides further understanding of the material changes during reduction and oxidation.  </p>"
+            ],
+            [
+                "<p>Mr. Hill concluded, “We are very pleased with the UCSB team’s progress and their innovative approach of developing a thermodynamic model for exploring solid-state phase change materials and high temperature complex liquids. They are taking methodical steps to select and screen material candidates suitable for low temperature thermochemical water splitting to produce the world’s cheapest green hydrogen.” </p>"
+            ],
+
+            [
+                "<p>For more information about NewHydrogen, please visit <a href=\"https://newhydrogen.com/\">https://newhydrogen.com/</a></p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "51",
         'title' => "NewHydrogen CEO Steve Hill discusses the use of hydrogen in the space and aviation industries with Georgia Tech Expert",
         'date' => "January 16, 2024",
