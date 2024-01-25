@@ -6,7 +6,7 @@ $videos = [
         'date' => "January 24, 2024",
         'category' => "ceo-podcast",
         'slug' => "dr-sanjeev-mukerjee-northeastern-university",
-        "display" => true
+        "display" => false
     ],
     [
         'title' => "Dr. Jing Gu - San Diego State University",
