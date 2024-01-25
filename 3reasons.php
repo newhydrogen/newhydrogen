@@ -112,40 +112,7 @@ include('header.php'); ?>
     </div>
 </section>
 
-<section class="appC investMarket">
 
-
-
-    <div class="investorForm reasons-investform">
-        <div class="container">
-            <h4>
-                Investor Relations
-            </h4>
-            <div class="relation">
-                <div class="relation-form">
-                    <form action="./php/investorForm.php" method="POST">
-                        <div class="row">
-                            <div class="col-sm-6">
-                                <input type="text" class="form-control" placeholder="First Name" name="fname" id="fname" required>
-                            </div>
-                            <div class="col-sm-6">
-                                <input type="text" class="form-control" placeholder="Last Name" name="lname" id="lname" required>
-                            </div>
-                        </div>
-
-                        <input type="email" class="form-control" placeholder="Email" name="email" id="email" required>
-                        <input type="text" class="form-control" placeholder="Subject" name="subject" id="subject" required>
-                        <textarea name="message" id="message" cols="30" rows="5" class="form-control" placeholder="Message" required></textarea>
-                        <input type="hidden" name="recaptcha_response" id="recaptchaResponse">
-                        <div class="contact-form-btn">
-                            <button type="submit" class="theme-btn">Send Message</button>
-                        </div>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
 
 
 
