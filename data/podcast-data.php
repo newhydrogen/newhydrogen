@@ -1,6 +1,14 @@
 <?php
 $videos = [
     [
+        'title' => "Dr. Sanjeev Mukerjee - Northeastern University",
+        'videoID' => "muY0KNMRMXU",
+        'date' => "January 24, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "dr-sanjeev-mukerjee-northeastern-university",
+        "display" => true
+    ],
+    [
         'title' => "Dr. Jing Gu - San Diego State University",
         'videoID' => "OBq2MwGHSgs",
         'date' => "January 19, 2024",
@@ -39,6 +47,14 @@ $videos = [
         'category' => "ceo-podcast",
         'slug' => "dr-william-eckenhoff-rhodes-college",
         "display" => false
+    ],
+    [
+        'title' => "Our Thermoloop technology is ahead of it's time and it's time to pay attention!",
+        'videoID' => "fdrFRPiTawc",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "our-thermoloop-technology-is-ahead-of-it-time-and-it-time-to-pay-attention",
+        "display" => true
     ],
     [
         'title' => "The Cat is Out The Hat",

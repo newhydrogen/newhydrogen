@@ -128,6 +128,7 @@
 
         <!-- Hedaer -->
         <header class="header-top">
+            <?php if($page_name != "3reasons.php") {?>
             <div class="invest-bar">
                 <div class="container">
                     <div class="invest-bar-content">
@@ -147,6 +148,7 @@
                     </div>
                 </div>
             </div>
+            <?php } ?>
 
             <nav class="navbar navbar-expand-lg navbar-dark">
                 <div class="container">
