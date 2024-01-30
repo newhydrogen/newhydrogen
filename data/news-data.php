@@ -3,6 +3,44 @@
 
 $news = [
     [
+        'id' => "53",
+        'title' => "NewHydrogen CEO Steve Hill Discusses Renewable Energy for a Sustainable Future with UCI Expert",
+        'date' => "January 30, 2024",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced that in a recent podcast the Company’s CEO Steve Hill spoke with Dr. Jeffrey Reed, Chief Scientist at the Advanced Power and Energy Program at the University of California, Irvine (UCI). The episode explores the latest developments in renewable fuels and energy storage, hydrogen blending for power generation and examining strategies to utilize gaseous fuels for a sustainable future",
+        'description' => [
+            [
+                "<p><strong>Dr. Jeffrey Reed elaborates on navigating the path to a sustainable renewable energy future </strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (January 30, 2024) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced that in a recent podcast the Company’s CEO Steve Hill spoke with Dr. Jeffrey Reed, Chief Scientist at the Advanced Power and Energy Program at the University of California, Irvine (UCI). The episode explores the latest developments in renewable fuels and energy storage, hydrogen blending for power generation and examining strategies to utilize gaseous fuels for a sustainable future. </p>"
+            ],
+            [
+                "<p>Dr. Reed, renowned for his contributions to the field, shares a mission aligned with NewHydrogen's commitment to a more sustainable future. The conversation navigates through crucial topics, ranging from the potential future of hydrogen power to innovative renewable energy experiments, offering a comprehensive view of the landscape.  </p>"
+            ],
+            [
+                "<p>Highlighting UCI's groundbreaking work, the podcast revisits the 2020 prediction of potential energy price parity for hydrogen with conventional fuel by the end of the decade. Dr. Reed said, “I believe we are still on track to achieve a renewable hydrogen production cost of $2 to $3 per kilogram at the plant gate, and then going into various supply chains from there in mobility, power generation, and other applications.” </p>"
+            ],
+            [
+                "<p>Regarding future cost reductions Dr. Reed said, “The two main pathways for producing renewable hydrogen are electrolytic production, meaning splitting water with electrolysis, and thermochemical conversion technologies.  Both technologies in our view still project to those cost points.”  </p>"
+            ],
+            [
+                "<p>Emphasizing the urgent need today for green hydrogen, Dr. Reed noted, “People need to understand that globally we use 60 billion kilograms of hydrogen per year, most of that for refining and production of ammonia fertilizer. So, replacing those conventional hydrogens with green or renewable hydrogen, I'll call it, is an immediate opportunity.”</p>"
+            ],
+            [
+                "<p>Dr. Reed holds a doctorate in engineering from UC Berkeley and a master’s degree in management from Stanford University. His research focuses on systems and techno-economic analysis to develop and advance solutions for achieving deep decarbonization and pollution reduction across all sectors of the economy.  He is the principal author of the first renewable hydrogen production roadmap for the state of California. Dr. Reed also provides advisory services to companies developing clean energy technologies and projects. Prior to joining UCI, he was the head of strategic planning and technology development for the Sempra Energy Utilities, was a consulting executive at Accenture and Booz-Allen, served as vice president of marketing and business development for the global steam-turbine division of ABB in Switzerland, and is the past chair of the California Hydrogen Business Council. Dr. Reed is listed as a Google Scholar at  <a href=\"https://scholar.google.com/citations?user=kpukYeAAAAAJ\">https://scholar.google.com/citations?user=kpukYeAAAAAJ</a> </p>"
+            ],
+            [
+                "<p>The full podcast episode featuring Dr. Jeffrey Reed is available on the NewHydrogen website <a href=\"https://newhydrogen.com/videos/ceo-podcast/dr-jeffrey-reed-uc-irvine\" target=\"_blank\">https://newhydrogen.com/videos/ceo-podcast/dr-jeffrey-reed-uc-irvine</a></p>"
+            ],
+
+            [
+                "<p>For more information about NewHydrogen and its ThermoLoop<sup>TM</sup>, please visit <a href=\"https://newhydrogen.com/\">https://newhydrogen.com/</a></p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "52",
         'title' => "NewHydrogen CEO Steve Hill Provides ThermoLoop<sup>TM</sup> Update ",
         'date' => "January 23, 2024",

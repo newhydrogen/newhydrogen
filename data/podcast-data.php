@@ -1,6 +1,14 @@
 <?php
 $videos = [
     [
+        'title' => "Dr. Jeffrey Reed - UC Irvine",
+        'videoID' => "JcE8xrs2njk",
+        'date' => "January 30, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "dr-jeffrey-reed-uc-irvine",
+        "display" => true
+    ],
+    [
         'title' => "Dr. Sanjeev Mukerjee - Northeastern University",
         'videoID' => "muY0KNMRMXU",
         'date' => "January 24, 2024",
@@ -994,14 +1002,7 @@ $videos = [
         'slug' => "alan-lloyd",
         "display" => true
     ],
-    [
-        'title' => "Dr. Jeffrey Reed - UC Irvine",
-        'videoID' => "JcE8xrs2njk",
-        'date' => "November 6, 2023",
-        'category' => "ceo-podcast",
-        'slug' => "dr-jeffrey-reed-uc-irvine",
-        "display" => false
-    ],
+   
     [
         'title' => "Dr. Kevin Huang - University of South Carolina",
         'videoID' => "dYo4duianfg",
