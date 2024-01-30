@@ -34,7 +34,7 @@ $news = [
             ],
 
             [
-                "<p>For more information about NewHydrogen and its ThermoLoop<sup>TM</sup>, please visit <a href=\"https://newhydrogen.com/\">https://newhydrogen.com/</a></p>"
+                "<p>For more information about NewHydrogen, please visit <a href=\"https://newhydrogen.com/\">https://newhydrogen.com/</a></p>"
             ]
         ],
         'category' => "pressrelease",
