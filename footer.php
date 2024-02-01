@@ -12,6 +12,14 @@ if ($domain === 'localhost' || $domain === '127.0.0.1') {
 }
 
 ?>
+<?php $page_name = basename($_SERVER['PHP_SELF']); if ($page_name != "forward-looking-statements.php") {?>
+<div class="fl-statement">
+    <div class="container">
+        <a href="forward-looking-statements.php">Forward Looking Statements</a>
+    </div>
+</div>
+<?php } ?>
+
 <footer>
     <div class="container">
         <div class="footer-wrap">
