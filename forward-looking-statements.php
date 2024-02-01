@@ -17,6 +17,13 @@ include('header.php');
                 Any forward-looking statement made by us in this press release is based only on information currently available to us and speaks only as of the date on which it is made. We undertake no obligation to publicly update any forward-looking statement, whether written or oral, that may be made from time to time, whether as a result of new information, future developments or otherwise.
             </p>
         </div>
+        <div class="news-presscontact">
+                    <p> Investor Relations Contact:</p>
+
+                    <span>NewHydrogen, Inc.</span>
+                    <a href="mailto:ir@newhydrogen.com"> ir@newhydrogen.com
+                    </a>
+                </div>
     </div>
 </section>
 
