@@ -31,7 +31,7 @@
         flex-direction: column;
         align-items: center;
         max-width: 250px;
-        padding: 15px;
+        padding: 12px;
         padding-top: 9px;
         border-radius: 6px;
 
@@ -1176,17 +1176,34 @@
         color: #fff;
     }
 }
-
+.investObj1, .investObj2{
+    position: absolute;
+    top: -134px;
+    z-index: -1;
+}
+.investObj1{
+    left: 0;
+}
+.investObj2{
+    right: 0;
+}
+.investObj3{
+    position: absolute;
+    top: 600px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 65%;
+    z-index: -1;
+}
 .investBanner {
-    // position: relative;
+    position: relative;
     text-align: center;
-    // margin-top: 30px;
-    padding-top: 140px;
-    background: #000;
-    color: #fff;
-
-
-
+    margin-top: 30px;
+    &-wrap{
+        position: relative;
+        max-width: 700px;
+        margin-inline: auto;
+    }
     &__banner {
         max-width: 1136px;
         margin-left: auto;
@@ -1195,13 +1212,9 @@
 
     }
 
-    &-wrap {
-        max-width: 700px;
-        margin-inline: auto;
-    }
 
     h1 {
-        color: #EFEFEF;
+        color: #091113;
         text-align: center;
         font-size: 35px;
         font-style: normal;
@@ -1213,16 +1226,15 @@
 
     h5 {
         margin-bottom: 40px;
-        color: #EFEFEF;
+        color: #000;
     }
 
     p {
-        color: #B5B5B5;
-        margin-top: 29px;
+        color: #686868;
+        margin-top: 16px;
         font-style: normal;
         font-weight: 500;
         line-height: 140%;
-        /* 21px */
         margin-bottom: 40px;
     }
 }
@@ -1235,58 +1247,194 @@
 
 .investBanner {
 
-    .appBanner__banner {
+    .appBanner_thumbnail {
         position: relative;
-        padding-top: 0;
 
-        .appBanner__newh {
+        svg {
             position: absolute;
-            top: 0;
             left: 50%;
-            transform: translateX(-50%);
+            top: 50%;
+            transform: translate(-50%, -50%);
+        }
+    }
 
-            h5 {
-                background: #000;
-                margin-bottom: 0;
-                color: #EFEFEF;
-                padding: 4px 10px;
-                width: fit-content;
-                text-align: center;
-                margin: auto;
-            }
+    .appBanner__banner {
 
-            p,
-            a {
-                margin: 0;
-                color: #EFEFEF;
-                font-size: 19px;
+        padding-top: 0;
+        margin-top: 64px;
+        max-width: 839px;
+        margin-left: auto;
+        margin-right: auto;
 
-                span {
-                    color: #4fe653;
+        img {
+            border-radius: 20px;
+        }
+    }
+}
+
+.appBanner__vidInfo {
+    margin-top: 24px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 22px;
+}
+
+.inBanner__vidTitle {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+
+    svg {
+        position: static;
+        transform: none;
+    }
+
+    p {
+        color: black;
+        font-size: 18px;
+        font-weight: 500;
+        word-wrap: break-word;
+        margin: 0;
+    }
+}
+
+.inBanner__author {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+
+    p {
+        // Steve Hill 
+        color: black;
+        font-size: 16px;
+        font-weight: 600;
+        word-wrap: break-word;
+        margin: 0 !important;
+
+    }
+
+    &__img {
+        width: 40px;
+        height: 40px;
+        border-radius: 50%;
+
+        img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+    }
+}
+
+.invest__reasons {
+    margin: 90px 0 130px;
+    position: relative;
+    .row {
+        margin-top: 90px;
+
+        &:nth-child(odd) {
+            @media (min-width: 992px) {
+                .invest__img {
+                    text-align: left;
+                }
+    
+                .invest__text {
+                    margin-left: auto;
+                    h3{
+                        border-radius: 37.60px 0 0 37.60px;
+                    }
                 }
             }
 
-            a {
-                text-decoration: underline;
+            @media (max-width: 991px) {
+                flex-direction: column-reverse;
+            }
+           
+        }
+    }
+}
+
+.invest__text {
+    max-width: 600px;
+
+    h3 {
+        color: #000;
+        font-size: 24px;
+        font-weight: 600;
+        line-height: 42px;
+        word-wrap: break-word;
+        margin-bottom: 30px;
+        background: #4fe653;
+        border-radius: 0 37.6px 37.6px 0;
+        padding: 8px 34px;
+        margin-left: -35px;
+        span {
+            color: white;
+            font-weight: 800;
+            display: inline-block;
+            margin-right: 12px;
+        }
+    }
+
+    p {
+        font-weight: 400;
+        word-wrap: break-word;
+        margin-bottom: 16px;
+        font-size: 15px;
+    }
+
+    .dot-list {
+        li {
+            color: black;
+            font-weight: 500;
+            word-wrap: break-word;
+
+            &::before {
+                background-color: #000;
+                top: 12px;
             }
 
-            h6 {
-                color: #FFF;
-                font-size: 9px;
-                font-weight: 600;
-
-                span {
-                    font-size: 12px;
-                }
+            &+li {
+                margin-top: 8px;
             }
+        }
+    }
 
-            .appBanner__newT {
+}
 
-                background: #000;
-                padding: 8px 42px;
-                border-radius: 5px;
+.invest__img {
+    text-align: right;
+}
+
+.invest__heading {
+    max-width: 620px;
+    margin-left: auto;
+    margin-right: auto;
+
+    h2 {
+        color: #000;
+        font-size: 35px;
+        font-weight: 400;
+        line-height: 1.3;
+        text-align: center;
+        word-wrap: break-word;
+
+        span {
+            font-weight: 600;
+            position: relative;
+
+            &::after {
+                content: '';
+                background: url("../img/heading-bg-vector.png") center no-repeat;
+                height: 23px;
+                width: 100%;
+                position: absolute;
+                left: 0px;
+                bottom: -4px;
+                background-size: contain;
+                z-index: -1;
             }
-
         }
     }
 }
@@ -1764,7 +1912,7 @@
         ul li::before {
             content: "\25FC";
             position: absolute;
-            color: #4fe653;
+            color: #000;
             margin-left: -30px;
         }
 
@@ -2822,7 +2970,9 @@
         .about-head {
             display: flex;
             align-items: center;
-            justify-content: space-between;
+            // justify-content: space-between;
+            gap: 50px;
+            justify-content: center;
             margin-bottom: 86px;
             padding-bottom: 83px;
             border-bottom: 1px solid #fff;
@@ -2832,7 +2982,7 @@
             }
 
             h4 {
-                text-align: center;
+                text-align: left;
                 color: #EFEFEF;
                 font-size: 25px;
 
@@ -2904,7 +3054,7 @@
 
 .investMarket {
     padding: 0;
-    background: #000;
+
 
 
 
@@ -2958,13 +3108,19 @@
         background: #E8E6E4;
         margin: 20px 40px 0px 40px;
         padding: 100px 0px;
-
+        position: relative;
         .f_div {
             max-width: 430px;
 
+            &_title {
+                display: flex;
+                align-items: center;
+                gap: 12px;
+            }
+
             h2 {
                 color: #101010;
-                font-size: 30px;
+                font-size: 24px;
                 font-style: normal;
                 font-weight: 600;
                 line-height: normal;
@@ -2992,7 +3148,7 @@
             h3 {
                 color: rgba(17, 36, 55, 0.99);
                 padding-left: 16px;
-                font-size: 30px;
+                font-size: 24px;
                 font-style: normal;
                 font-weight: 500;
                 line-height: 40.5px;
@@ -3003,7 +3159,6 @@
             p {
                 color: rgba(17, 36, 55, 0.70);
                 padding-left: 16px;
-                font-size: 20px;
                 font-style: normal;
                 font-weight: 400;
                 line-height: 203.758%;
@@ -3016,7 +3171,7 @@
             h2 {
                 color: #101010;
                 font-family: Manrope;
-                font-size: 30px;
+                font-size: 24px;
                 font-style: normal;
                 font-weight: 600;
                 line-height: normal;
@@ -3062,8 +3217,9 @@
     }
 
     .investorForm {
-        padding-top: 100px;
-
+        padding-top: 567px;
+        background: #000;
+        margin-top: -467px;
         h4 {
             color: #EFEFEF;
             text-align: center;
@@ -4478,6 +4634,7 @@
     &.ucsanta {
         padding-bottom: 55px;
         padding-top: 80px;
+
         .ucsb-work-wrap {
             max-width: 1048px;
 
@@ -4939,17 +5096,21 @@
         padding: 105px 0;
 
         .ucsd-heading-wrap {
-
-            display: flex;
-            gap: 164px;
-            max-width: 900px;
+            max-width: 650px;
             margin: auto;
             padding-left: 20px;
             padding-right: 20px;
         }
 
         h4 {
-            color: #EFEFEF;
+            color: #FFF;
+            text-align: center;
+            font-family: Manrope;
+            font-size: 70px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 96px;
+            margin-bottom: 84px;
         }
 
         p {
@@ -5259,4 +5420,10 @@
         }
     }
 
+}
+.investMarket .investorForm{
+    &.reasons-investform{
+        margin-top: 0;
+        padding-top: 150px;
+    }
 }

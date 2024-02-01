@@ -10,8 +10,8 @@ include('header.php'); ?>
         <h5>Breakthrough Tech</h5>
         <div class="pageBanner__banner">
             <img src="./assets/img/distruptive-tech-banner.jpg" class="w-100 d-block" alt="market">
-            <div class="page-titleC">
-                <h1>&nbsp;Developing&nbsp;a&nbsp;Breakthrough&nbsp; &nbsp;Technology&nbsp;to&nbsp;Produce&nbsp;the&nbsp;World’s&nbsp; &nbsp;Cheapest&nbsp;Green&nbsp;Hydrogen&nbsp;</h1>
+            <div class="page-titleC mw-100">
+                <h1>&nbsp;Developing&nbsp;ThermoLoop™&nbsp;-&nbsp; &nbsp;a&nbsp;Breakthrough&nbsp;Technology&nbsp;to&nbsp;Produce&nbsp; &nbsp;the&nbsp;World’s&nbsp;Cheapest&nbsp;Green&nbsp;Hydrogen&nbsp;</h1>
             </div>
         </div>
     </div>
@@ -31,17 +31,26 @@ include('header.php'); ?>
                             A New Hope
                         </h4>
                         <p>
-                            Since the invention of the internal combustion engine in the 1870s, a new world order of
-                            geopolitics and economic dependence was uncomfortably forged between energy producing
-                            countries and energy consuming countries. This new world order propelled
-                            humanity into an era of prosperity and ambition, as well as an era of climate change and
-                            instability where a select few nations control natural resources such as oil, gas and coal.
+                        Since the invention of the internal combustion
+                        engine in the 1870s, a new world order of
+                        geopolitics and economic dependence was
+                        uncomfortably forged between energy
+                        producing countries and energy consuming
+                        countries. This new world order propelled
+                        humanity into an era of prosperity and
+                        ambition, as well as an era of climate change
+                        and instability where a select few nations
+                        control natural resources such as oil, gas and
+                        coal.
                             <br><br>
 
-                            What if countries of the world can independently produce their own fossil fuel replacement,
-                            and not rely on uncertain or unpredictable partnerships?
+                            What if countries of the world can
+                            independently produce their own fossil fuel
+                            replacement, and not rely on uncertain or
+                            unpredictable partnerships?
                             <br><br>
-                            What if this new form of energy is as cheap as oil and natural gas, but without greenhouse
+                            What if this new form of energy is as cheap as
+                            oil and natural gas, but without greenhouse
                             gas emissions?
                         </p>
                     </div>
@@ -60,9 +69,12 @@ include('header.php'); ?>
                     </div>
 
                     <div class="dis-quote-wrap">
-                        <p>“IRENA says green hydrogen could disrupt global trade and bilateral energy relations,
-                            reshaping the
-                            positioning of states with new hydrogen exporters and users emerging.”
+                        <p>“IRENA says green hydrogen could
+                            disrupt global trade and bilateral
+                            energy relations, reshaping the
+                            positioning of states with new
+                            hydrogen exporters and users
+                            emerging.”
 
                         </p>
                         <span>IRENA 2022</span>
@@ -291,19 +303,14 @@ include('header.php'); ?>
             <div class="pb-dis-points">
                 <div class="pb-dis-point">
                     <h5>No Electricity</h5>
-                    <p>Most electricity is made from the inefficient burning of fossil fuels to boil water, to make
-                        steam, to turn a turbine, which produces electricity. Or from solar panels that can only
-                        convert 20% of solar energy
-                        into electricity. We go straight to the source, heat, and bypass expensive and inefficiently
-                        generated electricity.</p>
+                    <p>Most electricity is made from the inefficient burning of fossil fuels to boil water, to make steam, to turn a turbine, which produces electricity. Or from solar panels
+                       that can only convert 20% of solar energy into electricity. We go straight to the source, heat, and bypass expensive and inefficiently generated electricity.</p>
                 </div>
                 <div class="pb-dis-point">
                     <h5>3D Reaction Volume</h5>
-                    <p>Unlike the 2D reaction surfaces of electrolyzers, the
-                        entire volume of the reactor chamber filled with our novel Molten Catalytic Liquid are
-                        reaction surfaces. Water/steam molecules everywhere inside the
-                        reactor are instantly split into hydrogen and oxygen. The result is a high speed and high
-                        throughput water-splitting process.</p>
+                    <p>Unlike the 2D reaction surfaces of electrolyzers, the entire volume of the reactor chamber filled with our novel Molten Catalytic Liquid are reaction surfaces.
+                       Water/steam molecules everywhere inside the reactor are instantly split into hydrogen and oxygen. The result is a high speed and high throughput water-splitting
+                       process.</p>
                 </div>
                 <div class="pb-dis-point">
                     <h5>No Precious Metals</h5>
@@ -375,8 +382,7 @@ include('header.php'); ?>
     <div class="container">
         <div class="ucsb-team-heading">
             <div class="ucsd-heading-wrap">
-                <h4>UCSB <br>
-                    Team</h4>
+                <h4>UCSB Team</h4>
                 <p>The UCSB team plans to exploit the oxidation reduction features of multi-component materials including high temperature liquids to directly split water continuously in a series of chemical looping reactions, producing hydrogen and oxygen in separate reaction chambers. The concpet has been at work in other applications for some time ay UCSB and the Company decided to sponsor research to apply the methodology to water splitting. <br><br> The research team at UCSB is led by Dr. Philip Christopher, an expert in reaction engineering and
                     catalysis. The UCSB team has extensive of experience working with molten metals and molten liquids
                     chemistry, as well as extracting “blue” hydrogen from natural gas with carbon capture using molten
@@ -442,7 +448,7 @@ include('header.php'); ?>
 <section class="di-main">
     <div class="dis-impact">
         <div class="container">
-            <h4>The Potential Disruptive Impact</h4>
+            <h4>The Potential Breakthrough Impact</h4>
             <div class="row">
                 <div class="col-lg-6">
                     <div class="position-relative h-100">

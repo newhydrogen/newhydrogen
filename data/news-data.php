@@ -3,6 +3,250 @@
 
 $news = [
     [
+        'id' => "53",
+        'title' => "NewHydrogen CEO Steve Hill Discusses Renewable Energy for a Sustainable Future with UCI Expert",
+        'date' => "January 30, 2024",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced that in a recent podcast the Company’s CEO Steve Hill spoke with Dr. Jeffrey Reed, Chief Scientist at the Advanced Power and Energy Program at the University of California, Irvine (UCI). The episode explores the latest developments in renewable fuels and energy storage, hydrogen blending for power generation and examining strategies to utilize gaseous fuels for a sustainable future",
+        'description' => [
+            [
+                "<p><strong>Dr. Jeffrey Reed elaborates on navigating the path to a sustainable renewable energy future </strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (January 30, 2024) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced that in a recent podcast the Company’s CEO Steve Hill spoke with Dr. Jeffrey Reed, Chief Scientist at the Advanced Power and Energy Program at the University of California, Irvine (UCI). The episode explores the latest developments in renewable fuels and energy storage, hydrogen blending for power generation and examining strategies to utilize gaseous fuels for a sustainable future. </p>"
+            ],
+            [
+                "<p>Dr. Reed, renowned for his contributions to the field, shares a mission aligned with NewHydrogen's commitment to a more sustainable future. The conversation navigates through crucial topics, ranging from the potential future of hydrogen power to innovative renewable energy experiments, offering a comprehensive view of the landscape.  </p>"
+            ],
+            [
+                "<p>Highlighting UCI's groundbreaking work, the podcast revisits the 2020 prediction of potential energy price parity for hydrogen with conventional fuel by the end of the decade. Dr. Reed said, “I believe we are still on track to achieve a renewable hydrogen production cost of $2 to $3 per kilogram at the plant gate, and then going into various supply chains from there in mobility, power generation, and other applications.” </p>"
+            ],
+            [
+                "<p>Regarding future cost reductions Dr. Reed said, “The two main pathways for producing renewable hydrogen are electrolytic production, meaning splitting water with electrolysis, and thermochemical conversion technologies.  Both technologies in our view still project to those cost points.”  </p>"
+            ],
+            [
+                "<p>Emphasizing the urgent need today for green hydrogen, Dr. Reed noted, “People need to understand that globally we use 60 billion kilograms of hydrogen per year, most of that for refining and production of ammonia fertilizer. So, replacing those conventional hydrogens with green or renewable hydrogen, I'll call it, is an immediate opportunity.”</p>"
+            ],
+            [
+                "<p>Dr. Reed holds a doctorate in engineering from UC Berkeley and a master’s degree in management from Stanford University. His research focuses on systems and techno-economic analysis to develop and advance solutions for achieving deep decarbonization and pollution reduction across all sectors of the economy.  He is the principal author of the first renewable hydrogen production roadmap for the state of California. Dr. Reed also provides advisory services to companies developing clean energy technologies and projects. Prior to joining UCI, he was the head of strategic planning and technology development for the Sempra Energy Utilities, was a consulting executive at Accenture and Booz-Allen, served as vice president of marketing and business development for the global steam-turbine division of ABB in Switzerland, and is the past chair of the California Hydrogen Business Council. Dr. Reed is listed as a Google Scholar at  <a href=\"https://scholar.google.com/citations?user=kpukYeAAAAAJ\">https://scholar.google.com/citations?user=kpukYeAAAAAJ</a> </p>"
+            ],
+            [
+                "<p>The full podcast episode featuring Dr. Jeffrey Reed is available on the NewHydrogen website <a href=\"https://newhydrogen.com/videos/ceo-podcast/dr-jeffrey-reed-uc-irvine\" target=\"_blank\">https://newhydrogen.com/videos/ceo-podcast/dr-jeffrey-reed-uc-irvine</a></p>"
+            ],
+
+            [
+                "<p>For more information about NewHydrogen, please visit <a href=\"https://newhydrogen.com/\">https://newhydrogen.com/</a></p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
+        'id' => "52",
+        'title' => "NewHydrogen CEO Steve Hill Provides ThermoLoop<sup>TM</sup> Update ",
+        'date' => "January 23, 2024",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today provided a progress update about its ThermoLoop<sup>TM</sup> technology currently being developed with the University of California Santa Barbara (UCSB)",
+        'description' => [
+            [
+                "<p><strong>The company reports progress in the development of its novel low-cost thermochemical process to split water to produce the world’s cheapest green hydrogen </strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (January 23, 2024) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today provided a progress update about its ThermoLoop<sup>TM</sup> technology currently being developed with the University of California Santa Barbara (UCSB).    </p>"
+            ],
+            [
+                "<p>The most common method of making green hydrogen today is to split water into oxygen and hydrogen with an electrolyzer using green electricity produced from solar or wind. However, green electricity is, and always will be very expensive. It currently accounts for 73% of the cost of green hydrogen.   </p>"
+            ],
+            [
+                "<p>Steve Hill, the Company’s CEO, said, “Cheap, widely available green hydrogen could revolutionize global energy systems and presents a $12 trillion market opportunity. At NewHydrogen, we aim to play a leading role in capturing a share of this enormous potential market by developing a whole new way to reduce the cost of green hydrogen.”  </p>"
+            ],
+            [
+                "<p>“Working with a world class research team at UCSB, we are developing ThermoLoop<sup>TM</sup>, a novel low-cost thermochemical process to split water using inexpensive heat, instead of expensive electricity,” said Mr. Hill. “Previous thermochemical approaches use extremely hard to manage temperatures such as 2,000°C, or an inefficient series of step reactions at different temperatures to split water into oxygen and hydrogen. Using heat to split water isn’t new, but our goal with ThermoLoop<sup>TM</sup> is to develop an elegant and highly efficient chemical looping redox process operating at normal industrial temperatures ranges (below 1000°C).”   </p>"
+            ],
+            [
+                "<p>Mr. Hill continued, “One step oxidizes (changes) the material to facilitate hydrogen production, the other step(s) reduce (recover) the material and produce oxygen. These steps operate in a continuous process loop that splits an incoming supply of steam (water). This type of redox chemistry is simple on paper but hard in practice. We believe the magic lies in the redox properties of certain multiphase materials we are developing. To our knowledge, this has not been done before and represents an exciting development that may enable substantial cost reduction by skipping expensive electricity. Inexpensive heat can be obtained from concentrated solar, geothermal, nuclear reactors or industrial waste heat.” </p>"
+            ],
+            [
+                "<p>Since the commencement of the Company’s research project in August 2023, the UCSB team has been pursuing novel approaches for designing new material systems and process designs for thermochemical water splitting. The team has designed and built a reactor system test stand and has generated hydrogen from water using a thermochemical reaction cycle. This test bed reactor allows the team to characterize the performance of synthesized candidate materials under varying process conditions.  </p>"
+            ],
+            [
+                "<p>The UCSB team is making use of a thermodynamic screening methodology to identify candidate materials. The initial synthesized candidates undergo focused study including identifying the mechanisms of hydrogen and oxygen generation and the changes in candidate material structures and compositions. Thermogravimetric analysis is used to quantify the materials’ reduction and oxidation capabilities. X-ray diffraction analysis provides further understanding of the material changes during reduction and oxidation.  </p>"
+            ],
+            [
+                "<p>Mr. Hill concluded, “We are very pleased with the UCSB team’s progress and their innovative approach of developing a thermodynamic model for exploring solid-state phase change materials and high temperature complex liquids. They are taking methodical steps to select and screen material candidates suitable for low temperature thermochemical water splitting to produce the world’s cheapest green hydrogen.” </p>"
+            ],
+
+            [
+                "<p>For more information about NewHydrogen and its ThermoLoop<sup>TM</sup>, please visit <a href=\"https://newhydrogen.com/\">https://newhydrogen.com/</a></p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
+        'id' => "51",
+        'title' => "NewHydrogen CEO Steve Hill discusses the use of hydrogen in the space and aviation industries with Georgia Tech Expert",
+        'date' => "January 16, 2024",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced that in a recent podcast the Company’s CEO Steve Hill spoke with Dr. Ben Emerson, a principal research engineer at the Ben T. Zinn Combustion Laboratory at the Georgia Institute of Technology",
+        'description' => [
+            [
+                "<p><strong>Dr. Ben Emerson describes his research focus on decarbonization at the Ben T. Zinn Combustion Laboratory  </strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (January 16, 2024) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced that in a recent podcast the Company’s CEO Steve Hill spoke with Dr. Ben Emerson, a principal research engineer at the Ben T. Zinn Combustion Laboratory at the Georgia Institute of Technology.  </p>"
+            ],
+            [
+                "<p>During the conversation, Dr. Emerson explained the concept of combustion and shared his research focus on decarbonization. They discussed the role of hydrogen in the space industry and its potential in the aviation industry, despite its challenges such as energy density and volume. They also addressed the difficulties of storing and burning hydrogen in gas turbines, acknowledging the need for careful control to avoid pollutants like oxides of nitrogen.   </p>"
+            ],
+            [
+                "<p>Dr. Emerson spoke on the role of hydrogen in the space industry, highlighting its use in rocket engines due to its high specific impulse and lightweight. He also elaborated on its adoption in the aviation industry, noting that despite its potential, there were challenges, particularly in terms of energy density and volume. Dr. Emerson said, “Hydrogen has almost four times the energy content of kerosene by weight but takes up almost four times the volume.” Despite this, he acknowledged the need to decarbonize aviation and the potential for hydrogen to play a part in this process.  </p>"
+            ],
+            [
+                "<p>Dr. Emerson and Mr. Hill discussed the challenges of using hydrogen in aviation — the difficulty of storing liquid hydrogen due to its cryogenic requirements and the need for costly cryogenic systems and cryopumps. Despite this, the promise of decarbonizing an industry that has been difficult to decarbonize was seen as a motivating factor.   </p>"
+            ],
+            [
+                "<p>On the challenges of burning hydrogen in gas turbines, Dr. Emerson said, “The difficulties include hydrogen’s high flame speed and the need for careful control to avoid the formation of pollutants like oxides of nitrogen.” The discussion ended with the acknowledgment that current methods of low nitrogen oxide combustion, which involve pre-mixing fuel and oxidizer, might not be practical in aviation or in certain geographic locations.  </p>"
+            ],
+            [
+                "<p>Mr. Hill concluded, “The aviation application has been one of the most difficult areas to decarbonize up to this point due to low density of hydrogen compared to liquid fossil fuels. Additional challenges exist in controlling some of pollutant emissions, but it is highly encouraging to hear great progress is being made on hydrogen combustion.”  </p>"
+            ],
+            [
+                "<p>Dr. Emerson received his Ph. D. in Aerospace Engineering from Georgia Tech in 2013. Since then, Dr. Emerson has worked as a Research Engineer at the Ben T. Zinn Combustion Lab at Georgia Tech. His research portfolio includes projects on combustion instabilities, alternative fuels, and combustion system R&D with a core focus and motivation of cleaner combustion. Dr. Emerson’s research primarily consists of three core competencies, which are experimental combustion system development, combustor diagnostics, and combustion theory and modeling. Ben’s combustion system development work spans a wide variety of applications, from small lab-scale burners to combustor rigs that test full-scale gas turbine combustor hardware. His combustor diagnostics work encompasses the state-of-the-art optical diagnostic techniques for reacting flow field measurements and imaging and aims to implement those techniques in both laboratory-scale and large-scale rig tests. Finally, Dr. Emerson’s combustion theory and modeling work is geared towards analysis of experimental datasets, development of reduced-order engineering tools, and the development of a suite of hydrodynamic stability analysis tools. Together, these core competencies form the pillars of Ben’s research, which facilitates the design of cleaner-burning combustion systems.  </p>"
+            ],
+            [
+                "<p>Watch the full discussion on the NewHydrogen Podcast featuring Dr. Ben Emerson at  <a href=\"https://newhydrogen.com/videos/ceo-podcast/dr-ben-emerson-georgia-tech\" target=\"_blank\">https://newhydrogen.com/videos/ceo-podcast/dr-ben-emerson-georgia-tech</a></p>"
+            ],
+
+            [
+                "<p>For more information about NewHydrogen, please visit <a href=\"https://newhydrogen.com/\">https://newhydrogen.com/</a></p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
+        'id' => "50",
+        'title' => "NewHydrogen CEO Steve Hill Discusses Novel Catalysts for Green Hydrogen Production with Georgia Tech Expert",
+        'date' => "January 2, 2024",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced that in a recent podcast the Company’s CEO Steve Hill spoke with Dr. Faisal Alamgir, professor of the School of Materials, Science and Engineering at the Georgia Institute of Technology regarding the potential use of graphene in catalysts for green hydrogen production and fuel cell technologies",
+        'description' => [
+            [
+                "<p><strong>Dr. Faisal Alamgir discusses the role of graphene in catalysts for green hydrogen production and fuel cell technologies  </strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (January 2, 2024) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced that in a recent podcast the Company’s CEO Steve Hill spoke with Dr. Faisal Alamgir, professor of the School of Materials, Science and Engineering at the Georgia Institute of Technology regarding the potential use of graphene in catalysts for green hydrogen production and fuel cell technologies. </p>"
+            ],
+            [
+                "<p>The conversation explored the properties and research of graphene, its potential in catalysis, and the challenges in controlling the size, shape, and active sites of particles in catalysts. Dr. Alamgir emphasized the importance of material selection and the supporting structure in catalytic activity.  </p>"
+            ],
+            [
+                "<p>Dr. Alamgir explained the concept of catalysis, highlighting the differences between homogeneous and heterogeneous catalysis. He emphasized his work in heterogeneous catalysis, particularly focusing on catalyst-reactant interactions and the design of catalysts that can be adjusted once in application. Dr. Alamgir said, “There are limitations on heterogeneous catalysts, such as the permanence of catalyst properties once applied and the activity of the catalyst happening on the surface of the catalyst. Therefore, researchers face challenges in balancing catalyst activity and stability. Graphene is a two-dimensional allotrope of carbon, found in graphite, and has a unique honeycomb structure. The research focuses on the interaction between the layers of graphene and the covalent bonds within it.”   </p>"
+            ],
+            [
+                "<p>Dr. Alamgir elaborated on the unique properties of graphene and its potential for use in catalysis. Dr. Alamgir said, “The material's atomic structure allows for the manipulation of metal catalysts grown on top of it, which could lead to the formation of a 2D metal. This metal, with its covalent bonds to the graphene and lateral metallic bonds with neighboring atoms, creates an isotropic material with distinct properties in different directions. It is possible to use this material to create a high surface area catalyst.”  </p>"
+            ],
+            [
+                "<p>On the key findings of the research activities, Dr. Alamgir said, “We studied the influence of metal properties on catalytic activity and the energy cost of a reaction, then concluded that selecting materials and the role of supporting structure are highly important.  We also explored the use of graphene as a diffusion barrier, maintaining the architecture and properties of the catalyst resulting in successful implementation of graphene in catalysts, demonstrating its potential for preserving the catalyst's activity and stability.”  </p>"
+            ],
+            [
+                "<p>Dr. Alamgir earned his B.S. degree in Physics and Mathematics (magna cum laude) from the Coe College and his Ph.D. in Materials Science and Engineering from Lehigh University. He held a postdoctoral position jointly between Brookhaven National Laboratory (BNL) and Hunter College of the City University of New York (CUNY) and a simultaneous position as adjunct professor at the CUNY Hunter College, where he taught physics courses. Dr. Alamgir is currently a Professor in the School of Materials Science and Engineering (MSE) and an initiative Lead in the Institute of Materials at the Georgia Institute of Technology (GT). As a faculty at MSE, he focuses on teaching the atomic-scale fundamentals of structure-property relations and on materials characterization. As the Initiative Lead for the Institute of Material at GT, he focuses on developing next generation capabilities in materials characterization. Prior to joining GT, he spent 1.5 years at the National Institute of Standards and Technology as a Visiting Scientist to help develop experimental capabilities at their hard x-ray spectroscopy beamline at Brookhaven National Laboratory.  </p>"
+            ],
+            [
+                "<p>Dr. Alamgir is listed as a Google Scholar at  <a href=\"https://scholar.google.com/citations?user=CT721oIAAAAJ&hl=en\" target=\"_blank\">https://scholar.google.com/citations?user=CT721oIAAAAJ&hl=en</a></p>"
+            ],
+            [
+                "<p>Watch the full discussion on the NewHydrogen Podcast featuring Dr. Alamgir at <a href=\"https://newhydrogen.com/videos/ceo-podcast/dr-faisal-alamgir-georgia-institute-of-technology\" target=\"_blank\">https://newhydrogen.com/videos/ceo-podcast/dr-faisal-alamgir-georgia-institute-of-technology</a> </p>"
+            ],
+            [
+                "<p>For more information about NewHydrogen, please visit <a href=\"https://newhydrogen.com/\">https://newhydrogen.com/</a></p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
+        'id' => "49",
+        'title' => "NewHydrogen CEO Steve Hill Discusses Hydrogen's Role in Future Fuels with Georgia Tech Energy and Environment Expert",
+        'date' => "December 19, 2023",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of a breakthrough technology that uses clean energy and water to produce the world’s cheapest green hydrogen, today announced that in a recent podcast the Company’s CEO Steve Hill spoke with Dr. Valerie M. Thomas, Georgia Tech Andersen Interface Chair of Natural Systems in the H. Milton Stewart School of Industrial and Systems Engineering and in the School of Public Policy regarding the challenges and opportunities in evaluating the carbon footprint of different fuels. Their discussion provided a comprehensive overview of the current state and future possibilities of hydrogen as a pivotal component in the global transition to sustainable energy",
+        'description' => [
+            [
+                "<p><strong>Dr. Valerie Thomas explores hydrogen's potential to decarbonize the global energy system </strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (December 19, 2023) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of a breakthrough technology that uses clean energy and water to produce the world’s cheapest green hydrogen, today announced that in a recent podcast the Company’s CEO Steve Hill spoke with Dr. Valerie M. Thomas, Georgia Tech Andersen Interface Chair of Natural Systems in the H. Milton Stewart School of Industrial and Systems Engineering and in the School of Public Policy regarding the challenges and opportunities in evaluating the carbon footprint of different fuels. Their discussion provided a comprehensive overview of the current state and future possibilities of hydrogen as a pivotal component in the global transition to sustainable energy. </p>"
+            ],
+            [
+                "<p>The podcast began with an exploration of the complexities surrounding the assessment of carbon footprints, especially in the context of low carbon fuel standards. Dr. Thomas said, “The conclusion of our recent National Academies study was not about which fuel was better, but rather about the ability to evaluate different methods and the need for further research. Rather, I would like to emphasize the need for robust evaluation methods and further research in the field.” </p>"
+            ],
+            [
+                "<p>Both Mr. Hill and Dr. Thomas underscored the inevitability of a diverse fuel landscape. Dr. Thomas said, “A mix of fuels would likely be necessary, with the need for change and acceleration towards lower carbon emitting fuels recognizing the critical role of advancements in technology and policy frameworks.” </p>"
+            ],
+            [
+                "<p>A significant highlight of the conversation was Dr. Thomas's insights into the potential of using ammonia as a hydrogen carrier for transportation. She emphasized its feasibility for energy storage and shared details about an ongoing demonstration at the Port of Savannah, where ammonia is being explored as a low carbon fuel. The demonstration aims to showcase the practical applications of ammonia in maritime transportation.  </p>"
+            ],
+            [
+                "<p>Mr. Hill expressed enthusiasm about these groundbreaking developments and delved into the process of deconstructing ammonia back into hydrogen. Dr. Thomas added, “In this specific application, the ammonia would be combusted directly as a fuel, eliminating the need to separate hydrogen.” Both concurred on the efficiency and practicality of ammonia as an energy carrier, given its existing infrastructure and higher energy value.   </p>"
+            ],
+            [
+                "<p>Mr. Hill concluded, “In addition to the further advancements in cheap green hydrogen production technology that will help complete the transition to sustainable hydrogen economy, we acknowledge the importance of building public awareness about the benefits of technologies.”   </p>"
+            ],
+            [
+                "<p>The podcast concluded with a forward-looking discussion on the current state and future trajectory of renewable energy, with a particular focus on hydrogen as a key fuel. Mr. Hill and Dr. Thomas painted an optimistic picture of a future where sustainable and innovative energy solutions play a central role in addressing global energy challenges.  </p>"
+            ],
+            [
+                "<p>Dr. Thomas received a PhD in physics from Cornell University. She is the Georgia Tech Anderson-Interface Chair of Natural Systems in the H. Milton Stewart School of Industrial and Systems Engineering, and in the School of Public Policy. Her research is in environmental lifecycle analysis, energy systems analysis, industrial ecology, and sustainability. She chaired the U.S. National Academies’ Committee on Current Methods for Life Cycle Analyses of Low Carbon Transportation Fuels in the United States and has been a member of the US EPA Science Advisory Board. Dr. Thomas is listed as a Google Scholar at  <a href=\"https://scholar.google.com/citations?user=KgIcD3cAAAAJ&hl=en\" target=\"_blank\">https://scholar.google.com/citations?user=KgIcD3cAAAAJ&hl=en</a></p>"
+            ],
+            [
+                "<p>The full podcast episode featuring Dr. Valerie Thomas is available on <a href=\"https://newhydrogen.com/single-video.php?id=DcKvQOTSxYs\" target=\"_blank\">https://newhydrogen.com/single-video.php?id=DcKvQOTSxYs</a> </p>"
+            ],
+            [
+                "<p>For more information about NewHydrogen, please visit <a href=\"https://newhydrogen.com/\">https://newhydrogen.com/</a></p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
+        'id' => "48",
+        'title' => "NewHydrogen CEO Steve Hill Discusses Green Hydrogen Potential with Sustainability and Clean Energy Expert",
+        'date' => "December 5, 2023",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of a breakthrough technology that uses clean energy and water to produce the world’s cheapest green hydrogen, today announced that in a recent podcast the Company’s CEO Steve Hill spoke with Dr. Pradeep Haldar, director of sustainable business practices at the Patel College of Global Sustainability, University of South Florida […]
+        ",
+        'description' => [
+            [
+                "<p><strong>Dr. Pradeep Haldar emphasized the need for significant cost reductions in green hydrogen production, aligning with the Department of Energy's Hydrogen Shot program  </strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (December 5, 2023) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of a breakthrough technology that uses clean energy and water to produce the world’s cheapest green hydrogen, today announced that in a recent podcast the Company’s CEO Steve Hill spoke with Dr. Pradeep Haldar, director of sustainable business practices at the Patel College of Global Sustainability, University of South Florida.   </p>"
+            ],
+            [
+                "<p>During the conversation, Dr. Haldar discussed the need for incentives to encourage industries to adopt greener hydrogen production methods and the potential role of the federal government in the adoption of hydrogen. He emphasized the need for significant cost reductions in hydrogen production, aligning with the Department of Energy's Hydrogen Shot program, and identified scaling up as a significant challenge, emphasizing the need for large-scale manufacturing and investment in 'giga factories'.  </p>"
+            ],
+            [
+                "<p>On the use of hydrogen in the renewable energy sector. Dr. Pradeep said, “Hydrogen is already used in various sectors and could potentially replace fossil energy in the future. While the cost of production remains high, it has the potential to contribute to reducing greenhouse gas emissions by at least 10-15% by 2030.”   </p>"
+            ],
+            [
+                "<p>On the potential of hydrogen as an energy source and the federal government's role in its adoption, Dr. Pradeep said, “There is a need for the cost of hydrogen to decrease significantly, aiming for a dollar per kilogram production cost within the next decade. This goal aligns with the Department of Energy's Hydrogen Shot program.” He compared this initiative to similar efforts in solar and battery energy storage, noting that these technologies have become commoditized due to significant cost reductions. Dr. Pradeep also identified scaling up as a significant challenge for fledgling technologies, citing the need for large-scale manufacturing and investment in 'giga factories'.  </p>"
+            ],
+            [
+                "<p>Both agreed on the importance of building public awareness about the benefits of technologies. They also discussed the need for new technologies and expressed optimism about the future of their industry.   </p>"
+            ],
+            [
+                "<p>Mr. Hill concluded, “In addition to the further advancements in cheap green hydrogen production technology that will help complete the transition to sustainable hydrogen economy, we acknowledge the importance of building public awareness about the benefits of technologies.”   </p>"
+            ],
+            [
+                "<p>Dr. Haldar is an adjunct professor at the Patel College of Global Sustainability and a Fulbright Scholar. He currently serves as president at Halovation, a management and technology consulting organization for energy, semiconductor and materials technology based in the Tampa Bay Area. He previously served in multiple roles in industry and academia that included: president and chief operating officer of Dais Corporation, a publicly traded company providing nanotechnology products for energy, air and water industries located in Tampa Bay, Florida; vice president of Entrepreneurship, Innovation and Clean Energy Programs at the Colleges of Nanoscale Science and Engineering (CNSE) at State University of New York, University at Albany, New York (now SUNY Poly); chief operating and technical officer of the U.S. Photovoltaic Manufacturing Consortium (USPVMC) in partnership with SEMATECH; professor and head of NanoEconomics and NanoEngineering at CNSE; and director of the Energy and Environmental Technology Applications Center at CNSE. Prior to joining SUNY, Dr. Haldar founded and served as general manager and director of technology, of rapidly growing SuperPower (now part of Furukawa), a start-up and new spin-out subsidiary of Intermagnetics (now Philips). Dr. Haldar received his Ph.D. from Northeastern University and an MBA from Rensselaer Polytechnic Institute. </p>"
+            ],
+            [
+                "<p>Watch the full discussion on the NewHydrogen Podcast featuring Dr. Noufal at <a href=\"https://newhydrogen.com/single-video.php?id=YpCaGT-V1FA\" target=\"_blank\">https://newhydrogen.com/single-video.php?id=YpCaGT-V1FA</a> </p>"
+            ],
+            [
+                "<p>For more information about NewHydrogen, please visit <a href=\"https://newhydrogen.com/\">https://newhydrogen.com/</a></p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "47",
         'title' => "NewHydrogen CEO Steve Hill Discusses Advancements in Sustainable Hydrogen Catalysts with Hampton University Energy Expert ",
         'date' => "November 21, 2023",

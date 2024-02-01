@@ -1,6 +1,30 @@
 <?php
 $videos = [
     [
+        'title' => "Dr. Ben Emerson Georgia Tech",
+        'videoID' => "SK6lcbTVM3g",
+        'date' => "January 16, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "dr-ben-emerson-georgia-tech",
+        "display" => true
+    ],
+    [
+        'title' => "Dr. Faisal Alamgir - Georgia Institute of Technology",
+        'videoID' => "-nL_QZpENBk",
+        'date' => "January 2, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "dr-faisal-alamgir-georgia-institute-of-technology",
+        "display" => true
+    ],
+    [
+        'title' => "The Rise of Hydrogen in Heavy Transportation",
+        'videoID' => "K9io-BTYPII",
+        'date' => "December 12, 2023",
+        'category' => "news-commentary",
+        'slug' => "the-rise-of-hydrogen-in-heavy-transportation",
+        "display" => true
+    ],
+    [
         'title' => "Dr. Mohamed F Sanad Noufal Hampton University",
         'videoID' => "at3pL6ooXCo",
         'date' => "November 21, 2023",
@@ -14,30 +38,6 @@ $videos = [
         'date' => "November 7, 2023",
         'category' => "ceo-podcast",
         'slug' => "alan-lloyd",
-        "display" => true
-    ],
-    [
-        'title' => "Hydrogen Reservoir Discovered!",
-        'videoID' => "HY9f8esnfio",
-        'date' => "November 4, 2023",
-        'category' => "news-commentary",
-        'slug' => "hydrogen-reservoir-discovered",
-        "display" => true
-    ],
-    [
-        'title' => "Johannes Schwank - University of Michigan",
-        'videoID' => "ywfKFPCIdHk",
-        'date' => "October 9, 2023",
-        'category' => "ceo-podcast",
-        'slug' => "johannes-schwank-university-of-michigan",
-        "display" => true
-    ],
-    [
-        'title' => "Dr. Chengzhang Wan - UCLA",
-        'videoID' => "ugybxCsUKa8",
-        'date' => "October 24, 2023",
-        'category' => "ceo-podcast",
-        'slug' => "dr-chengzhang-wan-ucla",
         "display" => true
     ]
 ];

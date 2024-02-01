@@ -1,6 +1,462 @@
 <?php
 $videos = [
     [
+        'title' => "Dr. Jeffrey Reed - UC Irvine",
+        'videoID' => "JcE8xrs2njk",
+        'date' => "January 30, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "dr-jeffrey-reed-uc-irvine",
+        "display" => true
+    ],
+    [
+        'title' => "Dr. Sanjeev Mukerjee - Northeastern University",
+        'videoID' => "muY0KNMRMXU",
+        'date' => "January 24, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "dr-sanjeev-mukerjee-northeastern-university",
+        "display" => false
+    ],
+    [
+        'title' => "Dr. Jing Gu - San Diego State University",
+        'videoID' => "OBq2MwGHSgs",
+        'date' => "January 19, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "dr-jing-su-san-diego-state-university",
+        "display" => false
+    ],
+    [
+        'title' => "Dr. Ben Emerson Georgia Tech",
+        'videoID' => "SK6lcbTVM3g",
+        'date' => "January 16, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "dr-ben-emerson-georgia-tech",
+        "display" => true
+    ],
+    [
+        'title' => "Dr. Kurt Kornbluth - UC Davis",
+        'videoID' => "rK2JgNjbrko",
+        'date' => "January 13, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "dr-kurt-kornbluth-uc-davis",
+        "display" => false
+    ],
+    [
+        'title' => "Dr. Faisal Alamgir - Georgia Institute of Technology",
+        'videoID' => "PL-JaIzTV0U",
+        'date' => "January 2, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "dr-faisal-alamgir-georgia-institute-of-technology",
+        "display" => true
+    ],
+    [
+        'title' => "Dr. William Eckenhoff - Rhodes College",
+        'videoID' => "6S06yhKlDjc",
+        'date' => "December 16, 2023",
+        'category' => "ceo-podcast",
+        'slug' => "dr-william-eckenhoff-rhodes-college",
+        "display" => false
+    ],
+    [
+        'title' => "Our Thermoloop technology is ahead of it's time and it's time to pay attention!",
+        'videoID' => "fdrFRPiTawc",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "our-thermoloop-technology-is-ahead-of-it-time-and-it-time-to-pay-attention",
+        "display" => true
+    ],
+    [
+        'title' => "The Cat is Out The Hat",
+        'videoID' => "AZTFF1-SOEw",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-cat-is-out-the-hat",
+        "display" => true
+    ],
+    [
+        'title' => "Hydrogen WILL be a major part of the green energy movement!",
+        'videoID' => "Q65KaTHICWk",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "hydrogen-wILL-be-a-major-part-of-the-green-energy-movement",
+        "display" => true
+    ],
+    [
+        'title' => "Light pollution is dark topic",
+        'videoID' => "rOkH4zkWmkA",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "light-pollution-is-dark-topic",
+        "display" => true
+    ],
+    [
+        'title' => "If you love the planet, please share!",
+        'videoID' => "_bEP2-5z20k",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "if-you-love-the-planet-please-share",
+        "display" => true
+    ],
+    [
+        'title' => "Hydrogen can reshape many industries for the better.",
+        'videoID' => "UjAHbikLlIQ",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "hydrogen-can-reshape-many-industries-for-the-better",
+        "display" => true
+    ],
+    [
+        'title' => "Did you know lowering hydrogen cost can lower the cost of producing essentials like food?",
+        'videoID' => "LI3bNGW6GWE",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "did-you-know-lowering-hydrogen-cost-can-lower-the-cost-of-producing-essentials-like-food",
+        "display" => true
+    ],
+    [
+        'title' => "High Yields, Low Prices",
+        'videoID' => "DfTlSCJh8jo",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "high-yields-low-prices",
+        "display" => true
+    ],
+    [
+        'title' => "Sky high or long-haul....",
+        'videoID' => "M-1kux_WZxg",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "sky-high-or-long-haul",
+        "display" => true
+    ],
+    [
+        'title' => "Travel with peace of mind (and wallet) ✈️",
+        'videoID' => "5Thjkn9XfpM",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "travel-with-peace-of-mind",
+        "display" => true
+    ],
+    [
+        'title' => "Rooted in Science 🌱",
+        'videoID' => "MwngX7Uul3A",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "rooted-in-science",
+        "display" => true
+    ],
+    [
+        'title' => "The Season of Sustainability",
+        'videoID' => "bavuhT3JpTA",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-season-of-sustainability",
+        "display" => true
+    ],
+    [
+        'title' => "Driving progress forward, faster than ever before! 🚗",
+        'videoID' => "0_-146E7bfw",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "driving-progress-forward-faster-than-ever-before",
+        "display" => true
+    ],
+    [
+        'title' => "In for the Long-Haul 🚛",
+        'videoID' => "kMmRRc2eOn4",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "in-for-the-long-haul",
+        "display" => true
+    ],
+    [
+        'title' => "First Place in Power 🥇",
+        'videoID' => "Ea4DMnJ5y0o",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "first-place-in-power",
+        "display" => true
+    ],
+    [
+        'title' => "We're Going the Distance",
+        'videoID' => "L_b_Uz49xE0",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "we-are-going-the-distance",
+        "display" => true
+    ],
+    [
+        'title' => "Doing more, for less!",
+        'videoID' => "sikp8AyYzkY",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "doing-more-for-less",
+        "display" => true
+    ],
+    [
+        'title' => "The Green Light on Renewable Energy!",
+        'videoID' => "7dpkuZmNAD0",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-green-light-on-renewable-energy",
+        "display" => true
+    ],
+    [
+        'title' => "Solutions for the Long-haul!",
+        'videoID' => "l54vFjz7GS8",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "solutions-for-the-long-haul",
+        "display" => true
+    ],
+    [
+        'title' => "Going into the science....",
+        'videoID' => "x8vyQVKuUcI",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "going-into-the-science",
+        "display" => true
+    ],
+    [
+        'title' => "What is your story?",
+        'videoID' => "nlyfGlfpjkU",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "what-is-your-story",
+        "display" => true
+    ],
+    [
+        'title' => "This is what you waited for!",
+        'videoID' => "GNjen89LYR8",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "this-is-what-you-waited-for",
+        "display" => true
+    ],
+    [
+        'title' => "Clean, green hydrogen is no longer just a vision of the future- it's becoming tangible, today.",
+        'videoID' => "Xd7JUQhqGOY",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "clean-green-hydrogen-is-no-longer-just-a-vision-of-the-future-it's-becoming-tangible-today",
+        "display" => true
+    ],
+    [
+        'title' => "Taking science out of the beakers",
+        'videoID' => "VTDk_hDC8cc",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "taking-science-out-of-the-beakers",
+        "display" => true
+    ],
+    [
+        'title' => "Breaking Barriers for Cost-Effective Renewable Energy!",
+        'videoID' => "wx8fqmZ1UFA",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "breaking-barriers-for-cost-effective-renewable-energy",
+        "display" => true
+    ],
+    [
+        'title' => "To find out how you can be a part of the renewable revolution",
+        'videoID' => "LZIdfHQ-v6o",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "to-find-out-how-you-can-be-a-part-of-the-renewable-revolution",
+        "display" => true
+    ],
+    [
+        'title' => "The spark of progress toward a healthier energy-ecosystem is here!",
+        'videoID' => "WxYz-_LracA",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-spark-of-progress-toward-a-healthier-energy-ecosystem-is-here",
+        "display" => true
+    ],
+    [
+        'title' => "The Faster Way to Take Flight",
+        'videoID' => "L1N2yju7LFE",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-faster-way-to-take-flight",
+        "display" => true
+    ],
+    [
+        'title' => "From the Ocean to the Stars!",
+        'videoID' => "wqZz8Cc6r-g",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "from-the-ocean-to-the-stars",
+        "display" => true
+    ],
+    [
+        'title' => "What is the most versatile element?",
+        'videoID' => "00A36FrtBJo",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "what-is-the-most-versatile-element",
+        "display" => true
+    ],
+    [
+        'title' => "The foundation of the future",
+        'videoID' => "mV7PrOnSpFM",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-foundation-of-the-future",
+        "display" => true
+    ],
+    [
+        'title' => "With only steam as an emission",
+        'videoID' => "f1fkDcuUaAE",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "with-only-steam-as-an-emission",
+        "display" => true
+    ],
+    [
+        'title' => "The future of renewable energy is coming. Will you be a part of it?",
+        'videoID' => "jN6HWj3HDgg",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-future-of-renewable-energy-is-coming-Will-you-be-a-part-of-it",
+        "display" => true
+    ],
+    [
+        'title' => "More than just the fuel of the future",
+        'videoID' => "YyHxSZEUe9U",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "more-than-just-the-fuel-of-the-future",
+        "display" => true
+    ],
+    [
+        'title' => "clean, green hydrogen has the potential to power the world well beyond just electricity.",
+        'videoID' => "S4V_ngRY5Oo",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "clean-green-hydrogen-has-the-potential-to-power-the-world-well-beyond-just-electricity",
+        "display" => true
+    ],
+    [
+        'title' => "As carbon-reducing policies take hold worldwide",
+        'videoID' => "I5VcyEtreC0",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "as-carbon-reducing-policies-take-hold-worldwide",
+        "display" => true
+    ],
+    [
+        'title' => "The rainbow of possibilities for the world's most abundant element cannot be overstated.",
+        'videoID' => "3FIVoLs2eIg",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-rainbow-of-possibilities-for-the-world-most-abundant-element-cannot-be-overstated",
+        "display" => true
+    ],
+    [
+        'title' => "This is the Future of Long-Distance Travel",
+        'videoID' => "832z-7VmcmY",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "this-is-the-future-of-long-distance-travel",
+        "display" => true
+    ],
+    [
+        'title' => "Take a guess as to when the first zero-emission vehicle was created",
+        'videoID' => "LTub7TEH2Pg",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "take-a-guess-as-to-when-the-first-zero-emission-vehicle-was-created",
+        "display" => true
+    ],
+    [
+        'title' => "What to do with wastewater?",
+        'videoID' => "MuPu0A8nMIA",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "what-to-do-with-wastewater",
+        "display" => true
+    ],
+    [
+        'title' => "Why Toyota won't give up on hydrogen fuel cells",
+        'videoID' => "9aYbq2aEelI",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "why-toyota-wont-give-up-on-hydrogen-fuel-cells",
+        "display" => true
+    ],
+    [
+        'title' => "A closer look at energy on a global scale",
+        'videoID' => "o615-PeLET0",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "a-closer-look-at-energy-on-a-global-scale",
+        "display" => true
+    ],
+    [
+        'title' => "The greatest tool for decarbonization is coming now!",
+        'videoID' => "ZwL3phtN4hA",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-greatest-tool-for-decarbonization-is-coming-now",
+        "display" => true
+    ],
+    [
+        'title' => "Taller than the Statue of Liberty!",
+        'videoID' => "u4W1WBqlWDM",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "taller-than-the-statue-of-liberty",
+        "display" => true
+    ],
+    [
+        'title' => "The Expert Opinion on Hydrogen Combustion",
+        'videoID' => "9CqiCLyVhy8",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-expert-opinion-on-hydrogen-combustion",
+        "display" => true
+    ],
+    [
+        'title' => "The Power Possible in a Bottle of Water",
+        'videoID' => "vYpU8y3xkxA",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-power-possible-in-a-bottle-of-water",
+        "display" => true
+    ],
+    [
+        'title' => "The future of cars is coming: this is what's driving it!",
+        'videoID' => "S3U4Gt0jwRs",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-future-of-cars-is-coming-this-is-what-driving-it",
+        "display" => true
+    ],
+    [
+        'title' => "What is ammonia actually used for? Hint- it's a lot!",
+        'videoID' => "P93p9YkQ_-E",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "what-is-ammonia-actually-used-for",
+        "display" => true
+    ],
+    [
+        'title' => "What can you do with $12 TRILLION in pennies?",
+        'videoID' => "F6Seknou9Vs",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "what-can-you-do-with-12-trillion-in-pennies",
+        "display" => true
+    ],
+    [
+        'title' => "Did you know we've had zero-emission vehicles since the 90's?",
+        'videoID' => "zv-GNaBJvUg",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "did-you-know-we-had-zero-emission-vehicles-since-the-90",
+        "display" => true
+    ],
+    [
         'title' => "It’s time to stop focusing on yesterday’s technology and start innovating for tomorrow.",
         'videoID' => "KZQoy1kXV3M",
         'date' => "",
@@ -504,6 +960,23 @@ $videos = [
         'slug' => "the-best-way-to-go-about-changing-the-world-is-to-make-it-a-better-and-safer-place-to-live",
         "display" => true
     ],
+  
+    [
+        'title' => "David Bleckham - Cal State University Los Angeles",
+        'videoID' => "0YbvntRQ7IM",
+        'date' => "December 20, 2023",
+        'category' => "ceo-podcast",
+        'slug' => "david-bleckham-cal-state-university-los-angeles",
+        "display" => true
+    ],
+    [
+        'title' => "Valerie Thomas Georgia Tech",
+        'videoID' => "DcKvQOTSxYs",
+        'date' => "December 19, 2023",
+        'category' => "ceo-podcast",
+        'slug' => "valerie-thomas-georgia-tech",
+        "display" => true
+    ],
     [
         'title' => "Andrew Thomas - Cleveland State University",
         'videoID' => "IrSEdtDAgsM",
@@ -520,14 +993,7 @@ $videos = [
         'slug' => "dr-mohamed-f-sanad-noufal-hampton-university",
         "display" => true
     ],
-    [
-        'title' => "Dr. Faisal Alamgir - Georgia Institute of Technology",
-        'videoID' => "-nL_QZpENBk",
-        'date' => "November 15, 2023",
-        'category' => "ceo-podcast",
-        'slug' => "dr-faisal-alamgir-georgia-institute-of-technology",
-        "display" => false
-    ],
+    
     [
         'title' => "Alan Lloyd",
         'videoID' => "eNg6arNE7S0",
@@ -536,14 +1002,7 @@ $videos = [
         'slug' => "alan-lloyd",
         "display" => true
     ],
-    [
-        'title' => "Dr. Jeffrey Reed - UC Irvine",
-        'videoID' => "JcE8xrs2njk",
-        'date' => "November 6, 2023",
-        'category' => "ceo-podcast",
-        'slug' => "dr-jeffrey-reed-uc-irvine",
-        "display" => false
-    ],
+   
     [
         'title' => "Dr. Kevin Huang - University of South Carolina",
         'videoID' => "dYo4duianfg",
@@ -552,21 +1011,23 @@ $videos = [
         'slug' => "dr-kevin-huang-university-of-south-carolina",
         "display" => false
     ],
+   
+   
     [
-        'title' => "Dr. Ben Emerson Georgia Tech",
-        'videoID' => "SK6lcbTVM3g",
-        'date' => "October 21, 2023",
-        'category' => "ceo-podcast",
-        'slug' => "dr-ben-emerson-georgia-tech",
-        "display" => false
+        'title' => "The Rise of Hydrogen in Heavy Transportation",
+        'videoID' => "K9io-BTYPII",
+        'date' => "December 12, 2023",
+        'category' => "news-commentary",
+        'slug' => "the-rise-of-hydrogen-in-heavy-transportation",
+        "display" => true
     ],
     [
-        'title' => "Valerie Thomas Georgia Tech",
-        'videoID' => "DcKvQOTSxYs",
-        'date' => "October 16, 2023",
-        'category' => "ceo-podcast",
-        'slug' => "valerie-thomas-georgia-tech",
-        "display" => false
+        'title' => "Dr. Pradeep Haldar University of South Florida",
+        'videoID' => "YpCaGT-V1FA",
+        'date' => "December 5, 2023",
+        'category' => "news-commentary",
+        'slug' => "dr-pradeep-haldar-university-of-south-florida",
+        "display" => true
     ],
     [
         'title' => "Hydrogen Reservoir Discovered!",
@@ -616,14 +1077,7 @@ $videos = [
         'slug' => "johannes-schwank-university-of-michigan",
         "display" => true
     ],
-    [
-        'title' => "Dr. Pradeep Haldar University of South Florida",
-        'videoID' => "YpCaGT-V1FA",
-        'date' => "September 28, 2023",
-        'category' => "ceo-podcast",
-        'slug' => "dr-pradeep-haldar-university-of-south-florida",
-        "display" => false
-    ],
+ 
   
     [
         'title' => "Eugene Holubnyak - Hydrogen Energy Research Center",

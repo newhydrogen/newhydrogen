@@ -1,5 +1,13 @@
 $(function () {
-
+    $(window).scroll(function() {    
+        var scroll = $(window).scrollTop();
+    
+        if (scroll >= 10) {
+            $(".header-top").addClass("scrolled");
+        } else {
+            $(".header-top").removeClass("scrolled");
+        }
+    });
     $('.popup-youtube').magnificPopup({
         type: 'iframe',
         iframe: {
