@@ -1,6 +1,14 @@
 <?php
 $videos = [
     [
+        'title' => "Safeguards for Electrolyzers & Reconsidering Electric Vehicles",
+        'videoID' => "MRbz_ZYPCXY",
+        'date' => "February 1, 2024",
+        'category' => "news-commentary",
+        'slug' => "safeguards-for-electrolyzers-&-reconsidering-electric-vehicles",
+        "display" => true
+    ],
+    [
         'title' => "Dr. Jeffrey Reed - UC Irvine",
         'videoID' => "JcE8xrs2njk",
         'date' => "January 30, 2024",
