@@ -5427,3 +5427,21 @@
         padding-top: 150px;
     }
 }
+.fl-statement{
+    background: #ECECEC;
+    text-align: center;
+    padding: 15px 0px;
+    box-shadow: 0 -0.1rem 1rem rgba(0,0,0,.15);
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+    z-index: 9999;
+    height: 56px;
+    display: flex;
+    align-items: center;
+    a{
+        color: #000;
+        font-size: 24px;
+    }
+}

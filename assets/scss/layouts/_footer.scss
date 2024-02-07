@@ -1,6 +1,6 @@
 footer {
     background: #000;
-    padding: 152px 0 49px;
+    padding: 152px 0 101px;
     text-align: center;
     p{
         color: #686868;
@@ -65,11 +65,18 @@ footer {
     justify-content: center;
     align-items: center;
     gap: 60px;
-    margin-bottom: 146px;
+    margin-bottom: 73px;
     a {
         font-weight: 500;
         font-size: 13px;
         line-height: 140%;
         color: #EFEFEF;
+    }
+}
+.fls-text{
+    max-width: 1020px;
+    margin: 0 auto 72px;
+    p{
+        color: #efefef;
     }
 }
