@@ -124,12 +124,41 @@
     ?>
 
 
-    <iframe src="https://api.leadconnectorhq.com/widget/form/9PwuXNEKYBvCg6S5H7bC" style="display:none;width:100%;height:100%;border:none;border-radius:3px" id="popup-9PwuXNEKYBvCg6S5H7bC" data-layout="{'id':'POPUP'}" data-trigger-type="showAfter" data-trigger-value="5" data-activation-type="alwaysActivated" data-activation-value="" data-deactivation-type="leadCollected" data-deactivation-value="" data-form-name="Text Alerts" data-height="514" data-layout-iframe-id="popup-9PwuXNEKYBvCg6S5H7bC" data-form-id="9PwuXNEKYBvCg6S5H7bC" title="Text Alerts"> </iframe>
-        <script src="https://link.msgsndr.com/js/form_embed.js"></script>
+    <?php
+    $page_name = basename($_SERVER['PHP_SELF']);
+    if ($page_name != "index.php" && $page_name != "" && $page_name != "/") {
+    ?>
+        <style>
+            .ep-iFrameContainer.ep-popup.ep-iFrameLarge {
+                height: auto;
+                padding: 0px;
+                background-color: transparent !important;
+            }
 
-        <!-- Hedaer -->
-        <header class="header-top">
-            <?php if($page_name != "3reasons.php") {?>
+            .ep-close-icon {
+                padding: 5px 10px 15px !important;
+                border: 5px solid black !important;
+                position: relative;
+                top: 20px !important;
+                font-size: 35px !important;
+                font-family: Arial, Helvetica, sans-serif !important;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+            }
+
+            .ep-iFrame {
+                margin-top: 145px;
+            }
+        </style>
+        <iframe src="https://api.leadconnectorhq.com/widget/form/9PwuXNEKYBvCg6S5H7bC" style="display:none;width:100%;height:100%;border:none;border-radius:0px" id="popup-9PwuXNEKYBvCg6S5H7bC" data-layout="{'id':'POPUP'}" data-trigger-type="alwaysShow" data-trigger-value="" data-activation-type="alwaysActivated" data-activation-value="" data-deactivation-type="neverDeactivate" data-deactivation-value="" data-form-name="Text Alerts" data-height="340" data-layout-iframe-id="popup-9PwuXNEKYBvCg6S5H7bC" data-form-id="9PwuXNEKYBvCg6S5H7bC" title="Text Alerts">
+
+        </iframe>
+        <script src="https://link.msgsndr.com/js/form_embed.js"></script>
+    <?php } ?>
+    <!-- Hedaer -->
+    <header class="header-top">
+        <?php if ($page_name != "3reasons.php") { ?>
             <div class="invest-bar">
                 <div class="container">
                     <div class="invest-bar-content">
@@ -149,84 +178,84 @@
                     </div>
                 </div>
             </div>
-            <?php } ?>
+        <?php } ?>
 
-            <nav class="navbar navbar-expand-lg navbar-dark">
-                <div class="container">
-                    <a class="navbar-brand" href="/">
-                        <?php
-                        $page_name = basename($_SERVER['PHP_SELF']);
-                        if ($page_name == "applications.php") {
-                        ?>
-                            <img src="<?php echo  $full_url; ?>/assets/img/logo-light.png" class="the-header-logo" alt="logo">
-                        <?php } else { ?>
-                            <img src="<?php echo  $full_url; ?>/assets/img/logo-dark.png" class=" the-header-logo" alt="logo">
-                            <img src="<?php echo  $full_url; ?>/assets/img/logo-light.png" class="d-lg-none d-none the-header-logo" alt="logo">
-                        <?php } ?>
-                    </a>
-                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <nav class="navbar navbar-expand-lg navbar-dark">
+            <div class="container">
+                <a class="navbar-brand" href="/">
+                    <?php
+                    $page_name = basename($_SERVER['PHP_SELF']);
+                    if ($page_name == "applications.php") {
+                    ?>
+                        <img src="<?php echo  $full_url; ?>/assets/img/logo-light.png" class="the-header-logo" alt="logo">
+                    <?php } else { ?>
+                        <img src="<?php echo  $full_url; ?>/assets/img/logo-dark.png" class=" the-header-logo" alt="logo">
+                        <img src="<?php echo  $full_url; ?>/assets/img/logo-light.png" class="d-lg-none d-none the-header-logo" alt="logo">
+                    <?php } ?>
+                </a>
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 
-                        <svg width="25" height="18" viewBox="0 0 25 18" fill="none" xmlns="http://www.w3.org/2000/svg">
-                            <path d="M1 1H23.9921" stroke="#091113" stroke-width="2" stroke-linecap="round" />
-                            <path d="M1 8.5H23.9921" stroke="#091113" stroke-width="2" stroke-linecap="round" />
-                            <path d="M7.70602 16.5H23.9921" stroke="#091113" stroke-width="2" stroke-linecap="round" />
-                        </svg>
+                    <svg width="25" height="18" viewBox="0 0 25 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M1 1H23.9921" stroke="#091113" stroke-width="2" stroke-linecap="round" />
+                        <path d="M1 8.5H23.9921" stroke="#091113" stroke-width="2" stroke-linecap="round" />
+                        <path d="M7.70602 16.5H23.9921" stroke="#091113" stroke-width="2" stroke-linecap="round" />
+                    </svg>
 
-                    </button>
-                    <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                        <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-                            <li class="nav-item d-lg-none">
-                                <a class="nav-link <?php active('/'); ?>" href="/">Home</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link <?php active('market'); ?>" href="/market">Market</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link <?php active('breakthrough-tech'); ?>" href="/breakthrough-tech">Breakthrough Tech</a>
-                            </li>
-                            <!-- <li class="nav-item">
+                </button>
+                <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+                        <li class="nav-item d-lg-none">
+                            <a class="nav-link <?php active('/'); ?>" href="/">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link <?php active('market'); ?>" href="/market">Market</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link <?php active('breakthrough-tech'); ?>" href="/breakthrough-tech">Breakthrough Tech</a>
+                        </li>
+                        <!-- <li class="nav-item">
                         <a class="nav-link <?php active('electrolyzer-tech'); ?>" href="/electrolyzer-tech">Electrolyzer Tech</a>
                     </li> -->
-                            <li class="nav-item">
-                                <a class="nav-link <?php active('applications'); ?>" href="/applications">Applications</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link <?php active('news'); ?>" href="/news">Newsroom</a>
-                            </li>
+                        <li class="nav-item">
+                            <a class="nav-link <?php active('applications'); ?>" href="/applications">Applications</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link <?php active('news'); ?>" href="/news">Newsroom</a>
+                        </li>
 
 
 
-                            <li class="nav-item d-lg-none">
-                                <a class="nav-link <?php active('videos'); ?>" href="/videos">Videos</a>
-                            </li>
-                            <li class="nav-item d-lg-none">
-                                <a class="nav-link <?php active('investors'); ?>" href="/investors">Investors</a>
-                            </li>
-                            <li class="nav-item d-lg-none">
-                                <a class="nav-link <?php active('about-us'); ?>" href="/about-us">About</a>
-                            </li>
+                        <li class="nav-item d-lg-none">
+                            <a class="nav-link <?php active('videos'); ?>" href="/videos">Videos</a>
+                        </li>
+                        <li class="nav-item d-lg-none">
+                            <a class="nav-link <?php active('investors'); ?>" href="/investors">Investors</a>
+                        </li>
+                        <li class="nav-item d-lg-none">
+                            <a class="nav-link <?php active('about-us'); ?>" href="/about-us">About</a>
+                        </li>
 
-                            <li class="nav-item d-lg-none">
-                                <a class="nav-link <?php active('contact-us'); ?>" href="/contact-us">Contact</a>
-                            </li>
-                        </ul>
+                        <li class="nav-item d-lg-none">
+                            <a class="nav-link <?php active('contact-us'); ?>" href="/contact-us">Contact</a>
+                        </li>
+                    </ul>
 
-                        <ul class="navbar-nav d-none d-lg-flex rightNav">
-                            <li class="nav-item">
-                                <a class="nav-link <?php active('videos'); ?>" href="/videos">Videos</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link <?php active('investors'); ?>" href="/investors">Investors</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link <?php active('about-us'); ?>" href="/about-us">About</a>
-                            </li>
+                    <ul class="navbar-nav d-none d-lg-flex rightNav">
+                        <li class="nav-item">
+                            <a class="nav-link <?php active('videos'); ?>" href="/videos">Videos</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link <?php active('investors'); ?>" href="/investors">Investors</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link <?php active('about-us'); ?>" href="/about-us">About</a>
+                        </li>
 
-                            <li class="nav-item">
-                                <a class="nav-link <?php active('contact-us'); ?>" href="/contact-us">Contact</a>
-                            </li>
-                        </ul>
-                    </div>
+                        <li class="nav-item">
+                            <a class="nav-link <?php active('contact-us'); ?>" href="/contact-us">Contact</a>
+                        </li>
+                    </ul>
                 </div>
-            </nav>
-        </header>
+            </div>
+        </nav>
+    </header>
