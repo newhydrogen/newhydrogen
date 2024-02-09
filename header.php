@@ -126,7 +126,7 @@
 
     <?php
     $page_name = basename($_SERVER['PHP_SELF']);
-    if ($page_name != "index.php" || $page_name != "" || $page_name != "/") {
+    if ($page_name != "index.php" && $page_name != "" && $page_name != "/") {
     ?>
         <style>
             .ep-iFrameContainer.ep-popup.ep-iFrameLarge {
