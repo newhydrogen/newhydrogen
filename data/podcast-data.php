@@ -1,12 +1,28 @@
 <?php
 $videos = [
     [
+        'title' => "NewHydrogen News",
+        'videoID' => "i_MH3Z02LzE",
+        'date' => "February 12, 2024",
+        'category' => "news-commentary",
+        'slug' => "newHydrogen-news",
+        "display" => true
+    ],
+    [
         'title' => "Safeguards for Electrolyzers & Reconsidering Electric Vehicles",
         'videoID' => "MRbz_ZYPCXY",
         'date' => "February 1, 2024",
         'category' => "news-commentary",
         'slug' => "safeguards-for-electrolyzers-&-reconsidering-electric-vehicles",
         "display" => true
+    ],
+    [
+        'title' => "David Pruner - Texas Entrepreneurial Exchange for Energy",
+        'videoID' => "VSBqbBDOtxY",
+        'date' => "February 12, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "david-pruner-texas-entrepreneurial-exchange-for-energy",
+        "display" => false
     ],
     [
         'title' => "Dr. Jeffrey Reed - UC Irvine",
