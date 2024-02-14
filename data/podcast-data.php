@@ -17,6 +17,14 @@ $videos = [
         "display" => true
     ],
     [
+        'title' => "Dr. Kevin Huang - University of South Carolina",
+        'videoID' => "dYo4duianfg",
+        'date' => "November 6, 2023",
+        'category' => "ceo-podcast",
+        'slug' => "dr-kevin-huang-university-of-south-carolina",
+        "display" => true
+    ],
+    [
         'title' => "David Pruner - Texas Entrepreneurial Exchange for Energy",
         'videoID' => "VSBqbBDOtxY",
         'date' => "February 12, 2024",
@@ -1027,14 +1035,7 @@ $videos = [
         "display" => true
     ],
    
-    [
-        'title' => "Dr. Kevin Huang - University of South Carolina",
-        'videoID' => "dYo4duianfg",
-        'date' => "November 6, 2023",
-        'category' => "ceo-podcast",
-        'slug' => "dr-kevin-huang-university-of-south-carolina",
-        "display" => false
-    ],
+   
    
    
     [

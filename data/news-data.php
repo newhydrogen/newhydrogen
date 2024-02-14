@@ -3,6 +3,44 @@
 
 $news = [
     [
+        'id' => "54",
+        'title' => "NewHydrogen CEO Steve Hill Explores Cutting-Edge Green Hydrogen Production with Solid Oxide Fuel Cells Expert",
+        'date' => "February 13, 2024",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced a podcast featuring CEO Steve Hill and Dr. Kevin Huang, Professor of Mechanical Engineering at the University of South Carolina, discussing advancements in green hydrogen production",
+        'description' => [
+            [
+                "<p><strong>Dr. Kevin Huang provides insights into breakthrough methods for green hydrogen production and future applications  </strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (February 13, 2024) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced a podcast featuring CEO Steve Hill and Dr. Kevin Huang, Professor of Mechanical Engineering at the University of South Carolina, discussing advancements in green hydrogen production. </p>"
+            ],
+            [
+                "<p>In the conversation, Dr. Huang highlighted key methods for green hydrogen production, including alkaline and PEM electrolysis, solid-state oxide electrolysis, and solar thermal chemical processes. He emphasized solid oxide's potential efficiency, stating, \"Solid oxide, though less mature, has the highest potential due to its theoretical 100% efficiency.\" Dr. Huang also noted that cost and durability are significant issues for solid oxide power generation. </p>"
+            ],
+            [
+                "<p>The discussion delved into the cost of green hydrogen, with a focus on the US Department of Energy's target of achieving $1 per kilogram by 2030. Dr. Huang expressed hope in hydrogen hubs to scale production and reduce costs.  </p>"
+            ],
+            [
+                "<p>Dr. Huang underscored the importance of scaling up hydrogen production, making it accessible, and addressing storage challenges, saying, \"I would like to emphasize the importance of scaling up hydrogen production, making it accessible, and addressing the challenge of storage.\"  </p>"
+            ],
+            [
+                "<p>The conversation concluded with optimism about the future of green hydrogen production technology and its role in transitioning to a sustainable hydrogen economy. </p>"
+            ],
+            [
+                "<p>Dr. Huang holds a Ph.D. in Physical Chemistry from University of Science and Technology, Beijing, M.S and B.S in Physical Chemistry from Northeastern University, Shenyang. Dr. Huang currently serves as a professor and SmartState Endowed Chair and Director of the Center for Solid Oxide Fuel Cells at University of South Carolina. During his distinguished career, Dr. Huang has dedicated his research to a fascinating array of topics, including solid oxide electrochemical cells, storage batteries, gas separation, membranes, solid state defect, electrochemistry, and multi scale computational modeling. Dr. Huang is listed as Google Scholar at <a href=\"https://scholar.google.com/citations?user=yp3hWIsAAAAJ&hl=en\">https://scholar.google.com/citations?user=yp3hWIsAAAAJ&hl=en</a>. </p>"
+            ],
+            [
+                "<p>Watch the full discussion on the NewHydrogen Podcast featuring Dr. Kevin Huang at <a href=\"https://newhydrogen.com/videos/ceo-podcast/dr-kevin-huang-university-of-south-carolina\" target=\"_blank\">https://newhydrogen.com/videos/ceo-podcast/dr-kevin-huang-university-of-south-carolina</a></p>"
+            ],
+
+            [
+                "<p>For more information about NewHydrogen, please visit <a href=\"https://newhydrogen.com/\">https://newhydrogen.com/</a></p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "53",
         'title' => "NewHydrogen CEO Steve Hill Discusses Renewable Energy for a Sustainable Future with UCI Expert",
         'date' => "January 30, 2024",
