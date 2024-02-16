@@ -18,7 +18,7 @@ $videos = [
     ],
     [
         'title' => "Dr. Faisal Alamgir - Georgia Institute of Technology",
-        'videoID' => "-nL_QZpENBk",
+        'videoID' => "PL-JaIzTV0U",
         'date' => "January 2, 2024",
         'category' => "ceo-podcast",
         'slug' => "dr-faisal-alamgir-georgia-institute-of-technology",
