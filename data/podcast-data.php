@@ -17,6 +17,14 @@ $videos = [
         "display" => true
     ],
     [
+        'title' => "Dr. Jayan Chandran - Florida International University",
+        'videoID' => "27hy56xbSn4",
+        'date' => "February 16, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "dr-jayan-chandran-florida-international-university",
+        "display" => false
+    ],
+    [
         'title' => "Dr. Kevin Huang - University of South Carolina",
         'videoID' => "dYo4duianfg",
         'date' => "November 6, 2023",
