@@ -123,39 +123,6 @@
     }
     ?>
 
-
-    <?php
-    $page_name = basename($_SERVER['PHP_SELF']);
-    if ($page_name != "index.php" && $page_name != "" && $page_name != "/") {
-    ?>
-        <style>
-            .ep-iFrameContainer.ep-popup.ep-iFrameLarge {
-                height: auto;
-                padding: 0px;
-                background-color: transparent !important;
-            }
-
-            .ep-close-icon {
-                padding: 5px 10px 15px !important;
-                border: 5px solid black !important;
-                position: relative;
-                top: 20px !important;
-                font-size: 35px !important;
-                font-family: Arial, Helvetica, sans-serif !important;
-                display: flex;
-                align-items: center;
-                justify-content: center;
-            }
-
-            .ep-iFrame {
-                margin-top: 145px;
-            }
-        </style>
-        <iframe src="https://api.leadconnectorhq.com/widget/form/9PwuXNEKYBvCg6S5H7bC" style="display:none;width:100%;height:100%;border:none;border-radius:0px" id="popup-9PwuXNEKYBvCg6S5H7bC" data-layout="{'id':'POPUP'}" data-trigger-type="alwaysShow" data-trigger-value="" data-activation-type="alwaysActivated" data-activation-value="" data-deactivation-type="neverDeactivate" data-deactivation-value="" data-form-name="Text Alerts" data-height="340" data-layout-iframe-id="popup-9PwuXNEKYBvCg6S5H7bC" data-form-id="9PwuXNEKYBvCg6S5H7bC" title="Text Alerts">
-
-        </iframe>
-        <script src="https://link.msgsndr.com/js/form_embed.js"></script>
-    <?php } ?>
     <!-- Hedaer -->
     <header class="header-top">
         <?php if ($page_name != "3reasons.php") { ?>

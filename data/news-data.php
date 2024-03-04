@@ -3,6 +3,86 @@
 
 $news = [
     [
+        'id' => "56",
+        'title' => "NewHydrogen CEO Steve Hill Provides ThermoLoop<sup>TM</sup> Update",
+        'date' => "March 5, 2024",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), provided an update on its breakthrough ThermoLoop™ technology, which uses water and heat instead of electricity to produce the world’s cheapest green hydrogen. The company shared progress on its collaboration with the University of California Santa Barbara (UCSB) in developing the ThermoLoop<sup>TM</sup> technology.",
+        'description' => [
+            [
+                "<p><strong>The Company’s novel low-cost thermochemical process uses heat to split water allowing for large-scale, low-cost clean hydrogen production to meet the needs of an energy hungry world</strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (March 5, 2024) — NewHydrogen, Inc. (OTCMKTS:NEWH), provided an update on its breakthrough ThermoLoop™ technology, which uses water and heat instead of electricity to produce the world’s cheapest green hydrogen. The company shared progress on its collaboration with the University of California Santa Barbara (UCSB) in developing the ThermoLoopTM technology.  </p>"
+            ],
+            [
+                "<p>“The demand for power is insatiable,” remarked Steve Hill, CEO of NewHydrogen. “According to McKinsey & Company, global electricity demand is poised to surge, projected to more than double from 25,000 terawatt-hours (TWh) in 2022 to between 52,000 and 71,000 TWh by 2050.This surge is attributed to the burgeoning energy requirements emerging markets and the widespread electrification across various sectors of the economy. To put it in perspective, a terawatt-hour (TWh) represents one trillion-watt hours. Consequently, the future need for 52 to 71 trillion-watt hours is almost unimaginable.”  </p>"
+            ],
+            [
+                '<p>The acceleration towards electric vehicles is a significant driver of this escalating electricity demand. Yet, just a year ago, few of us anticipated the energy needs of AI.</p>'
+            ],
+            [
+                "<p>Recently, OpenAI's CEO Sam Altman said an energy breakthrough is necessary for future artificial intelligence, which will consume vastly more power than people have expected. \"There's no way to get there without a breakthrough,\" Altman said.  </p>"
+            ],
+            [
+                "<p>“Green hydrogen can be the breakthrough,” Mr. Hill continued. “Our feedstock is water, which covers about 70% of the Earth. We use heat rather than expensive electricity to split the water to produce the world’s cheapest green hydrogen, which can be used to produce cheap electricity. However, big is much better than small. Our process can scale and make a meaningful difference in meeting the power demands of the future.” </p>"
+            ],
+            [
+                "<p>Working with a world class research team at UC Santa Barbara, NewHydrogen is developing ThermoLoopTM, a novel thermochemical process capable of water splitting without relying on costly electricity or expensive electrolyzers. Instead, it leverages relatively low-cost heat. Notably, unlike electrolysis, the process costs decrease with increasing unit size – allowing the potential for large-scale clean hydrogen production. </p>"
+            ],
+            [
+                "<p>The most common method of making green hydrogen today is to split water into oxygen and hydrogen with an electrolyzer using green electricity produced from solar or wind. However, green electricity is, and always will be, very expensive. It currently accounts for over 70% of the cost of green hydrogen. </p>"
+            ],
+            [
+                "<p>Traditionally, thermochemical methods have relied on managing extreme temperatures, often exceeding 2,000°C, to split water into oxygen and hydrogen. However, the ThermoLoopTM process is based on materials identified with an innovative model developed by the UCSB team for splitting water into hydrogen and oxygen within standard industrial temperature ranges, typically below 1000°C. This is pivotal in achieving the most cost-effective and efficient production of green hydrogen.</p>"
+            ],
+            [
+                "<p>Mr. Hill concluded, “In the coming months the UCSB team will focus on validating their model and demonstrating specific materials for ThermoLoopTM. Their work to date marks an exciting leap forward in our quest for sustainable technology.” </p>"
+            ],
+
+            [
+                "<p>For more information about NewHydrogen and its ThermoLoop<sup>TM</sup> technology, please visit <a href=\"https://newhydrogen.com/\">https://newhydrogen.com/</a></p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
+        'id' => "55",
+        'title' => "NewHydrogen CEO Steve Hill Discusses Affordable Green Hydrogen with Policy Expert at Cleveland State University",
+        'date' => "February 27, 2024",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced that in a recent podcast the Company’s CEO Steve Hill spoke with Andrew Thomas, Director of the Energy Policy Center at the Levin College of Public Affairs and Education at Cleveland State University",
+        'description' => [
+            [
+                "<p><strong>Andrew Thomas emphasized the importance of removing commercial and regulatory impediments to speed the adoption of green hydrogen </strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (February 27, 2024) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced that in a recent podcast the Company’s CEO Steve Hill spoke with Andrew Thomas, Director of the Energy Policy Center at the Levin College of Public Affairs and Education at Cleveland State University. </p>"
+            ],
+            [
+                "<p>Mr. Thomas, a renewable energy advocate, highlighted recent strides in reducing the cost of green hydrogen production, while highlighting pressing challenges in transportation, storage, and regulatory frameworks. \"We've seen significant progress in cutting green hydrogen costs, but critical hurdles persist in transportation and regulation,\" observed Mr. Thomas. \"It's imperative we establish infrastructure and regulations comparable to existing natural gas refueling networks.\" </p>"
+            ],
+            [
+                '<p>Mr. Thomas emphasized the pivotal role of government intervention in catalyzing hydrogen demand, particularly within the trucking industry, advocating for incentives to facilitate the establishment of hydrogen refueling stations along key transportation routes. "Government support is paramount in kickstarting hydrogen adoption, especially among long-haul trucking fleets.” </p>'
+            ],
+            [
+                "<p>In addition to its environmental benefits, Mr. Thomas highlighted hydrogen's potential to enhance national security and support the digital economy. He pointed to its rapid dispatchability and seasonal storage capabilities as advantages over traditional lithium-ion batteries. \"The shift toward clean hydrogen is inevitable. I eagerly anticipate further advancements in green hydrogen technology.\” </p>"
+            ],
+            [
+                "<p>Andrew Thomas directs the Energy Policy Center at the Levin College of Public Affairs and Education at Cleveland State University. His research focuses on electricity regulation and markets, microgrids, transportation, energy storage, fuel cells, the hydrogen economy, decarbonization and oil and gas development. He also directs the Midwest Hydrogen Center of Excellence. He received his J.D. from Loyola University of New Orleans, where he was a law review editor. He is Chairman of the Ohio Oil and Gas Commission.  </p>"
+            ],
+          
+            [
+                "<p>Watch the full discussion on the NewHydrogen Podcast featuring Mr. Thomas at  <a href=\"https://newhydrogen.com/videos/ceo-podcast/andrew-thomas-cleveland-state-university\" target=\"_blank\">https://newhydrogen.com/videos/ceo-podcast/andrew-thomas-cleveland-state-university</a></p>"
+            ],
+
+            [
+                "<p>For more information about NewHydrogen, please visit <a href=\"https://newhydrogen.com/\">https://newhydrogen.com/</a></p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "54",
         'title' => "NewHydrogen CEO Steve Hill Explores Cutting-Edge Green Hydrogen Production with Solid Oxide Fuel Cells Expert",
         'date' => "February 13, 2024",
