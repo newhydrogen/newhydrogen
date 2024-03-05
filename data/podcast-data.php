@@ -1,6 +1,22 @@
 <?php
 $videos = [
     [
+        'title' => "Andrew Thomas - Cleveland State University",
+        'videoID' => "IrSEdtDAgsM",
+        'date' => "February 27, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "andrew-thomas-cleveland-state-university",
+        "display" => true
+    ],
+    [
+        'title' => "NewHydrogen News Commentary",
+        'videoID' => "-7uPwMRO9Zs",
+        'date' => "February 19, 2024",
+        'category' => "news-commentary",
+        'slug' => "newHydrogen-news-commentary",
+        "display" => true
+    ],
+    [
         'title' => "NewHydrogen News",
         'videoID' => "i_MH3Z02LzE",
         'date' => "February 12, 2024",
@@ -95,38 +111,6 @@ $videos = [
         'category' => "ceo-podcast",
         'slug' => "dr-william-eckenhoff-rhodes-college",
         "display" => false
-    ],
-    [
-        'title' => "Our Thermoloop technology is ahead of it's time and it's time to pay attention!",
-        'videoID' => "fdrFRPiTawc",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "our-thermoloop-technology-is-ahead-of-it-time-and-it-time-to-pay-attention",
-        "display" => true
-    ],
-    [
-        'title' => "The Cat is Out The Hat",
-        'videoID' => "AZTFF1-SOEw",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "the-cat-is-out-the-hat",
-        "display" => true
-    ],
-    [
-        'title' => "Hydrogen WILL be a major part of the green energy movement!",
-        'videoID' => "Q65KaTHICWk",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "hydrogen-wILL-be-a-major-part-of-the-green-energy-movement",
-        "display" => true
-    ],
-    [
-        'title' => "Light pollution is dark topic",
-        'videoID' => "rOkH4zkWmkA",
-        'date' => "",
-        'category' => "short-video",
-        'slug' => "light-pollution-is-dark-topic",
-        "display" => true
     ],
     [
         'title' => "If you love the planet, please share!",
@@ -1016,14 +1000,6 @@ $videos = [
         'category' => "ceo-podcast",
         'slug' => "valerie-thomas-georgia-tech",
         "display" => true
-    ],
-    [
-        'title' => "Andrew Thomas - Cleveland State University",
-        'videoID' => "IrSEdtDAgsM",
-        'date' => "November 21, 2023",
-        'category' => "ceo-podcast",
-        'slug' => "andrew-thomas-cleveland-state-university",
-        "display" => false
     ],
     [
         'title' => "Dr. Mohamed F Sanad Noufal Hampton University",

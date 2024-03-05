@@ -1,6 +1,22 @@
 <?php
 $videos = [
     [
+        'title' => "Andrew Thomas - Cleveland State University",
+        'videoID' => "IrSEdtDAgsM",
+        'date' => "February 27, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "andrew-thomas-cleveland-state-university",
+        "display" => true
+    ],
+    [
+        'title' => "NewHydrogen News Commentary",
+        'videoID' => "-7uPwMRO9Zs",
+        'date' => "February 19, 2024",
+        'category' => "news-commentary",
+        'slug' => "newHydrogen-news-commentary",
+        "display" => true
+    ],
+    [
         'title' => "Dr. Kevin Huang - University of South Carolina",
         'videoID' => "dYo4duianfg",
         'date' => "November 6, 2023",
@@ -22,22 +38,6 @@ $videos = [
         'date' => "January 2, 2024",
         'category' => "ceo-podcast",
         'slug' => "dr-faisal-alamgir-georgia-institute-of-technology",
-        "display" => true
-    ],
-    [
-        'title' => "The Rise of Hydrogen in Heavy Transportation",
-        'videoID' => "K9io-BTYPII",
-        'date' => "December 12, 2023",
-        'category' => "news-commentary",
-        'slug' => "the-rise-of-hydrogen-in-heavy-transportation",
-        "display" => true
-    ],
-    [
-        'title' => "Dr. Mohamed F Sanad Noufal Hampton University",
-        'videoID' => "at3pL6ooXCo",
-        'date' => "November 21, 2023",
-        'category' => "ceo-podcast",
-        'slug' => "dr-mohamed-f-sanad-noufal-hampton-university",
         "display" => true
     ]
 ];
