@@ -1,6 +1,14 @@
 <?php
 $videos = [
     [
+        'title' => "Dr. Carol Parrish - University of Richmond",
+        'videoID' => "G8RiexwgUmw",
+        'date' => "March 2, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "dr-carol-parrish-university-of-richmond",
+        "display" => false
+    ],
+    [
         'title' => "Andrew Thomas - Cleveland State University",
         'videoID' => "IrSEdtDAgsM",
         'date' => "February 27, 2024",
