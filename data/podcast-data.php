@@ -21,7 +21,7 @@ $videos = [
         'videoID' => "-7uPwMRO9Zs",
         'date' => "February 19, 2024",
         'category' => "news-commentary",
-        'slug' => "newHydrogen-news-commentary",
+        'slug' => "newhydrogen-news-commentary",
         "display" => true
     ],
     [
@@ -29,7 +29,7 @@ $videos = [
         'videoID' => "i_MH3Z02LzE",
         'date' => "February 12, 2024",
         'category' => "news-commentary",
-        'slug' => "newHydrogen-news",
+        'slug' => "newhydrogen-news",
         "display" => true
     ],
     [
