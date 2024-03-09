@@ -1,6 +1,22 @@
 <?php
 $videos = [
     [
+        'title' => "Dr. Paul Palies - University of Tennessee",
+        'videoID' => "CxtbfsU0r24",
+        'date' => "March 9, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "dr-paul-palies-university-of-tennessee",
+        "display" => false
+    ],
+    [
+        'title' => "Dr. Krish Jayachandran - Florida International University",
+        'videoID' => "4_gQjfXu_zA",
+        'date' => "March 8, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "dr-krish-jayachandran-florida-international-university",
+        "display" => false
+    ],
+    [
         'title' => "Dr. Carol Parrish - University of Richmond",
         'videoID' => "G8RiexwgUmw",
         'date' => "March 2, 2024",
@@ -17,11 +33,27 @@ $videos = [
         "display" => true
     ],
     [
-        'title' => "NewHydrogen News Commentary",
+        'title' => "March 3, 2024 - NewHydrogen News Commentary",
+        'videoID' => "Yhxtt06nE2w",
+        'date' => "March 3, 2024",
+        'category' => "news-commentary",
+        'slug' => "march-3-2024-newhydrogen-news-commentary",
+        "display" => true
+    ],
+    [
+        'title' => "February 29, 2024 - NewHydrogen News Commentary",
+        'videoID' => "z-D5CmNn6Cs",
+        'date' => "February 29, 2024",
+        'category' => "news-commentary",
+        'slug' => "february-29-2024-newhydrogen-news-commentary",
+        "display" => true
+    ],
+    [
+        'title' => "February 19, 2024 - NewHydrogen News Commentary",
         'videoID' => "-7uPwMRO9Zs",
         'date' => "February 19, 2024",
         'category' => "news-commentary",
-        'slug' => "newhydrogen-news-commentary",
+        'slug' => "february-19-2024-newhydrogen-news-commentary",
         "display" => true
     ],
     [
@@ -40,18 +72,11 @@ $videos = [
         'slug' => "safeguards-for-electrolyzers-&-reconsidering-electric-vehicles",
         "display" => true
     ],
-    [
-        'title' => "Dr. Jayan Chandran - Florida International University",
-        'videoID' => "27hy56xbSn4",
-        'date' => "February 16, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "dr-jayan-chandran-florida-international-university",
-        "display" => false
-    ],
+  
     [
         'title' => "Dr. Kevin Huang - University of South Carolina",
         'videoID' => "dYo4duianfg",
-        'date' => "November 6, 2023",
+        'date' => "February 13, 2024",
         'category' => "ceo-podcast",
         'slug' => "dr-kevin-huang-university-of-south-carolina",
         "display" => true
