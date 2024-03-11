@@ -1,6 +1,14 @@
 <?php
 $videos = [
     [
+        'title' => "March 11, 2024 - NewHydrogen News Commentary",
+        'videoID' => "1vAGUMNJIfU",
+        'date' => "March 11, 2024",
+        'category' => "news-commentary",
+        'slug' => "march-11-2024-newhydrogen-news-commentary",
+        "display" => true
+    ],
+    [
         'title' => "Dr. Paul Palies - University of Tennessee",
         'videoID' => "CxtbfsU0r24",
         'date' => "March 9, 2024",
