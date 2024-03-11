@@ -9,6 +9,14 @@ $videos = [
         "display" => true
     ],
     [
+        'title' => "Dr. Tim Lieuwen - Georgia Tech University",
+        'videoID' => "-7xYcbD69YI",
+        'date' => "March 11, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "dr-tim-lieuwen-georgia-tech-university",
+        "display" => false
+    ],
+    [
         'title' => "Dr. Paul Palies - University of Tennessee",
         'videoID' => "CxtbfsU0r24",
         'date' => "March 9, 2024",
