@@ -1,25 +1,34 @@
 <?php
 $videos = [
+
     [
-        'title' => "Andrew Thomas - Cleveland State University",
-        'videoID' => "IrSEdtDAgsM",
-        'date' => "February 27, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "andrew-thomas-cleveland-state-university",
+        'title' => "March 3, 2024 - NewHydrogen News Commentary",
+        'videoID' => "Yhxtt06nE2w",
+        'date' => "March 3, 2024",
+        'category' => "news-commentary",
+        'slug' => "march-3-2024-newhydrogen-news-commentary",
         "display" => true
     ],
     [
-        'title' => "NewHydrogen News Commentary",
+        'title' => "February 29, 2024 - NewHydrogen News Commentary",
+        'videoID' => "z-D5CmNn6Cs",
+        'date' => "February 29, 2024",
+        'category' => "news-commentary",
+        'slug' => "february-29-2024-newhydrogen-news-commentary",
+        "display" => true
+    ],
+    [
+        'title' => "February 19, 2024 - NewHydrogen News Commentary",
         'videoID' => "-7uPwMRO9Zs",
         'date' => "February 19, 2024",
         'category' => "news-commentary",
-        'slug' => "newHydrogen-news-commentary",
+        'slug' => "february-19-2024-newhydrogen-news-commentary",
         "display" => true
     ],
     [
         'title' => "Dr. Kevin Huang - University of South Carolina",
         'videoID' => "dYo4duianfg",
-        'date' => "November 6, 2023",
+        'date' => "February 13, 2024",
         'category' => "ceo-podcast",
         'slug' => "dr-kevin-huang-university-of-south-carolina",
         "display" => true
@@ -30,14 +39,6 @@ $videos = [
         'date' => "January 16, 2024",
         'category' => "ceo-podcast",
         'slug' => "dr-ben-emerson-georgia-tech",
-        "display" => true
-    ],
-    [
-        'title' => "Dr. Faisal Alamgir - Georgia Institute of Technology",
-        'videoID' => "PL-JaIzTV0U",
-        'date' => "January 2, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "dr-faisal-alamgir-georgia-institute-of-technology",
         "display" => true
     ]
 ];
