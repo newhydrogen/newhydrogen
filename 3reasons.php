@@ -41,58 +41,49 @@ include "header.php";
 
 <!-- 2nd -->
 <section class="department">
-    <div class="row">
-        <div class="col-md-6">
-            <h1>A recent push by governments </h1>
-            <h1>all over the world has created a</h1>
-            <h1> wave of excitement for</h1>
-            <h1 class="green">Hydrogen power.</h1>
-
-            <p class="in-the">In the USA the Department of Energy is awarding billions in grants to clean hydrogen initiatives.</p>
-        </div>
-        <div class="col-md-6">
-            <img src="./assets/img/department.png" alt="right">
-            <p>Department of Energy</p>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <h2>A recent push by governments all over the world has created a wave of excitement for <span>Hydrogen power.</span></h2>
+                <p class="in-the">In the USA the Department of Energy is awarding billions in grants to clean hydrogen initiatives.</p>
+            </div>
+            <div class="col-lg-6">
+                <img src="./assets/img/department.png" alt="right">
+                <p>Department of Energy</p>
+            </div>
         </div>
     </div>
 </section>
 
 <!-- 3rd -->
-<div class="apply-market-bg">
-    <section class="goldMan">
+<section class="goldMan">
+    <div class="container">
         <div class="row">
-            <div class="col-md-6"> <img src="./assets/img/market-graph.png" alt="left">
+            <div class="col-lg-6"> <img src="./assets/img/market-graph.png" alt="left">
             </div>
-            <div class="col-md-6 d-flex justify-content-center align-items-center">
+            <div class="col-lg-6 d-lg-flex justify-content-center align-items-center">
                 <div class="head-wrap">
-                    <h1>According to Goldman Sachs, green</h1>
-                    <h1>hydrogen is now a massive once in</h1>
-                    <h1>a lifetime <span>$12 trillion</span> market</h1>
-                    <h1>opportunity</h1>
+                    <h3> According to Goldman Sachs, green hydrogen is now a massive once in a lifetime <span>$12 trillion</span> market opportunity</h3>
                 </div>
 
-                <div class="mobile-head-wrap">
-                    <h1>According to Goldman Sachs, green
-                        hydrogen is now a massive once in
-                        a lifetime <span>$12 trillion</span> market
-                        opportunity</h1>
-                </div>
             </div>
         </div>
-    </section>
-</div>
+    </div>
+</section>
 
 <!-- 4th -->
 <section class="traditional-method">
-    <div class="row">
-        <div class="col-md-6">
-            <p>
-                Traditional methods of producing green hydrogen are expensive through the process of electrolysis, using electrolyzers with solar or wind energy to split water into hydrogen and oxygen.
-            </p>
-        </div>
-        <div class="col-md-6">
-            <div class="right-water">
-                <img src="./assets/img/water.png" alt="water" class="water-image">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 order-1 order-lg-0">
+                <p>
+                    Traditional methods of producing green hydrogen are expensive through the process of electrolysis, using electrolyzers with solar or wind energy to split water into hydrogen and oxygen.
+                </p>
+            </div>
+            <div class="col-lg-6 order-0 order-lg-1">
+                <div class="right-water">
+                    <img src="./assets/img/water.png" alt="water" class="water-image">
+                </div>
             </div>
         </div>
     </div>
@@ -100,137 +91,120 @@ include "header.php";
 
 <!-- 5th -->
 <section class="green-hydrogen">
-    <div class="row">
-        <div class="col-md-12">
-            <div class="heading-wrap">
-                <h1>The world is ready for cheap <span>green hydrogen</span> to help meet the green house gas</h1>
-                <h1>emission goals described in the United Nations Paris agreement.</h1>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="heading-wrap">
+                    <h4>The world is ready for cheap <span>green hydrogen</span> to help meet the green house gas emission goals described in the United Nations Paris agreement.</h4>
+                </div>
+            </div>
+        </div>
+
+        <div class="facilities">
+            <div class="row">
+                <div class="col-md-4 col-sm-6 d-flex justify-content-end align-items-center first-card">
+                    <div class="card-wrapper">
+                        <div class="card">
+                            <img src="./assets/img/Aviation_Green.png" alt="Aviation">
+                        </div>
+                        <div class="card">
+                            <img src="./assets/img/Refinery-Green.png" alt="Refinery">
+                        </div>
+                        <div class="card">
+                            <img src="./assets/img/Industrial-Green.png" alt="industrial">
+                        </div>
+                        <div class="card">
+                            <img src="./assets/img/Pharmaceutical-Green.png" alt="Pharmaceuticals">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 d-flex justify-content-center align-items-center second-card">
+                    <div class="card-wrapper">
+                        <div class="card">
+                            <img src="./assets/img/shipping-green.png" alt="Shipping">
+                        </div>
+                        <div class="card">
+                            <img src="./assets/img/cars-green.png" alt="Cars">
+                        </div>
+                        <div class="card">
+                            <img src="./assets/img/fertilizers-green.png" alt="Fertilizers">
+                        </div>
+                        <div class="card">
+                            <img src="./assets/img/hydrogen-green.png" alt="Hydrogen">
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-6 d-flex justify-content-start align-items-center third-card">
+                    <div class="card-wrapper">
+                        <div class="card">
+                            <img src="./assets/img/indutrial-green.png" alt="Industrial">
+                        </div>
+                        <div class="card">
+                            <img src="./assets/img/buildings-green.png" alt="Buildings">
+                        </div>
+                        <div class="card">
+                            <img src="./assets/img/power-green.png" alt="Power">
+                        </div>
+                        <div class="card">
+                            <img src="./assets/img/food-green.png" alt="Food">
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
     </div>
 
-    <div class="facilities">
-        <div class="row">
-            <div class="col-md-4 d-flex justify-content-end align-items-center first-card">
-                <div class="card-wrapper">
-                    <div class="card">
-                        <img src="./assets/img/Aviation_Green.png" alt="Aviation">
-                    </div>
-                    <div class="card">
-                        <img src="./assets/img/Refinery-Green.png" alt="Refinery">
-                    </div>
-                    <div class="card">
-                        <img src="./assets/img/Industrial-Green.png" alt="industrial">
-                    </div>
-                    <div class="card">
-                        <img src="./assets/img/Pharmaceutical-Green.png" alt="Pharmaceuticals">
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 d-flex justify-content-center align-items-center second-card">
-                <div class="card-wrapper">
-                    <div class="card">
-                        <img src="./assets/img/shipping-green.png" alt="Shipping">
-                    </div>
-                    <div class="card">
-                        <img src="./assets/img/cars-green.png" alt="Cars">
-                    </div>
-                    <div class="card">
-                        <img src="./assets/img/fertilizers-green.png" alt="Fertilizers">
-                    </div>
-                    <div class="card">
-                        <img src="./assets/img/hydrogen-green.png" alt="Hydrogen">
-                    </div>
-                </div>
-            </div>
-            <div class="col-md-4 d-flex justify-content-start align-items-center third-card">
-                <div class="card-wrapper">
-                    <div class="card">
-                        <img src="./assets/img/indutrial-green.png" alt="Industrial">
-                    </div>
-                    <div class="card">
-                        <img src="./assets/img/buildings-green.png" alt="Buildings">
-                    </div>
-                    <div class="card">
-                        <img src="./assets/img/power-green.png" alt="Power">
-                    </div>
-                    <div class="card">
-                        <img src="./assets/img/food-green.png" alt="Food">
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
 </section>
 
 <!-- 6th Section -->
 <section class="thermo-loop">
-    <div class="row">
-        <div class="col-md-6">
-            <div class="santa">
-                <h1>With UC Santa Barbara (UCSB), New Hydrogen, is developing ThermoLoop, to <span>reduce the cost of hydrogen production by 73%.</span></h1>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="santa">
+                    <h4>With UC Santa Barbara (UCSB), New Hydrogen, is developing ThermoLoop, to <span>reduce the cost of hydrogen production by 73%.</span></h4>
 
-                <p>This is accomplished by eliminating electricity used in existing electrolyzers.</p>
-                <p class="second"> Our <span>simple low-cost design</span> uses abundantly available water as a feedstock and inexpensive heat rather than expensive electricity to split the water into hydrogen.</p>
+                    <p>This is accomplished by eliminating electricity used in existing electrolyzers.</p>
+                    <p class="second"> Our <span>simple low-cost design</span> uses abundantly available water as a feedstock and inexpensive heat rather than expensive electricity to split the water into hydrogen.</p>
+                </div>
             </div>
-        </div>
-        <div class="col-md-6">
-            <div class="new-hy">
-                <h1>NewHydrogen ThermoLoop™
-                </h1>
-                <h1>An Elegant Single Loop Process</h1>
+            <div class="col-lg-6">
+                <div class="new-hy">
+                    <h5>NewHydrogen ThermoLoop™ <br> An Elegant Single Loop Process</h5>
+                    <img src="./assets/img/reduction.png" alt="Reduction">
 
-                <img src="./assets/img/reduction.png" alt="Reduction">
-
+                </div>
             </div>
         </div>
     </div>
+
 </section>
 
 <!-- 7th Section -->
 <section class="developed">
     <div class="image-wrap">
         <img src="./assets/img/h2-Background-2.png" alt="water">
+    </div>
+
+    <div class="developed-inner">
         <div class="card">
-            <div class="heading-wrap">
-                <h1>This is the right time for</h1>
-                <h1>ThermoLoop to be developed.</h1>
-            </div>
+            <h5>This is the right time for <br> ThermoLoop to be developed.</h5>
+            <p>New Hydrogen is creating excitement in the green hydrogen space with the world-class team at UCSB.</p>
         </div>
         <div class="second-card">
-            <p>New Hydrogen is creating excitement in the green hydrogen </p>
-            <p>space with the world-class team at UCSB.</p>
-
             <div class="hydro-wrap">
                 <img src="./assets/img/new-hydro.png" alt="water">
-                <p>Learn more about what we are doing and stay informed about the
+                <p>Learn more about what we are doing and stay informed about the new developments as they are released.
                 </p>
-                <p class="another">new developments as they are released.</p>
 
                 <a href="#">Learn More</a>
             </div>
         </div>
     </div>
-</section>
-<section class="mobile-developed">
-    <h1>This is the right time for
-        ThermoLoop to be developed.</h1>
-    <p>New Hydrogen is creating excitement in the green hydrogen
 
-        space with the world-class team at UCSB.
-
-    </p>
-
-    <img src="./assets/img/new-hydro.png" alt="water">
-    <p>Learn more about what we are doing and stay informed about the
-
-        new developments as they are released.</p>
-
-    <div class="learn-a">
-        <a href="#">Learn More</a>
-    </div>
 
 </section>
+
 
 <!-- 8th Section -->
 <section class="appC investMarket last-3Reason">
