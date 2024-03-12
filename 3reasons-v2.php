@@ -6,7 +6,7 @@ include "header.php";
 ?>
 
 <!-- 1st -->
-<section class="investBanner">
+<section class="investBanner reasons3-investbanner">
     <div class="investObj1">
         <img src="./assets/img/investor-obj1.png" alt="investor">
     </div>
@@ -19,11 +19,9 @@ include "header.php";
     <div class="container">
         <h5>Investors</h5>
         <div class="investBanner-wrap">
-            <h1>NewHydrogen Is a Publicly Traded Company</h1>
-            <p> Developing a Breakthrough Technology that Uses Water and Heat Instead of Electricity to Produce the
-                World’s Cheapest Green Hydrogen
-            </p>
-            <a href="https://finance.yahoo.com/quote/NEWH" target="_blank" rel="noopener noreferrer" class="theme-btn">Stock Symbol: NEWH</a>
+            <h1>Riding the Wave of the Exciting <br>
+                <span>$12 Trillion</span> Green Hydrogen Market!</h1>
+            <p>NewHydrogen is a Publicly Traded Company</p>
         </div>
         <div class="appBanner__banner">
             <div class="appBanner_thumbnail">
@@ -63,7 +61,7 @@ include "header.php";
             </div>
             <div class="col-lg-6 d-lg-flex justify-content-center align-items-center">
                 <div class="head-wrap">
-                    <h3> According to Goldman Sachs, green hydrogen is now a massive once in a lifetime <span>$12 trillion</span> market opportunity</h3>
+                    <h3> According to Goldman Sachs, green hydrogen is now a massive once in a lifetime <span>$12 trillion</span> market opportunity.</h3>
                 </div>
 
             </div>

@@ -9,6 +9,14 @@ $videos = [
         "display" => true
     ],
     [
+        'title' => "Dr. William Eckenhoff - Rhodes College",
+        'videoID' => "6S06yhKlDjc",
+        'date' => "March 12, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "dr-william-eckenhoff-rhodes-college",
+        "display" => true
+    ],
+    [
         'title' => "Dr. Tim Lieuwen - Georgia Tech University",
         'videoID' => "-7xYcbD69YI",
         'date' => "March 11, 2024",
@@ -153,14 +161,7 @@ $videos = [
         'slug' => "dr-faisal-alamgir-georgia-institute-of-technology",
         "display" => true
     ],
-    [
-        'title' => "Dr. William Eckenhoff - Rhodes College",
-        'videoID' => "6S06yhKlDjc",
-        'date' => "December 16, 2023",
-        'category' => "ceo-podcast",
-        'slug' => "dr-william-eckenhoff-rhodes-college",
-        "display" => false
-    ],
+ 
     [
         'title' => "If you love the planet, please share!",
         'videoID' => "_bEP2-5z20k",
