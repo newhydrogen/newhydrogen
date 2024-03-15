@@ -48,7 +48,7 @@ include('header.php'); ?>
                 <div class="col-md-7 order-md-1 order-0">
                     <div class="banner-watchbtn">
                         <img src="./assets/img/watch-video.png" alt="watch video">
-                        <a href="https://www.youtube.com/watch?v=qSeX9e__Fu0" class="popup-youtube"></a>
+                        <a href="https://www.youtube.com/watch?v=HAfQFfeyTjc" class="popup-youtube"></a>
                     </div>
                 </div>
             </div>

@@ -3,9 +3,17 @@ $videos = [
     [
         'title' => "March 11, 2024 - NewHydrogen News Commentary",
         'videoID' => "1vAGUMNJIfU",
-        'date' => "March 11, 2024",
+        'date' => "",
         'category' => "news-commentary",
         'slug' => "march-11-2024-newhydrogen-news-commentary",
+        "display" => true
+    ],
+    [
+        'title' => "Dr. William Eckenhoff - Rhodes College",
+        'videoID' => "6S06yhKlDjc",
+        'date' => "March 12, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "dr-william-eckenhoff-rhodes-college",
         "display" => true
     ],
     [
@@ -18,8 +26,8 @@ $videos = [
     ],
     [
         'title' => "Dr. Paul Palies - University of Tennessee",
-        'videoID' => "CxtbfsU0r24",
-        'date' => "March 9, 2024",
+        'videoID' => "Cu5j1xc_yQg",
+        'date' => "March 14, 2024",
         'category' => "ceo-podcast",
         'slug' => "dr-paul-palies-university-of-tennessee",
         "display" => false
@@ -51,7 +59,7 @@ $videos = [
     [
         'title' => "March 3, 2024 - NewHydrogen News Commentary",
         'videoID' => "Yhxtt06nE2w",
-        'date' => "March 3, 2024",
+        'date' => "",
         'category' => "news-commentary",
         'slug' => "march-3-2024-newhydrogen-news-commentary",
         "display" => true
@@ -59,7 +67,7 @@ $videos = [
     [
         'title' => "February 29, 2024 - NewHydrogen News Commentary",
         'videoID' => "z-D5CmNn6Cs",
-        'date' => "February 29, 2024",
+        'date' => "",
         'category' => "news-commentary",
         'slug' => "february-29-2024-newhydrogen-news-commentary",
         "display" => true
@@ -67,7 +75,7 @@ $videos = [
     [
         'title' => "February 19, 2024 - NewHydrogen News Commentary",
         'videoID' => "-7uPwMRO9Zs",
-        'date' => "February 19, 2024",
+        'date' => "",
         'category' => "news-commentary",
         'slug' => "february-19-2024-newhydrogen-news-commentary",
         "display" => true
@@ -153,14 +161,7 @@ $videos = [
         'slug' => "dr-faisal-alamgir-georgia-institute-of-technology",
         "display" => true
     ],
-    [
-        'title' => "Dr. William Eckenhoff - Rhodes College",
-        'videoID' => "6S06yhKlDjc",
-        'date' => "December 16, 2023",
-        'category' => "ceo-podcast",
-        'slug' => "dr-william-eckenhoff-rhodes-college",
-        "display" => false
-    ],
+ 
     [
         'title' => "If you love the planet, please share!",
         'videoID' => "_bEP2-5z20k",

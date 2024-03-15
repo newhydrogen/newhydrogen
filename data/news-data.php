@@ -3,6 +3,44 @@
 
 $news = [
     [
+        'id' => "57",
+        'title' => "NewHydrogen CEO Steve Hill Discusses the Need for Efficient Hydrogen Production Methods with Chair of Environmental Studies at Rhodes College",
+        'date' => "March 12, 2024",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of a breakthrough technology that uses clean energy and water to produce the world’s cheapest green hydrogen, today announced that in a recent podcast the Company’s CEO Steve Hill spoke with Will Eckenhoff, Associate Professor of Chemistry and Chair of Environmental Studies at Rhodes College",
+        'description' => [
+            [
+                "<p><strong>Dr. Will Eckenhoff discussed his research on copper catalyzed atom transfer radical addition chemistry and the challenges of transitioning to a hydrogen-based economy</strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (March 12, 2024) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of a breakthrough technology that uses clean energy and water to produce the world’s cheapest green hydrogen, today announced that in a recent podcast the Company’s CEO Steve Hill spoke with Will Eckenhoff, Associate Professor of Chemistry and Chair of Environmental Studies at Rhodes College.  </p>"
+            ],
+            [
+                "<p>During the discussion, Dr. Eckenhoff described his research about identifying catalysts for the reduction reaction of splitting water into hydrogen and oxygen, leading to a new paper accepted for publication in Inorganic Chemistry. He also detailed the challenges they faced, including the need to perfect the synthesis and the impact of Covid-19 on the research process. </p>"
+            ],
+            [
+                '<p>Regarding obstacles in hydrogen adoption, Dr. Eckenhoff said, “There are challenges of transitioning to a hydrogen-based economy, especially in the context of vehicle electrification. There is the issue of recharge times and the need for efficient hydrogen production methods that don\'t rely on fossil fuels.” The conversation also touched on the potential of light-driven hydrogen production and electro catalytic hydrogen production and developing a distribution network for hydrogen. </p>'
+            ],
+            [
+                "<p>Mr. Hill said, “There is also a need to overcome the rate-limiting factor in electrolysis and the potential of using heat to generate the necessary reaction.” Dr. Eckenhoff concurred that generating hydrogen locally using solar energy could be a disruptive technology.  </p>"
+            ],
+            [
+                "<p>They discussed the potential applications and challenges of battery technology and hydrogen fuel cells in vehicles, and they concurred that electric vehicles are suitable for short commutes due to their range, while hybrid technology or hydrogen fuel cells might be more appropriate for long-distance trucking. The discussion also touched on the recharging times, which can be a drawback for long-distance travel. They agreed that new technologies will find a niche as they mature and solve particular problems. The conversation concluded with a discussion on the future of energy technology, with a potential focus on fusion energy and the mass production of green hydrogen.</p>"
+            ],
+            [
+                "<p>Dr. Eckenhoff received his Ph.D. in Inorganic Chemistry from Duquesne University. He is a synthetic inorganic chemist specializing in the synthesis of copper, iron, cobalt, nickel and molybdenum complexes.  Research in Dr. Eckenhoff’s lab has two main projects underway. The first project investigates the design, synthesis, and testing of nickel and cobalt complexes as catalysts for hydrogen production in artificial photosynthesis. A clean and inexpensive method of producing hydrogen gas is vital for the creation of a future hydrogen economy. The second project looks at a group of Molybdenum complexes which exhibit a stunning and previously unknown solvatochromic effect, or color-change in different solvents. These compounds have potential applications in sensor technology and also enhance our understanding of polarity. Dr. Eckenhoff is listed as Google Scholar at <a href='https://scholar.google.com/citations?user=2vwrl6kAAAAJ/'> https://scholar.google.com/citations?user=2vwrl6kAAAAJ</a>.</p>"
+            ],
+            [
+                "<p>  Watch the full discussion on the NewHydrogen Podcast featuring Dr. Eckenhoff at <a href=\"https://newhydrogen.com/videos/ceo-podcast/dr-william-eckenhoff-rhodes-college\">https://newhydrogen.com/videos/ceo-podcast/dr-william-eckenhoff-rhodes-college</a>.  </p>"
+            ],
+
+            [
+                "<p>For more information about NewHydrogen and its ThermoLoop<sup>TM</sup> technology, please visit <a href=\"https://newhydrogen.com/\">https://newhydrogen.com/</a></p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "56",
         'title' => "NewHydrogen CEO Steve Hill Provides ThermoLoop<sup>TM</sup> Update",
         'date' => "March 5, 2024",
