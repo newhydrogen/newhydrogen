@@ -26,8 +26,8 @@ $videos = [
     ],
     [
         'title' => "Dr. Paul Palies - University of Tennessee",
-        'videoID' => "CxtbfsU0r24",
-        'date' => "March 9, 2024",
+        'videoID' => "Cu5j1xc_yQg",
+        'date' => "March 14, 2024",
         'category' => "ceo-podcast",
         'slug' => "dr-paul-palies-university-of-tennessee",
         "display" => false
