@@ -1,33 +1,17 @@
 <?php
 $videos = [
     [
-        'title' => "March 11, 2024 - NewHydrogen News Commentary",
-        'videoID' => "1vAGUMNJIfU",
-        'date' => "",
-        'category' => "news-commentary",
-        'slug' => "march-11-2024-newhydrogen-news-commentary",
-        "display" => true
-    ],
-    [
-        'title' => "Dr. William Eckenhoff - Rhodes College",
-        'videoID' => "6S06yhKlDjc",
-        'date' => "March 12, 2024",
+        'title' => "Dr. Haotian Wang - Rice University",
+        'videoID' => "fscydFwhFVo",
+        'date' => "March 18, 2024",
         'category' => "ceo-podcast",
-        'slug' => "dr-william-eckenhoff-rhodes-college",
-        "display" => true
-    ],
-    [
-        'title' => "Dr. Tim Lieuwen - Georgia Tech University",
-        'videoID' => "-7xYcbD69YI",
-        'date' => "March 11, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "dr-tim-lieuwen-georgia-tech-university",
+        'slug' => "dr-haotian-wang-rice-university",
         "display" => false
     ],
     [
         'title' => "Dr. Paul Palies - University of Tennessee",
-        'videoID' => "Cu5j1xc_yQg",
-        'date' => "March 14, 2024",
+        'videoID' => "CxtbfsU0r24",
+        'date' => "March 9, 2024",
         'category' => "ceo-podcast",
         'slug' => "dr-paul-palies-university-of-tennessee",
         "display" => false
@@ -59,7 +43,7 @@ $videos = [
     [
         'title' => "March 3, 2024 - NewHydrogen News Commentary",
         'videoID' => "Yhxtt06nE2w",
-        'date' => "",
+        'date' => "March 3, 2024",
         'category' => "news-commentary",
         'slug' => "march-3-2024-newhydrogen-news-commentary",
         "display" => true
@@ -67,7 +51,7 @@ $videos = [
     [
         'title' => "February 29, 2024 - NewHydrogen News Commentary",
         'videoID' => "z-D5CmNn6Cs",
-        'date' => "",
+        'date' => "February 29, 2024",
         'category' => "news-commentary",
         'slug' => "february-29-2024-newhydrogen-news-commentary",
         "display" => true
@@ -75,7 +59,7 @@ $videos = [
     [
         'title' => "February 19, 2024 - NewHydrogen News Commentary",
         'videoID' => "-7uPwMRO9Zs",
-        'date' => "",
+        'date' => "February 19, 2024",
         'category' => "news-commentary",
         'slug' => "february-19-2024-newhydrogen-news-commentary",
         "display" => true
@@ -96,7 +80,6 @@ $videos = [
         'slug' => "safeguards-for-electrolyzers-&-reconsidering-electric-vehicles",
         "display" => true
     ],
-  
     [
         'title' => "Dr. Kevin Huang - University of South Carolina",
         'videoID' => "dYo4duianfg",
@@ -161,7 +144,263 @@ $videos = [
         'slug' => "dr-faisal-alamgir-georgia-institute-of-technology",
         "display" => true
     ],
- 
+    [
+        'title' => "Dr. William Eckenhoff - Rhodes College",
+        'videoID' => "6S06yhKlDjc",
+        'date' => "December 16, 2023",
+        'category' => "ceo-podcast",
+        'slug' => "dr-william-eckenhoff-rhodes-college",
+        "display" => false
+    ],
+    // new
+    [
+        'title' => "Hydrogen Hype is Real",
+        'videoID' => "GxDgynOJzTs",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "hydrogen-hype-is-real",
+        "display" => true
+    ],
+    [
+        'title' => "Trust, you want to check us out.",
+        'videoID' => "r9eqY5ye5tY",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "trust-you-want-to-check-us-out",
+        "display" => true
+    ],
+    [
+        'title' => "Times are changing and trust, you want to stay up-to-date.",
+        'videoID' => "rQVghpuxXpQ",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "times-are-changing-and-trust-you-want-to-stay-up-to-date",
+        "display" => true
+    ],
+    [
+        'title' => "Electrolyzers' need for steady power from renewables is vital.",
+        'videoID' => "8ZWU7G6zzdA",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "electrolyzers-need-for-steady-power-from-renewables-is-vital",
+        "display" => true
+    ],
+    [
+        'title' => "Our Thermoloop can change the world and save you lots of money!",
+        'videoID' => "xJbWtWXONLc",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "our-thermoloop-can-change-the-world-and-save-you-lots-of-money",
+        "display" => true
+    ],
+    [
+        'title' => "1807 Innovation",
+        'videoID' => "MTa7SkIctFo",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "1807-innovation",
+        "display" => true
+    ],
+    [
+        'title' => "Hydrogen has so many uses!",
+        'videoID' => "GbDPQjerx-g",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "hydrogen-has-so-many-uses",
+        "display" => true
+    ],
+    [
+        'title' => "The time to pay attention to hydrogen is NOW!",
+        'videoID' => "aBNDKOJ6_K4",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-time-to-pay-attention-to-hydrogen-is-now",
+        "display" => true
+    ],
+    [
+        'title' => "Hydrogen is the future and always has been.",
+        'videoID' => "Gqk7_K3DMXk",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "hydrogen-is-the-future-and-always-has-been",
+        "display" => true
+    ],
+    [
+        'title' => "Japan Is Committed To Green Hydrogen",
+        'videoID' => "oHCqcejI6wM",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "japan-is-committed-to-green-hydrogen",
+        "display" => true
+    ],
+    [
+        'title' => "Metallica Supports Hydrogen",
+        'videoID' => "K82wTuIzjw8",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "metallica-supports-hydrogen",
+        "display" => true
+    ],
+    [
+        'title' => "California's hydrogen highway",
+        'videoID' => "m4dVcpUqe34",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "californias-hydrogen-highway",
+        "display" => true
+    ],
+    [
+        'title' => "Hydrogen buses equals cleaner, greener urban travel with lower costs and zero emissions!",
+        'videoID' => "bMR4ZOLX9nA",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "hydrogen-buses-equals-cleaner-greener-urban-travel-with-lower-costs-and-zero-emissions",
+        "display" => true
+    ],
+    [
+        'title' => "What do you think about this jet?",
+        'videoID' => "DAy0FP81TpY",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "what-do-you-think-about-this-jet",
+        "display" => true
+    ],
+    [
+        'title' => "Sailing towards a cleaner future with zero emissions and stable fuel costs",
+        'videoID' => "oU1VMhIdyA0",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "sailing-towards-a-cleaner-future-with-zero-emissions-and-stable-fuel-costs",
+        "display" => true
+    ],
+    [
+        'title' => "A 12 Trillion Dollar Market!",
+        'videoID' => "tAY1mIsg4fU",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "a-12-trillion-dollar-market",
+        "display" => true
+    ],
+    [
+        'title' => "Auto giants rethink EV strategy amid battery challenges and slowing demand",
+        'videoID' => "drn2ELAh2G0",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "auto-giants-rethink-ev-strategy-amid-battery-challenges-and-slowing-demand",
+        "display" => true
+    ],
+    [
+        'title' => "Hydrogen is creating a plane that doesn't need a runway",
+        'videoID' => "9SF9CvXcOX0",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "hydrogen-is-creating-a-plane-that-doesnt-need-a-runway",
+        "display" => true
+    ],
+    [
+        'title' => "Unlocking the future of clean energy with precision!",
+        'videoID' => "PA9b1AcC3Pc",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "unlocking-the-future-of-clean-energy-with-precision",
+        "display" => true
+    ],
+    [
+        'title' => "Big news circulating in the hydrogen industry",
+        'videoID' => "8wnMNsNWLM4",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "big-news-circulating-in-the-hydrogen-industry",
+        "display" => true
+    ],
+    [
+        'title' => "NewHydrogen is poised to deliver on its promise of being the producer of the cheapest green hydrogen",
+        'videoID' => "5TjriNCSIkM",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "newhydrogen-is-poised-to-deliver-on-its-promise-of-being-the-producer-of-the-cheapest-green-hydrogen",
+        "display" => true
+    ],
+    [
+        'title' => "Do You Know What HYDROGEN Is?",
+        'videoID' => "FlkKIEov30U",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "do-you-know-what-hydrogen-is",
+        "display" => true
+    ],
+    [
+        'title' => "Industries require high energy density and continuous power supply",
+        'videoID' => "FfsuKp3zWJQ",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "industries-require-high-energy-density-and-continuous-power-supply",
+        "display" => true
+    ],
+    [
+        'title' => "Thermoloop is the potential key to shaping the future global energy landscape.",
+        'videoID' => "Hczi5Q_7iMY",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "thermoloop-is-the-potential-key-to-shaping-the-future-global-energy-landscape",
+        "display" => true
+    ],
+    [
+        'title' => "New Hydrogen's commitment to developing the world's cheapest green hydrogen",
+        'videoID' => "O2cVWa5E4cY",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "new-hydrogens-commitment-to-developing-the-worlds-cheapest-green-hydrogen",
+        "display" => true
+    ],
+    [
+        'title' => "$12 Trillion! Not often do you see a number like this with an opportunity to have a piece of it!",
+        'videoID' => "IKNslHSSiQs",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "12-trillion-not-often-do-you-see-a-number-like-this-with-an-opportunity-to-have-a-piece-of-it",
+        "display" => true
+    ],
+    [
+        'title' => "$7 Billion invested lets you know this is legit!",
+        'videoID' => "-YBtSd1rNqQ",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "7-billion-invested-lets-you-know-this-is-legit",
+        "display" => true
+    ],
+    [
+        'title' => "Did you know $7 billion has been invested for hydrogen advancements all around the US?",
+        'videoID' => "FgRKmHqfzjM",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "did-you-know-7-billion-has-been-invested-for-hydrogen-advancements-all-around-the-us",
+        "display" => true
+    ],
+    [
+        'title' => "Our Thermoloop technology",
+        'videoID' => "Hczi5Q_7iMY",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "our-thermoloop-technology",
+        "display" => true
+    ],
+    [
+        'title' => "NewHydrogen's ThermoLoop Technology",
+        'videoID' => "cg8wMjs6cwo",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "newhydrogens-thermoloop-technology",
+        "display" => true
+    ],
+    [
+        'title' => "We are the future of hydrogen production.",
+        'videoID' => "NKyCbBojDgE",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "we-are-the-future-of-hydrogen-production",
+        "display" => true
+    ],
     [
         'title' => "If you love the planet, please share!",
         'videoID' => "_bEP2-5z20k",
@@ -1034,7 +1273,7 @@ $videos = [
         'slug' => "the-best-way-to-go-about-changing-the-world-is-to-make-it-a-better-and-safer-place-to-live",
         "display" => true
     ],
-  
+
     [
         'title' => "David Bleckham - Cal State University Los Angeles",
         'videoID' => "0YbvntRQ7IM",
@@ -1059,7 +1298,7 @@ $videos = [
         'slug' => "dr-mohamed-f-sanad-noufal-hampton-university",
         "display" => true
     ],
-    
+
     [
         'title' => "Alan Lloyd",
         'videoID' => "eNg6arNE7S0",
@@ -1068,10 +1307,10 @@ $videos = [
         'slug' => "alan-lloyd",
         "display" => true
     ],
-   
-   
-   
-   
+
+
+
+
     [
         'title' => "The Rise of Hydrogen in Heavy Transportation",
         'videoID' => "K9io-BTYPII",
@@ -1136,8 +1375,8 @@ $videos = [
         'slug' => "johannes-schwank-university-of-michigan",
         "display" => true
     ],
- 
-  
+
+
     [
         'title' => "Eugene Holubnyak - Hydrogen Energy Research Center",
         'videoID' => "luvHuNAWr7U",
@@ -1154,7 +1393,7 @@ $videos = [
         'slug' => "investor-confidence-builds-for-green-hydrogen",
         "display" => true
     ],
-   
+
     [
         'title' => "Naomi Boness - Stanford",
         'videoID' => "i7GYiQmcg3Y",
@@ -1195,7 +1434,7 @@ $videos = [
         'slug' => "the-time-for-green-hydrogen-is-now",
         "display" => true
     ],
-  
+
     [
         'title' => "Summer 2023 has been the hottest ever recorded!",
         'videoID' => "287dPw97T-w",
