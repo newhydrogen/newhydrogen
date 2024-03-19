@@ -1,6 +1,14 @@
 <?php
 $videos = [
     [
+        'title' => "March 18, 2024 - NewHydrogen News Commentary",
+        'videoID' => "Yhxtt06nE2w",
+        'date' => "",
+        'category' => "news-commentary",
+        'slug' => "march-18-2024-newhydrogen-news-commentary",
+        "display" => true
+    ],
+    [
         'title' => "Dr. Haotian Wang - Rice University",
         'videoID' => "fscydFwhFVo",
         'date' => "March 18, 2024",
@@ -43,7 +51,7 @@ $videos = [
     [
         'title' => "March 3, 2024 - NewHydrogen News Commentary",
         'videoID' => "Yhxtt06nE2w",
-        'date' => "March 3, 2024",
+        'date' => "",
         'category' => "news-commentary",
         'slug' => "march-3-2024-newhydrogen-news-commentary",
         "display" => true
@@ -51,7 +59,7 @@ $videos = [
     [
         'title' => "February 29, 2024 - NewHydrogen News Commentary",
         'videoID' => "z-D5CmNn6Cs",
-        'date' => "February 29, 2024",
+        'date' => "",
         'category' => "news-commentary",
         'slug' => "february-29-2024-newhydrogen-news-commentary",
         "display" => true
@@ -59,7 +67,7 @@ $videos = [
     [
         'title' => "February 19, 2024 - NewHydrogen News Commentary",
         'videoID' => "-7uPwMRO9Zs",
-        'date' => "February 19, 2024",
+        'date' => "",
         'category' => "news-commentary",
         'slug' => "february-19-2024-newhydrogen-news-commentary",
         "display" => true
