@@ -147,13 +147,14 @@ include('header.php'); ?>
                         </h3>
                         <br>
                         <p>
-                            One University Plaza Suite 505
+                        ClearTrust, LLC
                         </p>
                         <p>
-                            Hackensack, Nj 07601
+                        16540 Pointe Village Dr, Suite 210, Lutz, FL 33558
                         </p>
-                        <p>Tel: (201) 820-2008 </p>
-                        <p>URL: www.worldwidestocktransfer.com</p>
+                        <p>Phone: (813)235-4490</p>
+                        <p>Email: inbox@cleartrusttransfer.com </p>
+                        <p>Web: <a href="www.cleartrustonline.com" target="_blank" rel="noopener noreferrer" class="ps-0">www.cleartrustonline.com</a></p>
                     </div>
                 </div>
                 <div class="col-lg-6 ">
