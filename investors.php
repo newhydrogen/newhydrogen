@@ -154,7 +154,7 @@ include('header.php'); ?>
                         </p>
                         <p>Phone: (813)235-4490</p>
                         <p>Email: inbox@cleartrusttransfer.com </p>
-                        <p>Web: <a href="www.cleartrustonline.com" target="_blank" rel="noopener noreferrer" class="ps-0">www.cleartrustonline.com</a></p>
+                        <p>Web: <a href="https://www.cleartrustonline.com/" target="_blank" rel="noopener noreferrer" class="ps-0">www.cleartrustonline.com</a></p>
                     </div>
                 </div>
                 <div class="col-lg-6 ">
