@@ -143,12 +143,9 @@ include('header.php'); ?>
                         </h2>
                         <br>
                         <h3>
-                            Worldwide Stock Transfer, LLC
+                        ClearTrust, LLC
                         </h3>
                         <br>
-                        <p>
-                        ClearTrust, LLC
-                        </p>
                         <p>
                         16540 Pointe Village Dr, Suite 210, Lutz, FL 33558
                         </p>
