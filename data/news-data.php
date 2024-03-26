@@ -3,6 +3,42 @@
 
 $news = [
     [
+        'id' => "58",
+        'title' => "NewHydrogen CEO Steve Hill Discussed Hydrogen and Gas Turbine Combustion Systems with Georgia Tech Clean Energy Expert ",
+        'date' => "March 26, 2024",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of a breakthrough technology that uses clean energy and water to produce the world’s cheapest green hydrogen, today announced that in a recent podcast the Company’s CEO Steve Hill spoke with Dr. Tim Lieuwen, Executive Director of the Strategic Energy Institute at the Georgia Institute of Technology",
+        'description' => [
+            [
+                "<p><strong>Dr. Tim Lieuwen highlighted the need for efficient energy storage solutions and the use of existing natural gas infrastructure to produce and store hydrogen  </strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (March 26, 2024) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of a breakthrough technology that uses clean energy and water to produce the world’s cheapest green hydrogen, today announced that in a recent podcast the Company’s CEO Steve Hill spoke with Dr. Tim Lieuwen, Executive Director of the Strategic Energy Institute at the Georgia Institute of Technology.    </p>"
+            ],
+            [
+                "<p>During the conversation, Dr. Lieuwen shared his extensive insight on gas turbine combustion systems, explaining their versatility and ability to use different types of fuel, including renewable ones such as hydrogen. The discussion also covered the process of generating electricity through gas turbines, with Dr. Lieuwen providing a detailed explanation.  </p>"
+            ],
+            [
+                '<p>Dr. Lieuwen and Mr. Hill also discussed challenges and opportunities of a hydrogen economy, with a focus on the use of green hydrogen produced from renewable sources. Dr. Lieuwen said, “There is a need for efficient energy storage solutions, such as converting the energy into hydrogen and storing it underground. In addition to the development of gas turbines, which are becoming more efficient over time, there is the challenge of transporting and storing hydrogen, which is being addressed through innovations in technologies like cryogenic storage and high-pressure compression.”  </p>'
+            ],
+            [
+                "<p>They also discussed the potential of using existing natural gas infrastructure to produce and store hydrogen. They recognized the need to balance supply and demand in the hydrogen economy, and the importance of data analytics in optimizing these systems. Lastly, Dr. Lieuwen expressed optimism about the future of the hydrogen economy, despite the challenges.    </p>"
+            ],
+          
+            [
+                "<p>Dr. Lieuwen received a Ph.D. in mechanical engineering from Georgia Tech. He is a Regents’ Professor, the David S. Lewis, Jr. Professor and the Executive Director of the Strategic Energy Institute at Georgia Tech. Dr. Lieuwen is also founder and CTO of TurbineLogic, an analytics firm working in the energy industry.  Current and past board positions include governing/advisory boards for Oak Ridge National Lab, Pacific Northwest National Lab, National Renewable Energy Lab, Electric Power Research Institute, appointment by the DOE Secretary to the National Petroleum Counsel, and board member of the ASME International Gas Turbine Institute. Dr. Lieuwen is listed as Google Scholar at <a href='https://scholar.google.com/citations?user=6ipMUqMAAAAJ/'> https://scholar.google.com/citations?user=6ipMUqMAAAAJ</a>.</p>"
+            ],
+            [
+                "<p>  Watch the full discussion on the NewHydrogen Podcast featuring Dr. Lieuwen at <a href=\"https://newhydrogen.com/videos/ceo-podcast/dr-tim-lieuwen-georgia-tech-university\">https://newhydrogen.com/videos/ceo-podcast/dr-tim-lieuwen-georgia-tech-university</a>.  </p>"
+            ],
+
+            [
+                "<p>For more information about NewHydrogen and its ThermoLoop<sup>TM</sup> technology, please visit <a href=\"https://newhydrogen.com/\">https://newhydrogen.com/</a></p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "57",
         'title' => "NewHydrogen CEO Steve Hill Discusses the Need for Efficient Hydrogen Production Methods with Chair of Environmental Studies at Rhodes College",
         'date' => "March 12, 2024",
