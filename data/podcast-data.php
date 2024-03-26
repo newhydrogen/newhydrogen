@@ -17,6 +17,14 @@ $videos = [
         "display" => true
     ],
     [
+        'title' => "Satenna - A Satellite to Smartphone Antenna Breakthrough",
+        'videoID' => "-sws5xebbMs",
+        'date' => "March 26, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "a-satellite-to-smartphone-antenna-breakthrough",
+        "display" => true
+    ],
+    [
         'title' => "Dr. Haotian Wang - Rice University",
         'videoID' => "fscydFwhFVo",
         'date' => "March 18, 2024",
