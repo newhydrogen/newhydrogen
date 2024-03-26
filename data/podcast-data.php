@@ -1,11 +1,27 @@
 <?php
 $videos = [
     [
+        'title' => "March 24, 2024 - NewHydrogen News Commentary",
+        'videoID' => "uSJnGlaJggE",
+        'date' => "",
+        'category' => "news-commentary",
+        'slug' => "march-24-2024-newhydrogen-news-commentary",
+        "display" => true
+    ],
+    [
         'title' => "March 18, 2024 - NewHydrogen News Commentary",
         'videoID' => "Yhxtt06nE2w",
         'date' => "",
         'category' => "news-commentary",
         'slug' => "march-18-2024-newhydrogen-news-commentary",
+        "display" => true
+    ],
+    [
+        'title' => "Dr. Tim Lieuwen - Georgia Tech University",
+        'videoID' => "-7xYcbD69YI",
+        'date' => "March 26, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "dr-tim-lieuwen-georgia-tech-university",
         "display" => true
     ],
     [
