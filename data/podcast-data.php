@@ -17,6 +17,14 @@ $videos = [
         "display" => true
     ],
     [
+        'title' => "Dr. Tim Lieuwen - Georgia Tech University",
+        'videoID' => "-7xYcbD69YI",
+        'date' => "March 26, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "dr-tim-ieuwen-georgia-tech-university",
+        "display" => true
+    ],
+    [
         'title' => "Dr. Haotian Wang - Rice University",
         'videoID' => "fscydFwhFVo",
         'date' => "March 18, 2024",
