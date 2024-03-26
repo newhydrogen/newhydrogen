@@ -21,7 +21,7 @@ $videos = [
         'videoID' => "-7xYcbD69YI",
         'date' => "March 26, 2024",
         'category' => "ceo-podcast",
-        'slug' => "dr-tim-ieuwen-georgia-tech-university",
+        'slug' => "dr-tim-lieuwen-georgia-tech-university",
         "display" => true
     ],
     [
