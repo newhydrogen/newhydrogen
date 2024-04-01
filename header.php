@@ -154,10 +154,10 @@
                     $page_name = basename($_SERVER['PHP_SELF']);
                     if ($page_name == "applications.php") {
                     ?>
-                        <img src="<?php echo  $full_url; ?>/assets/img/logo-light.png" class="the-header-logo" alt="logo">
+                        <img src="<?php echo  $full_url; ?>/assets/img/logo-light-header.svg" class="the-header-logo" alt="logo">
                     <?php } else { ?>
-                        <img src="<?php echo  $full_url; ?>/assets/img/logo-dark.png" class=" the-header-logo" alt="logo">
-                        <img src="<?php echo  $full_url; ?>/assets/img/logo-light.png" class="d-lg-none d-none the-header-logo" alt="logo">
+                        <img src="<?php echo  $full_url; ?>/assets/img/logo-dark.svg" class=" the-header-logo" alt="logo">
+                        <img src="<?php echo  $full_url; ?>/assets/img/logo-light-header.svg" class="d-lg-none d-none the-header-logo" alt="logo">
                     <?php } ?>
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

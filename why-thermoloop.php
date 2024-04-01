@@ -160,7 +160,7 @@ include "header.php";
         <div class="row">
             <div class="col-lg-6">
                 <div class="santa">
-                    <h4>With UC Santa Barbara (UCSB), New Hydrogen, is developing ThermoLoop, to <span>reduce the cost of hydrogen production by 73%.</span></h4>
+                    <h4>With UC Santa Barbara (UCSB), New Hydrogen, is developing <img src="./assets/img/thermoloop-logo-dark-green.svg" alt="thermoloop-logo-dark-green">, to <span>reduce the cost of hydrogen production by 73%.</span></h4>
 
                     <p>This is accomplished by eliminating electricity used in existing electrolyzers.</p>
                     <p class="second"> Our <span>simple low-cost design</span> uses abundantly available water as a feedstock and inexpensive heat rather than expensive electricity to split the water into hydrogen.</p>
@@ -168,7 +168,7 @@ include "header.php";
             </div>
             <div class="col-lg-6">
                 <div class="new-hy">
-                    <h5>NewHydrogen ThermoLoop™ <br> An Elegant Single Loop Process</h5>
+                    <h5>NewHydrogen <img src="./assets/img/thermoloop-logo-dark-green.svg" alt="thermoloop-logo-dark-green" class="mt-0"> <br> An Elegant Single Loop Process</h5>
                     <img src="./assets/img/reduction.png" alt="Reduction">
 
                 </div>
@@ -186,7 +186,7 @@ include "header.php";
 
     <div class="developed-inner">
         <div class="card">
-            <h5>This is the right time for <br> ThermoLoop to be developed.</h5>
+            <h5>This is the right time for <br> <img src="./assets/img/thermoloop-logo-dark.svg" alt="thermoloop-logo-dark"> to be developed.</h5>
             <p>New Hydrogen is creating excitement in the green hydrogen space with the world-class team at UCSB.</p>
         </div>
         <div class="second-card">

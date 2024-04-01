@@ -1118,7 +1118,6 @@
 .nav_darkk {
 
     .navbar {
-        position: absolute;
 
 
         .navbar-nav {
@@ -1294,6 +1293,9 @@
 }
 
 .application-banner {
+    padding-top: 30px;
+    .page-titleC_app {
+        top: 208px;}
     .appBanner__banner {
         padding-top: 39px;
     }

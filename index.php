@@ -91,7 +91,7 @@ include('header.php'); ?>
             </div>
             <div class="col-lg-7">
                 <div class="nn-abt-wrap">
-                    <h2 class="text-lg-center">NewHydrogen is developing ThermoLoop™ - a breakthrough technology that uses water and heat instead of electricity to produce the world’s cheapest green hydrogen</h2>
+                    <h2 class="text-lg-center">NewHydrogen is developing <img src="./assets/img/thermoloop-logo.svg" alt="logo"> - a breakthrough technology that uses water and heat instead of electricity to produce the world’s cheapest green hydrogen</h2>
                     <p>Hydrogen is the cleanest and most abundant element in the universe, and we can’t live without it.
 Hydrogen is the key ingredient in making fertilizers needed to grow food for the world. It is also used for
 transportation, refining oil and making steel, glass, pharmaceuticals and more. Unfortunately, most of the
