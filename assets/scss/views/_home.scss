@@ -1427,9 +1427,9 @@
         border-radius: 0 37.6px 37.6px 0;
         padding: 8px 34px;
         margin-left: -35px;
-
+        display: flex;
         span {
-            color: white;
+            font-size: 36px;
             font-weight: 800;
             display: inline-block;
             margin-right: 12px;
@@ -4306,10 +4306,6 @@
         border: 1px solid #CBCBCB;
         border-radius: 20px;
         padding: 11px 29px 42px;
-
-        .theme-btn {
-            color: #fff;
-        }
 
         .form-control {
             border-radius: 0;
