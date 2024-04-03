@@ -29,7 +29,7 @@ if ($domain === 'localhost' || $domain === '127.0.0.1') {
 
             <div class="footer-logo">
                 <a href="/">
-                    <img src="<?php echo  $full_url; ?>/assets/img/logo-light.png" alt="logo">
+                    <img src="<?php echo  $full_url; ?>/assets/img/logo-light.svg" alt="logo">
                 </a>
             </div>
 

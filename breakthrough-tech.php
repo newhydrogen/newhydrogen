@@ -11,7 +11,7 @@ include('header.php'); ?>
         <div class="pageBanner__banner">
             <img src="./assets/img/distruptive-tech-banner.jpg" class="w-100 d-block" alt="market">
             <div class="page-titleC mw-100">
-                <h1>&nbsp;Developing&nbsp;ThermoLoop™&nbsp;-&nbsp; &nbsp;a&nbsp;Breakthrough&nbsp;Technology&nbsp;to&nbsp;Produce&nbsp; &nbsp;the&nbsp;World’s&nbsp;Cheapest&nbsp;Green&nbsp;Hydrogen&nbsp;</h1>
+                <h1>&nbsp;Developing&nbsp;<img src="./assets/img/thermoloop-logo-dark.svg" alt="thermoloop-logo-dark">&nbsp;-&nbsp; &nbsp;a&nbsp;Breakthrough&nbsp;Technology&nbsp;to&nbsp;Produce&nbsp; &nbsp;the&nbsp;World’s&nbsp;Cheapest&nbsp;Green&nbsp;Hydrogen&nbsp;</h1>
             </div>
         </div>
     </div>
@@ -283,7 +283,7 @@ include('header.php'); ?>
 <section class="nh-thermoloop">
     <div class="container">
         <div class="nh-thermoloop-wrap">
-            <h3>NewHydrogen ThermoLoop™ <br>
+            <h3>NewHydrogen <img src="./assets/img/thermoloop-logo-dark-green.svg" alt="thermoloop-logo-dark-green"> <br>
                 An Elegant Single Loop Process</h3>
             <img src="./assets/img/themoloop-graph-b.png" alt="thermoloop">
         </div>
@@ -293,7 +293,7 @@ include('header.php'); ?>
     <div class="pb-advantage">
         <div class="container">
             <div class="pb-advantage-content">
-                <p>Our novel NewHydrogen ThermoLoop process features the following advantages
+                <p>Our novel NewHydrogen <img src="./assets/img/thermoloop-logo.svg" alt="thermoloop-logo-dark-green" style="max-width: 160px;"> process features the following advantages
                     over electrolyzers:</p>
             </div>
         </div>
@@ -349,7 +349,7 @@ include('header.php'); ?>
         <div class="row align-items-center">
             <div class="col-lg-6">
                 <div class="thermoloop-belectro-content">
-                    <h4>NewHydrogen ThermoLoop™ A Better Form of Electrolyzer</h4>
+                    <h4>NewHydrogen <img src="./assets/img/thermoloop-logo-dark-green.svg" alt="thermoloop-logo-dark-green"> A Better Form of Electrolyzer</h4>
                     <p>Electrolyzers require electricity, a fundamentally less efficient form of energy and projected to
                         be 60% the cost of producing green hydrogen even by 2030. Most electricity is made from the
                         inefficient burning of fossil fuels to boil water, to make steam, to turn a turbine, which

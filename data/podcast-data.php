@@ -1,6 +1,22 @@
 <?php
 $videos = [
     [
+        'title' => "Gordon Rausser - University of California, Berkeley",
+        'videoID' => "7mYoVqVm2Jk",
+        'date' => "April 2, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "gordon-rausser-university-of-california-berkeley",
+        "display" => false
+    ],
+    [
+        'title' => "April 2, 2024 - NewHydrogen News Commentary",
+        'videoID' => "8EGpATpAI3s",
+        'date' => "",
+        'category' => "news-commentary",
+        'slug' => "april-2-2024-newhydrogen-news-commentary",
+        "display" => true
+    ],
+    [
         'title' => "March 24, 2024 - NewHydrogen News Commentary",
         'videoID' => "uSJnGlaJggE",
         'date' => "",

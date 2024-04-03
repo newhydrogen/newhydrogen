@@ -1243,7 +1243,12 @@
     .investBanner.reasons3-investbanner h1 {
         font-size: 32px;
     }
-  
+    .page-titleC{
+        img{
+            height: auto;
+            max-width: 40%;
+        }
+    }
 }
 
 @media (max-width: 576px) {
@@ -1445,7 +1450,12 @@
         }
     }
 
-
+    .page-titleC{
+        img{
+            height: auto;
+            max-width: 40%;
+        }
+    }
     .ceoMsg__face {
         display: none;
     }
@@ -3172,5 +3182,15 @@
         font-size: 18px;
         line-height: 1.3;
         max-width: 100%;
+    }
+    .application-banner .page-titleC_app {
+        top: 170px;
+    }
+    .developed-inner{
+        h5{
+            img{
+                max-width: 60%;
+            }
+        }
     }
 }
