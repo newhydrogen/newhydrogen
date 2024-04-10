@@ -1,6 +1,21 @@
 <?php
 $videos = [
-
+    [
+        'title' => "April 8, 2024 - NewHydrogen News Commentary",
+        'videoID' => "Ne_t2l_ueVU",
+        'date' => "",
+        'category' => "news-commentary",
+        'slug' => "april-8-2024-newhydrogen-news-commentary",
+        "display" => true
+    ],
+    [
+        'title' => "Dr. Paul Palies - University of Tennessee",
+        'videoID' => "CxtbfsU0r24",
+        'date' => "April 9, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "dr-paul-palies-university-of-tennessee",
+        "display" => true
+    ],
     [
         'title' => "March 3, 2024 - NewHydrogen News Commentary",
         'videoID' => "Yhxtt06nE2w",
@@ -23,22 +38,6 @@ $videos = [
         'date' => "February 19, 2024",
         'category' => "news-commentary",
         'slug' => "february-19-2024-newhydrogen-news-commentary",
-        "display" => true
-    ],
-    [
-        'title' => "Dr. Kevin Huang - University of South Carolina",
-        'videoID' => "dYo4duianfg",
-        'date' => "February 13, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "dr-kevin-huang-university-of-south-carolina",
-        "display" => true
-    ],
-    [
-        'title' => "Dr. Ben Emerson Georgia Tech",
-        'videoID' => "SK6lcbTVM3g",
-        'date' => "January 16, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "dr-ben-emerson-georgia-tech",
         "display" => true
     ]
 ];

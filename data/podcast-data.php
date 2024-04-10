@@ -1,6 +1,22 @@
 <?php
 $videos = [
     [
+        'title' => "April 8, 2024 - NewHydrogen News Commentary",
+        'videoID' => "Ne_t2l_ueVU",
+        'date' => "",
+        'category' => "news-commentary",
+        'slug' => "april-8-2024-newhydrogen-news-commentary",
+        "display" => true
+    ],
+    [
+        'title' => "Dr. Paul Palies - University of Tennessee",
+        'videoID' => "CxtbfsU0r24",
+        'date' => "April 9, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "dr-paul-palies-university-of-tennessee",
+        "display" => true
+    ],
+    [
         'title' => "Gordon Rausser - University of California, Berkeley",
         'videoID' => "7mYoVqVm2Jk",
         'date' => "April 2, 2024",
@@ -48,14 +64,7 @@ $videos = [
         'slug' => "dr-haotian-wang-rice-university",
         "display" => false
     ],
-    [
-        'title' => "Dr. Paul Palies - University of Tennessee",
-        'videoID' => "CxtbfsU0r24",
-        'date' => "March 9, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "dr-paul-palies-university-of-tennessee",
-        "display" => false
-    ],
+   
     [
         'title' => "Dr. Krish Jayachandran - Florida International University",
         'videoID' => "4_gQjfXu_zA",
