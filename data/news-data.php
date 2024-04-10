@@ -3,6 +3,42 @@
 
 $news = [
     [
+        'id' => "59",
+        'title' => "NewHydrogen CEO Steve Hill Discussed Use of Hydrogen for Aviation with University of Tennessee Expert ",
+        'date' => "April 9, 2024",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced that in a recent podcast the Company’s CEO Steve Hill spoke with Dr. Paul Palies, Associate Professor at the University of Tennessee Space Institute and founder of the Combustion and Propulsion for Aviation Research Center regarding future aviation based on hydrogen combustion for a decarbonized system",
+        'description' => [
+            [
+                "<p><strong>Dr. Paul Palies described a clean combustion system that doesn’t add nitrogen oxide and eliminates carbon  </strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (April 9, 2024) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced that in a recent podcast the Company’s CEO Steve Hill spoke with Dr. Paul Palies, Associate Professor at the University of Tennessee Space Institute and founder of the Combustion and Propulsion for Aviation Research Center regarding future aviation based on hydrogen combustion for a decarbonized system.   </p>"
+            ],
+            [
+                "<p>Dr. Palies said, “There is a need for a clean combustion system that doesn't add nitrogen oxide and completely removes the carbon footprint. Despite the current cost and infrastructure challenges associated with hydrogen, I am confident in its potential for aviation applications in the future.”   </p>"
+            ],
+            [
+                '<p>The discussion included the challenges and potential solutions for decarbonizing aviation, and the concept of using hydrogen in combustion, emphasizing the need for controlled combustion to prevent engine damage. Dr. Palies said, “Our team is conducting research on premix combustion, a method that could reduce emissions while maintaining thermal power. I acknowledge the current limitations, such as the need for further research and development, but I am highly optimistic about the progress being made and the potential for future investments in this area.”  </p>'
+            ],
+            [
+                "<p>Also discussed was the funding situation for their research on hydrogen and aviation. Dr. Palies said, “There is a very limited research funding from agencies such as the National Science Foundation and NASA, as compared to the industry, represented by companies like Airbus, interested in the topic.” He also highlighted the need for additional facilities for the research and frustration at not being able to take on more students due to lack of funding, but ended on a hopeful note, with the mention of a potential program that could provide additional avenues.”  </p>"
+            ],
+          ["<p>Mr. Hill and Dr. Palies discussed the momentum towards using clean energy, with a focus on economic solutions and steps towards funding. They highlighted the importance of intermediate victories in achieving larger goals. Mr. Hill thanked Dr. Palies for his insights, and briefly introduced NewHydrogen’s work on developing thermochemical approaches to affordable green hydrogen. </p>"],
+            [
+                "<p>Dr. Paul Palies is Associate Professor at The University of Tennessee Space Institute where he established the Combustion and Propulsion for Aviation Research Center, his research group. He graduated from University of Paris XI (now University of Saclay) with a license and maîtres and from Ecole Centrale Paris with a Master and Doctorate in 2010. He served or has served on technical committees on mechanics (U.S. National Committee on Theoretical and Applied Mechanics, and combustion and propulsion (American Institute of Aeronautics and Astronautics, The Association of Aeronautics and Astronautics of France, and The American Society of Mechanical Engineers). He has authored a series of pioneering articles on premixed and hydrogen combustion and a book published by Academic Press where he described technical elements for a future thermal-powered based clean aviation. <br /> <br /> Dr. Palies is listed as a Google Scholar at  <a href='https://scholar.google.com/citations?user=GaOIYg8AAAAJ/'> https://scholar.google.com/citations?user=GaOIYg8AAAAJ</a>.</p>"
+            ],
+            [
+                "<p>  Watch the full discussion on the NewHydrogen Podcast featuring Dr. Palies at <a href=\"https://newhydrogen.com/videos/ceo-podcast/dr-paul-palies-university-of-tennessee\">https://newhydrogen.com/videos/ceo-podcast/dr-paul-palies-university-of-tennessee</a>.  </p>"
+            ],
+
+            [
+                "<p>For more information about NewHydrogen and its ThermoLoop<sup>TM</sup> technology, please visit <a href=\"https://newhydrogen.com/\">https://newhydrogen.com/</a></p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "58",
         'title' => "NewHydrogen CEO Steve Hill Discussed Hydrogen and Gas Turbine Combustion Systems with Georgia Tech Clean Energy Expert ",
         'date' => "March 26, 2024",
