@@ -17,6 +17,14 @@ $videos = [
         "display" => true
     ],
     [
+        'title' => "David Bleckham - Cal State University Los Angeles",
+        'videoID' => "0YbvntRQ7IM",
+        'date' => "April 23, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "david-bleckham-cal-state-university-los-angeles",
+        "display" => true
+    ],
+    [
         'title' => "Dr. Paul Palies - University of Tennessee",
         'videoID' => "CxtbfsU0r24",
         'date' => "April 9, 2024",
@@ -1331,14 +1339,7 @@ $videos = [
         "display" => true
     ],
 
-    [
-        'title' => "David Bleckham - Cal State University Los Angeles",
-        'videoID' => "0YbvntRQ7IM",
-        'date' => "December 20, 2023",
-        'category' => "ceo-podcast",
-        'slug' => "david-bleckham-cal-state-university-los-angeles",
-        "display" => true
-    ],
+ 
     [
         'title' => "Valerie Thomas Georgia Tech",
         'videoID' => "DcKvQOTSxYs",
