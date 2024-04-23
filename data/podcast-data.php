@@ -1,6 +1,14 @@
 <?php
 $videos = [
     [
+        'title' => "April 22, 2024 - NewHydrogen News Commentary",
+        'videoID' => "Bn8xxkibMwE",
+        'date' => "",
+        'category' => "news-commentary",
+        'slug' => "april-22-2024-newhydrogen-news-commentary",
+        "display" => true
+    ],
+    [
         'title' => "April 15, 2024 - NewHydrogen News Commentary",
         'videoID' => "SG3nnye_QxU",
         'date' => "",
@@ -14,6 +22,14 @@ $videos = [
         'date' => "",
         'category' => "news-commentary",
         'slug' => "april-8-2024-newhydrogen-news-commentary",
+        "display" => true
+    ],
+    [
+        'title' => "David Bleckham - Cal State University Los Angeles",
+        'videoID' => "0YbvntRQ7IM",
+        'date' => "April 23, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "david-bleckham-cal-state-university-los-angeles",
         "display" => true
     ],
     [
@@ -1331,14 +1347,7 @@ $videos = [
         "display" => true
     ],
 
-    [
-        'title' => "David Bleckham - Cal State University Los Angeles",
-        'videoID' => "0YbvntRQ7IM",
-        'date' => "December 20, 2023",
-        'category' => "ceo-podcast",
-        'slug' => "david-bleckham-cal-state-university-los-angeles",
-        "display" => true
-    ],
+ 
     [
         'title' => "Valerie Thomas Georgia Tech",
         'videoID' => "DcKvQOTSxYs",
