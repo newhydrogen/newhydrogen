@@ -3,6 +3,42 @@
 
 $news = [
     [
+        'id' => "60",
+        'title' => "NewHydrogen CEO Steve Hill Discussed Diverse Hydrogen Tech Applications with a Cal State Los Angeles Professor  ",
+        'date' => "April 23, 2024",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced that in a recent podcast the Company’s CEO Steve Hill spoke with Dr. David Blekhman, a professor at Cal State University Los Angeles about diverse hydrogen technology applications",
+        'description' => [
+            [
+                "<p><strong>Dr. David Blekhman shared insights on innovative use of hydrogen, solar power, battery storage, electrolyzers, and fuel cells for energy independence  </strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (April 23, 2024) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced that in a recent podcast the Company’s CEO Steve Hill spoke with Dr. David Blekhman, a professor at Cal State University Los Angeles about diverse hydrogen technology applications.    </p>"
+            ],
+            [
+                "<p>Dr. Blekhman also serves as technical director for the Hydrogen Research and Fueling Facility and is a regular contributor on Forbes.com regarding innovative uses of hydrogen, solar power, battery storage, electrolyzers, and fuel cells for residential energy independence.  </p>"
+            ],
+            [
+                '<p>The conversation spanned from innovative off grid power solutions to the application of hydrogen in extreme sports, such as Formula 1 and Extreme H and its potential to drive innovation and interest in hydrogen technology. Dr. Blekhman also presented a case study of Hyundai’s hydrogen trucking program in Oakland and Switzerland, which showed the viability of hydrogen for long-distance transport. The program has logged over four million miles in a promising example of hydrogen’s application in real-world scenarios.  </p>'
+            ],
+            [
+                "<p>Regarding the inherent challenges of scaling up hydrogen production Dr. Blekhman observed, “I would like to emphasize the importance of developing cost-effective hydrogen production methods to make it mainstream. I believe that hydrogen should be as cheap as the market allows.”  </p>"
+            ],
+          ["<p>Dr. Blekhman expressed his excitement for the future of hydrogen technology, highlighting the need for workforce development and education in cutting-edge hydrogen technologies. He also emphasized the potential for a hydrogen revolution and the emergence of new professions in the field.  </p>"],
+            [
+                "<p>Dr. Blekhman received a Ph.D. in Mechanical Engineering from the University of Buffalo, SUNY. His research interest includes Hydrogen Infrastructure, Alternative and Renewable Energy, Fuel Cells, Hybrid and Electric Vehicles, Automotive Applications, Fuel Reforming, Combustion, Thermal and Fluid Systems, CFD, Data Acquisition and Instrumentation, Rotating Machinery. Dr. Blekhman is listed as a Google Scholar at  <a href='https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Dr.+David+Blekhman&btnG= /'> https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Dr.+David+Blekhman&btnG= </a>.</p>"
+            ],
+            [
+                "<p> The full podcast episode featuring Dr. David Blekhman is available on <a href=\"https://newhydrogen.com/videos/ceo-podcast/david-bleckham-cal-state-university-los-angeles\">https://newhydrogen.com/videos/ceo-podcast/david-bleckham-cal-state-university-los-angeles</a>.  </p>"
+            ],
+
+            [
+                "<p>For more information about NewHydrogen and its ThermoLoop<sup>TM</sup> technology, please visit <a href=\"https://newhydrogen.com/\">https://newhydrogen.com/</a></p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "59",
         'title' => "NewHydrogen CEO Steve Hill Discussed Use of Hydrogen for Aviation with University of Tennessee Expert ",
         'date' => "April 9, 2024",
