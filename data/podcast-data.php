@@ -33,11 +33,11 @@ $videos = [
         "display" => true
     ],
     [
-        'title' => "David Bleckham - Cal State University Los Angeles",
-        'videoID' => "0YbvntRQ7IM",
-        'date' => "April 23, 2024",
+        'title' => "David Blekhman - Cal State University Los Angeles",
+        'videoID' => "Un8JqMgDeU8",
+        'date' => "May 3, 2024",
         'category' => "ceo-podcast",
-        'slug' => "david-bleckham-cal-state-university-los-angeles",
+        'slug' => "david-blekhman-cal-state-university-los-angeles",
         "display" => true
     ],
     [
