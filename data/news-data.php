@@ -3,6 +3,45 @@
 
 $news = [
     [
+        'id' => "61",
+        'title' => "NewHydrogen CEO Steve Hill Discusses Sustainability with a UC Davis Expert ",
+        'date' => "May 7, 2024",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced that in a recent podcast the Company’s CEO Steve Hill spoke with Dr. Kurt Kornbluth, Adjunct Professor at the UC Davis Department of Biological and Agricultural Engineering, Academic Director of the Engineering Student Design Center, and the founder and director of Program for International Energy Technology and D-Lab, regarding interdisciplinary collaboration, energy conservation and generation efforts on the UC Davis campus, and the potential of hydrogen in sustainable initiatives",
+        'description' => [
+            [
+                "<p><strong>Dr. Kurt Kornbluth explores the importance of interdisciplinary collaboration, energy conservation and generation efforts at UC Davis campus  </strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (May 7, 2024) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced that in a recent podcast the Company’s CEO Steve Hill spoke with Dr. Kurt Kornbluth, Adjunct Professor at the UC Davis Department of Biological and Agricultural Engineering, Academic Director of the Engineering Student Design Center, and the founder and director of Program for International Energy Technology and D-Lab, regarding interdisciplinary collaboration, energy conservation and generation efforts on the UC Davis campus, and the potential of hydrogen in sustainable initiatives.    </p>"
+            ],
+            [
+                "<p>Dr. Kornbluth shared his experiences working on sustainable energy projects in Africa and his PhD work at UC Davis, where he created a program focusing on international energy technologies and project-based learning. Dr. Kornbluth said, “I cannot overemphasize the importance of interdisciplinary collaboration in tackling complex energy problems.” He also touched upon his involvement with the creation of an energy graduate group at UC Davis and the development of a course called \"A Path to Zero Net Energy\" as well as a larger initiative called \"Sustainable Campus, Sustainable Cities\" that integrates research, progress, education, and outreach.  </p>"
+            ],
+            [
+                "<p>As for the energy conservation and generation efforts on the UC Davis campus, Dr. Kornbluth highlighted the campus's 16-megawatt solar installation and the efforts to reduce energy usage in buildings, often with the help of students. He also explained the concept of demand management, noting that balancing supply and demand is crucial for efficient energy use. Dr. Kornbluth mentioned a project that uses Wi-Fi data, occupancy sensors, and CO2 sensors to predict and adjust building vacancies, which could potentially save energy.   </p>"
+            ],
+            [
+                "<p>Dr. Kornbluth discussed the development of sustainable initiatives at UC Davis, including their efforts to reduce energy consumption and explore alternative methods of heating buildings and touched upon the importance of funding these projects and the potential for applying these methods to sustainable communities. Dr. Kornbluth said, “We need to understand stakeholder needs and the challenges faced by different campuses and communities.” He also highlighted their collaborative efforts with the city of Davis and research on community energy systems. The conversation concluded with plans for a joint research project with Danish municipalities to reduce carbon in their communities.  </p>"
+            ],
+            ["<p>As for the potential of hydrogen in their plan, referencing his work on lab-scale hydrogen research and reforming, Dr. Kornbluth highlighted Danish demonstration projects involving hydrogen, and explored the concept of using hydrogen as an intermediate storage technology or fuel, referencing projects in Denmark and Sweden. Dr. Kornbluth said, “It is important to figure out where hydrogen fits best, noting its potential in areas with renewable energy that are not immediately used.”    </p>"],
+            [
+                "<p>Dr. Kornbluth and Mr. Hill discussed the development of hydrogen as a ubiquitous and cost-effective resource. Dr. Kornbluth emphasized the importance of identifying and supporting the development of various technologies that could enhance each other as they mature. Mr. Hill briefly introduced NewHydrogen’s work on developing thermochemical approaches to affordable green hydrogen. </p>"
+            ],
+            [
+                "<p>Dr. Kurt Kornbluthreceived a PhD in Mechanical and Aeronautical Engineering from UC Davis and is a Graduate School of Management Business Development fellow. After working for the MIT D-Lab he founded a similar program at UC Davis in 2008. In 2016 Kornbluth received the University of California President’s Office Faculty Climate Champion award for his novel client-focused, project–based courses and Sustainable Campus, Sustainable Cities applied research initiative. In 2017, Dr. Kornbluth received the UC Davis Chancellors Global Engagement Award for his efforts to connect students with real projects abroad. In 2019 he was appointed the Academic Director of the new $24M UC Davis Engineering Student Design Center with the charge of incorporating more active learning curricula for Engineering students.  Dr. Kornbluth is listed as a Google Scholar at  <a href='https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Kurt+Kornbluth&btnG='> https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Kurt+Kornbluth&btnG= </a>.</p>"
+            ],
+            [
+                "<p> Watch the full discussion on the NewHydrogen Podcast featuring Dr. Kornbluth at <a href=\"https://staging.newhydrogen.com/videos/ceo-podcast/dr-kurt-kornbluth-uc-davis\">https://staging.newhydrogen.com/videos/ceo-podcast/dr-kurt-kornbluth-uc-davis</a>.  </p>"
+            ],
+
+            [
+                "<p>For more information about NewHydrogen and its ThermoLoop<sup>TM</sup> technology, please visit <a href=\"https://newhydrogen.com/\">https://newhydrogen.com/</a></p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "60",
         'title' => "NewHydrogen CEO Steve Hill Discussed Diverse Hydrogen Tech Applications with a Cal State Los Angeles Professor  ",
         'date' => "April 23, 2024",
@@ -23,7 +62,7 @@ $news = [
             [
                 "<p>Regarding the inherent challenges of scaling up hydrogen production Dr. Blekhman observed, “I would like to emphasize the importance of developing cost-effective hydrogen production methods to make it mainstream. I believe that hydrogen should be as cheap as the market allows.”  </p>"
             ],
-          ["<p>Dr. Blekhman expressed his excitement for the future of hydrogen technology, highlighting the need for workforce development and education in cutting-edge hydrogen technologies. He also emphasized the potential for a hydrogen revolution and the emergence of new professions in the field.  </p>"],
+            ["<p>Dr. Blekhman expressed his excitement for the future of hydrogen technology, highlighting the need for workforce development and education in cutting-edge hydrogen technologies. He also emphasized the potential for a hydrogen revolution and the emergence of new professions in the field.  </p>"],
             [
                 "<p>Dr. Blekhman received a Ph.D. in Mechanical Engineering from the University of Buffalo, SUNY. His research interest includes Hydrogen Infrastructure, Alternative and Renewable Energy, Fuel Cells, Hybrid and Electric Vehicles, Automotive Applications, Fuel Reforming, Combustion, Thermal and Fluid Systems, CFD, Data Acquisition and Instrumentation, Rotating Machinery. Dr. Blekhman is listed as a Google Scholar at  <a href='https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Dr.+David+Blekhman&btnG= /'> https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Dr.+David+Blekhman&btnG= </a>.</p>"
             ],
@@ -59,7 +98,7 @@ $news = [
             [
                 "<p>Also discussed was the funding situation for their research on hydrogen and aviation. Dr. Palies said, “There is a very limited research funding from agencies such as the National Science Foundation and NASA, as compared to the industry, represented by companies like Airbus, interested in the topic.” He also highlighted the need for additional facilities for the research and frustration at not being able to take on more students due to lack of funding, but ended on a hopeful note, with the mention of a potential program that could provide additional avenues.”  </p>"
             ],
-          ["<p>Mr. Hill and Dr. Palies discussed the momentum towards using clean energy, with a focus on economic solutions and steps towards funding. They highlighted the importance of intermediate victories in achieving larger goals. Mr. Hill thanked Dr. Palies for his insights, and briefly introduced NewHydrogen’s work on developing thermochemical approaches to affordable green hydrogen. </p>"],
+            ["<p>Mr. Hill and Dr. Palies discussed the momentum towards using clean energy, with a focus on economic solutions and steps towards funding. They highlighted the importance of intermediate victories in achieving larger goals. Mr. Hill thanked Dr. Palies for his insights, and briefly introduced NewHydrogen’s work on developing thermochemical approaches to affordable green hydrogen. </p>"],
             [
                 "<p>Dr. Paul Palies is Associate Professor at The University of Tennessee Space Institute where he established the Combustion and Propulsion for Aviation Research Center, his research group. He graduated from University of Paris XI (now University of Saclay) with a license and maîtres and from Ecole Centrale Paris with a Master and Doctorate in 2010. He served or has served on technical committees on mechanics (U.S. National Committee on Theoretical and Applied Mechanics, and combustion and propulsion (American Institute of Aeronautics and Astronautics, The Association of Aeronautics and Astronautics of France, and The American Society of Mechanical Engineers). He has authored a series of pioneering articles on premixed and hydrogen combustion and a book published by Academic Press where he described technical elements for a future thermal-powered based clean aviation. <br /> <br /> Dr. Palies is listed as a Google Scholar at  <a href='https://scholar.google.com/citations?user=GaOIYg8AAAAJ/'> https://scholar.google.com/citations?user=GaOIYg8AAAAJ</a>.</p>"
             ],
@@ -95,7 +134,7 @@ $news = [
             [
                 "<p>They also discussed the potential of using existing natural gas infrastructure to produce and store hydrogen. They recognized the need to balance supply and demand in the hydrogen economy, and the importance of data analytics in optimizing these systems. Lastly, Dr. Lieuwen expressed optimism about the future of the hydrogen economy, despite the challenges.    </p>"
             ],
-          
+
             [
                 "<p>Dr. Lieuwen received a Ph.D. in mechanical engineering from Georgia Tech. He is a Regents’ Professor, the David S. Lewis, Jr. Professor and the Executive Director of the Strategic Energy Institute at Georgia Tech. Dr. Lieuwen is also founder and CTO of TurbineLogic, an analytics firm working in the energy industry.  Current and past board positions include governing/advisory boards for Oak Ridge National Lab, Pacific Northwest National Lab, National Renewable Energy Lab, Electric Power Research Institute, appointment by the DOE Secretary to the National Petroleum Counsel, and board member of the ASME International Gas Turbine Institute. Dr. Lieuwen is listed as Google Scholar at <a href='https://scholar.google.com/citations?user=6ipMUqMAAAAJ/'> https://scholar.google.com/citations?user=6ipMUqMAAAAJ</a>.</p>"
             ],
@@ -216,7 +255,7 @@ $news = [
             [
                 "<p>Andrew Thomas directs the Energy Policy Center at the Levin College of Public Affairs and Education at Cleveland State University. His research focuses on electricity regulation and markets, microgrids, transportation, energy storage, fuel cells, the hydrogen economy, decarbonization and oil and gas development. He also directs the Midwest Hydrogen Center of Excellence. He received his J.D. from Loyola University of New Orleans, where he was a law review editor. He is Chairman of the Ohio Oil and Gas Commission.  </p>"
             ],
-          
+
             [
                 "<p>Watch the full discussion on the NewHydrogen Podcast featuring Mr. Thomas at  <a href=\"https://newhydrogen.com/videos/ceo-podcast/andrew-thomas-cleveland-state-university\" target=\"_blank\">https://newhydrogen.com/videos/ceo-podcast/andrew-thomas-cleveland-state-university</a></p>"
             ],
