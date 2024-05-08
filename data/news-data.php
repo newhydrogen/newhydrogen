@@ -3,6 +3,45 @@
 
 $news = [
     [
+        'id' => "61",
+        'title' => "NewHydrogen CEO Steve Hill Discusses Sustainability with a UC Davis Expert ",
+        'date' => "May 7, 2024",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced that in a recent podcast the Company’s CEO Steve Hill spoke with Dr. Kurt Kornbluth, Adjunct Professor at the UC Davis Department of Biological and Agricultural Engineering, Academic Director of the Engineering Student Design Center, and the founder and director of Program for International Energy Technology and D-Lab, regarding interdisciplinary collaboration, energy conservation and generation efforts on the UC Davis campus, and the potential of hydrogen in sustainable initiatives",
+        'description' => [
+            [
+                "<p><strong>Dr. Kurt Kornbluth explores the importance of interdisciplinary collaboration, energy conservation and generation efforts at UC Davis campus  </strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (May 7, 2024) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced that in a recent podcast the Company’s CEO Steve Hill spoke with Dr. Kurt Kornbluth, Adjunct Professor at the UC Davis Department of Biological and Agricultural Engineering, Academic Director of the Engineering Student Design Center, and the founder and director of Program for International Energy Technology and D-Lab, regarding interdisciplinary collaboration, energy conservation and generation efforts on the UC Davis campus, and the potential of hydrogen in sustainable initiatives.    </p>"
+            ],
+            [
+                "<p>Dr. Kornbluth shared his experiences working on sustainable energy projects in Africa and his PhD work at UC Davis, where he created a program focusing on international energy technologies and project-based learning. Dr. Kornbluth said, “I cannot overemphasize the importance of interdisciplinary collaboration in tackling complex energy problems.” He also touched upon his involvement with the creation of an energy graduate group at UC Davis and the development of a course called \"A Path to Zero Net Energy\" as well as a larger initiative called \"Sustainable Campus, Sustainable Cities\" that integrates research, progress, education, and outreach.  </p>"
+            ],
+            [
+                "<p>As for the energy conservation and generation efforts on the UC Davis campus, Dr. Kornbluth highlighted the campus's 16-megawatt solar installation and the efforts to reduce energy usage in buildings, often with the help of students. He also explained the concept of demand management, noting that balancing supply and demand is crucial for efficient energy use. Dr. Kornbluth mentioned a project that uses Wi-Fi data, occupancy sensors, and CO2 sensors to predict and adjust building vacancies, which could potentially save energy.   </p>"
+            ],
+            [
+                "<p>Dr. Kornbluth discussed the development of sustainable initiatives at UC Davis, including their efforts to reduce energy consumption and explore alternative methods of heating buildings and touched upon the importance of funding these projects and the potential for applying these methods to sustainable communities. Dr. Kornbluth said, “We need to understand stakeholder needs and the challenges faced by different campuses and communities.” He also highlighted their collaborative efforts with the city of Davis and research on community energy systems. The conversation concluded with plans for a joint research project with Danish municipalities to reduce carbon in their communities.  </p>"
+            ],
+            ["<p>As for the potential of hydrogen in their plan, referencing his work on lab-scale hydrogen research and reforming, Dr. Kornbluth highlighted Danish demonstration projects involving hydrogen, and explored the concept of using hydrogen as an intermediate storage technology or fuel, referencing projects in Denmark and Sweden. Dr. Kornbluth said, “It is important to figure out where hydrogen fits best, noting its potential in areas with renewable energy that are not immediately used.”    </p>"],
+            [
+                "<p>Dr. Kornbluth and Mr. Hill discussed the development of hydrogen as a ubiquitous and cost-effective resource. Dr. Kornbluth emphasized the importance of identifying and supporting the development of various technologies that could enhance each other as they mature. Mr. Hill briefly introduced NewHydrogen’s work on developing thermochemical approaches to affordable green hydrogen. </p>"
+            ],
+            [
+                "<p>Dr. Kurt Kornbluthreceived a PhD in Mechanical and Aeronautical Engineering from UC Davis and is a Graduate School of Management Business Development fellow. After working for the MIT D-Lab he founded a similar program at UC Davis in 2008. In 2016 Kornbluth received the University of California President’s Office Faculty Climate Champion award for his novel client-focused, project–based courses and Sustainable Campus, Sustainable Cities applied research initiative. In 2017, Dr. Kornbluth received the UC Davis Chancellors Global Engagement Award for his efforts to connect students with real projects abroad. In 2019 he was appointed the Academic Director of the new $24M UC Davis Engineering Student Design Center with the charge of incorporating more active learning curricula for Engineering students.  Dr. Kornbluth is listed as a Google Scholar at  <a href='https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Kurt+Kornbluth&btnG='> https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Kurt+Kornbluth&btnG= </a>.</p>"
+            ],
+            [
+                "<p> Watch the full discussion on the NewHydrogen Podcast featuring Dr. Kornbluth at <a href=\"https://staging.newhydrogen.com/videos/ceo-podcast/dr-kurt-kornbluth-uc-davis\">https://staging.newhydrogen.com/videos/ceo-podcast/dr-kurt-kornbluth-uc-davis</a>.  </p>"
+            ],
+
+            [
+                "<p>For more information about NewHydrogen and its ThermoLoop<sup>TM</sup> technology, please visit <a href=\"https://newhydrogen.com/\">https://newhydrogen.com/</a></p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "60",
         'title' => "NewHydrogen CEO Steve Hill Discussed Diverse Hydrogen Tech Applications with a Cal State Los Angeles Professor  ",
         'date' => "April 23, 2024",
