@@ -49,7 +49,7 @@
     <link rel="stylesheet" href="<?php echo  $full_url; ?>/assets/css/style.min.css">
 
     <!-- Google Recaptcha -->
-    <script src="https://www.google.com/recaptcha/api.js?render=6LeWVeAnAAAAAIOw4s89h2pgbDVHZ0M7IzALAcXE"></script>
+    <!-- <script src="https://www.google.com/recaptcha/api.js?render=6LeWVeAnAAAAAIOw4s89h2pgbDVHZ0M7IzALAcXE"></script>
     <script>
         grecaptcha.ready(function() {
             console.log('no error');
@@ -60,7 +60,7 @@
                 recaptchaResponse.value = token;
             })
         })
-    </script>
+    </script> -->
 
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-4TKDKXJVVE"></script>
