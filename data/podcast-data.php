@@ -49,6 +49,14 @@ $videos = [
         "display" => true
     ],
     [
+        'title' => "Dr. Kurt Kornbluth - UC Davis",
+        'videoID' => "rK2JgNjbrko",
+        'date' => "May 7, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "dr-kurt-kornbluth-uc-davis",
+        "display" => true
+    ],
+    [
         'title' => "David Blekhman - Cal State University Los Angeles",
         'videoID' => "Un8JqMgDeU8",
         'date' => "May 3, 2024",
@@ -225,14 +233,7 @@ $videos = [
         'slug' => "dr-ben-emerson-georgia-tech",
         "display" => true
     ],
-    [
-        'title' => "Dr. Kurt Kornbluth - UC Davis",
-        'videoID' => "rK2JgNjbrko",
-        'date' => "January 13, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "dr-kurt-kornbluth-uc-davis",
-        "display" => false
-    ],
+   
     [
         'title' => "Dr. Faisal Alamgir - Georgia Institute of Technology",
         'videoID' => "PL-JaIzTV0U",

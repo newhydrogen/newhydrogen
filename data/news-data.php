@@ -31,7 +31,7 @@ $news = [
                 "<p>Dr. Kurt Kornbluthreceived a PhD in Mechanical and Aeronautical Engineering from UC Davis and is a Graduate School of Management Business Development fellow. After working for the MIT D-Lab he founded a similar program at UC Davis in 2008. In 2016 Kornbluth received the University of California President’s Office Faculty Climate Champion award for his novel client-focused, project–based courses and Sustainable Campus, Sustainable Cities applied research initiative. In 2017, Dr. Kornbluth received the UC Davis Chancellors Global Engagement Award for his efforts to connect students with real projects abroad. In 2019 he was appointed the Academic Director of the new $24M UC Davis Engineering Student Design Center with the charge of incorporating more active learning curricula for Engineering students.  Dr. Kornbluth is listed as a Google Scholar at  <a href='https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Kurt+Kornbluth&btnG='> https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Kurt+Kornbluth&btnG= </a>.</p>"
             ],
             [
-                "<p> Watch the full discussion on the NewHydrogen Podcast featuring Dr. Kornbluth at <a href=\"https://staging.newhydrogen.com/videos/ceo-podcast/dr-kurt-kornbluth-uc-davis\">https://staging.newhydrogen.com/videos/ceo-podcast/dr-kurt-kornbluth-uc-davis</a>.  </p>"
+                "<p> Watch the full discussion on the NewHydrogen Podcast featuring Dr. Kornbluth at <a href=\"https://newhydrogen.com/videos/ceo-podcast/dr-kurt-kornbluth-uc-davis\">https://newhydrogen.com/videos/ceo-podcast/dr-kurt-kornbluth-uc-davis</a>.  </p>"
             ],
 
             [

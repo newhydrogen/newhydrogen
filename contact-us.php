@@ -54,7 +54,7 @@ include('header.php'); ?>
 
         <div class="contact-form">
 
-            <form action="https://submit.jotform.com/submit/241317693348058/" method="POST">
+        <form action="https://submit.jotform.com/submit/241317693348058/" method="POST">
                 <input type="hidden" name="formID" value="241317693348058" />
 
                 <input type="text" class="form-control" placeholder="Name" name="q7_name" id="input_7" required>
@@ -63,6 +63,7 @@ include('header.php'); ?>
 
                 <textarea name="q6_message" id="input_6" cols="30" rows="5" class="form-control" placeholder="Message"></textarea>
                 <!-- <input type="hidden" name="recaptcha_response" id="recaptchaResponse"> -->
+
                 
                 <div class="contact-form-btn">
 
