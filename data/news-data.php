@@ -62,7 +62,7 @@ $news = [
             [
                 "<p>Regarding the inherent challenges of scaling up hydrogen production Dr. Blekhman observed, “I would like to emphasize the importance of developing cost-effective hydrogen production methods to make it mainstream. I believe that hydrogen should be as cheap as the market allows.”  </p>"
             ],
-          ["<p>Dr. Blekhman expressed his excitement for the future of hydrogen technology, highlighting the need for workforce development and education in cutting-edge hydrogen technologies. He also emphasized the potential for a hydrogen revolution and the emergence of new professions in the field.  </p>"],
+            ["<p>Dr. Blekhman expressed his excitement for the future of hydrogen technology, highlighting the need for workforce development and education in cutting-edge hydrogen technologies. He also emphasized the potential for a hydrogen revolution and the emergence of new professions in the field.  </p>"],
             [
                 "<p>Dr. Blekhman received a Ph.D. in Mechanical Engineering from the University of Buffalo, SUNY. His research interest includes Hydrogen Infrastructure, Alternative and Renewable Energy, Fuel Cells, Hybrid and Electric Vehicles, Automotive Applications, Fuel Reforming, Combustion, Thermal and Fluid Systems, CFD, Data Acquisition and Instrumentation, Rotating Machinery. Dr. Blekhman is listed as a Google Scholar at  <a href='https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Dr.+David+Blekhman&btnG= /'> https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=Dr.+David+Blekhman&btnG= </a>.</p>"
             ],
@@ -98,7 +98,7 @@ $news = [
             [
                 "<p>Also discussed was the funding situation for their research on hydrogen and aviation. Dr. Palies said, “There is a very limited research funding from agencies such as the National Science Foundation and NASA, as compared to the industry, represented by companies like Airbus, interested in the topic.” He also highlighted the need for additional facilities for the research and frustration at not being able to take on more students due to lack of funding, but ended on a hopeful note, with the mention of a potential program that could provide additional avenues.”  </p>"
             ],
-          ["<p>Mr. Hill and Dr. Palies discussed the momentum towards using clean energy, with a focus on economic solutions and steps towards funding. They highlighted the importance of intermediate victories in achieving larger goals. Mr. Hill thanked Dr. Palies for his insights, and briefly introduced NewHydrogen’s work on developing thermochemical approaches to affordable green hydrogen. </p>"],
+            ["<p>Mr. Hill and Dr. Palies discussed the momentum towards using clean energy, with a focus on economic solutions and steps towards funding. They highlighted the importance of intermediate victories in achieving larger goals. Mr. Hill thanked Dr. Palies for his insights, and briefly introduced NewHydrogen’s work on developing thermochemical approaches to affordable green hydrogen. </p>"],
             [
                 "<p>Dr. Paul Palies is Associate Professor at The University of Tennessee Space Institute where he established the Combustion and Propulsion for Aviation Research Center, his research group. He graduated from University of Paris XI (now University of Saclay) with a license and maîtres and from Ecole Centrale Paris with a Master and Doctorate in 2010. He served or has served on technical committees on mechanics (U.S. National Committee on Theoretical and Applied Mechanics, and combustion and propulsion (American Institute of Aeronautics and Astronautics, The Association of Aeronautics and Astronautics of France, and The American Society of Mechanical Engineers). He has authored a series of pioneering articles on premixed and hydrogen combustion and a book published by Academic Press where he described technical elements for a future thermal-powered based clean aviation. <br /> <br /> Dr. Palies is listed as a Google Scholar at  <a href='https://scholar.google.com/citations?user=GaOIYg8AAAAJ/'> https://scholar.google.com/citations?user=GaOIYg8AAAAJ</a>.</p>"
             ],
@@ -134,7 +134,7 @@ $news = [
             [
                 "<p>They also discussed the potential of using existing natural gas infrastructure to produce and store hydrogen. They recognized the need to balance supply and demand in the hydrogen economy, and the importance of data analytics in optimizing these systems. Lastly, Dr. Lieuwen expressed optimism about the future of the hydrogen economy, despite the challenges.    </p>"
             ],
-          
+
             [
                 "<p>Dr. Lieuwen received a Ph.D. in mechanical engineering from Georgia Tech. He is a Regents’ Professor, the David S. Lewis, Jr. Professor and the Executive Director of the Strategic Energy Institute at Georgia Tech. Dr. Lieuwen is also founder and CTO of TurbineLogic, an analytics firm working in the energy industry.  Current and past board positions include governing/advisory boards for Oak Ridge National Lab, Pacific Northwest National Lab, National Renewable Energy Lab, Electric Power Research Institute, appointment by the DOE Secretary to the National Petroleum Counsel, and board member of the ASME International Gas Turbine Institute. Dr. Lieuwen is listed as Google Scholar at <a href='https://scholar.google.com/citations?user=6ipMUqMAAAAJ/'> https://scholar.google.com/citations?user=6ipMUqMAAAAJ</a>.</p>"
             ],
@@ -255,7 +255,7 @@ $news = [
             [
                 "<p>Andrew Thomas directs the Energy Policy Center at the Levin College of Public Affairs and Education at Cleveland State University. His research focuses on electricity regulation and markets, microgrids, transportation, energy storage, fuel cells, the hydrogen economy, decarbonization and oil and gas development. He also directs the Midwest Hydrogen Center of Excellence. He received his J.D. from Loyola University of New Orleans, where he was a law review editor. He is Chairman of the Ohio Oil and Gas Commission.  </p>"
             ],
-          
+
             [
                 "<p>Watch the full discussion on the NewHydrogen Podcast featuring Mr. Thomas at  <a href=\"https://newhydrogen.com/videos/ceo-podcast/andrew-thomas-cleveland-state-university\" target=\"_blank\">https://newhydrogen.com/videos/ceo-podcast/andrew-thomas-cleveland-state-university</a></p>"
             ],
