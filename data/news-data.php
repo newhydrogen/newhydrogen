@@ -3,6 +3,42 @@
 
 $news = [
     [
+        'id' => "62",
+        'title' => "NewHydrogen CEO Steve Hill Discusses Development of Standalone Hydrogen Evolution System with SDSU Expert ",
+        'date' => "May 21, 2024",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced that in a recent podcast the Company’s CEO Steve Hill spoke with Dr. Jing Gu, Associate Professor in the Department of Chemistry and Biochemistry at San Diego State University about her work on efficient solar energy conversion for hydrogen production",
+        'description' => [
+            [
+                "<p><strong>Dr. Jing Gu describes her research seeking to mimic photosynthesis for hydrogen production  </strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (May 21, 2024) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced that in a recent podcast the Company’s CEO Steve Hill spoke with Dr. Jing Gu, Associate Professor in the Department of Chemistry and Biochemistry at San Diego State University about her work on efficient solar energy conversion for hydrogen production.   </p>"
+            ],
+            [
+                "<p>Dr. Gu and her team are developing alternative anode reactions and catalysts that can create standalone hydrogen evolution systems. Dr. Gu said, “We are developing alternative anode reactions and catalysts for efficient solar energy conversion, aiming to create a standalone hydrogen evolution system. We focus on using organic materials from wastewater and plastic waste to generate hydrogen.” Her team has successfully built lab-scale devices that can generate hydrogen from wastewater.   </p>"
+            ],
+            [
+                "<p>Dr. Gu and Mr. Hill explored the challenges of scaling up this technology, including the high cost of electrolysis. They agreed that finding alternatives to electrolyzers is important for economic viability.   </p>"
+            ],
+            [
+                "<p>Regarding process efficiency, Dr. Gu emphasized the need to identify and reduce costly and inefficient steps. She said, “I would like to emphasize the importance of identifying costly and inefficient aspects of the process, with a focus on finding alternative processes and reducing waste.” Potential issues include material durability of materials and changes in properties when scaled up. Dr. Gu noted, “That is the reason we are currently focusing on increasing the durability of their system and understanding the interfaces better.”  </p>"
+            ],
+            ["<p>The two discussed the potential of renewable energy resources in the United States, with its abundance of natural resources. Dr Gu highlighted applications like fertilizer production and transportation. They also explored benefits for developing countries. </p>"],
+            [
+                "<p>Dr. Gu has built expertise in solar fuels and interfacial charge transfer through her PhD work at Tulane University and postdoctoral work at Princeton and the National Renewable Energy Laboratory. Her artificial photosynthesis research aims to develop standalone hydrogen systems while addressing real-world issues like wastewater treatment and plastic waste. Dr. Gu is listed as a Google Scholar at  <a href='https://scholar.google.com/citations?user=Dw-ziMkAAAAJ&hl=en'> https://scholar.google.com/citations?user=Dw-ziMkAAAAJ&hl=en </a>.</p>"
+            ],
+            [
+                "<p> Watch the full discussion on the NewHydrogen Podcast featuring Dr. Gu at <a href=\"https://newhydrogen.com/videos/ceo-podcast/dr-jing-su-san-diego-state-university\">https://newhydrogen.com/videos/ceo-podcast/dr-jing-su-san-diego-state-university</a>.  </p>"
+            ],
+
+            [
+                "<p>For more information about NewHydrogen and its ThermoLoop<sup>TM</sup> technology, please visit <a href=\"https://newhydrogen.com/\">https://newhydrogen.com/</a></p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "61",
         'title' => "NewHydrogen CEO Steve Hill Discusses Sustainability with a UC Davis Expert ",
         'date' => "May 7, 2024",
