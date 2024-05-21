@@ -57,6 +57,14 @@ $videos = [
         "display" => true
     ],
     [
+        'title' => "Dr. Jing Gu - San Diego State University",
+        'videoID' => "OBq2MwGHSgs",
+        'date' => "May 21, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "dr-jing-su-san-diego-state-university",
+        "display" => true
+    ],
+    [
         'title' => "Dr. Kurt Kornbluth - UC Davis",
         'videoID' => "rK2JgNjbrko",
         'date' => "May 7, 2024",
@@ -223,14 +231,6 @@ $videos = [
         'date' => "January 24, 2024",
         'category' => "ceo-podcast",
         'slug' => "dr-sanjeev-mukerjee-northeastern-university",
-        "display" => false
-    ],
-    [
-        'title' => "Dr. Jing Gu - San Diego State University",
-        'videoID' => "OBq2MwGHSgs",
-        'date' => "January 19, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "dr-jing-su-san-diego-state-university",
         "display" => false
     ],
     [

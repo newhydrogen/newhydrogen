@@ -1430,7 +1430,7 @@
         background: #4fe653;
         border-radius: 0 37.6px 37.6px 0;
         padding: 8px 34px;
-        margin-left: -35px;
+        // margin-left: -35px;
         display: flex;
 
         span {
@@ -5920,4 +5920,18 @@
 
 .no-scroll {
     overflow: hidden !important;
+}
+
+.brokers-section {
+    padding: 60px 0 0;
+    text-align: center;
+
+    h2 {
+        font-size: 28px;
+        margin: 24px 0 32px;
+    }
+}
+.broker-item{
+    width: 180px;
+    margin: auto;
 }
