@@ -50,32 +50,44 @@ include('header.php'); ?>
         <div class="row align-items-center">
             <div class="col-lg-2 col-md-4 col-6">
                 <div class="broker-item">
-                    <img src="./assets/img/broker-1.webp" alt="broker">
+                    <a href="https://www.schwab.com/" target="_blank" rel="noopener noreferrer">
+                        <img src="./assets/img/broker-1.webp" alt="broker">
+                    </a>
                 </div>
             </div>
             <div class="col-lg-2 col-md-4 col-6">
                 <div class="broker-item">
-                    <img src="./assets/img/broker-2.webp" alt="broker">
+                    <a href="https://www.interactivebrokers.com/" target="_blank" rel="noopener noreferrer">
+                        <img src="./assets/img/broker-2.webp" alt="broker">
+                    </a>
                 </div>
             </div>
             <div class="col-lg-2 col-md-4 col-6">
                 <div class="broker-item">
-                    <img src="./assets/img/broker-3.webp" alt="broker">
+                    <a href="https://us.etrade.com/home" target="_blank" rel="noopener noreferrer">
+                        <img src="./assets/img/broker-3.webp" alt="broker">
+                    </a>
                 </div>
             </div>
             <div class="col-lg-2 col-md-4 col-6">
                 <div class="broker-item">
-                    <img src="./assets/img/broker-4.webp" alt="broker">
+                    <a href="https://www.ally.com/" target="_blank" rel="noopener noreferrer">
+                        <img src="./assets/img/broker-4.webp" alt="broker">
+                    </a>
                 </div>
             </div>
             <div class="col-lg-2 col-md-4 col-6">
                 <div class="broker-item">
-                    <img src="./assets/img/broker-5.webp" alt="broker">
+                    <a href="https://www.ml.com/" target="_blank" rel="noopener noreferrer">
+                        <img src="./assets/img/broker-5.webp" alt="broker">
+                    </a>
                 </div>
             </div>
             <div class="col-lg-2 col-md-4 col-6">
                 <div class="broker-item">
-                    <img src="./assets/img/broker-6.webp" alt="broker">
+                    <a href="https://www.fidelity.com/" target="_blank" rel="noopener noreferrer">
+                        <img src="./assets/img/broker-6.webp" alt="broker">
+                    </a>
                 </div>
             </div>
         </div>
