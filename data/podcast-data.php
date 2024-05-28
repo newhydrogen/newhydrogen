@@ -1,6 +1,14 @@
 <?php
 $videos = [
     [
+        'title' => "May 27, 2024 - NewHydrogen News Commentary",
+        'videoID' => "ZBPUK_QZ438",
+        'date' => "",
+        'category' => "news-commentary",
+        'slug' => "may-27-2024-newhydrogen-news-commentary",
+        "display" => true
+    ],
+    [
         'title' => "May 20, 2024 - NewHydrogen News Commentary",
         'videoID' => "nWVz1EMXYc8",
         'date' => "",
@@ -136,7 +144,7 @@ $videos = [
         'slug' => "dr-haotian-wang-rice-university",
         "display" => false
     ],
-   
+
     [
         'title' => "Dr. Krish Jayachandran - Florida International University",
         'videoID' => "4_gQjfXu_zA",
@@ -241,7 +249,7 @@ $videos = [
         'slug' => "dr-ben-emerson-georgia-tech",
         "display" => true
     ],
-   
+
     [
         'title' => "Dr. Faisal Alamgir - Georgia Institute of Technology",
         'videoID' => "PL-JaIzTV0U",
@@ -1380,7 +1388,7 @@ $videos = [
         "display" => true
     ],
 
- 
+
     [
         'title' => "Valerie Thomas Georgia Tech",
         'videoID' => "DcKvQOTSxYs",

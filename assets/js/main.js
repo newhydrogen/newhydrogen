@@ -25,7 +25,7 @@ $(function () {
             setTimeout(function () {
                 $('#investModal').modal('show');
                 $('body').addClass('no-scroll');
-            }, 3000);
+            }, 5000);
         }
 
         $('#jotformForm').on('submit', function (e) {
