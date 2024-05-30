@@ -144,7 +144,7 @@ $videos = [
         'slug' => "dr-haotian-wang-rice-university",
         "display" => false
     ],
-   
+
     [
         'title' => "Dr. Krish Jayachandran - Florida International University",
         'videoID' => "4_gQjfXu_zA",
@@ -249,7 +249,7 @@ $videos = [
         'slug' => "dr-ben-emerson-georgia-tech",
         "display" => true
     ],
-   
+
     [
         'title' => "Dr. Faisal Alamgir - Georgia Institute of Technology",
         'videoID' => "PL-JaIzTV0U",
@@ -1388,7 +1388,7 @@ $videos = [
         "display" => true
     ],
 
- 
+
     [
         'title' => "Valerie Thomas Georgia Tech",
         'videoID' => "DcKvQOTSxYs",

@@ -22,7 +22,7 @@ include('header.php'); ?>
             <p>
                 Developing a Breakthrough Technology that Uses Water and Heat Instead of Electricity to Produce the World’s Cheapest Green Hydrogen
             </p>
-            <a href="https://finance.yahoo.com/quote/NEWH" target="_blank" rel="noopener noreferrer" class="theme-btn">Stock Symbol: NEWH</a>
+
         </div>
 
         <div class="appBanner__banner">
@@ -39,15 +39,57 @@ include('header.php'); ?>
 
             </div>
 
-            <!-- <div class="appBanner__vidInfo justify-content-end">
-               
-                <div class="inBanner__author">
-                    <p>Steve Hill </p>
-                    <div class="inBanner__author__img">
-                        <img src="./assets/img/steve-hill.png" alt="steve hill">
-                    </div>
+        </div>
+    </div>
+</section>
+
+<section class="brokers-section">
+    <div class="container">
+        <a href="https://finance.yahoo.com/quote/NEWH" target="_blank" rel="noopener noreferrer" class="theme-btn">Stock Symbol: NEWH</a>
+        <h2>NEWH can be purchased at trusted brokerages such as:</h2>
+        <div class="row align-items-center">
+            <div class="col-lg-2 col-md-4 col-6">
+                <div class="broker-item">
+                    <a href="https://www.schwab.com/" target="_blank" rel="noopener noreferrer">
+                        <img src="./assets/img/broker-1.webp" alt="broker">
+                    </a>
                 </div>
-            </div> -->
+            </div>
+            <div class="col-lg-2 col-md-4 col-6">
+                <div class="broker-item">
+                    <a href="https://www.interactivebrokers.com/" target="_blank" rel="noopener noreferrer">
+                        <img src="./assets/img/broker-2.webp" alt="broker">
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-2 col-md-4 col-6">
+                <div class="broker-item">
+                    <a href="https://us.etrade.com/home" target="_blank" rel="noopener noreferrer">
+                        <img src="./assets/img/broker-3.webp" alt="broker">
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-2 col-md-4 col-6">
+                <div class="broker-item">
+                    <a href="https://www.ally.com/" target="_blank" rel="noopener noreferrer">
+                        <img src="./assets/img/broker-4.webp" alt="broker">
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-2 col-md-4 col-6">
+                <div class="broker-item">
+                    <a href="https://www.ml.com/" target="_blank" rel="noopener noreferrer">
+                        <img src="./assets/img/broker-5.webp" alt="broker">
+                    </a>
+                </div>
+            </div>
+            <div class="col-lg-2 col-md-4 col-6">
+                <div class="broker-item">
+                    <a href="https://www.fidelity.com/" target="_blank" rel="noopener noreferrer">
+                        <img src="./assets/img/broker-6.webp" alt="broker">
+                    </a>
+                </div>
+            </div>
         </div>
     </div>
 </section>
@@ -143,11 +185,11 @@ include('header.php'); ?>
                         </h2>
                         <br>
                         <h3>
-                        ClearTrust, LLC
+                            ClearTrust, LLC
                         </h3>
                         <br>
                         <p>
-                        16540 Pointe Village Dr, Suite 210, Lutz, FL 33558
+                            16540 Pointe Village Dr, Suite 210, Lutz, FL 33558
                         </p>
                         <p>Phone: (813)235-4490</p>
                         <p>Email: inbox@cleartrusttransfer.com </p>
