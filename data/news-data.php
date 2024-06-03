@@ -3,6 +3,52 @@
 
 $news = [
     [
+        'id' => "63",
+        'title' => "NewHydrogen CEO Steve Hill Discusses Challenges of Translating Cutting-edge Science into Marketable Solutions with Hydrogen Expert  ",
+        'date' => "June 4, 2024",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, recently discussed challenges of translating cutting-edge science into marketable solutions. In a podcast interview, NewHydrogen CEO Steve Hill spoke with Dr. Sanjeev Mukerjee, Distinguished Professor in the Department of Chemistry and Chemical Biology at Northeastern University about his research on materials that revolutionized energy production, and his track record of turning cutting edge science into real world solutions",
+        'description' => [
+            [
+                "<p><strong>Dr. Sanjeev Mukerjee emphasizes the necessity of continued investment to scale hydrogen innovation </strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (June 4, 2024) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, recently discussed challenges of translating cutting-edge science into marketable solutions. In a podcast interview, NewHydrogen CEO Steve Hill spoke with Dr. Sanjeev Mukerjee, Distinguished Professor in the Department of Chemistry and Chemical Biology at Northeastern University about his research on materials that revolutionized energy production, and his track record of turning cutting edge science into real world solutions.   </p>"
+            ],
+            [
+                "<p>When asked about the future of the hydrogen economy, Dr. Mukerjee said, “There is a push towards hydrogen; it will take a significant amount of time and investment to overcome durability and scalability issues. The shift towards hydrogen is being driven by the realization that cheap Russian gas has led to complacency in Western Europe, and the recent political strife has caused a rethinking of energy strategies.” He also highlighted the need for incentives and private investment to support the transition towards hydrogen.   </p>"
+            ],
+            [
+                "<p>Regarding the difficult transition from lab scale to production in renewable energy, Dr Mukerjee observed, “There are many lessons. First, you have to have an idea which solves a problem in a huge way, disrupting the current state of the art…you have to protect the IP, file a provisional, file the full patent. But that doesn’t promise success. There are so many elements to translating an idea into reality.” He then emphasized the need for good partnerships with people who understand the financial aspects and how to negotiate for fundraising. He believes in the spirit of optimism and the great examples of successes in the industry. </p>"
+            ],
+            [
+                "<p>Shifting to progress in hydrogen applications, the conversation turned to the potential of hydrogen fuel cell trucks and the need for political support. Dr. Mukerjee explained, “Companies are willing to stop shipping products with diesel and shift to hydrogen fuel cells. I also would like to highlight the importance of the private sector's role in this transition, particularly the need to produce hydrogen at $2 per kilogram or less at the truck station.” They pointed out the lack of hydrogen infrastructure and agreed on the need for cost reduction and the importance of private and public investment in hydrogen technology.   </p>"
+            ],
+            ["<p>As for the benefits of a decentralized approach to electricity and hydrogen production and distribution, Dr. Mukerjee said, “There is a need for decentralization to mitigate the risk of large-scale outages caused by climate events and natural disasters as well as technological flexibility of a decentralized system, allowing the use of different technologies in different locations.” They agreed on the potential of a transition to green power with a combination of wind, solar, and storage systems, and cited Israel as a potential model for innovation in this area. </p>"],
+            [
+                "<p>
+                Dr. Mukerjee also discussed how low-cost green ammonia production could revolutionize agricultural fertilizer sustainability. He explained that most commercial fertilizers today are made with ammonia. While previous attempts at electrochemical and other processes to make green ammonia have faced challenges, he sees strong potential to produce ammonia sustainably using green hydrogen and clean nitrogen sources. Given ammonia’s pivotal role in modern agriculture, cost-competitive green ammonia could have a major impact on fertilizer manufacturing’s environmental footprint. 
+                </p>"
+            ],
+            [
+                "<p>
+                The conversation concluded on a positive note with Dr Mukerjee’s encouragement to “shed the pessimism and let's solve these problems!” 
+                </p>"
+            ],
+            [
+                "<p>Dr. Sanjeev Mukerjee is a College of Science, Distinguished Professor in the Department of Chemistry and Chemical Biology (Northeastern University); where he has been since September of 1998.  He also heads the center for Renewable Energy Technology at Northeastern University (NUCRET) and its subset the Laboratory for Electrochemical Advanced Power (LEAP).  Translational activities in concert with fundamental research have led to creation of startup companies, Protonex Corp., (Now Ballard Power Systems) Westboro, MA and Pajarito Powders (Albuquerque, NM).  He serves on the scientific advisory board of Advent Technologies (Boston, MA), Israel National Renewable Energy Project, (Tel Aviv, Israel) (INREP).  Dr. Mukerjee is listed as a Google Scholar at  <a href='https://scholar.google.com/citations?user=uqdNKhgAAAAJ&hl=en'> https://scholar.google.com/citations?user=uqdNKhgAAAAJ&hl=en </a>.</p>"
+            ],
+            [
+                "<p> Watch the full discussion on the NewHydrogen Podcast featuring Dr. Mukerjee at <a href=\"https://newhydrogen.com/videos/ceo-podcast/dr-sanjeev-mukerjee-northeastern-university\">https://newhydrogen.com/videos/ceo-podcast/dr-sanjeev-mukerjee-northeastern-university</a>.  </p>"
+            ],
+
+            [
+                "<p>For more information about NewHydrogen and its ThermoLoop<sup>TM</sup> technology, please visit <a href=\"https://newhydrogen.com/\">https://newhydrogen.com/</a></p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "62",
         'title' => "NewHydrogen CEO Steve Hill Discusses Development of Standalone Hydrogen Evolution System with SDSU Expert ",
         'date' => "May 21, 2024",
