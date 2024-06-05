@@ -73,6 +73,14 @@ $videos = [
         "display" => true
     ],
     [
+        'title' => "Dr. Sanjeev Mukerjee - Northeastern University",
+        'videoID' => "muY0KNMRMXU",
+        'date' => "June 5, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "dr-sanjeev-mukerjee-northeastern-university",
+        "display" => true
+    ],
+    [
         'title' => "Dr. Jing Gu - San Diego State University",
         'videoID' => "OBq2MwGHSgs",
         'date' => "May 21, 2024",
@@ -241,14 +249,7 @@ $videos = [
         'slug' => "dr-jeffrey-reed-uc-irvine",
         "display" => true
     ],
-    [
-        'title' => "Dr. Sanjeev Mukerjee - Northeastern University",
-        'videoID' => "muY0KNMRMXU",
-        'date' => "January 24, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "dr-sanjeev-mukerjee-northeastern-university",
-        "display" => false
-    ],
+   
     [
         'title' => "Dr. Ben Emerson Georgia Tech",
         'videoID' => "SK6lcbTVM3g",
