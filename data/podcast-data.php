@@ -485,7 +485,7 @@ $videos = [
         "display" => true
     ],
     [
-        'title' => "Crypto + AI",
+        'title' => "Crypto + A I",
         'videoID' => "GtmpIocrmgk",
         'date' => "",
         'category' => "short-video",
