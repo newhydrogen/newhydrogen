@@ -3,6 +3,54 @@
 
 $news = [
     [
+        'id' => "64",
+        'title' => "NewHydrogen CEO Steve Hill Discusses Green Hydrogen Future with UC Berkeley Economist ",
+        'date' => "June 18, 2024",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced that the Company’s CEO Steve Hill recently hosted a dynamic conversation on the future of green hydrogen with esteemed economist Dr. Gordon Rausser, shedding light on pivotal areas of growth, policy, and innovation in the clean energy sector. The podcast delved into key insights regarding global investments, technological advancements, and the critical role of policy in shaping the green hydrogen landscape",
+        'description' => [
+            [
+                "<p><strong>Noted Economist Gordon Rausser elaborates on investment strategies in the growing green hydrogen market  </strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (June 18, 2024) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced that the Company’s CEO Steve Hill recently hosted a dynamic conversation on the future of green hydrogen with esteemed economist Dr. Gordon Rausser, shedding light on pivotal areas of growth, policy, and innovation in the clean energy sector. The podcast delved into key insights regarding global investments, technological advancements, and the critical role of policy in shaping the green hydrogen landscape.  </p>"
+            ],
+            [
+                "<p>As the race intensifies to power the future with sustainable energy, the discussion highlighted the surge in global investments in green hydrogen, reaching nearly $12 trillion by 2050. Dr. Rausser, an American economist renowned for his contributions to environmental economics and sustainable development, emphasized the significance of technological breakthroughs in driving down production costs to make green hydrogen competitive with fossil fuels.   </p>"
+            ],
+            [
+                "<p>Dr. Rausser said, “I would like to underscore the importance of creating the right policy landscape and incentives to accelerate the adoption of green hydrogen, and its potential to mitigate the adverse impacts of fossil fuel usage on climate change.” While acknowledging existing challenges in cost competitiveness, he expressed optimism about the growing demand for green hydrogen once production costs align with market expectations. </p>"
+            ],
+            [
+                "<p>Dr. Rausser also emphasized the role of research and development (R&D) in overcoming cost barriers and fostering innovation in the green hydrogen sector, advocating for coordinated efforts between public and private stakeholders to enhance R&D initiatives, citing the need for consortiums to maximize synergies and address coordination failures effectively.  </p>"
+            ],
+            ["<p>The conversation delved into the transformative potential of green hydrogen in diverse sectors, including agriculture, energy production, and space exploration. Dr. Rausser highlighted the opportunities presented by green ammonia as a hydrogen derivative in fertilizer production, emphasizing the need to drive down costs to unlock its full potential.  </p>"],
+            [
+                "<p>
+Addressing geopolitical and economic implications, Dr. Rausser said, “Regional hydrogen production is essential in enhancing energy security and promoting economic resilience, particularly in regions vulnerable to supply disruptions.” 
+                </p>"
+            ],
+            [
+                '<p>
+             In closing, Dr. Rausser expressed confidence in the inevitable transition towards a hydrogen-powered future, stressing the importance of collaborative efforts and innovative solutions to expedite the process. He invited listeners to explore his forthcoming book, "The Curation of Smart Governments," which offers insights into effective governance and policy frameworks for sustainable development. 
+                </p>'
+            ],
+            [
+                "<p>Dr. Gordon Rausser is an American economist. He is currently the Robert Gordon Sproul 
+
+Distinguished Professor Emeritus, Dean Emeritus, College of Natural Resources and more recently, a professor at the Graduate School at the University of California, Berkeley. On three separate occasions, he served as chairman of the Department of Agriculture and Resource Economics, served two terms as Dean of the College of Natural Resources, and has served on the Board of Trustees of public universities and two private universities. He has served the U.S. government on two separate occasions while on university leave: first on the Council of Economic Advisers (1986-1987 and secondly as Chief Economist at the Agency of International Development (1988-90), and relatedly as President of the Institute of Policy Reform (1990-1994) in Washington D.C. Over the years, he has been appointed to more than 20 board of directors of both private and publicly traded companies, including chairman of several of such boards and has been the recipient of 38 meritorious awards for innovative research, publications of enduring quality, teaching, academic leadership, and philanthropy. Dr. Rausser is listed as a Google Scholar at <a href='https://scholar.google.com/citations?user=39H0lboAAAAJ'> https://scholar.google.com/citations?user=39H0lboAAAAJ </a>.</p>"
+            ],
+            [
+                "<p> The full podcast episode featuring Dr. Gordon Rausser is available on the NewHydrogen website <a href=\"https://newhydrogen.com/videos/ceo-podcast/gordon-rausser-university-of-california-berkeley\">https://newhydrogen.com/videos/ceo-podcast/gordon-rausser-university-of-california-berkeley</a>.  </p>"
+            ],
+
+            [
+                "<p>For more information about NewHydrogen and its ThermoLoop<sup>TM</sup> technology, please visit <a href=\"https://newhydrogen.com/\">https://newhydrogen.com/</a></p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "63",
         'title' => "NewHydrogen CEO Steve Hill Discusses Challenges of Translating Cutting-edge Science into Marketable Solutions with Hydrogen Expert  ",
         'date' => "June 4, 2024",

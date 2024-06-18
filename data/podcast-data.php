@@ -1,6 +1,14 @@
 <?php
 $videos = [
     [
+        'title' => "June 17, 2024 - NewHydrogen News Commentary",
+        'videoID' => "GANEKUVmqT0",
+        'date' => "",
+        'category' => "news-commentary",
+        'slug' => "june-17-2024-newhydrogen-news-commentary",
+        "display" => true
+    ],
+    [
         'title' => "June 10, 2024 - NewHydrogen News Commentary",
         'videoID' => "Gti-6Yql5io",
         'date' => "",
@@ -81,6 +89,14 @@ $videos = [
         "display" => true
     ],
     [
+        'title' => "Gordon Rausser - University of California, Berkeley",
+        'videoID' => "7mYoVqVm2Jk",
+        'date' => "June 18, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "gordon-rausser-university-of-california-berkeley",
+        "display" => true
+    ],
+    [
         'title' => "Dr. Sanjeev Mukerjee - Northeastern University",
         'videoID' => "muY0KNMRMXU",
         'date' => "June 5, 2024",
@@ -119,14 +135,6 @@ $videos = [
         'category' => "ceo-podcast",
         'slug' => "dr-paul-palies-university-of-tennessee",
         "display" => true
-    ],
-    [
-        'title' => "Gordon Rausser - University of California, Berkeley",
-        'videoID' => "7mYoVqVm2Jk",
-        'date' => "April 2, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "gordon-rausser-university-of-california-berkeley",
-        "display" => false
     ],
     [
         'title' => "April 2, 2024 - NewHydrogen News Commentary",
