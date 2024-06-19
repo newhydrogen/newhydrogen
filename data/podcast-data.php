@@ -1,6 +1,22 @@
 <?php
 $videos = [
     [
+        'title' => "June 17, 2024 - NewHydrogen News Commentary",
+        'videoID' => "GANEKUVmqT0",
+        'date' => "",
+        'category' => "news-commentary",
+        'slug' => "june-17-2024-newhydrogen-news-commentary",
+        "display" => true
+    ],
+    [
+        'title' => "June 10, 2024 - NewHydrogen News Commentary",
+        'videoID' => "Gti-6Yql5io",
+        'date' => "",
+        'category' => "news-commentary",
+        'slug' => "june-10-2024-newhydrogen-news-commentary",
+        "display" => true
+    ],
+    [
         'title' => "June 3, 2024 - NewHydrogen News Commentary",
         'videoID' => "C5B0qMD-A_E",
         'date' => "",
@@ -73,6 +89,14 @@ $videos = [
         "display" => true
     ],
     [
+        'title' => "Gordon Rausser - University of California, Berkeley",
+        'videoID' => "7mYoVqVm2Jk",
+        'date' => "June 18, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "gordon-rausser-university-of-california-berkeley",
+        "display" => true
+    ],
+    [
         'title' => "Dr. Sanjeev Mukerjee - Northeastern University",
         'videoID' => "muY0KNMRMXU",
         'date' => "June 5, 2024",
@@ -111,14 +135,6 @@ $videos = [
         'category' => "ceo-podcast",
         'slug' => "dr-paul-palies-university-of-tennessee",
         "display" => true
-    ],
-    [
-        'title' => "Gordon Rausser - University of California, Berkeley",
-        'videoID' => "7mYoVqVm2Jk",
-        'date' => "April 2, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "gordon-rausser-university-of-california-berkeley",
-        "display" => false
     ],
     [
         'title' => "April 2, 2024 - NewHydrogen News Commentary",
@@ -276,6 +292,678 @@ $videos = [
         "display" => false
     ],
     // new
+    [
+        'title' => "GOLD RUSH",
+        'videoID' => "wLxhwaohZ50",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "gold-rush",
+        "display" => true
+    ],
+    [
+        'title' => "Check out Bill Gates' $1,000,000,000 Yacht powered by hydrogen!",
+        'videoID' => "lNiA57V5e18",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "check-out-bill-Gates-1000000000-yacht-powered-by-hydrogen",
+        "display" => true
+    ],
+    [
+        'title' => "Energy is on the verge of going GREEN",
+        'videoID' => "i-pD-nSthFc",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "energy-is-on-the-verge-of-going-green",
+        "display" => true
+    ],
+    [
+        'title' => "Green Hydrogen: Cost is the Hurdle",
+        'videoID' => "b2NCzUccEnE",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "green-hydrogen-cost-is-the-hurdle",
+        "display" => true
+    ],
+    [
+        'title' => "Did you know a NYC bathhouse is using the heat from Bitcoin mining to warm its pools?",
+        'videoID' => "Pg6CTTNM6vU",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "did-you-know-a-nyc-bathhouse-is-using-the-heat-from-bitcoin-mining-to-warm-its-pools",
+        "display" => true
+    ],
+    [
+        'title' => "Green Hydrogen: The Future of Energy is Here!",
+        'videoID' => "HwwdXiGg1cg",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "green-Hydrogen-the-future-of-energy-is-here",
+        "display" => true
+    ],
+    [
+        'title' => "Bill Gates Sets Sail for Sustainability: The World's First Hydrogen Superyacht.",
+        'videoID' => "ro_CdtBvQCI",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "bill-gates-sets-sail-for-Sustainability-the-Worlds-first-hydrogen-superyacht",
+        "display" => true
+    ],
+    [
+        'title' => "The United Nations and Paris have a common goal in mind",
+        'videoID' => "7odbLGzaZY8",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "he-united-nations-and-paris-have-a-common-goal-in-mind",
+        "display" => true
+    ],
+    [
+        'title' => "Green Hydrogen Stuck on Price?",
+        'videoID' => "7FXffyMw2yA",
+        'date' => "",
+        'category' => "green-hydrogen-stuck-on-price",
+        'slug' => "crypto-ai",
+        "display" => true
+    ],
+    [
+        'title' => "Airbus Takes Flight on Hydrogen!",
+        'videoID' => "0ZVGVNR3G-8",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "Airbus Takes Flight on Hydrogen",
+        "display" => true
+    ],
+    [
+        'title' => "Green Ammonia: The Fuel of the Future?",
+        'videoID' => "PhR1tfFnjQw",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "green-ammonia-the-fuel-of-the-future",
+        "display" => true
+    ],
+    [
+        'title' => "Visit our website to find out how we plan to create the world's cheapest green hydrogen!",
+        'videoID' => "-6gjWp2xdwc",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "visit-our-website-to-find-out-how-we-plan-to-create-the-worlds-cheapest-green-hydrogen",
+        "display" => true
+    ],
+    [
+        'title' => "Hydrogen is gearing up for the seas and entering the shipping industry!",
+        'videoID' => "EVkEBvwLG_E",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "hydrogen-is-gearing-up-for-the-seas-and-entering-the-shipping-industry",
+        "display" => true
+    ],
+    [
+        'title' => "The possibilities and opportunities that can be created by hydrogen are endless",
+        'videoID' => "cKtPGfjjkos",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-possibilities-and-opportunities-that-can-be-created-by-hydrogen-are-endless",
+        "display" => true
+    ],
+    [
+        'title' => "Back to the future we go!",
+        'videoID' => "RJygArStnlw",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "back-to-the-future-we-go",
+        "display" => true
+    ],
+    [
+        'title' => "Hydrogen is being used for many reasons in many sectors and even the Olympics!",
+        'videoID' => "udrIphaLHsc",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "hydrogen-is-being-used-for-many-reasons-in-many-sectors-and-even-the-olympics",
+        "display" => true
+    ],
+    [
+        'title' => "Hydrogen is around for the taking!",
+        'videoID' => "sLOCT57NFvs",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "hydrogen-is-around-for-the-taking",
+        "display" => true
+    ],
+    [
+        'title' => "If Ferrari is turning to hydrogen?",
+        'videoID' => "KQGNM_EGnms",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "if-ferrari-is-turning-to-hydrogen",
+        "display" => true
+    ],
+    [
+        'title' => "Hydrogen is being explored at Duke University as a potential device lifespan extender!",
+        'videoID' => "EqXWTdxI65M",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "hydrogen-is-being-explored-at-duke-university-as-a-potential-device-lifespan-extender",
+        "display" => true
+    ],
+    [
+        'title' => "Japan is on track to creating the first ever town completely powered by hydrogen fuel cells!",
+        'videoID' => "Sjhe8B_SQMw",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "japan-is-on-track-to-creating-the-first-ever-town-completely-powered-by-hydrogen-fuel-cells",
+        "display" => true
+    ],
+    [
+        'title' => "Hydrogen will cut the cost of electricity",
+        'videoID' => "rZlidrdf8Xg",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "hydrogen-will-cut-the-cost-of-electricity",
+        "display" => true
+    ],
+    [
+        'title' => "Big pharma companies use hydrogen to create the medicine, vitamins and minerals that we need?",
+        'videoID' => "E_meDz6jHog",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "big-pharma-companies-use-hydrogen-to-create-the-medicine-vitamins-and-minerals-that-we-need",
+        "display" => true
+    ],
+    [
+        'title' => "The big players are coming to play!",
+        'videoID' => "y8DWm-pc7ZA",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-big-players-are-coming-to-play",
+        "display" => true
+    ],
+    [
+        'title' => "There is an essential understanding needed to produce green hydrogen",
+        'videoID' => "SW4RdQeCZcU",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "there-is-an-essential-understanding-needed-to-produce-green-hydrogen",
+        "display" => true
+    ],
+    [
+        'title' => "The hydrogen industry will be one of those new waves that world is going to run with and support.",
+        'videoID' => "Sq2znI_821w",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-hydrogen-industry-will-be-one-of-those-new-waves-that-world-is-going-to-run-with-and-support",
+        "display" => true
+    ],
+    [
+        'title' => "Crypto + A I",
+        'videoID' => "GtmpIocrmgk",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "crypto-ai",
+        "display" => true
+    ],
+    [
+        'title' => "Hydrogen is even in the market of human consumption!",
+        'videoID' => "aNbYKLLv6vc",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "hydrogen-is-even-in-the-market-of-human-consumption",
+        "display" => true
+    ],
+    [
+        'title' => "There's hydrogen food too? Yes!",
+        'videoID' => "2ZJMEzXthgY",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "theres-hydrogen-food-too-yes",
+        "display" => true
+    ],
+    [
+        'title' => "Green hydrogen: dream or reality?",
+        'videoID' => "DEbiQQVs4uA",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "green-hydrogen-dream-or-reality",
+        "display" => true
+    ],
+    [
+        'title' => "Toyota Headquarters",
+        'videoID' => "cQonJta_4e8",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "toyota-headquarters",
+        "display" => true
+    ],
+    [
+        'title' => "Move over, oil, there's a new sheriff in town!",
+        'videoID' => "z8sD22ycvV8",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "move-over-oil-theres-a-new-sheriff-in-town",
+        "display" => true
+    ],
+    [
+        'title' => "Hydrogen has the power to transform our world, but at what cost?",
+        'videoID' => "Q5DX9HtKus8",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "hydrogen-has-the-power-to-transform-our-world-but-at-what-cost",
+        "display" => true
+    ],
+    [
+        'title' => "Breaking barriers in hydrogen production!",
+        'videoID' => "YtTTXE_0TN8",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "breaking-barriers-in-hydrogen-production",
+        "display" => true
+    ],
+    [
+        'title' => "Green Hydrogen Hurdles Cost, Infrastructure",
+        'videoID' => "lFohy2ODbSI",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "green-hydrogen-hurdles-cost-infrastructure",
+        "display" => true
+    ],
+    [
+        'title' => "Pharma x Hydrogen",
+        'videoID' => "DdoIv9frwBA",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "pharma-x-hydrogen",
+        "display" => true
+    ],
+    [
+        'title' => "Torghatten Nord just ordered the world's biggest hydrogen ferries",
+        'videoID' => "uDEwC_tiA3A",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "torghatten-Nord-just-ordered-the-worlds-biggest-hydrogen-ferries",
+        "display" => true
+    ],
+    [
+        'title' => "Trending now! The hottest hydrogen buzz this week? EchoGo Hydrogen Water.",
+        'videoID' => "PdG_IHPxni4",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "trending-now-the-hottest-hydrogen-buzz-this-week-echogo-hydrogen-water",
+        "display" => true
+    ],
+    [
+        'title' => "Green hydrogen is fueling a food revolution!",
+        'videoID' => "1v3pEE2w1dc",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "green-hydrogen-is-fueling-a-food-revolution",
+        "display" => true
+    ],
+    [
+        'title' => "Nanoscale movies",
+        'videoID' => "ZGrhFT6i4mE",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "nanoscale-movies",
+        "display" => true
+    ],
+    [
+        'title' => "Mega Green Hydrogen Project $690 Million Investment",
+        'videoID' => "4URq2_NSHS8",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "mega-green-hydrogen-project-690-million-investment",
+        "display" => true
+    ],
+    [
+        'title' => "Ships Get a Power Surge Hydrogen Takes Charge",
+        'videoID' => "14uSFiJp2Ps",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "ships-get-a-power-surge-hydrogen-takes-charge",
+        "display" => true
+    ],
+    [
+        'title' => "Hydrogen's the future, but making it clean is expensive.",
+        'videoID' => "EQIISUedDOc",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "hydrogens-the-future-but-making-it-clean-is-expensive",
+        "display" => true
+    ],
+    [
+        'title' => "iSpace",
+        'videoID' => "WRkPMc_LG5Y",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "ispace",
+        "display" => true
+    ],
+    [
+        'title' => "Did you know Japan is a clean energy powerhouse?",
+        'videoID' => "ss1BYn2dc0g",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "did-you-know-japan-is-a-clean-energy-powerhouse",
+        "display" => true
+    ],
+    [
+        'title' => "Pivotal Moment",
+        'videoID' => "C2t2TG06Q4w",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "pivotal-moment",
+        "display" => true
+    ],
+    [
+        'title' => "The future is here!",
+        'videoID' => "C2t2TG06Q4w",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-future-is-here",
+        "display" => true
+    ],
+    [
+        'title' => "Shifting Gears Ferrari Eyes Hydrogen as the Future of High Performance",
+        'videoID' => "GBuZ4mdW-5k",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "shifting-gears-ferrari-eyes-hydrogen-as-the-future-of-high-performance",
+        "display" => true
+    ],
+    [
+        'title' => "Green Hydrogen: The Missing Piece for a $12 Trillion Clean Energy Future",
+        'videoID' => "7vdF-t3OfXM",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "green-hydrogen-the-missing-piece-for-a-12-trillion-clean-energy-future",
+        "display" => true
+    ],
+    [
+        'title' => "Hydrogen Train Breaks Record",
+        'videoID' => "SMuikpMfsnI",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "hydrogen-train-breaks-record",
+        "display" => true
+    ],
+    [
+        'title' => "Fueling a Greener Future_ Can Hydrogen Power the Next Generation of Airplanes",
+        'videoID' => "mpLTJ3EgnrQ",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "fueling-a-greener-future-can-hydrogen-power-the-next-generation-of-airplanes",
+        "display" => true
+    ],
+    [
+        'title' => "Hydrogen is promising for the economy and the environment",
+        'videoID' => "LP5tqpIUwac",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "hydrogen-is-promising-for-the-economy-and-the-environment",
+        "display" => true
+    ],
+    [
+        'title' => "The time is now and the wave is getting bigger and bigger!",
+        'videoID' => "SMuikpMfsnI",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-time-is-now-and-the-wave-is-getting-bigger-and-bigger",
+        "display" => true
+    ],
+    [
+        'title' => "The LARGEST Wave of Capital Spending!",
+        'videoID' => "JkI0-GhvYsM",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-largest-wave-of-capital-spending",
+        "display" => true
+    ],
+    [
+        'title' => "Baltimore Bridge Collapse: A Wake-Up Call for Clean Energy Independence",
+        'videoID' => "Si4IHNEU6fw",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "baltimore-bridge-collapse-a-wake-Up-call-for-clean-energy-independence",
+        "display" => true
+    ],
+    [
+        'title' => "Beyond Electrolyzers: NewHydrogen's ThermoLoop Reimagines Green Hydrogen Production",
+        'videoID' => "hF73FfIfyIw",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "beyond-electrolyzers-newhydrogens-thermoloop-reimagines-green-hydrogen-production",
+        "display" => true
+    ],
+    [
+        'title' => "Hydrogen Gold Rush Is Geologic Extraction a Feasible Dream",
+        'videoID' => "k0_1mFxYhUc",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "hydrogen-gold-rush-is-geologic-extraction-a-feasible-dream",
+        "display" => true
+    ],
+    [
+        'title' => "Hydrogen in the Olympics",
+        'videoID' => "7TohwCwcqEc",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "hydrogen-in-the-olympics",
+        "display" => true
+    ],
+    [
+        'title' => "Embracing Tomorrow: UAE's Hydrogen Revolution",
+        'videoID' => "DOF-av7qT28",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "embracing-tomorrow-uaes-hydrogen-revolution",
+        "display" => true
+    ],
+    [
+        'title' => "Breaking Barriers NewHydrogen's ThermoLoop Aims to Slash Green Hydrogen Costs",
+        'videoID' => "EHfVEDQA-c4",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "breaking-barriers-newhydrogens-thermoLoop-aims-to-slash-green-hydrogen-costs",
+        "display" => true
+    ],
+    [
+        'title' => "Beyond Fuel Exploring Hydrogen's Multifaceted Potential",
+        'videoID' => "YmhdlQ-8xfk",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "beyond-fuel-exploring-hydrogens-multifaceted-potential",
+        "display" => true
+    ],
+    [
+        'title' => "India's Power Challenge. Can NewHydrogen's Innovation Provide a Sustainable Answer?",
+        'videoID' => "bpgVnO9y7-k",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "indias-power-challenge-can-newhydrogens-innovation-provide-a-sustainable-answer",
+        "display" => true
+    ],
+    [
+        'title' => "Oktoberfest is an experience millions love to have!",
+        'videoID' => "qPt2SXsokoI",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "oktoberfest-is-an-experience-millions-love-to-have",
+        "display" => true
+    ],
+    [
+        'title' => "One of the most historical and beautiful places in the world...",
+        'videoID' => "478X3-fNmmU",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "one-of-the-most-historical-and-beautiful-places-in-the-world",
+        "display" => true
+    ],
+    [
+        'title' => "Serbia deserves clean air!",
+        'videoID' => "2LOVQjn2Pq0",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "serbia-deserves-clean-air",
+        "display" => true
+    ],
+    [
+        'title' => "Serbia's atmosphere needs a cleanse!",
+        'videoID' => "oK70oY8saqo",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "serbias-atmosphere-needs-a-cleanse",
+        "display" => true
+    ],
+    [
+        'title' => "Turkey's future is clean and bright! NewHydrogen offers a sustainable energy solution.",
+        'videoID' => "ac6Vq6ADuzc",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "turkeys-future-is-clean-and-bright-newhydrogen-offers-a-sustainable-energy-solution",
+        "display" => true
+    ],
+    [
+        'title' => "Sweden is already embracing hydrogen homes, could yours be next?",
+        'videoID' => "cOIQGAXFgkk",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "sweden-is-already-embracing-hydrogen-homes-could-yours-be-next",
+        "display" => true
+    ],
+    [
+        'title' => "Powering the Future: Why We Need Sustainable Energy Solutions Now",
+        'videoID' => "fdTBDtilP-w",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "powering-the-future-why-we-need-sustainable-energy-solutions-now",
+        "display" => true
+    ],
+    [
+        'title' => "The Future is Green: NewHydrogen's ThermoLoop Makes Clean Energy Affordable.",
+        'videoID' => "M7Ws2mxWSeA",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-future-is-green-newhydrogens-thermoLoop-makes-clean-energy-affordable",
+        "display" => true
+    ],
+    [
+        'title' => "We are developing a Breakthrough Technology to Produce the World’s Cheapest Green Hydrogen.",
+        'videoID' => "W_c13p2sAAc",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "we-are-developing-a-breakthrough-technology-to-produce-the-worlds-cheapest-green-hydrogen",
+        "display" => true
+    ],
+    [
+        'title' => "Green is the New Gold : Why Hydrogen is the Key to a Sustainable Future",
+        'videoID' => "W_c13p2sAAc",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "green-is-the-new-gold-why-hydrogen-is-the-key-to-a-sustainable-future",
+        "display" => true
+    ],
+    [
+        'title' => "The future of clean energy is here!",
+        'videoID' => "MYa5GCYHvW0",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-future-of-clean-energy-is-here",
+        "display" => true
+    ],
+    [
+        'title' => "That's where NewHydrogen comes into play!",
+        'videoID' => "bgFe7SLaPq8",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "thats-where-newhydrogen-comes-into-play",
+        "display" => true
+    ],
+    [
+        'title' => "The future of clean energy is scalable!",
+        'videoID' => "IjueJw4OLNs",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-future-of-clean-energy-is-scalable",
+        "display" => true
+    ],
+    [
+        'title' => "A.I. Demands Tons Of Energy!",
+        'videoID' => "e3WMsm1ESGQ",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "ai-demands-tons-of-energy",
+        "display" => true
+    ],
+    [
+        'title' => "This technology is not only a game changer; it is a life changer!",
+        'videoID' => "PcPX-r3Yxuw",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "this-technology-is-not-only-a-game-changer-it-is-a-life-changer",
+        "display" => true
+    ],
+    [
+        'title' => "This opportunity is unbelievable and needs a pioneer!",
+        'videoID' => "M1UjF21_V4o",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "this-opportunity-is-unbelievable-and-needs-a-pioneer",
+        "display" => true
+    ],
+    [
+        'title' => "We are creating ThermoLoop to develop the World's Cheapest Green Hydrogen on The Planet!",
+        'videoID' => "8JpB2X4H8UQ",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "we-are-creating-thermoLoop-to-develop-the-worlds-cheapest-green-hydrogen-on-the-planet",
+        "display" => true
+    ],
+    [
+        'title' => "Maritime is serious about the hydrogen movement!",
+        'videoID' => "WDGC8FmllOw",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "maritime-is-serious-about-the-hydrogen-movement",
+        "display" => true
+    ],
+    [
+        'title' => "Japan is creating hydrogen-powered homes!",
+        'videoID' => "hO9P-OW1TI",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "japan-is-creating-hydrogen-powered-homes",
+        "display" => true
+    ],
+    [
+        'title' => "The time to pay attention to what's going on in the hydrogen industry is now!",
+        'videoID' => "DZy52qIWo5E",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-time-to-pay-attention-to-whats-going-on-in-the-hydrogen-industry-is-now",
+        "display" => true
+    ],
+    [
+        'title' => "FCVs: Driving towards a cleaner future with zero emissions and longer distances",
+        'videoID' => "271Zg1ShgWk",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "fcvs-driving-towards-a-cleaner-future-with-zero-emissions-and-longer-distances",
+        "display" => true
+    ],
+    [
+        'title' => "Advancing Clean Energy!",
+        'videoID' => "Q55xljnbzl4",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "advancing-clean-energy",
+        "display" => true
+    ],
+    [
+        'title' => "Powering Resilience!",
+        'videoID' => "4EhYnf_SPgY",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "powering-resilience",
+        "display" => true
+    ],
     [
         'title' => "Hydrogen Hype is Real",
         'videoID' => "GxDgynOJzTs",
