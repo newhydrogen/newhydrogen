@@ -105,6 +105,14 @@ $videos = [
         "display" => true
     ],
     [
+        'title' => "David Pruner - Texas Entrepreneurial Exchange for Energy",
+        'videoID' => "VSBqbBDOtxY",
+        'date' => "July 2, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "david-pruner-texas-entrepreneurial-exchange-for-energy",
+        "display" => true
+    ],
+    [
         'title' => "Gordon Rausser - University of California, Berkeley",
         'videoID' => "7mYoVqVm2Jk",
         'date' => "June 18, 2024",
@@ -265,14 +273,7 @@ $videos = [
         'slug' => "dr-kevin-huang-university-of-south-carolina",
         "display" => true
     ],
-    [
-        'title' => "David Pruner - Texas Entrepreneurial Exchange for Energy",
-        'videoID' => "VSBqbBDOtxY",
-        'date' => "February 12, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "david-pruner-texas-entrepreneurial-exchange-for-energy",
-        "display" => false
-    ],
+   
     [
         'title' => "Dr. Jeffrey Reed - UC Irvine",
         'videoID' => "JcE8xrs2njk",
