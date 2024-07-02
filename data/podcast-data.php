@@ -1,6 +1,14 @@
 <?php
 $videos = [
     [
+        'title' => "July 1, 2024 - NewHydrogen News Commentary",
+        'videoID' => "Zroq5Hoayt0",
+        'date' => "",
+        'category' => "news-commentary",
+        'slug' => "july-1-2024-newhydrogen-news-commentary",
+        "display" => true
+    ],
+    [
         'title' => "June 24, 2024 - NewHydrogen News Commentary",
         'videoID' => "g7LJglH4j4I",
         'date' => "",
@@ -94,6 +102,14 @@ $videos = [
         'date' => "",
         'category' => "news-commentary",
         'slug' => "april-8-2024-newhydrogen-news-commentary",
+        "display" => true
+    ],
+    [
+        'title' => "David Pruner - Texas Entrepreneurial Exchange for Energy",
+        'videoID' => "VSBqbBDOtxY",
+        'date' => "July 2, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "david-pruner-texas-entrepreneurial-exchange-for-energy",
         "display" => true
     ],
     [
@@ -257,14 +273,7 @@ $videos = [
         'slug' => "dr-kevin-huang-university-of-south-carolina",
         "display" => true
     ],
-    [
-        'title' => "David Pruner - Texas Entrepreneurial Exchange for Energy",
-        'videoID' => "VSBqbBDOtxY",
-        'date' => "February 12, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "david-pruner-texas-entrepreneurial-exchange-for-energy",
-        "display" => false
-    ],
+   
     [
         'title' => "Dr. Jeffrey Reed - UC Irvine",
         'videoID' => "JcE8xrs2njk",

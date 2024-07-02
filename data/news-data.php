@@ -3,6 +3,47 @@
 
 $news = [
     [
+        'id' => "65",
+        'title' => "NewHydrogen CEO Steve Hill Discusses Training Next Generation of Energy and Climate Tech Entrepreneurs with Executive Director of TEX-E",
+        'date' => "July 2, 2024",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced that in a recent podcast the Company’s CEO Steve Hill spoke with Mr. David Pruner, Executive Director of TEX-E (Texas Entrepreneurial Exchange for Energy), a non-profit organization whose goal is to train the next generation of energy transition and climate tech entrepreneurs",
+        'description' => [
+            [
+                "<p><strong>Mr. David Pruner elaborates on preparing students and future entrepreneurs to solve dual issues of finding more energy for the world and at the same time lowering carbon intensity</strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (July 2, 2024) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced that in a recent podcast the Company’s CEO Steve Hill spoke with Mr. David Pruner, Executive Director of TEX-E (Texas Entrepreneurial Exchange for Energy), a non-profit organization whose goal is to train the next generation of energy transition and climate tech entrepreneurs.    </p>"
+            ],
+            [
+                "<p>Mr. Pruner said, “I have never seen such a strong tailwind on the clean energy side, and the amount of money pouring into this sector is truly unprecedented. The challenge on my side, at least in Texas, is that we have not been the major driver of clean technology innovation as in the case of West Coast and East Coast have been. Therefore, our job at TEX-E here is to change that over the next few years so that more innovative companies will start here and stay here to make a lasting impact. Texas had always been the energy capital of the U.S., on conventional energy, but rapid changes are happening to make Texas to focus on both conventional energy and renewable energy.”  </p>"
+            ],
+            [
+                "<p>When asked about any notable activities by the alumni of TEX-E, Mr. Pruner said, “Success is measured two ways, innovation and energy transition, and we would love to see more start-ups.” The 5 universities sponsoring TEX-E in Texas have been a good pipeline for the major energy corporations. Texas A&M alone has 24,000 engineering students who will have high probably of being hired by energy industry even before graduation, and it would be great to encourage many of them to join the clean energy sector.   </p>"
+            ],
+            [
+                "<p>On the activities in hydrogen technologies, Mr. Pruner said, “By far, hydrogen and carbon capture have been the two hottest topics in the development here in Texas. We partnered with MIT, the leader of encouraging entrepreneurship on energy and climates. We are trying to create a digital twin of what MIT has created in Boston that took 7 years there, and we hope to do that in 3 years in Houston Texas.  We will need to ‘Texify’ it, the bigger and the more grandiose.”    </p>"
+            ],
+            ["<p>On the obstacles experienced when TEX-E tried to jump into energy and renewable energy world, Mr. Pruner noted, “At least in the state of Texas, the venture side is new unlike the two Coasts, and therefore, we need to build a startup ecosystem. Educating the college students on how to start a business, commercial proposition, etc. using MIT philosophies. What we found was that unlike the Coasts where you can easily find the C-capital and accelerators/incubators, that infrastructure is just starting here. Little by little, those pieces come in, but the venture side has been slow to come, and that often forces entrepreneurs to go to the West Coast to obtain capital. We believe, however, that the capital issue is a matter of time to solve in Texas.”   </p>"],
+            [
+                "<p>
+Mr. Pruner said, “I truly believe we are at a pivot point, and changes last 3 years have been remarkable. No one yet has a full solution, but the mood of collaboration is well baked in, and it is hard to image the momentum will reverse in clean energy transition no matter who comes into the White House.  We welcome anyone who wants to visit us here in Texas. When you see the desires and ambition of our students, you can tell that they want to make this their career. We are in the right place and the right time, and it is incredibly rewarding to see all these young bright minds joining the effort.”  
+                </p>"
+            ],
+            [
+                "<p>David Pruner is the Executive Director of TEX-E.  A non-profit organization whose goal is to train the next generation of energy transition and climate tech entrepreneurs. David has more than 30 years of significant energy experience. Before joining TEX-E he was a Partner at Heidrick & Struggles executive search placing executives and board members into energy companies. Prior he was a Senior Vice President in consulting and account management for more than a decade at Wood Mackenzie a leading global consulting and research firm for the energy, metals, and mining industries. Before that, he was an executive at Azurix/Enron, The Coastal Corporation, and several other energy firms. Earlier in his career, David worked in financial services as Treasurer and Director of sales at Bridgewater Associates, and as a banker in the energy division of Manufacturers Hanover Trust. David serves on the board at Southern Methodist University Dedman College and The School of American Ballet in New York. A frequent presenter at industry events, David also teaches energy transition at the Jones Graduate School of Business at Rice University. David earned a master's degree in finance from the A.B. Freeman School of Business, Tulane University and a bachelor's degree in psychology from Southern Methodist University.</p>"
+            ],
+            [
+                "<p> The full podcast episode featuring Mr. David Pruner is available on the NewHydrogen website <a href=\"https://newhydrogen.com/videos/ceo-podcast/david-pruner-texas-entrepreneurial-exchange-for-energy\">https://newhydrogen.com/videos/ceo-podcast/david-pruner-texas-entrepreneurial-exchange-for-energy</a>.  </p>"
+            ],
+
+            [
+                "<p>For more information about NewHydrogen, please visit <a href=\"https://newhydrogen.com/\">https://newhydrogen.com/</a></p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "64",
         'title' => "NewHydrogen CEO Steve Hill Discusses Green Hydrogen Future with UC Berkeley Economist ",
         'date' => "June 18, 2024",
