@@ -1,6 +1,14 @@
 <?php
 $videos = [
     [
+        'title' => "July 12, 2024 - NewHydrogen News Commentary",
+        'videoID' => "-2lJgCGWlsk",
+        'date' => "",
+        'category' => "news-commentary",
+        'slug' => "july-12-2024-newhydrogen-news-commentary",
+        "display" => true
+    ],
+    [
         'title' => "July 1, 2024 - NewHydrogen News Commentary",
         'videoID' => "Zroq5Hoayt0",
         'date' => "",
@@ -273,7 +281,7 @@ $videos = [
         'slug' => "dr-kevin-huang-university-of-south-carolina",
         "display" => true
     ],
-   
+
     [
         'title' => "Dr. Jeffrey Reed - UC Irvine",
         'videoID' => "JcE8xrs2njk",
@@ -282,7 +290,7 @@ $videos = [
         'slug' => "dr-jeffrey-reed-uc-irvine",
         "display" => true
     ],
-   
+
     [
         'title' => "Dr. Ben Emerson Georgia Tech",
         'videoID' => "SK6lcbTVM3g",
