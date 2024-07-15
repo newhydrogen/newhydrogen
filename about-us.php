@@ -180,9 +180,9 @@ include('header.php'); ?>
                     <div class="col-md-4">
                         <div class="about-box ms-md-auto">
                             <div class="about-box-face">
-                                <img src="./assets/img/rajan-singh.png" alt="team">
+                                <img src="./assets/img/justin-marlowe.png" alt="team">
                             </div>
-                            <h6>Dr. Rajan Singh</h6>
+                            <h6>Justin Marlowe</h6>
                             <span>UCSB</span>
                             <h5>Research Scientist</h5>
                         </div>
