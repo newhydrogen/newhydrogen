@@ -3,6 +3,73 @@
 
 $news = [
     [
+        'id' => "67",
+        'title' => "NewHydrogen CEO Steve Hill Welcomes Dr. Justin Marlowe to NewHydrogen Team to Help Drive ThermoLoop™ Innovation",
+        'date' => "July 16, 2024",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced that Dr. Justin Marlowe recently joined the UCSB Technology Team for the development of a cost-effective  thermochemical water splitting technology",
+        'description' => [
+            [
+                "<p><strong>Dr. Marlowe brings his expertise in multiple materials characterization techniques and reaction engineering </strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (July 16, 2024) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced that Dr. Justin Marlowe recently joined the UCSB Technology Team for the development of a cost-effective  thermochemical water splitting technology.  </p>"
+            ],
+            [
+                "<p>Dr. Marlowe will join Dr. Phil Christopher and Dr. Eric McFarland at the University of California, Santa Barbara to realize cost-effective, entropy-driven thermochemical water splitting. He has published several high impact works in the field of heterogeneous catalysis, broadly, and has participated in collaborative work on energy transitions funded by the U.S. Department of Energy. Dr. Marlowe’s expertise in multiple materials characterization techniques and reaction engineering will enable the identification of materials and conditions necessary to optimize thermochemical water splitting to hydrogen. Before joining the team, Dr. Marlowe conducted his doctoral research at UCSB with Dr. Phil Christopher and Dr. Mahdi Abu-Omar on catalytic materials targeting the replacement of petroleum with renewable biomass for the production of chemicals and fuels. He holds a B.S. in Chemical Engineering, Summa Cum Laude, from Rutgers University and a Ph.D. in Chemical Engineering from UCSB.  </p>"
+            ],
+            [
+                "<p>“We are excited to welcome Dr. Marlowe to our team and expect him to have an immediate impact in strengthening technology development activities,” said Mr. Steve Hill, CEO of NewHydrogen. “His expertise in multiple materials characterization techniques and reaction engineering will help the team to identity materials and conditions necessary to optimize thermochemical water splitting. We are confident that his addition to our UCSB team will bring us one step closer to achieving our corporate objectives.”  </p>"
+            ],
+            [
+                "<p>\"I’m very excited for the opportunity to address one of the most important energy challenges of our generation-- the scalable production of green hydrogen-- alongside the expert team already assembled at UCSB,” said Dr. Marlowe. “I look forward to bringing my experience in materials characterization to the unique perspectives on reaction engineering and thermodynamics behind the team’s work to date to enable further strides in identifying ideal materials for the ThermoLoop™ process.\”   </p>"
+            ],
+            [
+                "<p>NewHydrogen is currently funding a sponsored research program at the University of California, Santa Barbara (“UCSB”), to develop its ThermoLoopTM technology, a novel low-cost thermochemical process to split water using inexpensive heat, instead of expensive electricity. Since the commencement of the Company’s research project in August 2023, the UCSB team has been methodically developing the Company’s ThermoLoopTM technology around unique materials that use heat to produce hydrogen and oxygen when reacted in a cyclic process with water vapor.  </p>"
+            ],
+
+            [
+                "<p>For more information about NewHydrogen, please visit <a href=\"https://newhydrogen.com/\">https://newhydrogen.com/</a></p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
+        'id' => "66",
+        'title' => "NewHydrogen’s CEO and Sustainable Farming Expert Explore the Role of Green Hydrogen in Agriculture",
+        'date' => "July 15, 2024",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced a podcast featuring CEO Steve Hill and Dr. Krish Jayachandran with Environmental Microbiology/Soil Science in the Department of Earth and Environment at Florida International University, discussing advancements in green hydrogen production",
+        'description' => [
+            [
+                "<p><strong>Dr. Krish Jayachandran presents green hydrogen: a catalyst for sustainable farming</strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (July 15, 2024) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced a podcast featuring CEO Steve Hill and Dr. Krish Jayachandran with Environmental Microbiology/Soil Science in the Department of Earth and Environment at Florida International University, discussing advancements in green hydrogen production. </p>"
+            ],
+            [
+                "<p>In a recent podcast, Steve Hill and Dr. Jayachandran discussed the transformative potential of green hydrogen in sustainable agriculture. Dr. Jayachandran stated, “This green hydrogen, green ammonia can revolutionize future sustainable agriculture practice if properly implemented.” </p>"
+            ],
+            [
+                "<p>The conversation between Dr. Jayachandran and Hill revolved around the pressing need for collaborative efforts to address research and development challenges in the field. They underscored the ecological advantages and diverse applications of green hydrogen, projecting its use in powering farm machinery and irrigation systems, all while mitigating carbon emissions. </p>"
+            ],
+            [
+                "<p>In his concluding remarks, Dr. Jayachandran asserted, “The future of agriculture hinges on the widespread adoption of green technologies and sustainable practices.”  </p>"
+            ],
+            [
+                "<p>Dr. Krish Jayachandran received his PhD in Plant Pathology with specialization in Soil Microbiology and Soil Science, from Kansas State University. Dr. Jayachandran is a Distinguished University Professor of Environmental Microbiology/Soil Science in the Department of Earth and Environment. Using microbiology as a central tool, he is specialized in nutrient cycling and soil health, microbial diversity and activity, isolation and characterization of pesticide degrading microorganisms, biocontrol of invasive plant species, marine and freshwater toxins and microbial degradation, and soil-plant-microbial interactions. Dr. Jayachandran is listed as Google Scholar at <a href='https://scholar.google.com/citations?user=cikM3poAAAAJ'> https://scholar.google.com/citations?user=cikM3poAAAAJ </a>.</p>"
+            ],
+            [
+                "<p> Watch the full discussion on the NewHydrogen Podcast featuring Dr. Krish Jayachandran at  <a href=\"https://newhydrogen.com/videos/ceo-podcast/dr-krish-jayachandran-florida-international-university\">https://newhydrogen.com/videos/ceo-podcast/dr-krish-jayachandran-florida-international-university</a>.  </p>"
+            ],
+
+            [
+                "<p>For more information about NewHydrogen, please visit <a href=\"https://newhydrogen.com/\">https://newhydrogen.com/</a></p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "65",
         'title' => "NewHydrogen CEO Steve Hill Discusses Training Next Generation of Energy and Climate Tech Entrepreneurs with Executive Director of TEX-E",
         'date' => "July 2, 2024",

@@ -429,10 +429,10 @@ include('header.php'); ?>
             </div>
             <div class="ucsb-team-content">
                 <div class="ucsb-team-face">
-                    <img src="./assets/img/rajan-singh.png" alt="team">
+                    <img src="./assets/img/justin-marlowe.png" alt="team">
                 </div>
                 <div class="ucsb-team-text">
-                    <h5>Rajan Singh, PhD</h5>
+                    <h5>Justin Marlowe</h5>
                     <ul class="dot-list">
                         <li>Research Scientist</li>
                     </ul>

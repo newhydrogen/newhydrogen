@@ -113,6 +113,14 @@ $videos = [
         "display" => true
     ],
     [
+        'title' => "Dr. Krish Jayachandran - Florida International University",
+        'videoID' => "4_gQjfXu_zA",
+        'date' => "July 15, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "dr-krish-jayachandran-florida-international-university",
+        "display" => true
+    ],
+    [
         'title' => "David Pruner - Texas Entrepreneurial Exchange for Energy",
         'videoID' => "VSBqbBDOtxY",
         'date' => "July 2, 2024",
@@ -209,14 +217,7 @@ $videos = [
         "display" => false
     ],
 
-    [
-        'title' => "Dr. Krish Jayachandran - Florida International University",
-        'videoID' => "4_gQjfXu_zA",
-        'date' => "March 8, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "dr-krish-jayachandran-florida-international-university",
-        "display" => false
-    ],
+   
     [
         'title' => "Dr. Carol Parrish - University of Richmond",
         'videoID' => "G8RiexwgUmw",
