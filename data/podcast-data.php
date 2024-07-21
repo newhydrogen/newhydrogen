@@ -319,6 +319,238 @@ $videos = [
     ],
     // new
     [
+        'title' => "The average distance a gas vehicle can travel is 413 miles! Hydrogen fuel cells 4X that!",
+        'videoID' => "lHMuQDouSxY",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-average-distance-a-gas-vehicle-can-travel-is-413-miles-hydrogen-fuel-cells-4x-that",
+        "display" => true
+    ],
+    [
+        'title' => "EVs vs FCVs",
+        'videoID' => "3FfNOxZZWvQ",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "evs-vs-fcvs",
+        "display" => true
+    ],
+    [
+        'title' => "Hitachi's $1.5 billion investment aims to boost global transformer production by 2027!",
+        'videoID' => "mUikPxT07lI",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "hitachis-$1-5-billion-investment-aims-to-boost-global-transformer-production-by-2027",
+        "display" => true
+    ],
+    [
+        'title' => "The World's Cheapest Green Hydrogen",
+        'videoID' => "K6pDmAyn1Tg",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-worlds-cheapest-green-hydrogen",
+        "display" => true
+    ],
+    [
+        'title' => "Even festivals are starting to rely on hydrogen for a trusted source of continuous energy!",
+        'videoID' => "qiPNrax99VM",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "even-festivals-are-starting-to-rely-on-hydrogen-for-a-trusted-source-of-continuous-energy",
+        "display" => true
+    ],
+    [
+        'title' => "Hydrogen is already setting world records and it's just the beginning!",
+        'videoID' => "ZvLPEpjeLV4",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "hydrogen-is-already-setting-world-records-and-its-just-the-beginning",
+        "display" => true
+    ],
+    [
+        'title' => "Fossil fuels are on the way out and hydrogen is on its way in!",
+        'videoID' => "Y00hlLFNRZg",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "fossil-fuels-are-on-the-way-out-and-hydrogen-is-on-its-way-in",
+        "display" => true
+    ],
+    [
+        'title' => "We are here to make the cheapest green hydrogen!",
+        'videoID' => "VMmkJ7lPtfI",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "we-are-here-to-make-the-cheapest-green-hydrogen",
+        "display" => true
+    ],
+    [
+        'title' => "Ford is patenting their own fuel! Woahhhh!",
+        'videoID' => "vRadAkFEZ7g",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "ford-is-patenting-their-own-fuel-woahhhh",
+        "display" => true
+    ],
+    [
+        'title' => "ThermoLoop is designed to produce affordable, clean, green hydrogen, the key to powering the future",
+        'videoID' => "ySV_5im52dY",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "thermoloop-is-designed-to-produce-affordable-clean-green-hydrogen-the-key-to-powering-the-future",
+        "display" => true
+    ],
+    [
+        'title' => "Hydrogen will power your favorite festivals!",
+        'videoID' => "Wetow5f_fb0",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "Hydrogenwill-power-your-favorite-festivals",
+        "display" => true
+    ],
+    [
+        'title' => "A lot is changing with the use of green hydrogen!",
+        'videoID' => "4g9zekUR6Gk",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "a-lot-is-changing-with-the-use-of-green-hydrogen",
+        "display" => true
+    ],
+    [
+        'title' => "Safety around hydrogen has been a major concern but now, Ford claims to have made hydrogen safer!",
+        'videoID' => "NUlpSLWDsgM",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "safety-around-hydrogen-has-been-a-major-concern-but-now-ford-claims-to-have-made-hydrogen-safer",
+        "display" => true
+    ],
+    [
+        'title' => "Hydrogen is on track to take over the racing world!",
+        'videoID' => "mVFgoFpsuaY",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "hydrogen-is-on-track-to-take-over-the-racing-world",
+        "display" => true
+    ],
+    [
+        'title' => "Hydrogen-Powered Cars Are The Future!",
+        'videoID' => "fw-Bt9WMObA",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "hydrogen-powered-cars-are-the-future",
+        "display" => true
+    ],
+    [
+        'title' => "The hydrogen element is all around the world and so are business opportunities!",
+        'videoID' => "mVFgoFpsuaY",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-hydrogen-element-is-all-around-the-world-and-so-are-business-opportunities",
+        "display" => true
+    ],
+    [
+        'title' => "Terrence, we have what you need!",
+        'videoID' => "M-30KiYx5HQ",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "terrencewe-have-what-you-need",
+        "display" => true
+    ],
+    [
+        'title' => "The hydrogen market",
+        'videoID' => "um017RohoQM",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-hydrogen-market",
+        "display" => true
+    ],
+    [
+        'title' => "Hydrogen is fueling the world's largest sports event! Find out how!",
+        'videoID' => "7Ba8B6rYf3o",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "hydrogen-is-fueling-the-worlds-largest-sports-event-find-out-how",
+        "display" => true
+    ],
+    [
+        'title' => "Goldman Sachs sees green hydrogen as a future $12 trillion market",
+        'videoID' => "dFQ8LUh4yUQ",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "goldman-sachs-sees-green-hydrogen-as-a-future-$12-trillion-market",
+        "display" => true
+    ],
+    [
+        'title' => "No more choo choo trains!",
+        'videoID' => "rf71FwvKBC8",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "no-more-choo-choo-trains",
+        "display" => true
+    ],
+    [
+        'title' => "No way cows are getting replaced by hydrogen?!",
+        'videoID' => "wyC0C0DXptE",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "no-way-cows-are-getting-replaced-by-hydrogen",
+        "display" => true
+    ],
+    [
+        'title' => "The Green Rush on Hydrogen is just as exciting as the past Gold Rush!",
+        'videoID' => "fsCwfWn-OvU",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-green-rush-on-hydrogen-is-just-as-exciting-as-the-past-gold-rush",
+        "display" => true
+    ],
+    [
+        'title' => "The world is in need of change.",
+        'videoID' => "hZ2rw6vScg0",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-world-is-in-need-of-change",
+        "display" => true
+    ], 
+    [
+        'title' => "We Are Developing The World's Cheapest Green Hydrogen with ThermoLoop!",
+        'videoID' => "hZ2rw6vScg0",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "we-are-developing-the-worlds-cheapest-green-hydrogen-with-thermoloop",
+        "display" => true
+    ], 
+    [
+        'title' => "The race is on! Join the Molecular Gold Rush!",
+        'videoID' => "fsCwfWn-OvU",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-race-is-on-join-the-molecular-gold-rush",
+        "display" => true
+    ],   
+    [
+        'title' => "Batteries need to be replaced or boosted in power!",
+        'videoID' => "Hs-RI8Mr2sI",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "batteries-need-to-be-replaced-or-boosted-in-power",
+        "display" => true
+    ],   
+    [
+        'title' => "Global Demand",
+        'videoID' => "gNT8HkZCn_A",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "global-demand",
+        "display" => true
+    ],   
+    [
+        'title' => "Crucial element needed for large-scale industrial production",
+        'videoID' => "8Y0gBkJr7Lg",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "crucial-element-needed-for-large-scale-industrial-production",
+        "display" => true
+    ],
+    [
         'title' => "GOLD RUSH",
         'videoID' => "wLxhwaohZ50",
         'date' => "",

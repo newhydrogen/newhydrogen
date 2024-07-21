@@ -182,7 +182,7 @@ include('header.php'); ?>
                             <div class="about-box-face">
                                 <img src="./assets/img/justin-marlowe.png" alt="team">
                             </div>
-                            <h6>Justin Marlowe</h6>
+                            <h6>Dr. Justin Marlowe</h6>
                             <span>UCSB</span>
                             <h5>Research Scientist</h5>
                         </div>
