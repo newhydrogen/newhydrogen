@@ -147,7 +147,7 @@ include('../header.php'); ?>
     <div class="container">
         <div class="catlatest-heading">
             <h2>Short Videos</h2>
-            <a href="./short-videos">See All <svg xmlns="http://www.w3.org/2000/svg" width="12" height="13" viewBox="0 0 12 13" fill="none">
+            <a href="https://www.youtube.com/@NewHydrogenEnergy/shorts" target="_blank">See All <svg xmlns="http://www.w3.org/2000/svg" width="12" height="13" viewBox="0 0 12 13" fill="none">
                     <path d="M6 0.980469L4.9425 1.97637L9.1275 5.92464H0V7.33727H9.1275L4.9425 11.2855L6 12.2814L12 6.63095L6 0.980469Z" fill="#3B9C0C" />
                 </svg></a>
         </div>
