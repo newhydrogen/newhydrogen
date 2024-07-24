@@ -327,6 +327,46 @@ $videos = [
     ],
     // new
     [
+        'title' => "It's Time to Ditch Dirty Fuels.",
+        'videoID' => "6Xi6eHBYTeg",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "its-time-to-ditch-dirty-fuels",
+        "display" => true
+    ],
+    [
+        'title' => "Imagine Cities Powered by Clean Hydrogen",
+        'videoID' => "IUfhAstWq_c",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "imagine-cities-powered-by-clean-hydrogen",
+        "display" => true
+    ],
+    [
+        'title' => "Go further. Go Green",
+        'videoID' => "n-RpVbYOrFY",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "go-further-go-green",
+        "display" => true
+    ],
+    [
+        'title' => "We are near the future and there won't be any turning back!",
+        'videoID' => "AbzXyyE8iJU",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "we-are-near-the-future-and-there-wont-be-any-turning-back",
+        "display" => true
+    ],
+    [
+        'title' => "Hydrogen is key.",
+        'videoID' => "sUCHgap3XOA",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "hydrogen-is-key",
+        "display" => true
+    ],
+    [
         'title' => "The average distance a gas vehicle can travel is 413 miles! Hydrogen fuel cells 4X that!",
         'videoID' => "lHMuQDouSxY",
         'date' => "",
