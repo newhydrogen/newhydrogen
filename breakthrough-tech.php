@@ -432,7 +432,7 @@ include('header.php'); ?>
                     <img src="./assets/img/justin-marlowe.png" alt="team">
                 </div>
                 <div class="ucsb-team-text">
-                    <h5>Dr. Justin Marlowe</h5>
+                    <h5>Dr. Justin Marlowe, PhD</h5>
                     <ul class="dot-list">
                         <li>Research Scientist</li>
                     </ul>
