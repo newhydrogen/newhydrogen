@@ -327,6 +327,30 @@ $videos = [
     ],
     // new
     [
+        'title' => "Check out this futuristic city in Japan!",
+        'videoID' => "TZi9R2WLchI",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "check-out-this-futuristic-city-in-japan",
+        "display" => true
+    ],
+    [
+        'title' => "This could transform sustainable farming practices globally.",
+        'videoID' => "GUqkTM420aU",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "this-could-transform-sustainable-farming-practices-globally",
+        "display" => true
+    ],
+    [
+        'title' => "PepsiCo's pilot program using green hydrogen-based fertilizers to produce potatoes in Spain!",
+        'videoID' => "d0os_ss0cl8",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "pepsico-pilot-program-using-green-hydrogen-based-fertilizers-to-produce-potatoes-in-spain",
+        "display" => true
+    ],
+    [
         'title' => "It's Time to Ditch Dirty Fuels.",
         'videoID' => "6Xi6eHBYTeg",
         'date' => "",
