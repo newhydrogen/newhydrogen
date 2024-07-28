@@ -227,12 +227,12 @@ $videos = [
 
    
     [
-        'title' => "Dr. Carol Parrish - University of Richmond",
-        'videoID' => "G8RiexwgUmw",
+        'title' => "Dr. Carol Parish - University of Richmond",
+        'videoID' => "vJGsTR3A-so",
         'date' => "March 2, 2024",
         'category' => "ceo-podcast",
-        'slug' => "dr-carol-parrish-university-of-richmond",
-        "display" => false
+        'slug' => "dr-carol-parish-university-of-richmond",
+        "display" => true
     ],
     [
         'title' => "Andrew Thomas - Cleveland State University",
