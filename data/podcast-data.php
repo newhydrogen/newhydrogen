@@ -1,6 +1,14 @@
 <?php
 $videos = [
     [
+        'title' => "July 29, 2024 - NewHydrogen News Commentary",
+        'videoID' => "WQdvFZw9ktg",
+        'date' => "",
+        'category' => "news-commentary",
+        'slug' => "july-29-2024-newhydrogen-news-commentary",
+        "display" => true
+    ],
+    [
         'title' => "July 22, 2024 - NewHydrogen News Commentary",
         'videoID' => "OcCtqu5cYE8",
         'date' => "",
@@ -326,6 +334,70 @@ $videos = [
         "display" => false
     ],
     // new
+    [
+        'title' => "Check out this futuristic city in Japan!",
+        'videoID' => "TZi9R2WLchI",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "check-out-this-futuristic-city-in-japan",
+        "display" => true
+    ],
+    [
+        'title' => "This could transform sustainable farming practices globally.",
+        'videoID' => "GUqkTM420aU",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "this-could-transform-sustainable-farming-practices-globally",
+        "display" => true
+    ],
+    [
+        'title' => "PepsiCo's pilot program using green hydrogen-based fertilizers to produce potatoes in Spain!",
+        'videoID' => "d0os_ss0cl8",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "pepsico-pilot-program-using-green-hydrogen-based-fertilizers-to-produce-potatoes-in-spain",
+        "display" => true
+    ],
+    [
+        'title' => "It's Time to Ditch Dirty Fuels.",
+        'videoID' => "6Xi6eHBYTeg",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "its-time-to-ditch-dirty-fuels",
+        "display" => true
+    ],
+    [
+        'title' => "Imagine Cities Powered by Clean Hydrogen",
+        'videoID' => "IUfhAstWq_c",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "imagine-cities-powered-by-clean-hydrogen",
+        "display" => true
+    ],
+    [
+        'title' => "Go further. Go Green",
+        'videoID' => "n-RpVbYOrFY",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "go-further-go-green",
+        "display" => true
+    ],
+    [
+        'title' => "We are near the future and there won't be any turning back!",
+        'videoID' => "AbzXyyE8iJU",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "we-are-near-the-future-and-there-wont-be-any-turning-back",
+        "display" => true
+    ],
+    [
+        'title' => "Hydrogen is key.",
+        'videoID' => "sUCHgap3XOA",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "hydrogen-is-key",
+        "display" => true
+    ],
     [
         'title' => "The average distance a gas vehicle can travel is 413 miles! Hydrogen fuel cells 4X that!",
         'videoID' => "lHMuQDouSxY",
