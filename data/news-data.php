@@ -3,6 +3,40 @@
 
 $news = [
     [
+        'id' => "68",
+        'title' => "NewHydrogen CEO Steve Hill Explores AI’s Role in Cutting-Edge Hydrogen Solutions with Renowned Computational Scientist",
+        'date' => "July 30, 2024",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced that in a recent episode of the NewHydrogen Podcast, Steve Hill, CEO of New Hydrogen, explored cutting-edge advancements in hydrogen storage solutions with Dr. Carol Parish, the Floyd D. and Elisabeth S. Gottwald Professor of Chemistry at the University of Richmond",
+        'description' => [
+            [
+                "<p><strong>A Conversation on Artificial Intelligence, Renewable Energy, and Sustainable Innovation with Dr. Carol Parish </strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (July 30, 2024) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced that in a recent episode of the NewHydrogen Podcast, Steve Hill, CEO of New Hydrogen, explored cutting-edge advancements in hydrogen storage solutions with Dr. Carol Parish, the Floyd D. and Elisabeth S. Gottwald Professor of Chemistry at the University of Richmond.   </p>"
+            ],
+            [
+                "<p>The conversation delved into groundbreaking advancements in hydrogen storage solutions, particularly the role of artificial intelligence (AI) in optimizing room temperature hydrogen storage. Dr. Parish, a luminary in computational science, highlighted the significance of AI in exploring molecular possibilities for efficient hydrogen storage. Reflecting on AI's role, Dr. Parish remarked, \"AI is a really useful tool, and it can certainly help scientists to solve our energy problems.\" She underscored the importance of AI in studying molecular candidates and optimizing structures for effective hydrogen storage.  </p>"
+            ],
+            [
+                "<p>Furthermore, Dr. Parish shed light on the intersection of renewable energy, data centers, and hydrogen storage. She emphasized, \"Our need for energy and electricity is not going away.\" She discussed the potential synergy between renewable energy and green hydrogen storage as a promising avenue for addressing the energy needs of expanding data centers efficiently. </p>"
+            ],
+            [
+                "<p>The podcast concluded with insights into Dr. Parish's research on organic-based radical molecules for designing environmentally friendly batteries. Her expertise in computational chemistry, coupled with ongoing projects, exemplified the role of computational science in advancing sustainable energy solutions.  </p>"
+            ],
+            [
+                "<p>Listeners can gain valuable insights into the intricate relationship between AI, computational science, and renewable energy, positioning Dr. Carol Parish's work at the forefront of innovative solutions for a greener future.   </p>"
+            ],
+            [
+                "<p>Carol Parish received her Ph.D. in Physical Chemistry at Purdue University. Dr. Parish is the Floyd D. and Elisabeth S. Gottwald Professor of Chemistry and Associate Provost for Academic Integration at the University of Richmond. She specializes in data analysis and computational simulations that provide atomistic insight into important problems in drug design, sensors, alternative sources of energy and CO2 capture. She has mentored more than 110 undergraduate students, authored 70 research publications, and raised over $4 million to support her research from the National Science Foundation, the Department of Energy, the American Chemical Society, the Jeffress and Dreyfus Foundations. She is co-editor of the two-volume series Physical Chemistry Research at Undergraduate Institutions published by the American Chemical Society. She has received awards for her work including the 2019 American Chemical Society award for Research at Undergraduate Institutions, the 2018 State Council in Higher Education for Virginia (SCHEV) Outstanding Faculty award, the University of Richmond Distinguished Educator award and the Stanley Israel ACS Award for Advancing Diversity in the Chemical Sciences. She was the recipient of a 2012 Fulbright Fellowship for research at the Hebrew University in Jerusalem. She co- founded the University of Richmond’s Integrated and Inclusive Science (IIS) program. IIS focuses on supporting all students in their pursuit of scientific excellence; particularly students who have not historically received such support. She also co-founded the MERCURY Supercomputer consortium that has trained hundreds of students in computational science and mentored more than 50 faculty. Currently, Dr. Parish is the Associate Provost for Academic Integration where she is responsible for supporting programs in Data Science/Data Analytics, as well as Creativity, Innovation and Entrepreneurship and Integrated Learning. She supports the Quantitative Resource Center, Academic Advising Resource Center, Speech Center, Writing Center, Technology Learning Center and the English Language Learning Center, and coordinates academic program review for departments and programs across the university. Dr. Parish is listed as Google Scholar at <a href=\"https://scholar.google.com/citations?user=rSf40n4AAAAJ&hl=en&oi=ao\" target=\"_blank\">https://scholar.google.com/citations?user=rSf40n4AAAAJ&hl=en&oi=ao</a>  </p>"
+            ],
+            [
+                "<p>For more information about NewHydrogen, please visit <a href=\"https://newhydrogen.com/\">https://newhydrogen.com/</a></p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "67",
         'title' => "NewHydrogen CEO Steve Hill Welcomes Dr. Justin Marlowe to NewHydrogen Team to Help Drive ThermoLoop™ Innovation",
         'date' => "July 16, 2024",
