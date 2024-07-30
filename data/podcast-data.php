@@ -129,6 +129,14 @@ $videos = [
         "display" => true
     ],
     [
+        'title' => "Dr. Carol Parish - University of Richmond",
+        'videoID' => "vJGsTR3A-so",
+        'date' => "July 30, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "dr-carol-parish-university-of-richmond",
+        "display" => true
+    ],
+    [
         'title' => "Dr. Krish Jayachandran - Florida International University",
         'videoID' => "4_gQjfXu_zA",
         'date' => "July 15, 2024",
@@ -234,14 +242,7 @@ $videos = [
     ],
 
    
-    [
-        'title' => "Dr. Carol Parish - University of Richmond",
-        'videoID' => "vJGsTR3A-so",
-        'date' => "March 2, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "dr-carol-parish-university-of-richmond",
-        "display" => false
-    ],
+    
     [
         'title' => "Andrew Thomas - Cleveland State University",
         'videoID' => "IrSEdtDAgsM",
