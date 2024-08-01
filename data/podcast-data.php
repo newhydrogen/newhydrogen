@@ -1,6 +1,46 @@
 <?php
 $videos = [
     [
+        'title' => "Professor Christopher P. Cadou, Ph.D. - University of Maryland",
+        'videoID' => "jKvUwfnWe8s",
+        'date' => "July 29, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "professor-hristopher-P-Cadou-phd-university-of-maryland",
+        "display" => false
+    ],
+    [
+        'title' => "Professor William Scheideler - Dartmouth College",
+        'videoID' => "NdFlZwYGp64",
+        'date' => "July 24, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "professor-william-scheideler-dartmouth-college",
+        "display" => false
+    ],
+    [
+        'title' => "Bentzion Levinson - Founder & CEO at Heven Drones",
+        'videoID' => "vlEElKc9IiA",
+        'date' => "July 18, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "bentzion-levinson-founder-and-ceo-at-heven-drones",
+        "display" => false
+    ],
+    [
+        'title' => "Alexander Dowling - Associate Professor- Notre Dame",
+        'videoID' => "V2DR9daV1oA",
+        'date' => "July 17, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "alexander-dowling-associate-professor-notre-dame",
+        "display" => false
+    ],
+    [
+        'title' => "Dr. Walter Van Schalkwijk",
+        'videoID' => "D3O2groa2Q8",
+        'date' => "July 15, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "dr-Walter-van-schalkwijk",
+        "display" => false
+    ],
+    [
         'title' => "July 29, 2024 - NewHydrogen News Commentary",
         'videoID' => "WQdvFZw9ktg",
         'date' => "",
@@ -126,6 +166,14 @@ $videos = [
         'date' => "",
         'category' => "news-commentary",
         'slug' => "april-8-2024-newhydrogen-news-commentary",
+        "display" => true
+    ],
+    [
+        'title' => "Dr. Carol Parish - University of Richmond",
+        'videoID' => "vJGsTR3A-so",
+        'date' => "July 30, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "dr-carol-parish-university-of-richmond",
         "display" => true
     ],
     [
