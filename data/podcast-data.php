@@ -5,7 +5,7 @@ $videos = [
         'videoID' => "jKvUwfnWe8s",
         'date' => "July 29, 2024",
         'category' => "ceo-podcast",
-        'slug' => "professor-hristopher-P-Cadou-phd-university-of-maryland",
+        'slug' => "professor-hristopher-p-cadou-phd-university-of-maryland",
         "display" => false
     ],
     [
@@ -37,7 +37,7 @@ $videos = [
         'videoID' => "D3O2groa2Q8",
         'date' => "July 15, 2024",
         'category' => "ceo-podcast",
-        'slug' => "dr-Walter-van-schalkwijk",
+        'slug' => "dr-walter-van-schalkwijk",
         "display" => false
     ],
     [
