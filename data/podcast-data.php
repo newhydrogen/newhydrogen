@@ -1,6 +1,14 @@
 <?php
 $videos = [
     [
+        'title' => "August 5, 2024 - NewHydrogen News Commentary",
+        'videoID' => "192lA4RO5XI",
+        'date' => "",
+        'category' => "news-commentary",
+        'slug' => "august-5-2024-newhydrogen-news-commentary",
+        "display" => true
+    ],
+    [
         'title' => "Professor Christopher P. Cadou, Ph.D. - University of Maryland",
         'videoID' => "jKvUwfnWe8s",
         'date' => "July 29, 2024",
