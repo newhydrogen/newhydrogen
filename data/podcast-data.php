@@ -384,6 +384,38 @@ $videos = [
     ],
     // new
     [
+        'title' => "An energy crisis is developing and we need solutions fast!",
+        'videoID' => "6uO-bfCTO7Q",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "an-energy-crisis-is-developing-and-we-need-solutions-fast",
+        "display" => true
+    ],
+    [
+        'title' => "NewHydrogen is developing innovative hydrogen technologies for a sustainable future.",
+        'videoID' => "LO75YGnw5rU",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "newhydrogen-is-developing-innovative-hydrogen-technologies-for-a-sustainable-future",
+        "display" => true
+    ],
+    [
+        'title' => "A Swiss hydrogen-powered train just set a Guinness World Record!",
+        'videoID' => "LizSV3fTy58",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "a-swiss-hydrogen-powered-train-just-set-a-guinness-world-record",
+        "display" => true
+    ],
+    [
+        'title' => "Ferrari is leaving gas and going hydrogen!",
+        'videoID' => "-3Vkq3miWEo",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "ferrari-is-leaving-gas-and-going-hydrogen",
+        "display" => true
+    ],
+    [
         'title' => "Check out this futuristic city in Japan!",
         'videoID' => "TZi9R2WLchI",
         'date' => "",
