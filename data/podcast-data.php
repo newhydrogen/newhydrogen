@@ -384,6 +384,22 @@ $videos = [
     ],
     // new
     [
+        'title' => "The future of high-powered engines is with hydrogen!",
+        'videoID' => "7th1qxhwvl4",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-future-of-high-powered-engines-is-with-hydrogen",
+        "display" => true
+    ],
+    [
+        'title' => "Production costs to get green hydrogen are a huge problem",
+        'videoID' => "XWFEkn9WG8U",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "production-costs-to-get-green-hydrogen-are-a-huge-problem",
+        "display" => true
+    ],
+    [
         'title' => "An energy crisis is developing and we need solutions fast!",
         'videoID' => "6uO-bfCTO7Q",
         'date' => "",
