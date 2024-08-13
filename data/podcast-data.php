@@ -1,11 +1,27 @@
 <?php
 $videos = [
     [
+        'title' => "August 12, 2024 - NewHydrogen News Commentary",
+        'videoID' => "gtlODKdqYqA",
+        'date' => "",
+        'category' => "news-commentary",
+        'slug' => "august-12-2024-newhydrogen-news-commentary",
+        "display" => true
+    ],
+    [
         'title' => "August 5, 2024 - NewHydrogen News Commentary",
         'videoID' => "192lA4RO5XI",
         'date' => "",
         'category' => "news-commentary",
         'slug' => "august-5-2024-newhydrogen-news-commentary",
+        "display" => true
+    ],
+    [
+        'title' => "Dr. Haotian Wang - Rice University",
+        'videoID' => "fscydFwhFVo",
+        'date' => "August 13, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "dr-haotian-wang-rice-university",
         "display" => true
     ],
     [
@@ -280,14 +296,7 @@ $videos = [
         'slug' => "dr-tim-lieuwen-georgia-tech-university",
         "display" => true
     ],
-    [
-        'title' => "Dr. Haotian Wang - Rice University",
-        'videoID' => "fscydFwhFVo",
-        'date' => "March 18, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "dr-haotian-wang-rice-university",
-        "display" => false
-    ],
+  
 
    
     [
@@ -390,6 +399,54 @@ $videos = [
         "display" => false
     ],
     // new
+    [
+        'title' => "The future of high-powered engines is with hydrogen!",
+        'videoID' => "7th1qxhwvl4",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-future-of-high-powered-engines-is-with-hydrogen",
+        "display" => true
+    ],
+    [
+        'title' => "Production costs to get green hydrogen are a huge problem",
+        'videoID' => "XWFEkn9WG8U",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "production-costs-to-get-green-hydrogen-are-a-huge-problem",
+        "display" => true
+    ],
+    [
+        'title' => "An energy crisis is developing and we need solutions fast!",
+        'videoID' => "6uO-bfCTO7Q",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "an-energy-crisis-is-developing-and-we-need-solutions-fast",
+        "display" => true
+    ],
+    [
+        'title' => "NewHydrogen is developing innovative hydrogen technologies for a sustainable future.",
+        'videoID' => "LO75YGnw5rU",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "newhydrogen-is-developing-innovative-hydrogen-technologies-for-a-sustainable-future",
+        "display" => true
+    ],
+    [
+        'title' => "A Swiss hydrogen-powered train just set a Guinness World Record!",
+        'videoID' => "LizSV3fTy58",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "a-swiss-hydrogen-powered-train-just-set-a-guinness-world-record",
+        "display" => true
+    ],
+    [
+        'title' => "Ferrari is leaving gas and going hydrogen!",
+        'videoID' => "-3Vkq3miWEo",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "ferrari-is-leaving-gas-and-going-hydrogen",
+        "display" => true
+    ],
     [
         'title' => "Check out this futuristic city in Japan!",
         'videoID' => "TZi9R2WLchI",
