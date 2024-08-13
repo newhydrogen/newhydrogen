@@ -3,6 +3,41 @@
 
 $news = [
     [
+        'id' => "69",
+        'title' => "NewHydrogen CEO Steve Hill Discusses the Need for Technological Advancements for Green Hydrogen Production with Rice University Expert ",
+        'date' => "August 13, 2024",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of a breakthrough technology that uses clean energy and water to produce the world’s cheapest green hydrogen, today announced that in a recent podcast the Company’s CEO Steve Hill spoke with Haotian Wang, Associate Professor in the Department of Chemical and Biomolecular Engineering at Rice university",
+        'description' => [
+            [
+                "<p><strong>Dr. Haotian Wang discussed his research on nano materials and the importance of durability and scalability in scaling up technologies </strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (August 13, 2024) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of a breakthrough technology that uses clean energy and water to produce the world’s cheapest green hydrogen, today announced that in a recent podcast the Company’s CEO Steve Hill spoke with Haotian Wang, Associate Professor in the Department of Chemical and Biomolecular Engineering at Rice university.   </p>"
+            ],
+            [
+                "<p>Dr. Wang discussed his work on electrochemical methods for carbon capture and conversion into high-value products, as well as the development of mobile catalytic materials for more efficient and cost-effective water splitting. Dr. Wang said, “There are challenges associated with hydrogen production, particularly the high cost of green hydrogen, which is currently around $5-6 per kilo.” He mentioned the Department of Energy's ambitious goal to reduce the cost of green hydrogen to $1 per kilo by 2030. The discussion also highlighted the need for technological advancements and supply chain collaborations to achieve this goal.  </p>"
+            ],
+            [
+                "<p>Regarding the challenges associated with using rare metals like iridium in the process of water electrolysis for hydrogen production, Dr. Wang said, “The scalability issue due to the limited global production of iridium necessitates finding alternatives that are more abundant and cost-effective, while still maintaining similar catalytic performance and durability.” Dr. Wang also mentioned another type of water electrolyzer that uses low-cost catalyst materials but has different stability issues. The focus of his research is to resolve these issues and make the process more commercially viable.  </p>"
+            ],
+            [
+                "<p>They discussed the challenges of scaling innovative ideas from the lab to industry. Dr. Wang acknowledged a gap between academic research and industrial needs, and suggested that more collaboration between universities and industry could help bridge this gap. Dr. Wang said, “In order for electrolysis to play a significant role in decarbonizing chemicals and fuels in the future, we cannot overemphasize the importance of durability and scalability in scaling up technologies.”    </p>"
+            ],
+            [
+                "<p>Dr. Haotian Wang received his PhD degree in the Department of Applied Physics at Stanford University in 2016, after which he received the Rowland Fellowship and began his independent research career at Harvard as a principal investigator. He was awarded the Sloan Fellow, Packard Fellow, CIFAR Azrieli Global Scholar, Forbes 30 Under 30, highly cited researchers, etc. He serves as the associate editor of Nano Letters. He is the co-founder and chief scientist of Solidec, a carbon capture and chemicals and fuels production company. His research group has been focused on developing novel nanomaterials for energy and environmental applications including energy storage, chemical/fuel generation, and water treatment. Dr. Wang is listed as Google Scholar at <a href=\"https://scholar.google.com/citations?user=dC4j6AMAAAAJ&hl=en\" target=\"_blank\">https://scholar.google.com/citations?user=dC4j6AMAAAAJ&hl=en</a> </p>"
+            ],
+            
+            [
+                "<p>Watch the full discussion on the NewHydrogen Podcast featuring Dr. Wang at <a href=\"https://newhydrogen.com/videos/ceo-podcast/dr-haotian-wang-rice-university\">https://newhydrogen.com/videos/ceo-podcast/dr-haotian-wang-rice-university.</a></p>"
+            ],
+            [
+                "<p>For more information about NewHydrogen, please visit <a href=\"https://newhydrogen.com/\">https://newhydrogen.com/</a></p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "68",
         'title' => "NewHydrogen CEO Steve Hill Explores AI’s Role in Cutting-Edge Hydrogen Solutions with Renowned Computational Scientist ",
         'date' => "July 30, 2024",
