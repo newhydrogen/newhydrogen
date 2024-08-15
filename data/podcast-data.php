@@ -393,6 +393,38 @@ $videos = [
     ],
     // new
     [
+        'title' => "Hydrogen could power nearly a quarter of the world's energy needs by 2050!",
+        'videoID' => "2kfcfZufU2U",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "hydrogen-could-power-nearly-a-quarter-of-the-worlds-energy-needs-by-2050",
+        "display" => true
+    ],
+    [
+        'title' => "Hydrogen is poised to revolutionize the energy landscape",
+        'videoID' => "xW53R33hlEs",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "hydrogen-is-poised-to-revolutionize-the-energy-landscape",
+        "display" => true
+    ],
+    [
+        'title' => "The potential benefits of a hydrogen-powered future far outweigh the current obstacles!",
+        'videoID' => "rbbdpQmas4w",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-potential-benefits-of-a-hydrogen-powered-future-far-outweigh-the-current-obstacles",
+        "display" => true
+    ],
+    [
+        'title' => "Hydrogen energy is poised to transform our world!",
+        'videoID' => "QPBlyDk4SjY",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "hydrogen-energy-is-poised-to-transform-our-world",
+        "display" => true
+    ],
+    [
         'title' => "The future of high-powered engines is with hydrogen!",
         'videoID' => "7th1qxhwvl4",
         'date' => "",
