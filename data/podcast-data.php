@@ -33,6 +33,14 @@ $videos = [
         "display" => true
     ],
     [
+        'title' => "Bentzion Levinson - Founder & CEO at Heven Drones",
+        'videoID' => "vlEElKc9IiA",
+        'date' => "August 27, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "bentzion-levinson-founder-and-ceo-at-heven-drones",
+        "display" => true
+    ],
+    [
         'title' => "Dr. Haotian Wang - Rice University",
         'videoID' => "fscydFwhFVo",
         'date' => "August 13, 2024",
@@ -56,14 +64,7 @@ $videos = [
         'slug' => "professor-william-scheideler-dartmouth-college",
         "display" => false
     ],
-    [
-        'title' => "Bentzion Levinson - Founder & CEO at Heven Drones",
-        'videoID' => "vlEElKc9IiA",
-        'date' => "July 18, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "bentzion-levinson-founder-and-ceo-at-heven-drones",
-        "display" => false
-    ],
+ 
     [
         'title' => "Alexander Dowling - Associate Professor- Notre Dame",
         'videoID' => "V2DR9daV1oA",
