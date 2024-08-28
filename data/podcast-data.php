@@ -1,6 +1,14 @@
 <?php
 $videos = [
     [
+        'title' => "August 26, 2024 - NewHydrogen News Commentary",
+        'videoID' => "6i3nHNWPbXw",
+        'date' => "",
+        'category' => "news-commentary",
+        'slug' => "august-26-2024-newhydrogen-news-commentary",
+        "display" => true
+    ],
+    [
         'title' => "August 19, 2024 - NewHydrogen News Commentary",
         'videoID' => "3lLr-c_HARM",
         'date' => "",
@@ -22,6 +30,14 @@ $videos = [
         'date' => "",
         'category' => "news-commentary",
         'slug' => "august-5-2024-newhydrogen-news-commentary",
+        "display" => true
+    ],
+    [
+        'title' => "Bentzion Levinson - Founder & CEO at Heven Drones",
+        'videoID' => "vlEElKc9IiA",
+        'date' => "August 27, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "bentzion-levinson-founder-and-ceo-at-heven-drones",
         "display" => true
     ],
     [
@@ -48,14 +64,7 @@ $videos = [
         'slug' => "professor-william-scheideler-dartmouth-college",
         "display" => false
     ],
-    [
-        'title' => "Bentzion Levinson - Founder & CEO at Heven Drones",
-        'videoID' => "vlEElKc9IiA",
-        'date' => "July 18, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "bentzion-levinson-founder-and-ceo-at-heven-drones",
-        "display" => false
-    ],
+ 
     [
         'title' => "Alexander Dowling - Associate Professor- Notre Dame",
         'videoID' => "V2DR9daV1oA",
@@ -407,6 +416,46 @@ $videos = [
         "display" => false
     ],
     // new
+    [
+        'title' => "American Airlines is pioneering sustainable aviation.",
+        'videoID' => "ySo0tR3Q-x4",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "american-airlines-is-pioneering-sustainable-aviation",
+        "display" => true
+    ],
+    [
+        'title' => "The entire world is competing to be the leader in hydrogen power!",
+        'videoID' => "YtZC7cSPGtc",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-entire-world-is-competing-to-be-the-leader-in-hydrogen-power",
+        "display" => true
+    ],
+    [
+        'title' => "The global race isn't just about technology.",
+        'videoID' => "L_7eQEN7YZA",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "the-global-race-isnt-just-about-technology",
+        "display" => true
+    ],
+    [
+        'title' => "Your favorite and the biggest car brands are looking into turning their vehicles to hydrogen-powered",
+        'videoID' => "i1XM1zr5h0g",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "your-favorite-and-the-biggest-car-brands-are-looking-into-turning-their-vehicles-to-hydrogen-powered",
+        "display" => true
+    ],
+    [
+        'title' => "Kawasaki showed the world its first public demo of a hydrogen-powered motorcycle in Japan.",
+        'videoID' => "jxSY109rhGA",
+        'date' => "",
+        'category' => "short-video",
+        'slug' => "kawasaki-showed-the-world-its-first-public-demo-of-a-hydrogen-powered-motorcycle-in-japan",
+        "display" => true
+    ],
     [
         'title' => "Hydrogen could power nearly a quarter of the world's energy needs by 2050!",
         'videoID' => "2kfcfZufU2U",

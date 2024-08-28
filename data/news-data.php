@@ -3,6 +3,47 @@
 
 $news = [
     [
+        'id' => "70",
+        'title' => "NewHydrogen CEO Steve Hill and CEO of Hydrogen-Powered Drone Manufacturer Discuss Hydrogen Applications in Aerial Technology ",
+        'date' => "August 27, 2024",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that produces the world's cheapest green hydrogen using water and heat instead of electricity, today announced a podcast featuring CEO Steve Hill and Bentzion Levinson, CEO and founder of Heven Drones. Levinson, a former Israeli military commander, is revolutionizing the drone industry with hydrogen-powered aircraft",
+        'description' => [
+            [
+                "<p><strong>Bentzion Levinson presents his innovative hydrogen drone technology and the need for affordable green hydrogen production  </strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (August 27, 2024) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that produces the world's cheapest green hydrogen using water and heat instead of electricity, today announced a podcast featuring CEO Steve Hill and Bentzion Levinson, CEO and founder of Heven Drones. Levinson, a former Israeli military commander, is revolutionizing the drone industry with hydrogen-powered aircraft.   </p>"
+            ],
+            [
+                "<p>Inspired by a project to extinguish agricultural fires in Israel, Levinson recognized the limitations of battery-powered drones, particularly their short flight times, leading to the development of Heven Drones' innovative technology. \"We realized that if we wanted to bring our vision to life, we needed to fly for hours, not minutes,\" said Levinson. \"Hydrogen fuel cells offer amazing energy density, quiet operation, and a clean energy source.\"  </p>"
+            ],
+            [
+                "<p>Heven Drones' hydrogen-powered models can carry up to 70 pounds and fly for 4 to 10 hours on a single tank. The company is currently the sole supplier of hydrogen-powered drones to the Israeli government and collaborates with key partners in the US and internationally.  </p>"
+            ],
+            [
+                "<p>By transforming traditional methods of aerial surveillance, logistics, and emergency response, Heven Drones is establishing itself as a leader in the expanding drone industry. The company's versatile family of drones offers a compelling value proposition for businesses and government agencies, positioning it at the forefront of sector innovation.   </p>"
+            ],
+            [
+                "<p>\"We believe that for hydrogen to take off, the value proposition has to be there,\" added Levinson. \"The cost factor is a big challenge with hydrogen today, but we're working on it. Collaboration with companies like NewHydrogen is essential to support the growth of the hydrogen economy.\"   </p>"
+            ],
+            [
+                "<p>As Heven Drones continues to innovate and expand its product line, the company is poised to shape the future of drone technology. With its commitment to sustainability and the development of advanced aerial systems, Heven Drones is paving the way for a future where these aircraft become an integral part of daily life.  </p>"
+            ],
+            [
+                "<p>Bentzion Levinson, a former Israeli Military commander and Stanford University Executive Leadership alum, founded Heven Drones in 2019 with a vision to create an actionable drone ecosystem that optimizes various industries. His commitment to driving meaningful change through technology is evident in his leadership of a national project in Israel, where he guided an expert team in detecting and extinguishing agricultural fires that were devastating farms. Heven Drones aims to revolutionize sectors such as emergency response, smart cities, agriculture, logistics, construction, defense, and species conservation, showcasing Ben's dedication to leveraging innovative solutions for wide-ranging applications. </p>"
+            ],
+            
+            [
+                "<p>Watch the full discussion on the NewHydrogen Podcast featuring Bentzion Levinson at <a href=\"https://newhydrogen.com/videos/ceo-podcast/bentzion-levinson-founder-and-ceo-at-heven-drones\">https://newhydrogen.com/videos/ceo-podcast/bentzion-levinson-founder-and-ceo-at-heven-drones.</a></p>"
+            ],
+            [
+                "<p>For more information about NewHydrogen, please visit <a href=\"https://newhydrogen.com/\">https://newhydrogen.com/</a></p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "69",
         'title' => "NewHydrogen CEO Steve Hill Discusses the Need for Technological Advancements for Green Hydrogen Production with Rice University Expert ",
         'date' => "August 13, 2024",
