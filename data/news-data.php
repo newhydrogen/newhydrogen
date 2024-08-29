@@ -3,6 +3,59 @@
 
 $news = [
     [
+        'id' => "71",
+        'title' => "NewHydrogen Reports Progress in Developing Cost-Effective Green Hydrogen Technology",
+        'date' => "August 28, 2024",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), provided an update on its breakthrough ThermoLoop™ technology, which uses water and heat rather than electricity to produce the world’s cheapest green hydrogen. The company shared progress on its collaboration with the University of California Santa Barbara (UCSB) in developing ThermoLoop™",
+        'description' => [
+            [
+                "<p><strong>Collaboration with UC Santa Barbara marks key progress in reducing hydrogen production costs with innovative ThermoLoop™ technology</strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (August 28, 2024) — NewHydrogen, Inc. (OTCMKTS:NEWH), provided an update on its breakthrough ThermoLoop™ technology, which uses water and heat rather than electricity to produce the world’s cheapest green hydrogen. The company shared progress on its collaboration with the University of California Santa Barbara (UCSB) in developing ThermoLoop™.  </p>"
+            ],
+            [
+                "<p>The prevailing method for producing green hydrogen is to split water into oxygen and hydrogen with an electrolyzer using green electricity produced from solar or wind, which is expensive and contributes approximately 73% of the total production cost.  </p>"
+            ],
+            [
+                "<p>“In collaboration with UC Santa Barbara’s world class research team, we are developing ThermoLoopTM, a novel low-cost thermochemical process that uses inexpensive heat, instead of costly electricity to split water,” said Steve Hill, CEO of NewHydrogen. “Existing thermochemical approaches require extremely high temperatures (around 2,000°C), or an inefficient multi-step process. Our goal with ThermoLoopTM is to achieve an efficient, chemical looping redox process that operates under 1000°C.”  </p>"
+            ],
+            [
+                "<p><strong>Since the project’s inception in August 2023, the UCSB team has made significant strides, including: </strong> </p>"
+            ],
+            [
+                "<ul class=\"theme-list-news\">
+                    <li><strong>Designing and building a reactor test stand</strong> that has successfully generated hydrogen and oxygen from water using a thermochemical reaction cycle, allowing for performance testing of synthesized materials under varying conditions.</li>
+
+                    <li><strong>Conducting thermodynamic screenings</strong> to identify and select promising new candidate materials and reaction conditions, with research to understand hydrogen and oxygen generation mechanisms and the effects on material structures.</li>
+
+                    <li><strong>Validating the foundational science</strong> behind ThermoLoop™ by synthesizing and testing materials cited in key publications, testing to demonstrate repeated cycles of hydrogen and oxygen production, and disproving certain claims from prior research publications.</li>
+
+                    <li><strong>Identifying key co-reactants</strong> that provide driving forces to enable water splitting under 1000°C and with small temperature differentials between hydrogen and oxygen production steps.</li>
+                </ul>"
+            ],
+            [
+                "<p><strong>Looking ahead, the team plans to:</strong>  </p>"
+            ],
+            [
+                "<p><ul class=\"theme-list-news\">
+                    <li><strong>Explore novel material systems</strong> for thermochemical cycles to enhance hydrogen production efficiency while minimizing the temperature difference between hydrogen and oxygen generation. </li>
+
+                    <li><strong>Upgrade the experimental test stand</strong> to allow higher throughput screening of materials and broaden the search for optimal candidates.</li>
+
+                    <li><strong>Develop a conceptual process model</strong> for a technoeconomic analysis (TEA) of the water splitting process, incorporating material cost data and reaction kinetics to estimate hydrogen production costs at scale.</li>
+
+                    <li><strong>Select the</strong> material compositions that optimize performance, reduce energy input, and lower operating temperatures, thereby significantly reducing green hydrogen production costs.</li>
+                </ul> </p>"
+            ],
+            [
+                "<p>Mr. Hill concluded, “We are very pleased with the UCSB team’s progress and their methodical approach in developing a cost-effective thermochemical process for producing green hydrogen. Their efforts are pivotal in achieving our goal of delivering the world’s cheapest green hydrogen.” </p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "70",
         'title' => "NewHydrogen CEO Steve Hill and CEO of Hydrogen-Powered Drone Manufacturer Discuss Hydrogen Applications in Aerial Technology ",
         'date' => "August 27, 2024",
