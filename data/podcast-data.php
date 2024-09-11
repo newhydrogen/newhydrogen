@@ -49,6 +49,14 @@ $videos = [
         "display" => true
     ],
     [
+        'title' => "Dr. Walter Van Schalkwijk",
+        'videoID' => "D3O2groa2Q8",
+        'date' => "September 10, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "dr-walter-van-schalkwijk",
+        "display" => true
+    ],
+    [
         'title' => "Bentzion Levinson - Founder & CEO at Heven Drones",
         'videoID' => "vlEElKc9IiA",
         'date' => "August 27, 2024",
@@ -87,14 +95,6 @@ $videos = [
         'date' => "July 17, 2024",
         'category' => "ceo-podcast",
         'slug' => "alexander-dowling-associate-professor-notre-dame",
-        "display" => false
-    ],
-    [
-        'title' => "Dr. Walter Van Schalkwijk",
-        'videoID' => "D3O2groa2Q8",
-        'date' => "July 15, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "dr-walter-van-schalkwijk",
         "display" => false
     ],
     [

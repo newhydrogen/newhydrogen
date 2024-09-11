@@ -3,6 +3,43 @@
 
 $news = [
     [
+        'id' => "72",
+        'title' => "NewHydrogen’s CEO and University of Washington Energy Expert Explore Thermal Approach to Green Hydrogen Production",
+        'date' => "September 10, 2024",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced a podcast featuring CEO Steve Hill and Dr. Walter van Schalkwijk, a renowned battery expert and Northwest leader in lithium-ion battery research and development and an Affiliate Professor of Chemical Engineering at the University of Washington. Dr. van Schalkwijk believes that a thermal approach to hydrogen production is the key to unlocking a sustainable and scalable green energy future. He has been working in the battery field for decades and even helped build the first manufacturable lithium-ion batteries, sees hydrogen as the next big thing, but not through traditional electrolysis methods",
+        'description' => [
+            [
+                "<p><strong>Dr. Walter van Schalkwijk says thermochemical hydrogen production is the key to meeting future energy demands</strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (September 10, 2024) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced a podcast featuring CEO Steve Hill and Dr. Walter van Schalkwijk, a renowned battery expert and Northwest leader in lithium-ion battery research and development and an Affiliate Professor of Chemical Engineering at the University of Washington. Dr. van Schalkwijk believes that a thermal approach to hydrogen production is the key to unlocking a sustainable and scalable green energy future. He has been working in the battery field for decades and even helped build the first manufacturable lithium-ion batteries, sees hydrogen as the next big thing, but not through traditional electrolysis methods. </p>"
+            ],
+            [
+                "<p>“You’re not going to invent a light bulb by making incremental improvements to the candle, and you’re not going to make large enough volumes of hydrogen by doing incremental changes to electrolyzers,” Dr. van Schalkwijk stated during a recent podcast. “This is a new approach; this is the only kind of thing that can be sustainable and produce large volumes of hydrogen is doing this thermally.” He points to the high energy consumption and reliance on rare earth materials in current electrolysis methods, estimating that only 10% of energy needs could be met using these techniques.   </p>"
+            ],
+            [
+                "<p>His vision for the future involves a more localized approach, with hydrogen production happening in individual homes or even businesses. He suggests that sand, a readily available and inexpensive material, could be heated using excess solar energy to generate hydrogen.  </p>"
+            ],
+            [
+                "<p>“If you had a small silo about 2 meters high and a meter in diameter and you filled it with something incredibly cheap like sand… you can heat up that sand and sand will melt at over a range between 1500 and 1650 degrees C,” he explained. “That heated sand becomes an opportunity to generate hydrogen locally, right in your own driveway.” </p>"
+            ],
+            [
+                "<p>This decentralized approach, Dr. van Schalkwijk believes, could offer a way to bypass dependence on imported energy sources and create a more resilient energy infrastructure.  It would also provide a more sustainable alternative to the current battery technology which relies on energy-intensive mining practices and the use of rare earth materials.  </p>"
+            ],
+            [
+                "<p>“The key to it is being able to get past the energy-intensive use of resources to just produce energy,” he concluded.  “It needs a new way to make that hydrogen.”</p>"
+            ],
+            [
+                "<p>Dr. Walter van Schalkwijk is a Northwest leader and consultant in the lithium-ion battery research and development community and an Affiliate Professor of Chemical Engineering at the University of Washington with extensive research supporting advanced batteries for the tech industry, power sources for mobile and wearable technologies and electrochemical devices that enable reliable operation of data center infrastructure. He has been under contract as Microsoft’s “Principal Battery Scientist” since 2016 and is also under contract to Duracell Corporation as a battery manufacturing specialist. Dr. van Schalkwijk’s edited volume, “Advances in Lithium-Ion Batteries”, is one of the foundational books for the field. In addition to papers and patents in battery technology, he also has patents in the field of kidney dialysis with local company, Advanced Renal Technologies. </p>"
+            ],
+            [
+                "<p>Watch the full discussion on the NewHydrogen Podcast featuring Dr. Walter van Schalkwijk at <a href='https://newhydrogen.com/videos/ceo-podcast/dr-walter-van-schalkwijk' target='_blank'>Dr Walter Van Schalkwijk | Newhydrogen</a> </p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "71",
         'title' => "NewHydrogen Reports Progress in Developing Cost-Effective Green Hydrogen Technology",
         'date' => "August 28, 2024",
