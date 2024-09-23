@@ -65,6 +65,14 @@ $videos = [
         "display" => true
     ],
     [
+        'title' => "Professor William Scheideler - Dartmouth College",
+        'videoID' => "NdFlZwYGp64",
+        'date' => "September 24, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "professor-william-scheideler-dartmouth-college",
+        "display" => true
+    ],
+    [
         'title' => "Dr. Walter Van Schalkwijk",
         'videoID' => "D3O2groa2Q8",
         'date' => "September 10, 2024",
@@ -95,16 +103,7 @@ $videos = [
         'category' => "ceo-podcast",
         'slug' => "professor-hristopher-p-cadou-phd-university-of-maryland",
         "display" => false
-    ],
-    [
-        'title' => "Professor William Scheideler - Dartmouth College",
-        'videoID' => "NdFlZwYGp64",
-        'date' => "July 24, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "professor-william-scheideler-dartmouth-college",
-        "display" => false
-    ],
- 
+    ], 
     [
         'title' => "Alexander Dowling - Associate Professor- Notre Dame",
         'videoID' => "V2DR9daV1oA",
