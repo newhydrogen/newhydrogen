@@ -3,6 +3,40 @@
 
 $news = [
     [
+        'id' => "73",
+        'title' => "New Hydrogen CEO Steve Hill and Dartmouth Energy Expert Discuss Scalable Nanomanufacturing and 2D Materials for Energy Applications",
+        'date' => "September 24, 2024",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced a podcast featuring CEO Steve Hill and Dr. William Scheideler, Associate Professor at Dartmouth College’s Thayer School of Engineering, on scalable nanomanufacturing and 3D materials for energy applications, Perovskite solar cells, green hydrogen generation through electrocatalysis, and hydrogen energy storage",
+        'description' => [
+            [
+                "<p><strong>Dr. William Scheideler elaborates on Perovskite solar cells and green hydrogen generation through electrocatalysts</strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (September 24, 2024) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced a podcast featuring CEO Steve Hill and Dr. William Scheideler, Associate Professor at Dartmouth College’s Thayer School of Engineering, on scalable nanomanufacturing and 3D materials for energy applications, Perovskite solar cells, green hydrogen generation through electrocatalysis, and hydrogen energy storage. </p>"
+            ],
+            [
+                "<p>Dr. Scheideler briefly introduced the work being done at his research group. Perovskite solar cells are a new breed of ultra-thin, lightweight solar cells that can be manufactured using printing techniques, offering the potential for low cost and high efficiency. His research group is developing earth-abundant materials for electrocatalysis, aiming to replace expensive platinum and iridium oxide catalysts used in water electrolysis. Dr. Scheideler said, “We are somewhere in between the basic science and the applied sciences, and in terms of energy, we work on two major renewable energy topics: Perovskite solar cells and the generation of green hydrogen through electrocatalysis and water splitting.”  </p>"
+            ],
+            [
+                "<p>Hydrogen is presented as a promising solution for storing intermittent renewable energy, offering an alternative to battery storage and pumped hydro systems. Regarding hydrogen production cost of $1/kg, an aggressive target set by the United States Department of Energy, Dr. Scheideler said, “We should use earth abundant materials that may be little bit less active, but can be much more commercially viable. Our approach is to create an ordered structure so that the hydrogen and oxygen bubbles can work their way through in a systematic way rather than a random way thus increase the efficiency.” </p>"
+            ],
+            [
+                "<p>As for the storage of energy, Dr. Scheideler said, “Batteries are still too expensive to really compete at scale. Hydrogen is a better approach especially if you have times of the day where you have excess energy generation from renewable energy including wind and solar.”  </p>"
+            ],
+            [
+                "<p>Dr. William Scheideler graduated with BSE degrees in electrical engineering and biomedical engineering from Duke University, and a PhD in electrical engineering from UC Berkeley. He then worked as a postdoctoral scholar in the Department of Materials Science & Engineering at Stanford University. His research focuses on developing new materials and nanomanufacturing methods for high-performance printed and flexible devices, including low-power sensors and energy harvesting for hybrid electronics.  </p>"
+            ],
+            [
+                "<p>Dr. Scheideler is listed as Google Scholar at <a href=\"https://scholar.google.com/citations?user=OvFn77MAAAAJ\" target='_blank'>https://scholar.google.com/citations?user=OvFn77MAAAAJ</a>.</p>"
+            ],
+            [
+                "<p>Watch the full discussion on the NewHydrogen Podcast featuring  <a href='https://newhydrogen.com/videos/ceo-podcast/professor-william-scheideler-dartmouth-college' target='_blank'>Dr. William Scheideler at Professor William Scheideler Dartmouth College | Newhydrogen</a>. </p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "72",
         'title' => "NewHydrogen’s CEO and University of Washington Energy Expert Explore Thermal Approach to Green Hydrogen Production",
         'date' => "September 10, 2024",
