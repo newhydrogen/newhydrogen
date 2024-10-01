@@ -3,6 +3,37 @@
 
 $news = [
     [
+        'id' => "74",
+        'title' => "NewHydrogen CEO Steve Hill Welcomes Dr. Yikyeom Kim to NewHydrogen Team to Help Drive ThermoLoop™ Innovation",
+        'date' => "October 1, 2024",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced that Dr. Yikyeom Kim recently joined the UCSB Technology Team to help with the development of the Company’s cost-effective  thermochemical water splitting technology",
+        'description' => [
+            [
+                "<p><strong>Dr. Kim brings his expertise in fabrication of tailored redox catalysts and system analysis of gas-solid reactions</strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (October 1, 2024) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced that Dr. Yikyeom Kim recently joined the UCSB Technology Team to help with the development of the Company’s cost-effective  thermochemical water splitting technology. </p>"
+            ],
+            [
+                "<p>Dr. Kim will join Dr. Philip Christopher and Dr. Eric McFarland at the University of California, Santa Barbara, to advance cost-effective, entropy-driven thermochemical water splitting. He has published several papers related to the redox reactions of metal oxides in key scientific journals and participated in collaborative research on chemical looping hydrogen production as part of the Engineering Research Center (ERC) program funded by the National Research Foundation (NRF) of Korea. He also collaborated with LOTTE Chemical Corp. to utilize waste plastic resources for hydrogen production.</p>"
+            ],
+            [
+                "<p>“We are excited to welcome Dr. Kim to our team and expect him to have an immediate impact by strengthening our technology development activities,” said Steve Hill, CEO of NewHydrogen. “His expertise in the fabrication of tailored redox catalysts and system analysis of gas-solid reactions will accelerate the development of entropy-driven thermochemical processes. We are confident that his addition to our UCSB team will bring us one step closer to achieving our corporate objectives.” </p>"
+            ],
+            [
+                "<p>Before joining the team, Dr. Kim conducted his doctoral research at the Korea Advanced Institute of Science and Technology (KAIST) under the supervision of Dr. Jae W. Lee, focusing on perovskite oxides for chemical looping hydrogen production. He holds a B.S. in Chemical Engineering from Yonsei University and an M.S. and Ph.D. in Chemical Engineering from KAIST.   </p>"
+            ],
+            [
+                "<p>“I am very excited and eager to address one of the most important energy challenges of our generation -- the scalable production of green hydrogen -- alongside the expert team already assembled at UCSB. The ThermoLoop™ process is fundamentally different approach compared to the traditional steam-iron process and I look forward to bringing my experience in fabrication of tailored redox catalysts and gas-solid system behind the team's work to enable further strides in identifying ideal materials for the ThermoLoop™ process.”  </p>"
+            ],
+            [
+                "<p>NewHydrogen is currently funding a sponsored research program at the University of California, Santa Barbara (“UCSB”), to develop its ThermoLoopTM technology, a novel low-cost thermochemical process to split water using inexpensive heat, instead of expensive electricity. Since the commencement of the Company’s research project in August 2023, the UCSB team has been methodically developing the Company’s ThermoLoopTM technology around unique materials that use heat to produce hydrogen and oxygen when reacted in a cyclic process with water vapor. </p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "73",
         'title' => "New Hydrogen CEO Steve Hill and Dartmouth Energy Expert Discuss Scalable Nanomanufacturing and 2D Materials for Energy Applications",
         'date' => "September 24, 2024",
