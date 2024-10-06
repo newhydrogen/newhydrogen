@@ -1,4 +1,10 @@
 @media (max-width:1440px) {
+    .navbar .navbar-nav.rightNav{
+        margin-left: 20px;
+    }
+    .navbar .navbar-nav{
+        gap: 20px;
+    }
     .banner-content {
         padding-top: 35px;
     }
