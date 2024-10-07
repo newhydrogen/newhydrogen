@@ -81,6 +81,14 @@ $videos = [
         "display" => true
     ],
     [
+        'title' => "Alexander Dowling - Associate Professor- Notre Dame",
+        'videoID' => "V2DR9daV1oA",
+        'date' => "October 8, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "alexander-dowling-associate-professor-notre-dame",
+        "display" => true
+    ],
+    [
         'title' => "Professor William Scheideler - Dartmouth College",
         'videoID' => "NdFlZwYGp64",
         'date' => "September 24, 2024",
@@ -120,14 +128,6 @@ $videos = [
         'slug' => "professor-hristopher-p-cadou-phd-university-of-maryland",
         "display" => false
     ], 
-    [
-        'title' => "Alexander Dowling - Associate Professor- Notre Dame",
-        'videoID' => "V2DR9daV1oA",
-        'date' => "July 17, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "alexander-dowling-associate-professor-notre-dame",
-        "display" => false
-    ],
     [
         'title' => "July 29, 2024 - NewHydrogen News Commentary",
         'videoID' => "WQdvFZw9ktg",

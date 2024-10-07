@@ -3,6 +3,43 @@
 
 $news = [
     [
+        'id' => "75",
+        'title' => "New Hydrogen CEO Steve Hill and Notre Dame Hydrogen Expert Explore Hybrid Energy Systems",
+        'date' => "October 8, 2024",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced a podcast featuring CEO Steve Hill and Dr. Alex Dowling, Associate Professor of Chemical and Biomedical Engineering at the University of Notre Dame, on the latest Hydrogen Experts Podcast. Dowling's research focuses on leveraging systems engineering, including multiscale modeling, computing, machine learning, and data science, to address sustainable energy transitions",
+        'description' => [
+            [
+                "<p><strong>Dr. Alex Dowling shares innovations in co-producing hydrogen and electricity for a resilient energy future</strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (October 8, 2024) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced a podcast featuring CEO Steve Hill and Dr. Alex Dowling, Associate Professor of Chemical and Biomedical Engineering at the University of Notre Dame, on the latest Hydrogen Experts Podcast. Dowling's research focuses on leveraging systems engineering, including multiscale modeling, computing, machine learning, and data science, to address sustainable energy transitions. </p>"
+            ],
+            [
+                "<p>Dr. Dowling discussed hybrid energy systems that co-produce hydrogen and electricity, integrating these systems with the broader U.S. energy infrastructure. He said, “Hybrid systems combine multiple energy technologies, such as batteries with wind farms, to achieve more desirable properties than each component separately.”</p>"
+            ],
+            [
+                "<p>Currently, Dowling's work involves hybridizing renewables with storage and solid oxide fuel cells (SOFCs) to co-produce electricity and hydrogen. He highlighted a Department of Energy-sponsored project where a nuclear power plant's base load is supplemented by an on-site electrolyzer, producing hydrogen for the plant's needs and offering flexibility to the grid. </p>"
+            ],
+            [
+                "<p>Dr. Dowling further emphasized the importance of flexible energy systems to balance the increasing variability introduced by renewable energy sources. He noted that these systems could provide significant economic and operational benefits by participating in electricity markets, enhancing grid resilience. “These systems offer a way to leverage existing infrastructure and create new opportunities for innovation,” he says. “I believe we’ll see a growing trend toward these systems in the coming years, driven by market incentives and a growing need for more resilient energy infrastructure.” </p>"
+            ],
+            [
+                "<p>In closing, Dr. Dowling shared his optimism about the future of hybrid energy systems, citing market incentives for early adopters and the critical need for innovative energy solutions. Mr. Hill and Dr. Dowling agreed on the urgency of advancing these technologies to ensure a stable and efficient energy infrastructure. </p>"
+            ],
+            [
+                "<p>Dr. Alex Dowling is an Associate Professor of Chemical and Biomolecular Engineering at the University of Notre Dame. His research applies leveraged systems engineering, such as multiscale modeling, computing, machine learning, and data science for a wide range of challenges related to sustainable energy transitions. </p>"
+            ],
+            [
+                "<p>Dr. Dowling is listed as Google Scholar at <a href=\"https://scholar.google.com/citations?user=fDiIhvAAAAAJ&hl=en\" target='_blank'>https://scholar.google.com/citations?user=fDiIhvAAAAAJ&hl=en</a>.</p>"
+            ],
+            [
+                "<p>Watch the full discussion on the NewHydrogen Podcast featuring Dr. Alex Dowling at <a href='https://newhydrogen.com/videos/ceo-podcast/alexander-dowling-associate-professor-notre-dame' target='_blank'>https://newhydrogen.com/videos/ceo-podcast/alexander-dowling-associate-professor-notre-dame</a>. </p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "74",
         'title' => "NewHydrogen CEO Steve Hill Welcomes Dr. Yikyeom Kim to NewHydrogen Team to Help Drive ThermoLoop™ Innovation",
         'date' => "October 1, 2024",
