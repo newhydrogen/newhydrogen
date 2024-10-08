@@ -1,4 +1,10 @@
 @media (max-width:1440px) {
+    .navbar .navbar-nav.rightNav{
+        margin-left: 20px;
+    }
+    .navbar .navbar-nav{
+        gap: 20px;
+    }
     .banner-content {
         padding-top: 35px;
     }
@@ -289,7 +295,7 @@
         /* Note: backdrop-filter has minimal browser support */
         background: #ffffff;
         position: absolute;
-        top: 79px;
+        top: 52px;
         width: 100%;
         // border-radius: 9px;
         left: 0;
