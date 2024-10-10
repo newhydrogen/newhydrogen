@@ -439,7 +439,18 @@ include('header.php'); ?>
                 </div>
 
             </div>
+            <div class="ucsb-team-content">
+                <div class="ucsb-team-face">
+                    <img src="./assets/img/yikyeom.png" style="object-position: 100% 20%;" alt="team">
+                </div>
+                <div class="ucsb-team-text">
+                    <h5>YiKyeom Kim, PhD</h5>
+                    <ul class="dot-list">
+                        <li>Research Scientist</li>
+                    </ul>
+                </div>
 
+            </div>
         </div>
     </div>
 </section>

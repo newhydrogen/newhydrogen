@@ -187,6 +187,16 @@ include('header.php'); ?>
                             <h5>Research Scientist</h5>
                         </div>
                     </div>
+                    <div class="col-md-4">
+                        <div class="about-box mx-auto">
+                            <div class="about-box-face">
+                                <img src="./assets/img/yikyeom.png" class="w-100 h-100 object-fit-cover" style="object-position: 100% 20%;" alt="team">
+                            </div>
+                            <h6>YiKyeom Kim, PhD</h6>
+                            <span>UCSB</span>
+                            <h5>Research Scientist</h5>
+                        </div>
+                    </div>
                     <!-- <div class="divider"></div>
                     <div class="col-md-4">
                         <div class="about-box mx-md-auto">
