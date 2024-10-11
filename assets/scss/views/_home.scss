@@ -4018,6 +4018,8 @@
 
             &-face {
                 max-width: 150px;
+                height: 150px;
+                overflow: hidden;
                 margin: auto;
                 margin-bottom: 10px;
             }
@@ -5204,6 +5206,11 @@
         width: 127px;
         height: 127px;
         flex: 0 0 auto;
+        img{
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
     }
 
     &-text {
