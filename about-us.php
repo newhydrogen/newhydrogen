@@ -162,7 +162,7 @@ include('header.php'); ?>
                             <div class="about-box-face">
                                 <img src="./assets/img/philip.png" alt="team">
                             </div>
-                            <h6>Dr. Phillip Christopher</h6>
+                            <h6>Phillip Christopher, PhD</h6>
                             <span>UCSB</span>
                             <h5>Principal Investigator</h5>
                         </div>
@@ -172,7 +172,7 @@ include('header.php'); ?>
                             <div class="about-box-face">
                                 <img src="./assets/img/erix.png" alt="team">
                             </div>
-                            <h6>Dr. Eric McFarland</h6>
+                            <h6>Eric McFarland, PhD</h6>
                             <span>UCSB</span>
                             <h5>Co-Principal Investigator</h5>
                         </div>
@@ -182,7 +182,7 @@ include('header.php'); ?>
                             <div class="about-box-face">
                                 <img src="./assets/img/justin-marlowe.png" alt="team">
                             </div>
-                            <h6>Dr. Justin Marlowe</h6>
+                            <h6>Justin Marlowe, PhD</h6>
                             <span>UCSB</span>
                             <h5>Research Scientist</h5>
                         </div>
