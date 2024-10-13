@@ -111,7 +111,7 @@ include('header.php'); ?>
                         <img src="./assets/img/building-heating.svg" alt="building-heating">
                     </div>
                     <span>
-                        Buildings <br> Heating
+                        Heating
                     </span>
                 </a>
             </div>
@@ -437,7 +437,7 @@ include('header.php'); ?>
                             energy-density-per-unit mass that is three times higher than traditional jet fuel. One specific
                             challenge is how to store hydrogen on board the aircraft. Today, liquid hydrogen storage is
                             among the most promising options, while storing hydrogen as compressed gas poses challenges with
-                            current aircraft weight and volume requirements1
+                            current aircraft weight and volume requirements.
                         </p>
                     </div>
                 </div>
@@ -640,7 +640,7 @@ include('header.php'); ?>
                 </div>
                 <div class="app-modal-text">
                     <div class="app-modal-text-scroll">
-                        <h4>Buildings Heating</h4>
+                        <h4>Heating</h4>
                         <p>
                             Green hydrogen can help building heating by blending it into the existing distribution system. It will help to decarbonize the existing gas networks and is expected to heat approximately 800 homes, as well as providing pure and blended hydrogen for use in vehicles.
                         </p>
@@ -671,7 +671,7 @@ include('header.php'); ?>
                     <div class="app-modal-text-scroll">
                         <h4>Fertilizers</h4>
                         <p>
-                            Green hydrogen can help building heating by blending it into the existing distribution system. It will help to decarbonize the existing gas networks and is expected to heat approximately 800 homes, as well as providing pure and blended hydrogen for use in vehicles.
+                        Green hydrogen can be used in fertilizer production by replacing fossil fuels like natural gas in the Haber-Bosch process, which is the primary method for creating ammonia, a key component of most synthetic fertilizers; this allows for the creation of "green ammonia" with significantly reduced carbon emissions, making the fertilizer production process much more sustainable
                         </p>
                     </div>
                 </div>

@@ -271,7 +271,7 @@ include('header.php'); ?>
                                 inputs are heat and water. This will be a novel, first of its kind,
                                 high efficiency thermochemical water-splitter that uses low
                                 cost common materials and common industrial temperatures of
-                                less than 1,000oC, to potentially produce the world’s cheapest green hydrogen.</p>
+                                less than 1,000<sup>o</sup>C, to potentially produce the world’s cheapest green hydrogen.</p>
                         </div>
                     </div>
                 </div>
@@ -401,7 +401,7 @@ include('header.php'); ?>
                     <img src="./assets/img/philip.png" alt="team">
                 </div>
                 <div class="ucsb-team-text">
-                    <h5>Philip Christopher, PhD.</h5>
+                    <h5>Phillip Christopher, PhD.</h5>
                     <ul class="dot-list">
                         <li>Chair of Sustainable Manufacturing, Sustainable Materials and Product Design Initiative,
                             University of California, Santa Barbara</li>
@@ -493,7 +493,7 @@ include('header.php'); ?>
     <div class="dis-eliminates">
         <div class="container">
             <div class="dis-eliminates-box">
-                <p>NewHydrogen Aims to Eliminates the Need for <br> Electricity and Clean Water</p>
+                <p>NewHydrogen’s ThermoLoop™ would eliminate <br> the need for electricity and clean water</p>
             </div>
         </div>
     </div>
