@@ -233,7 +233,7 @@ include('header.php'); ?>
                         <img src="./assets/img/building-heating.svg" alt="building-heating">
                     </div>
                     <span>
-                        Buildings <br> Heating
+                      Heating
                     </span>
                 </a>
             </div>
@@ -671,7 +671,7 @@ include('header.php'); ?>
                     <div class="app-modal-text-scroll">
                         <h4>Fertilizers</h4>
                         <p>
-                        Green hydrogen can be used in fertilizer production by replacing fossil fuels like natural gas in the Haber-Bosch process, which is the primary method for creating ammonia, a key component of most synthetic fertilizers; this allows for the creation of "green ammonia" with significantly reduced carbon emissions, making the fertilizer production process much more sustainable
+                        Green hydrogen can be used in fertilizer production by replacing fossil fuels like natural gas in the Haber-Bosch process, which is the primary method for creating ammonia, a key component of most synthetic fertilizers; this allows for the creation of "green ammonia" with significantly reduced carbon emissions, making the fertilizer production process much more sustainable.
                         </p>
                     </div>
                 </div>
