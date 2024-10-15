@@ -129,7 +129,9 @@
 
     <!-- Hedaer -->
     <header class="header-top">
-        <?php if ($page_name != "3reasons.php") { ?>
+        <?php if ($page_name != "3reasons.php") { 
+            if($page_name != "stickybartest.php"){
+            ?>
             <div class="invest-bar">
                 <div class="container">
                     <div class="invest-bar-content">
@@ -149,7 +151,27 @@
                     </div>
                 </div>
             </div>
-        <?php } ?>
+            <?php } else { ?>
+            <div class="invest-bar dark-invest-bar">
+                <div class="container">
+                    <div class="invest-bar-content">
+                        <div class="invest-bar-text">
+                            <div class="invest-bar-text-wrap">
+                                <p>Stock Symbol: NEWH</p>
+                                <a href="/investors">
+                                    Learn more
+                                </a>
+                            </div>
+                        </div>
+                        <div class="tSocial d-none d-lg-flex">
+                            <a href="https://www.facebook.com/NewHydrogen/" target="_blank" rel="noopener noreferrer"><i class="fab fa-facebook-square"></i></a>
+                            <a href="https://www.instagram.com/newhydrogen/" target="_blank" rel="noopener noreferrer"><i class="fab fa-instagram"></i></a>
+                            <a href="https://www.youtube.com/@NewHydrogenEnergy" target="_blank" rel="noopener noreferrer"><i class="fab fa-youtube"></i></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        <?php } } ?>
 
         <nav class="navbar navbar-expand-lg navbar-dark">
             <div class="container">

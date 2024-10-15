@@ -642,7 +642,7 @@ include('header.php'); ?>
                     <div class="app-modal-text-scroll">
                         <h4>Heating</h4>
                         <p>
-                            Green hydrogen can help building heating by blending it into the existing distribution system. It will help to decarbonize the existing gas networks and is expected to heat approximately 800 homes, as well as providing pure and blended hydrogen for use in vehicles.
+                        Green hydrogen can be used as a clean fuel source to generate heat in boilers, similar to natural gas, effectively decarbonizing heating systems by burning hydrogen instead of fossil fuels, potentially through blending hydrogen with existing natural gas in existing infrastructure, or by utilizing dedicated hydrogen boilers for pure hydrogen combustion; it can also be used in fuel cells to produce electricity for powering electric heat pumps within an HVAC system.
                         </p>
                     </div>
                 </div>

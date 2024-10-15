@@ -82,6 +82,20 @@
             font-size: 20px;
         }
     }
+    
+}
+.dark-invest-bar{
+    background: #000;
+    .invest-bar-text p {
+        color: #4fe653;
+    }    
+    .invest-bar-text a{
+        background: #4fe653;
+        color: #000;
+    }
+    .tSocial a{
+        color: #4fe653;
+    }
 }
 
 .navbar {
