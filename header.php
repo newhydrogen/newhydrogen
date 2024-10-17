@@ -130,7 +130,7 @@
     <!-- Hedaer -->
     <header class="header-top">
         <?php if ($page_name != "3reasons.php") { 
-            if($page_name != "stickybartest.php"){
+            if($page_name != "stickybartest.php" && $page_name != "applicationsblacksticky.php"){
             ?>
             <div class="invest-bar">
                 <div class="container">

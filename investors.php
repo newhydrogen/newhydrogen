@@ -225,16 +225,8 @@ include('header.php'); ?>
                                     </h2>
                                     <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            <p>Worldwide Stock Transfer, LLC <br>
-
-                                                One University PlazaSuite 505<br>
-
-                                                Hackensack, NJ 07601<br>
-
-                                                Tel (201) 820-2008<br>
-
-                                                URL : www.worldwidestocktransfer.com<br>
-
+                                            <p>ClearTrust, LLC <br> 16540 Pointe Village Dr, Suite 210, Lutz, FL 33558 <br> Phone: (813)235-4490 <br>Email: <a href="mailto:inbox@cleartrusttransfer.com">inbox@cleartrusttransfer.com</a> <br> Web: <a href="www.cleartrustonline.com" target="_blank" rel="noopener noreferrer">www.cleartrustonline.com</a> <br><br></p>
+                                            <p>
                                                 Our transfer agent can help with a variety of shareholder-related services. If you own shares through a brokerage firm account, you should contact your broker first for information about your account and requests for a stock certificate.</p>
                                         </div>
                                     </div>
@@ -271,19 +263,19 @@ include('header.php'); ?>
                                     </h2>
                                     <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#accordionExample">
                                         <div class="accordion-body">
-                                            <p>When selling shares from physical certificates bearing a restrictive legend or Computershare Restricted Transaction Statements, a legal opinion from the company’s SEC counsel is required. Your broker should be able to handle everything for you. The company’s SEC counsel is: <br>
+                                            <p>When selling shares from physical certificates bearing a restrictive legend or Computershare Restricted Transaction Statements, a legal opinion from the company’s SEC counsel is required. Your broker should be able to handle everything for you. The company’s SEC counsel is: <br> <br>
 
-                                                <strong>Sichenzia Ross Ference LLP</strong> <br>
+                                                Sichenzia Ross Ference Carmel LLP <br>
 
-                                                David Manno, Esq. <br>
+                                                <strong>Marcelle S. Balcombe, Partner</strong> <br>
 
-                                                1185 Avenue of the Americas, 37th Floor <br>
+                                                1185 Avenue of the Americas, 31<sup>st</sup> floor <br>
 
                                                 New York, NY 10036 <br>
 
-                                                F: 212-930-9725 <br>
+                                                T: (212)930-9700 ext. 184 <br>
 
-                                                Email: dmanno@srf.law
+                                                <a href="mbalcombe@srfc.law" target="_blank" rel="noopener noreferrer">mbalcombe@srfc.law</a> | <a href="www.srfc.law" target="_blank" rel="noopener noreferrer">www.srfc.law</a>
                                             </p>
                                         </div>
                                     </div>
