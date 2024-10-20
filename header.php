@@ -105,14 +105,13 @@
     <!-- End Meta Pixel Code -->
 
 
-    
+
 </head>
 
 <body class="<?php
                 $page_name = basename($_SERVER['PHP_SELF']);
                 if ($page_name == "index.php" || $page_name == "" || $page_name == "/") {
                 ?>homeC<?php } ?>
-                <?php if ($page_name == "applications.php") { ?> nav_darkk<?php } ?>
                 <?php if ($page_name == "investors.php") { ?> investPage<?php } ?>
                 <?php if ($page_name == "3reasons.php") { ?> investPage<?php } ?>">
 
@@ -130,7 +129,7 @@
     <!-- Hedaer -->
     <header class="header-top">
         <?php if ($page_name != "3reasons.php") { ?>
-            <div class="invest-bar">
+            <div class="invest-bar dark-invest-bar">
                 <div class="container">
                     <div class="invest-bar-content">
                         <div class="invest-bar-text">

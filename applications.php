@@ -233,7 +233,7 @@ include('header.php'); ?>
                         <img src="./assets/img/building-heating.svg" alt="building-heating">
                     </div>
                     <span>
-                        Buildings <br> Heating
+                      Heating
                     </span>
                 </a>
             </div>
@@ -642,7 +642,7 @@ include('header.php'); ?>
                     <div class="app-modal-text-scroll">
                         <h4>Heating</h4>
                         <p>
-                            Green hydrogen can help building heating by blending it into the existing distribution system. It will help to decarbonize the existing gas networks and is expected to heat approximately 800 homes, as well as providing pure and blended hydrogen for use in vehicles.
+                        Green hydrogen can be used as a clean fuel source to generate heat in boilers, similar to natural gas, effectively decarbonizing heating systems by burning hydrogen instead of fossil fuels, potentially through blending hydrogen with existing natural gas in existing infrastructure, or by utilizing dedicated hydrogen boilers for pure hydrogen combustion; it can also be used in fuel cells to produce electricity for powering electric heat pumps within an HVAC system.
                         </p>
                     </div>
                 </div>
@@ -671,7 +671,7 @@ include('header.php'); ?>
                     <div class="app-modal-text-scroll">
                         <h4>Fertilizers</h4>
                         <p>
-                        Green hydrogen can be used in fertilizer production by replacing fossil fuels like natural gas in the Haber-Bosch process, which is the primary method for creating ammonia, a key component of most synthetic fertilizers; this allows for the creation of "green ammonia" with significantly reduced carbon emissions, making the fertilizer production process much more sustainable
+                        Green hydrogen can be used in fertilizer production by replacing fossil fuels like natural gas in the Haber-Bosch process, which is the primary method for creating ammonia, a key component of most synthetic fertilizers; this allows for the creation of "green ammonia" with significantly reduced carbon emissions, making the fertilizer production process much more sustainable.
                         </p>
                     </div>
                 </div>
