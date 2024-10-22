@@ -97,6 +97,14 @@ $videos = [
         "display" => true
     ],
     [
+        'title' => "Professor Christopher P. Cadou, Ph.D. - University of Maryland",
+        'videoID' => "jKvUwfnWe8s",
+        'date' => "October 22, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "professor-hristopher-p-cadou-phd-university-of-maryland",
+        "display" => true
+    ], 
+    [
         'title' => "Alexander Dowling - Associate Professor- Notre Dame",
         'videoID' => "V2DR9daV1oA",
         'date' => "October 8, 2024",
@@ -136,14 +144,6 @@ $videos = [
         'slug' => "dr-haotian-wang-rice-university",
         "display" => true
     ],
-    [
-        'title' => "Professor Christopher P. Cadou, Ph.D. - University of Maryland",
-        'videoID' => "jKvUwfnWe8s",
-        'date' => "July 29, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "professor-hristopher-p-cadou-phd-university-of-maryland",
-        "display" => false
-    ], 
     [
         'title' => "July 29, 2024 - NewHydrogen News Commentary",
         'videoID' => "WQdvFZw9ktg",

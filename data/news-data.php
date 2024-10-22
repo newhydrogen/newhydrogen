@@ -3,6 +3,53 @@
 
 $news = [
     [
+        'id' => "76",
+        'title' => "NewHydrogen CEO Steve Hill and University of Maryland Energy Expert Explore Hydrogen as an Energy Source",
+        'date' => "October 22, 2024",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced a recent episode of the NewHydrogen Podcast. CEO Steve Hill explored hydrogen’s potential with Dr. Christopher Cadou, a Keystone Professor in the University of Maryland's  A. James Clark School of Engineering",
+        'description' => [
+            [
+                "<p><strong>Dr. Christopher Cadou highlights the potential benefits and the challenges of using hydrogen for aviation, the concept of drop-in replacements for fossil fuels</strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (October 22, 2024) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced a recent episode of the NewHydrogen Podcast. CEO Steve Hill explored hydrogen’s potential with Dr. Christopher Cadou, a Keystone Professor in the University of Maryland's  A. James Clark School of Engineering.  </p>"
+            ],
+            [
+                "<p>This podcast covered fuel cells, hydrogen’s role in aviation, and the future of decarbonization. Dr. Cadou explained fuel cells’ operation, comparing them to combustion reactions. He highlighted hydrogen’s efficiency but noted challenges in aviation due to low energy density. He emphasized using existing infrastructure for hydrogen based synthetic fuels to reduce carbon emissions and cost.</p>"
+            ],
+            [
+                "<p>Dr. Cadou explained how fuel cells work, comparing them to combustion reactions and emphasizing the role of ions and catalysts. Dr. Cadou remarked, “a fuel cell works on the transport of ions that is the opposite of an electrolysis where we put energy in, but in a fuel cell we extract energy out.” He added, “Using hydrogen to power long distance flights might not be viable due to hydrogen's low energy density at normal temperatures and pressures.”  </p>"
+            ],
+            [
+                "<p>On synthetic hydrocarbons, Dr. Cadou said, “Using existing infrastructure for fuel delivery and storage may be more cost effective with synthetic fuels,” emphasizing the importance of defossilization rather than just decarbonization and highlighting the potential of hydrogen-sourced synthetic hydrocarbons as a carbon-neutral energy carrier. “Partnerships focused on carbon capture and utilization, along with hydrogen production, could create a more sustainable energy future.” </p>"
+            ],
+            [
+                "<p>Christopher Cadou received the BS. in Mechanical Engineering and the B.A. in History from
+                    Cornell University in 1989. He subsequently received the M.S. and PhD. Degrees in
+                    Mechanical Engineering from UCLA in 1991 and 1996 respectively. Dr. Cadou’s early
+                    research focused on the thermophysical issues underlying and often limiting the
+                    miniaturization of combustion-based power systems. He developed a variety of analytical
+                    models and numerical simulations that have significantly advanced our understanding of
+                    flame stabilization in micro-channels, unique non-intrusive diagnostic techniques for
+                    measuring temperature and species concentrations in micro-scale flows, and the development
+                    of a unique miniature engine testing facility. He has since expanded into other areas including
+                    film cooling in supersonic environments, the development of non-intrusive diagnostic
+                    techniques for supersonic environments and miniature piston engine combustion chambers,
+                    compact, hybrid piezo-fluid actuators for aerospace applications, pulsejet engines, and most
+                    recently fuel cell-gas turbine hybridization for aerospace applications. Dr. Cadou is a member
+                    of the Combustion Institute, the American Society of Mechanical Engineers, an Associate
+                    Fellow of the American Institute of Aeronautics and Astronautics, and Fellow of the American
+                    Society of Mechanical Engineers.
+                    </p>"
+            ],
+            [
+                "<p>Watch the full discussion on the NewHydrogen Podcast featuring Dr. Christopher Cadou at  <a href='https://newhydrogen.com/videos/ceo-podcast/professor-hristopher-p-cadou-phd-university-of-maryland' target='_blank'>https://newhydrogen.com/videos/ceo-podcast/professor-hristopher-p-cadou-phd-university-of-maryland</a>. </p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "75",
         'title' => "New Hydrogen CEO Steve Hill and Notre Dame Hydrogen Expert Explore Hybrid Energy Systems",
         'date' => "October 8, 2024",
@@ -224,7 +271,7 @@ $news = [
             [
                 "<p>Bentzion Levinson, a former Israeli Military commander and Stanford University Executive Leadership alum, founded Heven Drones in 2019 with a vision to create an actionable drone ecosystem that optimizes various industries. His commitment to driving meaningful change through technology is evident in his leadership of a national project in Israel, where he guided an expert team in detecting and extinguishing agricultural fires that were devastating farms. Heven Drones aims to revolutionize sectors such as emergency response, smart cities, agriculture, logistics, construction, defense, and species conservation, showcasing Ben's dedication to leveraging innovative solutions for wide-ranging applications. </p>"
             ],
-            
+
             [
                 "<p>Watch the full discussion on the NewHydrogen Podcast featuring Bentzion Levinson at <a href=\"https://newhydrogen.com/videos/ceo-podcast/bentzion-levinson-founder-and-ceo-at-heven-drones\">https://newhydrogen.com/videos/ceo-podcast/bentzion-levinson-founder-and-ceo-at-heven-drones.</a></p>"
             ],
@@ -259,7 +306,7 @@ $news = [
             [
                 "<p>Dr. Haotian Wang received his PhD degree in the Department of Applied Physics at Stanford University in 2016, after which he received the Rowland Fellowship and began his independent research career at Harvard as a principal investigator. He was awarded the Sloan Fellow, Packard Fellow, CIFAR Azrieli Global Scholar, Forbes 30 Under 30, highly cited researchers, etc. He serves as the associate editor of Nano Letters. He is the co-founder and chief scientist of Solidec, a carbon capture and chemicals and fuels production company. His research group has been focused on developing novel nanomaterials for energy and environmental applications including energy storage, chemical/fuel generation, and water treatment. Dr. Wang is listed as Google Scholar at <a href=\"https://scholar.google.com/citations?user=dC4j6AMAAAAJ&hl=en\" target=\"_blank\">https://scholar.google.com/citations?user=dC4j6AMAAAAJ&hl=en</a> </p>"
             ],
-            
+
             [
                 "<p>Watch the full discussion on the NewHydrogen Podcast featuring Dr. Wang at <a href=\"https://newhydrogen.com/videos/ceo-podcast/dr-haotian-wang-rice-university\">https://newhydrogen.com/videos/ceo-podcast/dr-haotian-wang-rice-university.</a></p>"
             ],
