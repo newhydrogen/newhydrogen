@@ -15,13 +15,13 @@ include('header.php'); ?>
         </div>
         <div class="carousel-inner" role="listbox">
             <div class="carousel-item active">
-                <img src="./assets/img/hero-1-new1.jpg" class="d-block w-100" alt="hero">
+                <img src="./assets/img/hero-1-new1.jpg" class="d-block" alt="hero">
             </div>
             <div class="carousel-item">
-                <img src="./assets/img/hero-2.jpg" class="d-block w-100" alt="hero">
+                <img src="./assets/img/hero-2.jpg" class="d-block" alt="hero">
             </div>
             <div class="carousel-item">
-                <img src="./assets/img/hero-3.jpg" class="d-block w-100" alt="hero">
+                <img src="./assets/img/hero-3.jpg" class="d-block" alt="hero">
             </div>
         </div>
     </div>
