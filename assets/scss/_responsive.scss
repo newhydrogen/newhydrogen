@@ -1,3 +1,12 @@
+@media (min-width: 1601px) {
+    .banner .carousel-item img{
+        width: auto;
+        margin: 0 auto;
+    }
+    .banner .carousel-indicators{
+        display: none;
+    }
+}
 @media (max-width:1440px) {
     .navbar .navbar-nav.rightNav{
         margin-left: 20px;
