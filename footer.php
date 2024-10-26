@@ -12,19 +12,16 @@ if ($domain === 'localhost' || $domain === '127.0.0.1') {
 }
 
 ?>
-
 <footer>
     <div class="container">
         <div class="footer-wrap">
             <div class="footer-newsletter" id="fNewsletter">
                 <h4>Be the first to know when we reach new milestones in our tech development</h4>
-                <!-- <form action="./php/subscriber.php" method="POST" autocomplete="off">
-                    <input type="email" name="email" id="email" placeholder="Email" class="form-control">
+                <form id="jotformForm" action="https://submit.jotform.com/submit/242986385047065/" method="POST" method="POST" autocomplete="off">
+                    <input type="hidden" name="formID" value="242986385047065">
+                    <input type="email" name="q3_email" id="input_3" placeholder="Email" class="form-control">
                     <button class="theme-btn" type="submit">Subscribe</button>
-                </form> -->
-                <div id="icontactSignupFormWrapper128">
-                    <script type="text/javascript" async src="https://app.icontact.com/icp/core/mycontacts/signup/designer/form/automatic?id=128&cid=122131&lid=1647&divid=icontactSignupFormWrapper128"></script>
-                </div>
+                </form>
             </div>
 
             <div class="footer-logo">
