@@ -105,6 +105,14 @@ $videos = [
         "display" => true
     ],
     [
+        'title' => "Jackson Ewing, PhD - Duke University",
+        'videoID' => "KxsFlAaOreM",
+        'date' => "August 12, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "jackson-ewing-phd-duke-university",
+        "display" => false
+    ], 
+    [
         'title' => "Professor Christopher P. Cadou, Ph.D. - University of Maryland",
         'videoID' => "jKvUwfnWe8s",
         'date' => "October 22, 2024",
