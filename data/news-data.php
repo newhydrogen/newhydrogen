@@ -3,6 +3,41 @@
 
 $news = [
     [
+        'id' => "77",
+        'title' => "New Hydrogen CEO Steve Hill and Duke University Energy Policy Expert Discuss the Challenges and Opportunities of the Hydrogen Sector in the United States",
+        'date' => "November 5, 2024",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced a podcast featuring CEO Steve Hill and Dr. Jackson Ewing, Director of Energy and Climate Policy at Duke University",
+        'description' => [
+            [
+                "<p><strong>Dr. Jackson Ewing emphasizes the need for a robust policy framework to incentivize green hydrogen production and adoption</strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (November 5, 2024) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced a podcast featuring CEO Steve Hill and Dr. Jackson Ewing, Director of Energy and Climate Policy at Duke University.</p>"
+            ],
+            [
+                "<p>Dr. Ewing highlighted the ‘Catch-22’ dynamic in the hydrogen sector, where the lack of demand hinders investment in supply, and vice versa. He emphasized the need for a comprehensive approach, including incentives, infrastructure development, and market mechanisms to address this challenge. Promising demand drivers for hydrogen were identified, such as ammonia, long-haul trucking, and industrial processes, where green hydrogen could replace traditional fossil fuels.  </p>"
+            ],
+            [
+                "<p>As an advocate for policy interventions, Dr. Ewing discusses the importance ofproduction tax credits, , permitting reform, carbon pricing mechanisms, and low-carbon fuel standards to accelerate green hydrogen adoption. He argues that the hydrogen sector has the potential to thrive under various political climates, stressing the need for a robust and durable policy framework to ensure long-term investment and growth. </p>"
+            ],
+            [
+                "<p>Dr. Ewing emphasized for the importance of bipartisan support and collaboration in developing a vibrant green hydrogen sector, recognizing its significance for national energy security and climate goals.” </p>"
+            ],
+            [
+                "<p>Dr. Jackson Ewing holds a doctorate in environmental security and master's degree in international relations from Australia’s Bond University, and a bachelor’s degree in political science from the College of Charleston. He is currently director of energy and climate policy at the Nicholas Institute of Energy, Environment & Sustainability at Duke University. He holds additional appointments as an adjunct associate professor at the Nicholas School of the Environment, a faculty affiliate with the Duke Center for International Development at the Sanford School of Public Policy and the Duke Asian/Pacific Studies Center, and faculty lead for the Duke Kunshan University International Masters of Environmental Policy program. Dr. Ewing’s work seeks to help facilitate energy transitions internationally and in the United States. His current projects focus on international climate finance and just energy transition partnerships, systems-level changes needed to meet net-zero goals in the United States, international carbon pricing and clubs, and US-China climate relations. He has worked in more than 20 countries, and collaborates closely with actors in government, the private sector, civil society, and international organizations. He publishes widely and contributes to radio, television, and print media. Prior to joining Duke, Dr. Ewing was director of Asian Sustainability at the Asia Society Policy Institute in New York, where he led projects on Asian carbon market cooperation and sustainable resource development in the ASEAN Economic Community. He also previously served as a MacArthur Non-Traditional Security Fellow for Environment, Climate Change and Food Security at Singapore’s S. Rajaratnam School of International Studies. 
+                    </p>"
+            ],
+            [
+                "<p>Dr. Ewing is listed as Google Scholar at <a href='https://scholar.google.com/citations?user=E4bAXpMAAAAJ' target='_blank'>https://scholar.google.com/citations?user=E4bAXpMAAAAJ</a>. </p>"
+            ],
+            [
+                "<p>Watch the full discussion on the NewHydrogen Podcast featuring Dr. Jackson Ewing at  <a href='https://newhydrogen.com/videos/ceo-podcast/jackson-ewing-phd-duke-university' target='_blank'>https://newhydrogen.com/videos/ceo-podcast/jackson-ewing-phd-duke-university</a>. </p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "76",
         'title' => "NewHydrogen CEO Steve Hill and University of Maryland Energy Expert Explore Hydrogen as an Energy Source",
         'date' => "October 22, 2024",
