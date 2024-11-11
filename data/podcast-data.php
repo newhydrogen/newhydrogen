@@ -121,6 +121,14 @@ $videos = [
         "display" => true
     ],
     [
+        'title' => "Dr. Christopher Niezrecki - University of Massachusetts Lowell",
+        'videoID' => "eW7Da8LT1z0",
+        'date' => "November 11, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "dr-christopher-niezrecki-university-of-massachusetts-lowell",
+        "display" => false
+    ],
+    [
         'title' => "Jackson Ewing, PhD - Duke University",
         'videoID' => "KxsFlAaOreM",
         'date' => "November 5, 2024",
