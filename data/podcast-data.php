@@ -121,6 +121,14 @@ $videos = [
         "display" => true
     ],
     [
+        'title' => " Dr. Kaushik Rajashekara - University of Houston",
+        'videoID' => "_EURlwFIYQA",
+        'date' => "November 11, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "dr-kaushik-rajashekara-university-of-houston",
+        "display" => false
+    ],
+    [
         'title' => "Dr. Christopher Niezrecki - University of Massachusetts Lowell",
         'videoID' => "eW7Da8LT1z0",
         'date' => "November 11, 2024",
