@@ -123,10 +123,10 @@ $videos = [
     [
         'title' => " Dr. Kaushik Rajashekara - University of Houston",
         'videoID' => "_EURlwFIYQA",
-        'date' => "November 11, 2024",
+        'date' => "November 19, 2024",
         'category' => "ceo-podcast",
         'slug' => "dr-kaushik-rajashekara-university-of-houston",
-        "display" => false
+        "display" => true
     ],
     [
         'title' => "Dr. Christopher Niezrecki - University of Massachusetts Lowell",

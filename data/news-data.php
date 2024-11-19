@@ -3,6 +3,41 @@
 
 $news = [
     [
+        'id' => "78",
+        'title' => "New Hydrogen CEO Steve Hill and University of Houston Expert Discuss Hydrogen Adoption and Current State of Hydrogen Vehicles",
+        'date' => "November 19, 2024",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced a podcast featuring CEO Steve Hill and Dr. Kaushik Rajashekara, a Distinguished Professor of Engineering at the University of Houston",
+        'description' => [
+            [
+                "<p><strong>Dr. Kaushik Rajashekara shares his experience in electric and hybrid propulsion systems stemming from his career at General Motors and Rolls-Royce</strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (November 19, 2024) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced a podcast featuring CEO Steve Hill and Dr. Kaushik Rajashekara, a Distinguished Professor of Engineering at the University of Houston.</p>"
+            ],
+            [
+                "<p>Dr. Rajashekara discusses his early work at GM in the late 1980s on electric vehicles, transitioning technology from prototype to production, particularly focusing on the EV1, and his involvement in fuel cell technology, including developing the first gasoline reformer-based fuel cell vehicle and the shift towards using hydrogen fuel cells without onboard reformers. He also briefly touches on his work on solid oxide fuel cells for Rolls-Royce, focusing on power generation rather than propulsion.  </p>"
+            ],
+            [
+                "<p>On the challenges in hydrogen adoption, Dr. Rajashekara addresses the \"chicken and egg\" problem of fuel cell vehicle infrastructure versus vehicle availability, noting slow progress due to high costs and lack of refueling stations. He believes that hydrogen fuel cells are better suited for heavy-duty vehicles like buses, trucks, and ships, while battery electric vehicles are more efficient for passenger transport. </p>"
+            ],
+            [
+                "<p>Dr. Rajashekara also outlines potential applications of hydrogen in aviation, including the Joby aircraft's use of hydrogen power, and emphasizes the advantages of hydrogen over batteries in aircraft due to quicker refueling and lighter weight for larger distances.</p>"
+            ],
+            [
+                "<p>
+He concludes with optimism about hydrogen's role in sustainable transportation, particularly for heavy-duty and aviation applications, while recognizing challenges in passenger vehicle markets.</p>"
+            ],
+            [
+                "<p>Dr. Kaushik Rajashekara received a Ph.D. in Electrical Engineering from Indian Institute of Science, Bangalore. He is currently a Distinguished Professor of Engineering at the University of Houston. He previously held many positions including a Distinguished Professor of Engineering at the University of Texas at Dallas, and Chief Technologist for Electric Power & Control Systems at Rolls-Royce Corporation. Dr. Rajashekara is a recipient of 2022 Global Energy Prize for outstanding contributions to transportation electrification and energy efficiency technologies while reducing power generation emissions, a Member of the U.S. National Academy of Engineering (NAE) for contributions to electric power conversion systems in transportation. His research interests include power electronics and drive systems, subsea electrical systems, transportation electrification, electric, hybrid, and fuel cell vehicle, electric and hybrid electric aircraft, and flying cars, renewable energy and microgrids. Dr. Rajashekara is listed as Google Scholar at  <a href='https://scholar.google.com/citations?user=jTeEpS0AAAAJ' target='_blank'>Kaushik Rajashekara - Google Scholar</a>. </p>"
+            ],
+            [
+                "<p>Watch the full discussion on the NewHydrogen Podcast featuring Dr. Kaushik Rajashekara at  <a href='https://newhydrogen.com/videos/ceo-podcast/dr-kaushik-rajashekara-university-of-houston' target='_blank'>https://newhydrogen.com/videos/ceo-podcast/dr-kaushik-rajashekara-university-of-houston</a>. </p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "77",
         'title' => "New Hydrogen CEO Steve Hill and Duke University Energy Policy Expert Discuss the Challenges and Opportunities of the Hydrogen Sector in the United States",
         'date' => "November 5, 2024",
