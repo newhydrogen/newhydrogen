@@ -3,6 +3,37 @@
 
 $news = [
     [
+        'id' => "79",
+        'title' => "New Hydrogen CEO Steve Hill and University of Massachusetts Expert Discuss Intersection Between Hydrogen and Wind Energy",
+        'date' => "December 3, 2024",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced a podcast featuring CEO Steve Hill and Dr. Christopher Niezrecki, a Distinguished University Professor of Mechanical Engineering at the University of Massachusetts, Lowel",
+        'description' => [
+            [
+                "<p><strong>Dr. Christopher Niezrecki shares his experience in structural health monitoring for wind energy generation systems and energy resilience</strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (December 3, 2024) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced a podcast featuring CEO Steve Hill and Dr. Christopher Niezrecki, a Distinguished University Professor of Mechanical Engineering at the University of Massachusetts, Lowel.</p>"
+            ],
+            [
+                "<p>Exploring the intersection between hydrogen and wind energy.  Dr. Niezrecki said, “One of the important topics is the intermittence of the wind energy. Wind and solar are both intermittent sources of energy, and we need to have longer term storage for later use which is not short term such as lithium-ion battery. Hydrogen is a fundamental element that can be turned into many different products, and stored hydrogen can be used as fuel, fertilizer, and plastics.” </p>"
+            ],
+            [
+                "<p>On the importance of structural health monitoring, Dr. Niezrecki explained that the purpose of structural health monitoring is to monitor and confirm if the structure is in a healthy state. Dr. Niezrecki said, “It is important to monitor and assess the operation of large expensive assets such as wind turbines to detect need for maintenance to enable preventive measures. Wind turbines are usually multi-million dollar assets, and identifying issues before they become a catastrophic failure is essential.”  </p>"
+            ],
+            [
+                "<p>Mr. Hill and Dr. Niezrecki then touched on the energy resilience, especially on the topic of withstanding the demand of long-term use. As for the energy resilience for wind energy, Dr. Niezrecki said, “Threats can come from physical, cyber, weather, environment, and many others. Engineers and scientists have been looking into the topic of energy resilience over the years, but wind energy is a relatively young industry thus is on a steep learning curve. We have a program that focuses on energy resilience for the Navy, but there are many parallels between civilian and Navy applications. </p>"
+            ],
+            [
+                "<p>Dr. Christopher Niezrecki received a Ph.D. in Mechanical Engineering from Virginia Tech. He is currently a Distinguished University Professor in the Department of Mechanical Engineering at the University of Massachusetts, Lowel. He is Director of the Center for Energy Innovation, Co-director of Structural Dynamics & Acoustic Systems Laboratory; Co-director of the Rist Institute for Sustainability and Energy. Dr. Niezrecki’s primary research includes renewable energy systems, wind turbine dynamics, structural health monitoring and inspection, structural dynamic and acoustic systems, bio-acoustics, manatee detection, parachute systems, smart structures, digital image correlation, signal processing, and smart materials. His goals include expanding the global use of renewable energy, developing technologies that can impact the 1.1 billion people in the world who do not have access to electricity, and advancing sensing technologies to measure and monitor structural systems. He has more than 200 publications. Dr. Niezrecki is listed as Google Scholar at <a href='https://scholar.google.com/citations?user=bdmF58cAAAAJ&hl=en' target='_blank'>https://scholar.google.com/citations?user=bdmF58cAAAAJ&hl=en</a>. </p>"
+            ],
+            [
+                "<p>Watch the full discussion on the NewHydrogen Podcast featuring Dr. Christopher Niezrecki at  <a href='https://newhydrogen.com/videos/ceo-podcast/dr-christopher-niezrecki-university-of-massachusetts-lowell' target='_blank'>https://newhydrogen.com/videos/ceo-podcast/dr-christopher-niezrecki-university-of-massachusetts-lowell</a>. </p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "78",
         'title' => "New Hydrogen CEO Steve Hill and University of Houston Expert Discuss Hydrogen Adoption and Current State of Hydrogen Vehicles",
         'date' => "November 19, 2024",
