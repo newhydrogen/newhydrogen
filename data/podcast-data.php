@@ -137,6 +137,14 @@ $videos = [
         "display" => true
     ],
     [
+        [
+            'title' => "Dr. Christopher Niezrecki - University of Massachusetts Lowell",
+            'videoID' => "eW7Da8LT1z0",
+            'date' => "December 3, 2024",
+            'category' => "ceo-podcast",
+            'slug' => "dr-christopher-niezrecki-university-of-massachusetts-lowell",
+            "display" => true
+        ],
         'title' => " Dr. Kaushik Rajashekara - University of Houston",
         'videoID' => "_EURlwFIYQA",
         'date' => "November 19, 2024",
@@ -326,14 +334,6 @@ $videos = [
         'date' => "",
         'category' => "news-commentary",
         'slug' => "april-8-2024-newhydrogen-news-commentary",
-        "display" => true
-    ],
-    [
-        'title' => "Dr. Christopher Niezrecki - University of Massachusetts Lowell",
-        'videoID' => "eW7Da8LT1z0",
-        'date' => "December 3, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "dr-christopher-niezrecki-university-of-massachusetts-lowell",
         "display" => true
     ],
     [
