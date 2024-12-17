@@ -3,6 +3,37 @@
 
 $news = [
     [
+        'id' => "80",
+        'title' => "New Hydrogen CEO Steve Hill and University of Michigan Expert Discuss Energy Infrastructure Coordination and Data Security",
+        'date' => "December 17, 2024",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced a podcast featuring CEO Steve Hill and Dr. Vladimir Dvorkin, Assistant Professor of Electrical Engineering and Computer Science at the University of Michigan",
+        'description' => [
+            [
+                "<p><strong>Dr. Vladimir Dvorkin shares his experience in coordinating critical infrastructures such as power grid with data centers, safeguarding energy data privacy, and evolving role of AI </strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (December 17, 2024) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced a podcast featuring CEO Steve Hill and Dr. Vladimir Dvorkin, Assistant Professor of Electrical Engineering and Computer Science at the University of Michigan.</p>"
+            ],
+            [
+                "<p>As for coordinating infrastructure like power grid and data centers, Dr. Dvorkin said, “Data centers are newly emerging pieces of infrastructure to have a huge impact on power grid. Electrical load can rapidly change due to sudden change of power drawn from AI processing requirements. Further, emission requirements at various locations may dictate which data centers should take the heavy load at a given time. It is fortunate that we can change training algorithms for AI loads to minimize the electricity consumption at data centers depending on what algorithms are being used.  We can think of this as smoothing the load profile of disruptive electrical loads with minimum impact on performance since electricity availability is less dependent on locations than that of natural gas.”  </p>"
+            ],
+            [
+                "<p>On data security for public safety, Dr. Dvorkin said, “Data can be very proprietary and very sensitive since electric power system is a nationally critical infrastructure. We have some models of the grid, but the secrecy of certain information makes it difficult to manage. That is where modern technology of differential privacy and optimization kicks in. The technology allows us to synthesize actual power grids without disclosing too much information. It is a game of trade on how much information you want to reveal in order to fine-tune your trading strategy versus how much resilient system you want. </p>"
+            ],
+            [
+                "<p>On the challenges of integrating AI with our critical infrastructure, Dr. Dvorkin said, “Data center owners like Google, Microsoft, Amazon need to know projected demand and how much power supply they will need in the long term. Recently the deal between Microsoft and Three Miles Power Plant is an example of this coordination so they anticipate demand and secure supply up to 20 years ahead. For a short term, Google talks to local power companies to accommodate peak load and smooth out data center profile during peak hours to minimize stress on the grid.  Also, a power plant may suddenly lose power, and we need the flexibility to accommodate the loss of generation.”   </p>"
+            ],
+            [
+                "<p>Dr. Vladimir Dvorkin received a Ph.D. in Electrical Engineering from the Technical University of Denmark. He is currently an Assistant Professor in the Department of Electrical Engineering and Computer Science at the University of Michigan. Before joining University of Michigan, Dr. Vladimir was with the Laboratory for Information and Decision Systems (LIDS) and Energy Initiative of the Massachusetts Institute of Technology as a MSCA postdoctoral fellow. He leads the ⏻ptiML group, where they harness the power of optimization and machine learning to address the grand challenges of transitioning to digital and carbon-free power and energy systems. Dr. Dvorkin is listed as a Google Scholar at <a href='https://scholar.google.com/citations?user=9ao-vfIAAAAJ' target='_blank'>Vladimir Dvorkin - Google Scholar</a>. </p>"
+            ],
+            [
+                "<p>Watch the full discussion on the NewHydrogen Podcast featuring Dr. Vladimir Dvorkin at <a href='https://newhydrogen.com/videos/ceo-podcast/vladimir-dvorkin-university-of-michigan' target='_blank'>https://newhydrogen.com/videos/ceo-podcast/vladimir-dvorkin-university-of-michigan</a>. </p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "79",
         'title' => "New Hydrogen CEO Steve Hill and University of Massachusetts Expert Discuss Intersection Between Hydrogen and Wind Energy",
         'date' => "December 3, 2024",

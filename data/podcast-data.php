@@ -153,6 +153,14 @@ $videos = [
         "display" => true
     ],
     [
+        'title' => "Vladimir Dvorkin - University of Michigan",
+        'videoID' => "sRo0eiPf3-c",
+        'date' => "December 18, 2024",
+        'category' => "ceo-podcast",
+        'slug' => "vladimir-dvorkin-university-of-michigan",
+        "display" => false
+    ],
+    [
         'title' => "Dr. Christopher Niezrecki - University of Massachusetts Lowell",
         'videoID' => "eW7Da8LT1z0",
         'date' => "December 3, 2024",
