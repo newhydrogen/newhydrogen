@@ -5970,3 +5970,10 @@
     width: 155px;
     margin: auto;
 }
+.captcha-field{
+    padding: 32px 0 0;
+    .form-label{
+        font-size: 14px;
+        color: #000;
+    }
+}
