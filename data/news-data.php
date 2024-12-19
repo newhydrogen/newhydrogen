@@ -5,14 +5,14 @@ $news = [
     [
         'id' => "80",
         'title' => "New Hydrogen CEO Steve Hill and University of Michigan Expert Discuss Energy Infrastructure Coordination and Data Security",
-        'date' => "December 17, 2024",
+        'date' => "December 18, 2024",
         'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced a podcast featuring CEO Steve Hill and Dr. Vladimir Dvorkin, Assistant Professor of Electrical Engineering and Computer Science at the University of Michigan",
         'description' => [
             [
                 "<p><strong>Dr. Vladimir Dvorkin shares his experience in coordinating critical infrastructures such as power grid with data centers, safeguarding energy data privacy, and evolving role of AI </strong></p>"
             ],
             [
-                "<p>SANTA CLARITA, Calif. (December 17, 2024) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced a podcast featuring CEO Steve Hill and Dr. Vladimir Dvorkin, Assistant Professor of Electrical Engineering and Computer Science at the University of Michigan.</p>"
+                "<p>SANTA CLARITA, Calif. (December 18, 2024) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced a podcast featuring CEO Steve Hill and Dr. Vladimir Dvorkin, Assistant Professor of Electrical Engineering and Computer Science at the University of Michigan.</p>"
             ],
             [
                 "<p>As for coordinating infrastructure like power grid and data centers, Dr. Dvorkin said, “Data centers are newly emerging pieces of infrastructure to have a huge impact on power grid. Electrical load can rapidly change due to sudden change of power drawn from AI processing requirements. Further, emission requirements at various locations may dictate which data centers should take the heavy load at a given time. It is fortunate that we can change training algorithms for AI loads to minimize the electricity consumption at data centers depending on what algorithms are being used.  We can think of this as smoothing the load profile of disruptive electrical loads with minimum impact on performance since electricity availability is less dependent on locations than that of natural gas.”  </p>"
