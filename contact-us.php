@@ -86,16 +86,15 @@ include('header.php'); ?>
             <script>
                 const submitButton = document.getElementById('submitButton');
 
-                // Callback function when hCaptcha is successfully completed
                 function onCaptchaSuccess(token) {
-                    document.getElementById('input_11').value = token; // Set the hidden input value
-                    submitButton.disabled = false; // Enable the submit button
+                    document.getElementById('input_11').value = token;
+                    submitButton.disabled = false; 
                 }
 
                 // Callback function when hCaptcha expires
                 function onCaptchaExpired() {
-                    document.getElementById('input_11').value = ''; // Clear the hidden input value
-                    submitButton.disabled = true; // Disable the submit button
+                    document.getElementById('input_11').value = '';
+                    submitButton.disabled = true;
                 }
             </script>
 

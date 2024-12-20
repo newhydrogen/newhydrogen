@@ -9,7 +9,7 @@ footer {
 }
 
 .footer-newsletter {
-    max-width: 696px;
+    max-width: 645px;
     margin-left: auto;
     margin-right: auto;
 
@@ -47,10 +47,18 @@ footer {
         padding: 12px 17px;
         position: absolute;
         right: 26px;
-        top: 50%;
+        top: 27%;
         transform: translateY(-50%);
         margin-top: 4px;
     }
+    .captcha-field{
+        max-width: 303px;
+        text-align: left;
+        .form-label {
+            color: #fff;
+        }
+    }
+    
 }
 
 .footer-logo {
