@@ -24,4 +24,9 @@
     background-color: #000000;
     color: #fff;
   }
+
+  &[disabled]{
+    opacity: 0.6;
+
+  }
 }
