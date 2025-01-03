@@ -169,6 +169,14 @@ $videos = [
         "display" => true
     ],
     [
+        'title' => "Michael Shafer - President, Board of Directors at Warm Heart Worldwide, Inc.",
+        'videoID' => "hFpDnhwQ8lg",
+        'date' => "January 7, 2025",
+        'category' => "ceo-podcast",
+        'slug' => "michael-shafer-president-boar-of-directors-at-warm-heart-worldwide-inc",
+        "display" => false
+    ],
+    [
         'title' => "Vladimir Dvorkin - University of Michigan",
         'videoID' => "sRo0eiPf3-c",
         'date' => "December 18, 2024",
