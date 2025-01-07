@@ -3,6 +3,43 @@
 
 $news = [
     [
+        'id' => "81",
+        'title' => "NewHydrogen CEO Steve Hill and Rutgers University Expert Focus on Green Hydrogen as a Grassroots Solution for Global Energy Transition",
+        'date' => "January 7, 2025",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced a podcast featuring CEO Steve Hill and Dr. Michael Shafer, a Professor Emeritus of Political Science at Rutgers University and President of the Board of Directors at Warm Heart Worldwide, Inc.",
+        'description' => [
+            [
+                "<p><strong>Dr. Michael Shafer highlighted the unique advantages of on-site green hydrogen production, particularly in regions lacking reliable energy infrastructure</strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (January 7, 2025) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced a podcast featuring CEO Steve Hill and Dr. Michael Shafer, a Professor Emeritus of Political Science at Rutgers University and President of the Board of Directors at Warm Heart Worldwide, Inc.</p>"
+            ],
+            [
+                "<p>Dr. Shafer and Mr. Hill discussed the potential of green hydrogen to revolutionize energy access and sustainability in underserved communities. Dr. Shafer, a seasoned social entrepreneur with decades of experience in sustainable development, highlighted the unique advantages of on-site green hydrogen production, particularly in regions lacking reliable energy infrastructure. </p>"
+            ],
+            [
+                "<p>Dr. Shafer said, “Green hydrogen offers a significant improvement over existing reliance on fossil fuels, especially in areas like Malawi and Burundi where fuel is costly and distribution is a major challenge.  The ability to produce green hydrogen locally eliminates the need for expensive and often unreliable tanker truck transport, ensuring consistent access to energy for transportation and other essential needs.”  He noted that this readily available energy source would significantly impact daily life, improving mobility and economic opportunities for communities.</p>"
+            ],
+            [
+                "<p>The conversation also touched upon the crucial roles of policy and public engagement in facilitating a successful transition to green hydrogen. Dr. Shafer stressed the need for strong governmental support and public awareness campaigns to educate communities about the benefits and applications of this technology. He drew parallels with his experience promoting biochar, highlighting the importance of grassroots initiatives in building demand and fostering adoption. </p>"
+            ],
+            [
+                "<p>While acknowledging the current higher cost of green hydrogen compared to other renewable energy sources like electric vehicles, Dr. Shafer expressed optimism about future innovations that could drastically reduce its price.  He noted that the current focus on electric vehicles may be overlooking the faster refueling potential of hydrogen, which could accelerate the transition in areas with limited grid infrastructure.</p>"
+            ],
+            [
+                "<p>Dr. Shafer also emphasized the critical need to address atmospheric CO2 levels. He advocated for combined strategies, emphasizing green hydrogen's role in halting further emissions as a vital first step towards a sustainable future.  Shafer's experience working with communities in developing countries, coupled with his insights on policy and public engagement, provides a valuable perspective on how green hydrogen can be a catalyst for positive global change.</p>"
+            ],
+            [
+                "<p>Dr. Michael Shafer (B.A. Yale, Ph.D. Harvard), Professor Emeritus of Political Science at Rutgers University and Founder of Warm heart Worldwide, is published widely in foreign policy and international political economy, and has taught at universities around the world. Dr. Shafer is a member of the Council on Foreign Relations and a 21st Century Fellow. With funding from, inter alia, the Department of State and European Union, he has managed higher education reform initiatives in the Baltic states, Central and Eastern Europe, and Lebanon. Dr. Shafer is the founder of Global PACT, an international community development and civic engagement training program. With funding from Ford, Open Society Institute, Prudential and the United States Institute of Peace, he ran Global PACT programs in Brazil, Cambodia, Croatia, South Africa and Thailand. Since 2008 he has devoted himself entirely to Warm Heart. </p>"
+            ],
+            [
+                "<p>Watch the full discussion on the NewHydrogen Podcast featuring Dr. Michael Shafer at  <a href='https://newhydrogen.com/videos/ceo-podcast/michael-shafer-president-boar-of-directors-at-warm-heart-worldwide-inc' target='_blank'>https://newhydrogen.com/videos/ceo-podcast/michael-shafer-president-boar-of-directors-at-warm-heart-worldwide-inc</a>. </p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "80",
         'title' => "New Hydrogen CEO Steve Hill and University of Michigan Expert Discuss Energy Infrastructure Coordination and Data Security",
         'date' => "December 18, 2024",
