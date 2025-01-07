@@ -182,7 +182,7 @@ $videos = [
         'date' => "January 7, 2025",
         'category' => "ceo-podcast",
         'slug' => "michael-shafer-president-boar-of-directors-at-warm-heart-worldwide-inc",
-        "display" => false
+        "display" => true
     ],
     [
         'title' => "Vladimir Dvorkin - University of Michigan",
