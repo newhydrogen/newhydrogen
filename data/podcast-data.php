@@ -177,6 +177,14 @@ $videos = [
         "display" => true
     ],
     [
+        'title' => "Dr. Daniel Kammen - Professor, University of California, Berkeley",
+        'videoID' => "oQ58KSoXw_c",
+        'date' => "January 12, 2025",
+        'category' => "ceo-podcast",
+        'slug' => "dr-daniel-kammen-professor-university-of-california-berkeley",
+        "display" => false
+    ],
+    [
         'title' => "Michael Shafer - President, Board of Directors at Warm Heart Worldwide, Inc.",
         'videoID' => "hFpDnhwQ8lg",
         'date' => "January 7, 2025",
