@@ -15,30 +15,9 @@ include('header.php'); ?>
         <form action="https://submit.jotform.com/submit/250137276726055/" method="POST" autocomplete="off">
             <input type="hidden" name="formID" value="250137276726055">
             <input type="email" id="webinar-email" name="q3_webinaremail" placeholder="Enter email address" required>
-          
-            <div class="form-line captcha-field pt-3 jf-required" data-type="control_captcha" id="id_4"><label class="form-label form-label-top form-label-auto text-white" id="label_4" for="webinar_input" aria-hidden="false"> Please verify that you are human<span class="form-required">*</span> </label>
-                <div id="cid_4" class="form-input-wide jf-required" data-layout="full">
-                    <section data-wrapper-react="true">
-                        <div id="hcaptcha_webinar_input" class="h-captcha" data-siteKey="772f4a50-7161-425e-8cd5-4d7e361ab765" data-callback="hcaptchaCallbackwebinar_input" data-expired-callback="hcaptchaExpiredCallbackwebinar_input"></div><input type="hidden" id="webinar_input" class="hidden validate[required]" name="hcaptcha_visible" required="" />
-                        <script type="text/javascript" src="https://hcaptcha.com/1/api.js"></script>
-                       
-                    </section>
-                </div>
-            </div>
-            <button type="submit" id="webinarSubmitBtn">Sign up!</button>
+         
+            <button type="submit">Sign up!</button>
         </form>
-        <script type="text/javascript">
-               const webinarSubmitBtn = document.getElementById('webinarSubmitBtn');
-               function onCaptchaSuccess(token) {
-                        document.getElementById('webinar_input').value = token;
-                        submitButtonNewsletter.disabled = false;
-                    }
-
-                    function onCaptchaExpired() {
-                        document.getElementById('webinar_input').value = '';
-                        submitButtonNewsletter.disabled = true;
-                    }
-                        </script>
     </div>
 </section>
 
