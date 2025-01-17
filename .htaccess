@@ -6,3 +6,24 @@ RewriteCond %{REQUEST_FILENAME} !-f
 RewriteRule ^videos/ceo-podcast/(.*)$ videos/ceo-podcast/index.php [L,QSA]
 RewriteRule ^videos/news-commentary/(.*)$ videos/news-commentary/index.php [L,QSA]
 RewriteRule ^videos/short-videos/(.*)$ videos/short-videos/index.php [L,QSA]
+
+
+<IfModule mod_headers.c>
+    # Prevent caching for images
+    <FilesMatch "\.(jpg|jpeg|png|gif|svg|ico)$">
+        Header set Cache-Control "no-store, no-cache, must-revalidate, max-age=0"
+        Header set Pragma "no-cache"
+        Header set Expires "0"
+    </FilesMatch>
+    
+    # Prevent caching for CSS and JS
+    <FilesMatch "\.(css|js)$">
+        Header set Cache-Control "no-store, no-cache, must-revalidate, max-age=0"
+        Header set Pragma "no-cache"
+        Header set Expires "0"
+    </FilesMatch>
+
+    <FilesMatch "\.(html|php)$">
+        Header set Cache-Control "no-store, no-cache, must-revalidate, max-age=0"
+    </FilesMatch>
+</IfModule>
