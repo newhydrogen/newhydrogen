@@ -19,8 +19,7 @@ $(function () {
         return path.endsWith("/") ? "index.php" : path.split("/").pop();
     }
     var currentPage = getCurrentPage();
-    // if (allowedPages.includes(currentPage) || isHomepage()) {
-        if (allowedPages) {
+    if (!isHomepage() && allowedPages.includes(currentPage)) {
         var hasSubmitted = localStorage.getItem('emailSubmitted');
         if (!hasSubmitted) {
             setTimeout(function () {
@@ -51,10 +50,10 @@ $(function () {
         });
     }
 
-    // var myModalEl = document.getElementById('investModal')
-    // myModalEl.addEventListener('hide.bs.modal', function (event) {
-    //     $('body').removeClass('no-scroll');
-    // })
+     var myModalEl = document.getElementById('investModal')
+     myModalEl.addEventListener('hide.bs.modal', function (event) {
+         $('body').removeClass('no-scroll');
+     })
 
     $('.popup-youtube').magnificPopup({
         type: 'iframe',
