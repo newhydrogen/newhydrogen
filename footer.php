@@ -80,7 +80,7 @@ if ($domain === 'localhost' || $domain === '127.0.0.1') {
 </footer>
 
 
-<!--<div class="modal invest-modal fade" id="investModal" tabindex="-1" aria-labelledby="investModalLabel" aria-hidden="true" data-bs-backdrop="static">
+<div class="modal invest-modal fade" id="investModal" tabindex="-1" aria-labelledby="investModalLabel" aria-hidden="true" data-bs-backdrop="static">
     <div class="modal-dialog modal-dialog-centered">
         <div class="modal-content">
             <div class="modal-header">
@@ -130,7 +130,7 @@ if ($domain === 'localhost' || $domain === '127.0.0.1') {
             </div>
         </div>
     </div>
-</div>-->
+</div>
 
 
 

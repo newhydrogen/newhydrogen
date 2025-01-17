@@ -10,7 +10,7 @@ $(function () {
     });
 
     // Show newsletter modal for specific 
-    var allowedPages = ["index.php", "investors", "3reasons", "why-thermoloop"];
+    var allowedPages = ["investors", "3reasons", "why-thermoloop"];
     function isHomepage() {
         return window.location.pathname === "/" || window.location.pathname === "/index.php";
     }
@@ -19,14 +19,15 @@ $(function () {
         return path.endsWith("/") ? "index.php" : path.split("/").pop();
     }
     var currentPage = getCurrentPage();
-    if (allowedPages.includes(currentPage) || isHomepage()) {
-        // var hasSubmitted = localStorage.getItem('emailSubmitted');
-        // if (!hasSubmitted) {
-        //     setTimeout(function () {
-        //         $('#investModal').modal('show');
-        //         $('body').addClass('no-scroll');
-        //     }, 5000);
-        // }
+    // if (allowedPages.includes(currentPage) || isHomepage()) {
+        if (allowedPages) {
+        var hasSubmitted = localStorage.getItem('emailSubmitted');
+        if (!hasSubmitted) {
+            setTimeout(function () {
+                $('#investModal').modal('show');
+                $('body').addClass('no-scroll');
+            }, 5000);
+        }
 
         $('#jotformForm').on('submit', function (e) {
             e.preventDefault();
