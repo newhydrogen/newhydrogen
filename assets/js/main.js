@@ -50,10 +50,10 @@ $(function () {
         });
     }
 
-     var myModalEl = document.getElementById('investModal')
-     myModalEl.addEventListener('hide.bs.modal', function (event) {
-        //  $('body').removeClass('no-scroll');
-     })
+    //  var myModalEl = document.getElementById('investModal')
+    //  myModalEl.addEventListener('hide.bs.modal', function (event) {
+    //     //  $('body').removeClass('no-scroll');
+    //  })
 
     $('.popup-youtube').magnificPopup({
         type: 'iframe',
