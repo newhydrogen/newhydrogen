@@ -24,7 +24,7 @@ $(function () {
         if (!hasSubmitted) {
             setTimeout(function () {
                 $('#investModal').modal('show');
-                $('body').addClass('no-scroll');
+                //$('body').addClass('no-scroll');
             }, 5000);
         }
 
@@ -41,7 +41,7 @@ $(function () {
                     $('.invest-alert').fadeIn();
                     setTimeout(function () {
                         $('#investModal').modal('hide');
-                        $('body').removeClass('no-scroll');
+                        // $('body').removeClass('no-scroll');
                     }, 1500);
                 })
                 .fail(function (xhr, status, error) {
@@ -52,7 +52,7 @@ $(function () {
 
      var myModalEl = document.getElementById('investModal')
      myModalEl.addEventListener('hide.bs.modal', function (event) {
-         $('body').removeClass('no-scroll');
+        //  $('body').removeClass('no-scroll');
      })
 
     $('.popup-youtube').magnificPopup({
