@@ -10,7 +10,7 @@ include('header.php'); ?>
         <div class="coming-soon-title">Coming Soon </div>
         <div class="coming-soon-content">NewHydrogen to Reveal the Secret <br class="d-none d-md-inline-block" /> to Its Revolutionary Green Hydrogen Technology
         </div>
-        <p>Signup now to reserve your spot at our upcoming webinar
+        <p>Sign up now to reserve your spot at our upcoming webinar
         </p>
         <form action="https://submit.jotform.com/submit/250137276726055/" method="POST" autocomplete="off">
             <input type="hidden" name="formID" value="250137276726055">
