@@ -10,7 +10,7 @@ $(function () {
     });
 
     // Show newsletter modal for specific 
-    var allowedPages = ["index.php", "investors", "3reasons", "why-thermoloop"];
+    var allowedPages = ["investors", "3reasons", "why-thermoloop"];
     function isHomepage() {
         return window.location.pathname === "/" || window.location.pathname === "/index.php";
     }
@@ -19,12 +19,12 @@ $(function () {
         return path.endsWith("/") ? "index.php" : path.split("/").pop();
     }
     var currentPage = getCurrentPage();
-    if (allowedPages.includes(currentPage) || isHomepage()) {
+    if (!isHomepage() && allowedPages.includes(currentPage)) {
         var hasSubmitted = localStorage.getItem('emailSubmitted');
         if (!hasSubmitted) {
             setTimeout(function () {
                 $('#investModal').modal('show');
-                $('body').addClass('no-scroll');
+                //$('body').addClass('no-scroll');
             }, 5000);
         }
 
@@ -41,7 +41,7 @@ $(function () {
                     $('.invest-alert').fadeIn();
                     setTimeout(function () {
                         $('#investModal').modal('hide');
-                        $('body').removeClass('no-scroll');
+                        // $('body').removeClass('no-scroll');
                     }, 1500);
                 })
                 .fail(function (xhr, status, error) {
@@ -50,10 +50,10 @@ $(function () {
         });
     }
 
-    var myModalEl = document.getElementById('investModal')
-    myModalEl.addEventListener('hide.bs.modal', function (event) {
-        $('body').removeClass('no-scroll');
-    })
+     var myModalEl = document.getElementById('investModal')
+     myModalEl.addEventListener('hide.bs.modal', function (event) {
+        //  $('body').removeClass('no-scroll');
+     })
 
     $('.popup-youtube').magnificPopup({
         type: 'iframe',
