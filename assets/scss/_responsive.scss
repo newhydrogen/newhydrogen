@@ -1264,6 +1264,19 @@
             max-width: 40%;
         }
     }
+    .coming-soon {
+        padding: 70px 0;
+    }
+    .coming-soon-title {
+        font-size: 48px;}
+        .coming-soon-content {
+            font-size: 28px;}
+            .coming-soon p {
+                font-size: 18px;
+            line-height: 1.2;}
+            .coming-soon form{
+                max-width: 370px;
+            }
 }
 
 @media (max-width: 576px) {

@@ -5,6 +5,21 @@ $GLOBALS['keywords'] = "";
 $videos = include "./data/carousel-videos.php";
 include('header.php'); ?>
 
+<section class="coming-soon">
+    <div class="container">
+        <div class="coming-soon-title">Coming Soon </div>
+        <div class="coming-soon-content">NewHydrogen to Reveal the Secret <br class="d-none d-md-inline-block" /> to Its Revolutionary Green Hydrogen Technology
+        </div>
+        <p>Sign up now to reserve your spot at our upcoming webinar
+        </p>
+        <form action="https://submit.jotform.com/submit/250137276726055/" method="POST" autocomplete="off">
+            <input type="hidden" name="formID" value="250137276726055">
+            <input type="email" id="webinar-email" name="q3_webinaremail" placeholder="Enter email address" required>
+         
+            <button type="submit">Sign up!</button>
+        </form>
+    </div>
+</section>
 
 <section class="banner">
     <div id="bannerCarousel" class="carousel slide" data-bs-ride="carousel">
@@ -67,7 +82,7 @@ include('header.php'); ?>
     </div>
     <div class="banner-teams">
         <h5>
-        Working with a World Class Tech Team at
+            Working with a World Class Tech Team at
         </h5>
         <div class="banner-teams-image">
             <!-- <div class="ucla">
@@ -93,25 +108,25 @@ include('header.php'); ?>
                 <div class="nn-abt-wrap">
                     <h2 class="text-lg-center">NewHydrogen is developing <img src="./assets/img/thermoloop-logo.svg" alt="logo"> - a breakthrough technology that uses water and heat instead of electricity to produce the world’s cheapest green hydrogen</h2>
                     <p>Hydrogen is the cleanest and most abundant element in the universe, and we can’t live without it.
-Hydrogen is the key ingredient in making fertilizers needed to grow food for the world. It is also used for
-transportation, refining oil and making steel, glass, pharmaceuticals and more. Unfortunately, most of the
-hydrogen today is made from non-renewable dirty resources such as natural gas, coal and oil.</p>
+                        Hydrogen is the key ingredient in making fertilizers needed to grow food for the world. It is also used for
+                        transportation, refining oil and making steel, glass, pharmaceuticals and more. Unfortunately, most of the
+                        hydrogen today is made from non-renewable dirty resources such as natural gas, coal and oil.</p>
                     <p>
-                    Currently, the most common method of making green hydrogen is to split water into oxygen and hydrogen
-with an electrolyzer using green electricity produced from solar or wind. However, green electricity is and
-always will be very expensive. It currently accounts for 73% of the cost of green hydrogen.
+                        Currently, the most common method of making green hydrogen is to split water into oxygen and hydrogen
+                        with an electrolyzer using green electricity produced from solar or wind. However, green electricity is and
+                        always will be very expensive. It currently accounts for 73% of the cost of green hydrogen.
                     </p>
                     <p>
-                    In most power plants, heat is generated first to run a steam turbine to produce electricity. Therefore, by
-using heat directly we can skip the expensive process of making electricity, and fundamentally lower the
-cost of green hydrogen. Inexpensive heat can be obtained from concentrated solar, geothermal, nuclear
-reactors and industrial waste heat. Working with a team of world-class chemical and materials engineers at UC
-Santa Barbara (UCSB), we are developing a novel low-cost thermochemical process to split water using heat, instead of
-electricity.
+                        In most power plants, heat is generated first to run a steam turbine to produce electricity. Therefore, by
+                        using heat directly we can skip the expensive process of making electricity, and fundamentally lower the
+                        cost of green hydrogen. Inexpensive heat can be obtained from concentrated solar, geothermal, nuclear
+                        reactors and industrial waste heat. Working with a team of world-class chemical and materials engineers at UC
+                        Santa Barbara (UCSB), we are developing a novel low-cost thermochemical process to split water using heat, instead of
+                        electricity.
                     </p>
                     <p>
-                    Our mission is to help produce unlimited quantities of the world’s cheapest green hydrogen, and usher in
-the green hydrogen economy that Goldman Sachs estimated to be worth $12 trillion in the near future.
+                        Our mission is to help produce unlimited quantities of the world’s cheapest green hydrogen, and usher in
+                        the green hydrogen economy that Goldman Sachs estimated to be worth $12 trillion in the near future.
                     </p>
                     <a href="breakthrough-tech.php" class="theme-btn">Learn More</a>
                 </div>
@@ -171,11 +186,11 @@ the green hydrogen economy that Goldman Sachs estimated to be worth $12 trillion
                         abundant element in the universe,
                         and we can’t live without it.</h3>
                     <p>Hydrogen is the key ingredient in making fertilizers needed to
-                       grow food for the world. It is also used for transportation,
-                       refining oil and making steel, glass, pharmaceuticals and
-                       more. Unfortunately, most of the hydrogen today is made from
-                       non-renewable dirty resources such as natural gas, coal and
-                       oil.
+                        grow food for the world. It is also used for transportation,
+                        refining oil and making steel, glass, pharmaceuticals and
+                        more. Unfortunately, most of the hydrogen today is made from
+                        non-renewable dirty resources such as natural gas, coal and
+                        oil.
                     </p>
                 </div>
             </div>
