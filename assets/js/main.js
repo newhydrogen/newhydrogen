@@ -20,13 +20,13 @@ $(function () {
     }
     var currentPage = getCurrentPage();
     if (allowedPages.includes(currentPage) || isHomepage()) {
-        var hasSubmitted = localStorage.getItem('emailSubmitted');
-        if (!hasSubmitted) {
-            setTimeout(function () {
-                $('#investModal').modal('show');
-                $('body').addClass('no-scroll');
-            }, 5000);
-        }
+        // var hasSubmitted = localStorage.getItem('emailSubmitted');
+        // if (!hasSubmitted) {
+        //     setTimeout(function () {
+        //         $('#investModal').modal('show');
+        //         $('body').addClass('no-scroll');
+        //     }, 5000);
+        // }
 
         $('#jotformForm').on('submit', function (e) {
             e.preventDefault();
@@ -50,10 +50,10 @@ $(function () {
         });
     }
 
-    var myModalEl = document.getElementById('investModal')
-    myModalEl.addEventListener('hide.bs.modal', function (event) {
-        $('body').removeClass('no-scroll');
-    })
+    // var myModalEl = document.getElementById('investModal')
+    // myModalEl.addEventListener('hide.bs.modal', function (event) {
+    //     $('body').removeClass('no-scroll');
+    // })
 
     $('.popup-youtube').magnificPopup({
         type: 'iframe',
