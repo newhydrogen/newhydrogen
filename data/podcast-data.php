@@ -193,6 +193,14 @@ $videos = [
         "display" => true
     ],
     [
+        'title' => "Claudio A. Canizares, PhD - University of Waterloo",
+        'videoID' => "CsqqfH-OpO4",
+        'date' => "January 19, 2025",
+        'category' => "ceo-podcast",
+        'slug' => "claudio-a-canizares-phd-university-of-waterloo",
+        "display" => false
+    ],
+    [
         'title' => "Dr. Daniel Kammen - Professor, University of California, Berkeley",
         'videoID' => "oQ58KSoXw_c",
         'date' => "January 12, 2025",
