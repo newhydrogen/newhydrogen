@@ -9,20 +9,9 @@ $videos = include "./data/podcast-data.php";
 
 <section class=" xl:pt-[100px] pt-20 pb-[135px]">
     <div class="mx-auto lg:max-w-screen-lg xl:max-w-screen-xl px-2 sm:px-4 ">
-        <div class="relative max-w-[700px] mx-auto text-center">
-            <img src="https://img.youtube.com/vi/9oXYTdFh6Pw/maxresdefault.jpg" alt="">
-            <button class="absolute left-1/2  sm:top-2/4 top-[42%] -translate-x-1/2 -translate-y-1/2">
-                <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" fill="none">
-                    <circle cx="32" cy="32" r="32" fill="#4fe653"></circle>
-                    <path d="M38 32.5L27 39L27 26L38 32.5Z" fill="black"></path>
-                </svg>
-                <a href="/thermoloop-video" class='absolute left-0 top-0 right-0 w-full h-full'></a>
-            </button>
-            <h5 class="mt-6 text-[24px] font-bold ">NewHydrogen Reveals the Key to Its <br>
-                Breakthrough Technology</h5>
-        </div>
+ 
 
-        <div class="mt-[70px] grid grid-cols-1 lg:grid-cols-3 gap-5">
+        <div class="grid grid-cols-1 lg:grid-cols-3 gap-5">
             <div class="relative mb-[32px]">
                 <a href="#news-commentary">
                     <div>
