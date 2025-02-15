@@ -2670,11 +2670,6 @@ html {
   background-color: rgb(0 0 0 / 0.45);
 }
 
-.before\:bg-gardiant::before{
-  content: var(--tw-content);
-  background-image: url(../images/green-gradiant.png);
-}
-
 .before\:bg-gardiant-top::before{
   content: var(--tw-content);
   background-image: url(../images/investor-obj2.png);
