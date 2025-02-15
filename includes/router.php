@@ -16,8 +16,6 @@ if ($host === 'localhost') {
 $requestUri = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
 $path = trim(str_replace($basePath, '', $requestUri), '/');
 
-echo $requestUri;
-
 // Extract path segments
 $pathParts = explode('/', $path);
 $page = $pathParts[0] ?? '';
@@ -31,7 +29,6 @@ $videoCategories = ['news-commentary', 'ceo-podcast', 'short-videos'];
 
 if (strpos($requestUri, 'single-news.php') !== false && isset($_GET['id'])) {
     include __DIR__ . '/../pages/single-news.php';
-    echo "it's testing side, no worries";
     exit;
 }
 
