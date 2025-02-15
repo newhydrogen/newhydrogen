@@ -3,7 +3,7 @@ RewriteEngine On
 # Set the base directory
 # RewriteBase /newhydrogen/
 
-RewriteCond %{REQUEST_URI} !^/single-news\.php$
+# RewriteCond %{REQUEST_URI} !^/single-news\.php$
 
 # Route all requests to index.php
 
