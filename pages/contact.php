@@ -16,44 +16,41 @@
                 <textarea rows="9px" class="w-full text-lg py-[11px] bg-custom-gray-200  text-custom-purple-light-100 pl-6 rounded-[25px] focus-within:outline-0" placeholder="Message" name="q6_message" id="input_6"></textarea>
             </div>
 
-            <div class="form-line captcha-field jf-required my-8 text-left" data-type="control_captcha" id="id_11">
-                    <label class="form-label form-label-top form-label-auto mb-1 text-left" id="label_11" for="input_11" aria-hidden="false"> Please verify that you are human<span class="form-required">*</span></label>
-
-                    <div id="cid_11" class="form-input-wide jf-required" data-layout="full">
-                        <section data-wrapper-react="true">
-                            <div id="hcaptcha_input_11" class="h-captcha"
-                                data-sitekey="772f4a50-7161-425e-8cd5-4d7e361ab765"
-                                data-callback="onCaptchaSuccess"
-                                data-expired-callback="onCaptchaExpired"></div>
-                            <input type="hidden" id="input_11" class="hidden validate[required]" name="hcaptcha_visible" required />
-                            <script type="text/javascript" src="https://hcaptcha.com/1/api.js" async defer></script>
-                        </section>
-                    </div>
+            <div class="form-line jf-required my-8 text-left" data-type="control_captcha" id="id_12"><label class="form-label form-label-top form-label-auto" id="label_12" for="input_12" aria-hidden="false"> Please verify that you are human<span class="form-required">*</span> </label>
+                <div id="cid_12" class="form-input-wide jf-required" data-layout="full">
+                    <section data-wrapper-react="true">
+                        <div id="hcaptcha_input_12" class="h-captcha" data-siteKey="772f4a50-7161-425e-8cd5-4d7e361ab765" data-callback="hcaptchaCallbackinput_12" data-expired-callback="hcaptchaExpiredCallbackinput_12"></div><input type="hidden" id="input_12" class="hidden validate[required]" name="hcaptcha_visible" required="" />
+                        <script type="text/javascript" src="https://hcaptcha.com/1/api.js"></script>
+                        
+                    </section>
                 </div>
+                        </div>
             <button type="submit" id="submitButton" class="text-lg text-black py-[11px] border-black rounded-full border w-full focus-visible:outline-0 font-bold">Send</button>
 
         </form>
 
-        
+
         <script>
                 const submitButton = document.getElementById('submitButton');
 
                 function onCaptchaSuccess(token) {
-                    document.getElementById('input_11').value = token;
+                    document.getElementById('input_12').value = token;
                     submitButton.disabled = false; 
                 }
                 function onCaptchaExpired() {
-                    document.getElementById('input_11').value = '';
+                    document.getElementById('input_12').value = '';
                     submitButton.disabled = true;
                 }
             </script>
 
-       <div class="mt-[86px]">
-        <p class="text-xl text-custom-purple-light-100 font-normal">NewHydrogen, Inc.</p>
-        <p class="text-xl text-custom-purple-light-100 font-normal">27936 Lost Canyon Road, Suite 202 </p>
-        <p class="text-xl text-custom-purple-light-100 font-normal">Santa Clarita, CA 91387</p>
-        <a class="text-xl text-custom-purple-light-100 block font-normal" href="tel:(661) 251-0001">T: (661) 251-0001 </a>
-        <a class="text-xl text-custom-purple-light-100 block font-normal" href="mailto:info@newhydrogen.com">E: info@newhydrogen.com</a>
-       </div>
+         
+
+        <div class="mt-[86px]">
+            <p class="text-xl text-custom-purple-light-100 font-normal">NewHydrogen, Inc.</p>
+            <p class="text-xl text-custom-purple-light-100 font-normal">27936 Lost Canyon Road, Suite 202 </p>
+            <p class="text-xl text-custom-purple-light-100 font-normal">Santa Clarita, CA 91387</p>
+            <a class="text-xl text-custom-purple-light-100 block font-normal" href="tel:(661) 251-0001">T: (661) 251-0001 </a>
+            <a class="text-xl text-custom-purple-light-100 block font-normal" href="mailto:info@newhydrogen.com">E: info@newhydrogen.com</a>
+        </div>
     </div>
 </section>
