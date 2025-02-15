@@ -3,6 +3,62 @@
 
 $news = [
     [
+        'id' => "82",
+        'title' => "New Hydrogen Reveals Secret to Its Breakthrough Technology",
+        'date' => "February 17, 2024",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today revealed the secret behind its paradigm shift",
+        'description' => [
+            [
+                "<p><strong>The Company’s ThermoLoop technology relies on a paradigm shift to use inexpensive heat and water to kill electrolyzers and make the world’s cheapest green hydrogen.  </strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (February 17, 2024) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today revealed the secret behind its paradigm shift.</p>"
+            ],
+            [
+                "<p>“We believe ThermoLoop is a game changer compared to conventional low performance electrolyzer technology,” said NewHydrogen CEO Steve Hill. “ThermoLoop can be configured as a drop-in replacement for electrolyzers, making them obsolete. Simply put, we believe that ThermoLoop can be an electrolyzer killer.”  </p>"
+            ],
+            [
+                "<p>Mr. Hill continued, “Using heat, rather than electricity, is simply a better way to split water to make green hydrogen. Heat is cheap. It can be found everywhere, including concentrated solar, nuclear reactors, and waste heat from industrial plants, such as oil refineries and cement and steel manufacturing plants. Heat based systems are more scalable and have the potential to be cheaper than electrolyzer systems.”</p>"
+            ],
+            [
+                "<h3>The Challenge</h3>"
+            ],
+            [
+                "<p>Scientists have struggled for decades in search of an efficient way to use heat to split water.
+Why?  Because the biggest challenge in building a heat system is the temperature mismatch between the different chemical reactions in the process. One reaction extracts hydrogen from water, which usually occurs at a low temperature. Another reaction extracts oxygen from water, which usually occurs at a high temperature. While the system is heating up or cooling down, hydrogen is not being produced and excess energy is wasted. This is incredibly inefficient.</p>"
+            ],
+            [
+                "<h3>The Breakthrough – ThermoLoop</h3>"
+            ],
+            [
+                "<p>NewHydrogen is inventing a better way to use heat to split water that allows all reactions to occur at nearly the same temperature. These reactions are called near isothermal reactions. The process is called thermochemical water-splitting.</p>"
+            ],
+            [
+                "<p>To achieve this “holy grail” of near isothermal reactions, NewHydrogen is developing novel materials and chemical reactions from the ground up. Therefore, when the first reaction temperature is close to the second reaction temperature, system downtime is minimized. ThermoLoop only needs to heat a little bit and cool a little bit and hydrogen production “loops” continuously. This is a very efficient solution.</p>"
+            ],
+            [
+                "<p>How do we find this novel material? Using state-of-the-art artificial intelligence and machine learning tools, we search the periodic table and play jig saw puzzle with many different elements to arrive at a novel material with just the right “goldilocks” attributes to enable scalable isothermal reactions.</p>"
+            ],
+            [
+                "<h3>The Secret</h3>"
+            ],
+            [
+                "<p>We designed a set of novel chemical reactions using a new paradigm that exploits the phase change properties of our Novel Material, as its components change from solid to liquid to gas, and back to solid. It is this phase change that allows us to reduce the temperature difference between the reactions. This is the key to what we believe will allow us to achieve near isothermal reactions for the continuous production of hydrogen from water.  </p>"
+            ],
+            [
+                "<p>Finally, we combine all these innovations to create ThermoLoop, a highly scalable thermochemical water-splitting system that we believe can produce the world’s cheapest green hydrogen. </p>"
+            ],
+            [
+                "<p>Mr. Hill concluded, “ThermoLoop is agnostic to the sources of heat and water. If we simply couple ThermoLoop with any available source of heat and water, we can create an incredibly efficient, low-cost, clean and green hydrogen production machine – anywhere, anytime. What if heat is hard to get?  No problem. Because the thermodynamics of heat systems are more efficient and scalable than electrolyzer systems, we believe we can convert electricity to heat to run ThermoLoop and still outperform electrolyzers.”  </p>"
+            ],
+            [
+                "<p>Watch a short explainer video that describes ThermoLoop technology – the electrolyzer killer at  <a href='https://www.youtube.com/watch?v=TqdrYBnj8gY' target='_blank'>https://www.youtube.com/watch?v=TqdrYBnj8gY</a>. </p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "81",
         'title' => "NewHydrogen CEO Steve Hill and Rutgers University Expert Focus on Green Hydrogen as a Grassroots Solution for Global Energy Transition",
         'date' => "January 7, 2025",

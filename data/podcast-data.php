@@ -223,7 +223,7 @@ $videos = [
         'category' => "ceo-podcast",
         'slug' => "vladimir-dvorkin-university-of-michigan",
         "display" => true
-      ],
+    ],
     [
         'title' => "Dr. Christopher Niezrecki - University of Massachusetts Lowell",
         'videoID' => "eW7Da8LT1z0",
@@ -531,14 +531,7 @@ $videos = [
   
 
    
-    [
-        'title' => "Dr. Carol Parish - University of Richmond",
-        'videoID' => "vJGsTR3A-so",
-        'date' => "March 2, 2024",
-        'category' => "ceo-podcast",
-        'slug' => "dr-carol-parish-university-of-richmond",
-        "display" => true
-    ],
+    
     [
         'title' => "Andrew Thomas - Cleveland State University",
         'videoID' => "IrSEdtDAgsM",
