@@ -5,14 +5,14 @@ $news = [
     [
         'id' => "82",
         'title' => "New Hydrogen Reveals Secret to Its Breakthrough Technology",
-        'date' => "February 17, 2024",
+        'date' => "February 17, 2025",
         'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today revealed the secret behind its paradigm shift",
         'description' => [
             [
                 "<p><strong>The Company’s ThermoLoop technology relies on a paradigm shift to use inexpensive heat and water to kill electrolyzers and make the world’s cheapest green hydrogen.  </strong></p>"
             ],
             [
-                "<p>SANTA CLARITA, Calif. (February 17, 2024) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today revealed the secret behind its paradigm shift.</p>"
+                "<p>SANTA CLARITA, Calif. (February 17, 2025) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today revealed the secret behind its paradigm shift.</p>"
             ],
             [
                 "<p>“We believe ThermoLoop is a game changer compared to conventional low performance electrolyzer technology,” said NewHydrogen CEO Steve Hill. “ThermoLoop can be configured as a drop-in replacement for electrolyzers, making them obsolete. Simply put, we believe that ThermoLoop can be an electrolyzer killer.”  </p>"
