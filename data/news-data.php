@@ -5,7 +5,7 @@ $news = [
     [
         'id' => "82",
         'title' => "New Hydrogen Reveals Secret to Its Breakthrough Technology",
-        'date' => "February 17, 2024",
+        'date' => "February 17, 2025",
         'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today revealed the secret behind its paradigm shift",
         'description' => [
             [
