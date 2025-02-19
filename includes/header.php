@@ -12,9 +12,39 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css">
     <link href="<?php echo  $full_url; ?>/assets/css/style.css?v=<?php echo time(); ?>" rel="stylesheet">
     <title>Newhydrogen</title>
+
+    <!-- Meta Pixel Code -->
+    <script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '1435998830509717');
+    fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=1435998830509717&ev=PageView&noscript=1"
+    /></noscript>
+
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-4TKDKXJVVE"></script>
+    <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-4TKDKXJVVE');
+    </script>
+
 </head>
 
 <body class="<?php echo ($page === 'home') ? 'home' : ''; ?>">
+
+<iframe src="https://api.leadconnectorhq.com/widget/form/9PwuXNEKYBvCg6S5H7bC" style="display:none;width:100%;height:100%;border:none;border-radius:3px" id="popup-9PwuXNEKYBvCg6S5H7bC" data-layout="{'id':'POPUP'}" data-trigger-type="showAfter" data-trigger-value="5" data-activation-type="alwaysActivated" data-activation-value="" data-deactivation-type="leadCollected" data-deactivation-value="" data-form-name="Text Alerts" data-height="514" data-layout-iframe-id="popup-9PwuXNEKYBvCg6S5H7bC" data-form-id="9PwuXNEKYBvCg6S5H7bC" title="Text Alerts"> </iframe>
+    <script src="https://link.msgsndr.com/js/form_embed.js"></script>
 
     <div class="sticky top-0 z-20 bg-white transition-all duration-300 ease-in-out header-top">
         <div class="bg-black sm:px-5">
