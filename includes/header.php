@@ -43,9 +43,6 @@
 
 <body class="<?php echo ($page === 'home') ? 'home' : ''; ?>">
 
-<iframe src="https://api.leadconnectorhq.com/widget/form/9PwuXNEKYBvCg6S5H7bC" style="display:none;width:100%;height:100%;border:none;border-radius:3px" id="popup-9PwuXNEKYBvCg6S5H7bC" data-layout="{'id':'POPUP'}" data-trigger-type="showAfter" data-trigger-value="5" data-activation-type="alwaysActivated" data-activation-value="" data-deactivation-type="leadCollected" data-deactivation-value="" data-form-name="Text Alerts" data-height="514" data-layout-iframe-id="popup-9PwuXNEKYBvCg6S5H7bC" data-form-id="9PwuXNEKYBvCg6S5H7bC" title="Text Alerts"> </iframe>
-    <script src="https://link.msgsndr.com/js/form_embed.js"></script>
-
     <div class="sticky top-0 z-20 bg-white transition-all duration-300 ease-in-out header-top">
         <div class="bg-black sm:px-5">
             <div class="mx-auto max-w-[1320px] 3xl:max-w-screen-2xl px-2 sm:px-4">
