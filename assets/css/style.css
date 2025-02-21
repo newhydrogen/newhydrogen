@@ -1118,6 +1118,10 @@ a:hover{
   display: none;
 }
 
+.aspect-video{
+  aspect-ratio: 16 / 9;
+}
+
 .h-12{
   height: 3rem;
 }
@@ -1164,6 +1168,10 @@ a:hover{
 
 .h-full{
   height: 100%;
+}
+
+.h-\[300px\]{
+  height: 300px;
 }
 
 .max-h-0{
@@ -2873,6 +2881,10 @@ html {
     height: 600px;
   }
 
+  .sm\:h-\[450px\]{
+    height: 450px;
+  }
+
   .sm\:w-1\/2{
     width: 50%;
   }
@@ -3105,6 +3117,10 @@ html {
 
   .md\:h-full{
     height: 100%;
+  }
+
+  .md\:h-\[600px\]{
+    height: 600px;
   }
 
   .md\:w-full{
@@ -3365,6 +3381,10 @@ html {
     display: grid;
   }
 
+  .lg\:h-\[450px\]{
+    height: 450px;
+  }
+
   .lg\:w-full{
     width: 100%;
   }
@@ -3579,6 +3599,10 @@ html {
 
   .xl\:mt-\[29px\]{
     margin-top: 29px;
+  }
+
+  .xl\:h-\[600px\]{
+    height: 600px;
   }
 
   .xl\:max-w-\[420px\]{
