@@ -4,7 +4,7 @@
         Explainer Video
         </h1>
         <div class="mt-[89px]">
-            <iframe class=class='w-full aspect-video'' src="https://www.youtube.com/embed/TqdrYBnj8gY"
+            <iframe class='w-full aspect-video' src="https://www.youtube.com/embed/TqdrYBnj8gY"
                 title="YouTube video player" frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 allowfullscreen=""></iframe>
