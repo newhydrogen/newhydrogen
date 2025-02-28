@@ -1170,10 +1170,6 @@ a:hover{
   height: 100%;
 }
 
-.h-\[300px\]{
-  height: 300px;
-}
-
 .max-h-0{
   max-height: 0px;
 }
@@ -1924,6 +1920,11 @@ a:hover{
 .py-9{
   padding-top: 2.25rem;
   padding-bottom: 2.25rem;
+}
+
+.py-\[118px\]{
+  padding-top: 118px;
+  padding-bottom: 118px;
 }
 
 .py-\[11px\]{
@@ -2881,10 +2882,6 @@ html {
     height: 600px;
   }
 
-  .sm\:h-\[450px\]{
-    height: 450px;
-  }
-
   .sm\:w-1\/2{
     width: 50%;
   }
@@ -3117,10 +3114,6 @@ html {
 
   .md\:h-full{
     height: 100%;
-  }
-
-  .md\:h-\[600px\]{
-    height: 600px;
   }
 
   .md\:w-full{
@@ -3381,10 +3374,6 @@ html {
     display: grid;
   }
 
-  .lg\:h-\[450px\]{
-    height: 450px;
-  }
-
   .lg\:w-full{
     width: 100%;
   }
@@ -3599,10 +3588,6 @@ html {
 
   .xl\:mt-\[29px\]{
     margin-top: 29px;
-  }
-
-  .xl\:h-\[600px\]{
-    height: 600px;
   }
 
   .xl\:max-w-\[420px\]{
