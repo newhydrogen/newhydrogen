@@ -1,4 +1,4 @@
 deployment:
   tasks:
-    - export DEPLOYPATH=/home3/biosolar/public_html/newhydrogen
+    - export DEPLOYPATH=/home3/biosolar/staging.newhydrogen.com
     - /bin/cp * $DEPLOYPATH
