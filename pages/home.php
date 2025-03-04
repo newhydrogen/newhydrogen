@@ -1,5 +1,5 @@
 <?php $videos = include "./data/carousel-videos.php"; ?>
-<section class="bg-banner bg-cover bg-[18%_100%] md:bg-center pb-16 sm:pb-0 md:h-[800px] sm:h-[1082px] relative before:absolute before:inset-0 md:pt-28 pt-16 before:bg-black/45 md:before:bg-black/30 before:h-full before:top-0 before:left-0 before:right-0 before:bottom-0 before:w-full">
+<section class="bg-banner bg-cover bg-[18%_100%] md:bg-center pb-16 sm:pb-0 md:h-[800px] sm:h-[1082px] relative md:pt-28 pt-16 ">
     <div class="mx-auto lg:max-w-screen-lg xl:max-w-screen-xl px-2 sm:px-4 z-10 relative">
         <div class="md:grid grid-cols-12 block">
             <div class="col-span-7 md:flex flex-col justify-between">

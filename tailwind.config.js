@@ -44,7 +44,7 @@ module.exports = {
         'video-screen': '700px'
       },
       backgroundImage: {
-        'banner': 'url(../images/banner.jpg)',
+        'banner': 'url(../images/banner.png)',
         'breaking-new-bg': 'url(../images/breaking-news-bg.png)',
         'arrow': 'url(../images/arrow.png)',
         'line': 'url(../images/Line.png)',
