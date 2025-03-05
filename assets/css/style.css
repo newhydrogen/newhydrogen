@@ -2402,6 +2402,11 @@ a:hover{
   line-height: 27px;
 }
 
+.text-\[\#065d8d\]{
+  --tw-text-opacity: 1;
+  color: rgb(6 93 141 / var(--tw-text-opacity, 1));
+}
+
 .text-\[\#091113\]{
   --tw-text-opacity: 1;
   color: rgb(9 17 19 / var(--tw-text-opacity, 1));
@@ -2486,6 +2491,11 @@ a:hover{
 
 .text-white\/80{
   color: rgb(255 255 255 / 0.8);
+}
+
+.text-custom-blue-light-200{
+  --tw-text-opacity: 1;
+  color: rgb(6 93 141 / var(--tw-text-opacity, 1));
 }
 
 .underline{
@@ -2577,11 +2587,6 @@ html {
   position: absolute;
 }
 
-.before\:inset-0::before{
-  content: var(--tw-content);
-  inset: 0px;
-}
-
 .before\:-bottom-\[74px\]::before{
   content: var(--tw-content);
   bottom: -74px;
@@ -2595,11 +2600,6 @@ html {
 .before\:left-0::before{
   content: var(--tw-content);
   left: 0px;
-}
-
-.before\:right-0::before{
-  content: var(--tw-content);
-  right: 0px;
 }
 
 .before\:right-\[59px\]::before{
@@ -2655,16 +2655,6 @@ html {
 .before\:w-\[400px\]::before{
   content: var(--tw-content);
   width: 400px;
-}
-
-.before\:w-full::before{
-  content: var(--tw-content);
-  width: 100%;
-}
-
-.before\:bg-black\/45::before{
-  content: var(--tw-content);
-  background-color: rgb(0 0 0 / 0.45);
 }
 
 .before\:bg-gardiant-top::before{
@@ -3285,11 +3275,6 @@ html {
   .md\:before\:w-full::before{
     content: var(--tw-content);
     width: 100%;
-  }
-
-  .md\:before\:bg-black\/30::before{
-    content: var(--tw-content);
-    background-color: rgb(0 0 0 / 0.3);
   }
 
   .md\:before\:bg-gardiant::before{
