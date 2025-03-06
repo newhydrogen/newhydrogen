@@ -1,9 +1,9 @@
 <?php $videos = include "./data/carousel-videos.php"; ?>
-<section class="bg-banner bg-cover bg-[18%_100%] md:bg-center pb-16 sm:pb-0 md:h-[800px] sm:h-[1082px] relative before:absolute before:inset-0 md:pt-28 pt-16 before:bg-black/45 md:before:bg-black/30 before:h-full before:top-0 before:left-0 before:right-0 before:bottom-0 before:w-full">
+<section class="bg-banner bg-cover bg-[18%_100%] md:bg-center pb-16 sm:pb-0 md:h-[800px] sm:h-[1082px] relative md:pt-28 pt-16 ">
     <div class="mx-auto lg:max-w-screen-lg xl:max-w-screen-xl px-2 sm:px-4 z-10 relative">
         <div class="md:grid grid-cols-12 block">
             <div class="col-span-7 md:flex flex-col justify-between">
-                <h1 class="text-white lg:text-6xl xl:text-7xl text-[44px] font-extralight text-center [text-shadow:_0_4px_4px_rgb(0_0_0_/_0.4)] uppercase md:normal-case mt-5">Using <span class="font-semibold text-custom-orange-100">Heat</span> and <span class="font-semibold">Water</span> to Make the World's Cheapest Green Hydrogen</h1>
+                <h1 class="text-white lg:text-6xl xl:text-7xl text-[44px] font-extralight text-center [text-shadow:_0_4px_4px_rgb(0_0_0_/_0.4)] uppercase md:normal-case mt-5">Using <span class="font-semibold text-custom-orange-100">Heat</span> and <span class="font-semibold text-custom-blue-light-200">Water</span> to Make the World's Cheapest Green Hydrogen</h1>
                 <p class="text-white sm:text-2xl text-xl font-normal sm:mt-14 mt-12 md:mt-8 max-w-[584px] [text-shadow:_0_3px_4px_rgb(0_0_0_/_0.4)]"><span class="font-bold">NewHydrogen</span> is developing ThermoLoop<sup>TM</sup>, our breakthrough technology that uses inexpensive heat instead of expensive electricity to split water to make green hydrogen for a future $12 trillion market</p>
                 <!-- <p class="text-white sm:text-2xl text-xl mt-8">Working with a <span>Worldclass Tech Team at UCSB</span></p> -->
             </div>

@@ -28,6 +28,7 @@ module.exports = {
           'purple-light-200': "#8D7BA6",
           'purple-light-300': "#CDC7D4",
           'blue-light-100': "#64B3FF",
+          'blue-light-200': "#065d8d",
           'white-100': "#F2F6FA",
           'white-200': "#A1B5C8",
           'dark-100': "#000000B2",
@@ -44,7 +45,7 @@ module.exports = {
         'video-screen': '700px'
       },
       backgroundImage: {
-        'banner': 'url(../images/banner.jpg)',
+        'banner': 'url(../images/banner.png)',
         'breaking-new-bg': 'url(../images/breaking-news-bg.png)',
         'arrow': 'url(../images/arrow.png)',
         'line': 'url(../images/Line.png)',
