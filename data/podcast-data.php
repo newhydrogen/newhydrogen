@@ -1,6 +1,14 @@
 <?php
 $videos = [
     [
+        'title' => "March 10, 2025 - NewHydrogen News Commentary",
+        'videoID' => "ZHBMg8S53jk",
+        'date' => "",
+        'category' => "news-commentary",
+        'slug' => "march-10-2025-newhydrogen-news-commentary",
+        "display" => true
+    ],
+    [
         'title' => "March 3, 2025 - NewHydrogen News Commentary",
         'videoID' => "Yhxtt06nE2w",
         'date' => "",
