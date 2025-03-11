@@ -209,6 +209,14 @@ $videos = [
         "display" => true
     ],
     [
+        'title' => "Olivera Kesler - Professor at University of Toronto",
+        'videoID' => "aitD-owQtJY",
+        'date' => "March 11, 2025",
+        'category' => "ceo-podcast",
+        'slug' => "olivera-kesler-professor-at-university-of-toronto",
+        "display" => false
+    ],
+    [
         'title' => "Claudio A. Canizares, PhD - University of Waterloo",
         'videoID' => "CsqqfH-OpO4",
         'date' => "January 19, 2025",
