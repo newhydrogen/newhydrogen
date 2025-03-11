@@ -3,6 +3,38 @@
 
 $news = [
     [
+        'id' => "83",
+        'title' => "NewHydrogen Files Patent for Its Breakthrough Technology",
+        'date' => "March 11, 2025",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS: NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, announced today that it has jointly filed a patent application in the United States with the University of California, Santa Barbara (“UCSB”) for its innovative hydrogen production process",
+        'description' => [
+            [
+                "<p><strong>The Company’s ThermoLoop technology relies on a paradigm shift to use inexpensive heat and water to potentially produce the world’s cheapest green hydrogen   </strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (March 11, 2025) – NewHydrogen, Inc. (OTCMKTS: NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, announced today that it has jointly filed a patent application in the United States with the University of California, Santa Barbara (“UCSB”) for its innovative hydrogen production process.</p>"
+            ],
+            [
+                "<p>The patent, titled “Coupled Multi-Phase Oxidation-Reduction for Production of Chemicals,” introduces a novel thermochemical method for splitting water into hydrogen and oxygen without relying on expensive electrolyzers. This proprietary process utilizes advanced solid-state materials and machine learning-driven material discovery to optimize efficiency and cost-effectiveness. </p>"
+            ],
+            [
+                "<p>“Our latest innovation represents a major leap forward in hydrogen production,” said Steve Hill, CEO of NewHydrogen. “By leveraging a multi-phase oxidation-reduction cycle, we can generate hydrogen at lower temperatures and greater efficiency than conventional methods. This breakthrough moves us closer to making green hydrogen economically viable at scale that will help bring to pass what Goldman Sachs estimates to be a $12 trillion market opportunity.”</p>"
+            ],
+            [
+                "<p>NewHydrogen’s technology is designed to overcome the limitations of electrolysis by using regenerable reactive solids to separate oxidation and reduction reactions, mimicking the efficiency of electrochemical processes without the high cost. The process has wide-ranging implications for industries seeking sustainable hydrogen solutions, from energy storage and transportation to industrial applications.</p>"
+            ],
+            [
+                "<p>The patent filing marks a significant milestone in NewHydrogen’s collaboration with leading researchers at UC Santa Barbara, who are at the forefront of advancing materials science for hydrogen production.</p>"
+            ],
+           
+            [
+                "<p>To watch a short explainer video about ThermoLoop™ or to learn more about NewHydrogen’s mission to produce the world’s cheapest green hydrogen, visit <a href='NewHydrogen.com' target='_blank'>NewHydrogen.com</a>. </p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "82",
         'title' => "New Hydrogen Reveals Secret to Its Breakthrough Technology",
         'date' => "February 17, 2025",
