@@ -3065,8 +3065,16 @@ html {
     margin-top: 0px;
   }
 
+  .md\:mt-16{
+    margin-top: 4rem;
+  }
+
   .md\:mt-8{
     margin-top: 2rem;
+  }
+
+  .md\:mt-\[89px\]{
+    margin-top: 89px;
   }
 
   .md\:block{
@@ -3210,6 +3218,10 @@ html {
 
   .md\:pt-\[114px\]{
     padding-top: 114px;
+  }
+
+  .md\:pt-20{
+    padding-top: 5rem;
   }
 
   .md\:text-2xl{
