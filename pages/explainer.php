@@ -9,6 +9,10 @@
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 allowfullscreen=""></iframe>
         </div>
+
+        <div class="flex justify-center mt-16">
+            <a href="/single-news.php?id=83" class="py-2.5 px-4 rounded-lg text-sm sm:text-base text-center font-semibold break-words bg-custom-green-500 text-black hover:text-black inline-block">Breaking News: Patent Pending</a>
+        </div>
     </div>
 </section>
 
