@@ -2402,11 +2402,6 @@ a:hover{
   line-height: 27px;
 }
 
-.text-\[\#065d8d\]{
-  --tw-text-opacity: 1;
-  color: rgb(6 93 141 / var(--tw-text-opacity, 1));
-}
-
 .text-\[\#091113\]{
   --tw-text-opacity: 1;
   color: rgb(9 17 19 / var(--tw-text-opacity, 1));
@@ -2435,6 +2430,11 @@ a:hover{
 .text-blue-600{
   --tw-text-opacity: 1;
   color: rgb(37 99 235 / var(--tw-text-opacity, 1));
+}
+
+.text-custom-blue-light-200{
+  --tw-text-opacity: 1;
+  color: rgb(6 93 141 / var(--tw-text-opacity, 1));
 }
 
 .text-custom-dark-100{
@@ -2491,11 +2491,6 @@ a:hover{
 
 .text-white\/80{
   color: rgb(255 255 255 / 0.8);
-}
-
-.text-custom-blue-light-200{
-  --tw-text-opacity: 1;
-  color: rgb(6 93 141 / var(--tw-text-opacity, 1));
 }
 
 .underline{
@@ -3070,8 +3065,16 @@ html {
     margin-top: 0px;
   }
 
+  .md\:mt-16{
+    margin-top: 4rem;
+  }
+
   .md\:mt-8{
     margin-top: 2rem;
+  }
+
+  .md\:mt-\[89px\]{
+    margin-top: 89px;
   }
 
   .md\:block{
@@ -3215,6 +3218,10 @@ html {
 
   .md\:pt-\[114px\]{
     padding-top: 114px;
+  }
+
+  .md\:pt-20{
+    padding-top: 5rem;
   }
 
   .md\:text-2xl{

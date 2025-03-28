@@ -1,13 +1,17 @@
-<section class=" xl:pt-[100px] pt-20">
+<section class=" xl:pt-[100px] md:pt-20 pt-9">
     <div class="mx-auto lg:max-w-screen-lg xl:max-w-screen-xl px-2 sm:px-4 ">
         <h1 class='max-w-[950px] mx-auto w-full text-[50px] text-center'>
         Short Explainer Video
         </h1>
-        <div class="mt-[89px]">
-            <iframe class='w-full aspect-video' src="https://www.youtube.com/embed/TqdrYBnj8gY"
+        <div class="mt-6 md:mt-[89px]">
+            <iframe class='w-full aspect-video' src="https://www.youtube.com/embed/p1tz4X0-7Hs"
                 title="YouTube video player" frameborder="0"
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                 allowfullscreen=""></iframe>
+        </div>
+
+        <div class="flex justify-center mt-6 md:mt-16 relative z-10">
+            <a href="https://newhydrogen.com/single-news.php?id=83" class="py-2.5 px-4 rounded-lg text-sm sm:text-base text-center font-semibold break-words bg-custom-green-500 text-black hover:text-black inline-block">Breaking News: Patent Pending</a>
         </div>
     </div>
 </section>
