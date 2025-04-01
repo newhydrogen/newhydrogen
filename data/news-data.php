@@ -3,6 +3,38 @@
 
 $news = [
     [
+        'id' => "84",
+        'title' => "NewHydrogen Joins Texas Hydrogen Alliance Committed to Accelerate Green Hydrogen Deployment",
+        'date' => "April 1, 2025",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced that it recently joined the Texas Hydrogen Alliance. The membership strengthens NewHydrogen’s role in advancing hydrogen adoption and infrastructure within Texas, one of the fastest-growing hydrogen markets in the United State",
+        'description' => [
+            [
+                "<p><strong>The Company's ThermoLoop™ technology aligns with Texas’ growing hydrogen economy to deliver the world’s cheapest green hydrogen </strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (April 1, 2025) — NewHydrogen, Inc. (OTCMKTS:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced that it recently joined the Texas Hydrogen Alliance. The membership strengthens NewHydrogen’s role in advancing hydrogen adoption and infrastructure within Texas, one of the fastest-growing hydrogen markets in the United States.</p>"
+            ],
+            [
+                "<p>The Texas Hydrogen Alliance brings together industry leaders, researchers, and policymakers to drive hydrogen innovation and commercialization. As a member, NewHydrogen will collaborate with key stakeholders to support policies and projects that expand the role of green hydrogen in the energy transition. </p>"
+            ],
+            [
+                "<p>“Texas is at the forefront of the hydrogen economy, and we are excited to contribute to this growing ecosystem,” said Steve Hill, CEO of NewHydrogen. “With ThermoLoop, we are pioneering a cost-effective, scalable approach to green hydrogen production. Our collaboration with the Texas Hydrogen Alliance will help accelerate deployment and support the state’s leadership in clean energy.”</p>"
+            ],
+            [
+                "<p>NewHydrogen’s ThermoLoop technology represents a paradigm shift by leveraging inexpensive heat sources instead of expensive green electricity used by electrolyzers, making green hydrogen more economically viable at scale. The company recently took a major step forward by jointly filing a patent application in the United States with the University of California, Santa Barbara (“UCSB”) for its innovative hydrogen production process. This milestone underscores the groundbreaking nature of ThermoLoop and strengthens NewHydrogen’s position as a leader in next-generation hydrogen technology.</p>"
+            ],
+            [
+                "<p>By joining the Texas Hydrogen Alliance, the company aims to engage with industry partners and policymakers to facilitate the widespread adoption of hydrogen as a key energy solution.</p>"
+            ],
+           
+            [
+                "<p>To watch a short explainer video on ThermoLoop or for more information about NewHydrogen and its mission to produce the world’s cheapest green hydrogen, please visit <a href='NewHydrogen.com' target='_blank'>NewHydrogen.com</a>. </p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "83",
         'title' => "NewHydrogen Files Patent for Its Breakthrough Technology",
         'date' => "March 11, 2025",
