@@ -47,12 +47,12 @@
         <div class="bg-black sm:px-5">
             <div class="mx-auto max-w-[1320px] 3xl:max-w-screen-2xl px-2 sm:px-4">
                 <div class="relative py-2 flex justify-between items-center gap-1.5 sm:block">
-                    <div class="sm:absolute left-0 top-1/2 sm:-translate-y-1/2">
+                    <!-- <div class="sm:absolute left-0 top-1/2 sm:-translate-y-1/2">
                         <a href="https://www.youtube.com/watch?v=-pkox2gPbiQ" target="_blank"
                             class="p-2.5 rounded-lg text-sm sm:text-base text-center font-semibold break-words bg-custom-green-500 text-black hover:text-black inline-block">
                             Watch <br class="md:hidden" /> the webinar
                         </a>
-                    </div>
+                    </div> -->
                     <div class="flex items-center justify-center gap-3">
                         <div class="flex items-center justify-between md:justify-center gap-3 w-full">
 
