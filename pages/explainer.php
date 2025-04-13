@@ -4,10 +4,7 @@
         Short Explainer Video
         </h1>
         <div class="mt-6 md:mt-[89px]">
-            <iframe class='w-full aspect-video' src="https://www.youtube.com/embed/p1tz4X0-7Hs"
-                title="YouTube video player" frameborder="0"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-                allowfullscreen=""></iframe>
+        <iframe title="vimeo-player" class='w-full aspect-video relative z-10' src="https://player.vimeo.com/video/1074972732?h=f28ef9ddbb" frameborder="0" allowfullscreen></iframe>
         </div>
 
         <div class="flex justify-center mt-6 md:mt-16 relative z-10">
