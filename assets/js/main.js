@@ -79,6 +79,35 @@ $('.popup-youtube').magnificPopup({
 
 });
 
+$('.popup-vimeo').magnificPopup({
+  type: 'iframe',
+  iframe: {
+      markup: '<div class="mfp-iframe-scaler">' +
+          '<div class="mfp-close"></div>' +
+          '<iframe class="mfp-iframe" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>' +
+          '</div>',
+      patterns: {
+          vimeo: {
+              index: 'vimeo.com/',
+              id: function(url) {
+                var match = url.match(/vimeo\.com\/(\d+)(\?h=[\w]+)/);
+                if (match) {
+                  return match[1] + match[2];
+                } else {
+                  var fallback = url.match(/vimeo\.com\/(\d+)/);
+                  return fallback ? fallback[1] : null;
+                }
+              },
+              src: 'https://player.vimeo.com/video/%id%&autoplay=1'
+          }
+      }
+  },
+  mainClass: 'mfp-fade',
+  removalDelay: 160,
+  preloader: false,
+  fixedContentPos: true,
+});
+
 
 $(window).scroll(function () {
   var scroll = $(window).scrollTop();
