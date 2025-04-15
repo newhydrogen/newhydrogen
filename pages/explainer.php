@@ -4,7 +4,7 @@
         Short Explainer Video
         </h1>
         <div class="mt-6 md:mt-[89px]">
-        <iframe title="vimeo-player" class='w-full aspect-video relative z-10' src="https://player.vimeo.com/video/1074972732?h=f28ef9ddbb" frameborder="0" allowfullscreen></iframe>
+        <iframe id="explainer-video" title="vimeo-player" class='w-full aspect-video relative z-10' src="https://player.vimeo.com/video/1074972732?h=f28ef9ddbb&autoplay=1&loop=1&muted=1&volume=1" frameborder="0" allowfullscreen></iframe>
         </div>
 
         <div class="flex justify-center mt-6 md:mt-16 relative z-10">
