@@ -3,6 +3,35 @@
 
 $news = [
     [
+        'id' => "85",
+        'title' => "NewHydrogen Announces Uplisting to OTCQB Venture Market",
+        'date' => "April 22, 2025",
+        'excerpt' => "NewHydrogen, Inc. (OTCQB:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced that its common stock has been approved for uplisting to the OTCQB Venture Market. The company began trading on the OTCQB under the ticker symbol “NEWH” effective April 21, 2025",
+        'description' => [
+            [
+                "<p><strong>Milestone strengthens transparency and credibility as the Company advances development of its ThermoLoop™ technology</strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (April 22, 2025) — NewHydrogen, Inc. (OTCQB:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced that its common stock has been approved for uplisting to the OTCQB Venture Market. The company began trading on the OTCQB under the ticker symbol “NEWH” effective April 21, 2025.</p>"
+            ],
+            [
+                "<p>The OTCQB Venture Market is a significant step up from the Pink Open Market and is designed for early-stage and developing U.S. and international companies. To qualify for OTCQB, companies must meet higher reporting standards, undergo annual verification and management certification, and be current in their financial reporting.</p>"
+            ],
+            [
+                "<p>“Uplisting to the OTCQB marks an important milestone for NewHydrogen,” said Steve Hill, CEO of NewHydrogen. “It reflects our continued commitment to transparency, strong governance, and delivering long-term value to our shareholders as we work to develop the world’s cheapest green hydrogen.”</p>"
+            ],
+            [
+                "<p>The Company believes the uplisting will expand its visibility to a broader group of U.S. and international investors and provide improved liquidity for its stock as it advances its ThermoLoop platform toward commercialization.</p>"
+            ],
+           
+            [
+                "<p>To learn more about ThermoLoop™ and NewHydrogen’s mission to produce the world’s cheapest green hydrogen, please visit <a href='NewHydrogen.com' target='_blank'>NewHydrogen.com</a>. </p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "84",
         'title' => "NewHydrogen Joins Texas Hydrogen Alliance Committed to Accelerate Green Hydrogen Deployment",
         'date' => "April 1, 2025",
