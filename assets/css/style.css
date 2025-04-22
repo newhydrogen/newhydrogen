@@ -1634,6 +1634,10 @@ a:hover{
   border-width: 1px;
 }
 
+.border-0{
+  border-width: 0px;
+}
+
 .border-4{
   border-width: 4px;
 }
@@ -1745,6 +1749,11 @@ a:hover{
   background-color: rgb(79 230 83 / var(--tw-bg-opacity, 1));
 }
 
+.bg-custom-green-700{
+  --tw-bg-opacity: 1;
+  background-color: rgb(0 188 5 / var(--tw-bg-opacity, 1));
+}
+
 .bg-custom-orange-100{
   --tw-bg-opacity: 1;
   background-color: rgb(255 90 0 / var(--tw-bg-opacity, 1));
@@ -1753,6 +1762,11 @@ a:hover{
 .bg-custom-white-100{
   --tw-bg-opacity: 1;
   background-color: rgb(242 246 250 / var(--tw-bg-opacity, 1));
+}
+
+.bg-gray-200{
+  --tw-bg-opacity: 1;
+  background-color: rgb(229 231 235 / var(--tw-bg-opacity, 1));
 }
 
 .bg-transparent{
@@ -1940,6 +1954,10 @@ a:hover{
 .py-\[90px\]{
   padding-top: 90px;
   padding-bottom: 90px;
+}
+
+.pb-10{
+  padding-bottom: 2.5rem;
 }
 
 .pb-12{
@@ -2498,6 +2516,12 @@ a:hover{
   color: rgb(255 255 255 / 0.8);
 }
 
+.shadow-\[inset_0_0_10px_rgba\(0\2c 0\2c 0\2c 0\.3\)\]{
+  --tw-shadow: inset 0 0 10px rgba(0,0,0,0.3);
+  --tw-shadow-colored: inset 0 0 10px var(--tw-shadow-color);
+  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
+}
+
 .transition{
   transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, -webkit-backdrop-filter;
   transition-property: color, background-color, border-color, text-decoration-color, fill, stroke, opacity, box-shadow, transform, filter, backdrop-filter;
@@ -3014,6 +3038,15 @@ html {
   .sm\:text-xl{
     font-size: 1.25rem;
     line-height: 1.75rem;
+  }
+
+  .sm\:text-\[50px\]{
+    font-size: 50px;
+  }
+
+  .sm\:text-5xl{
+    font-size: 3rem;
+    line-height: 1;
   }
 
   .sm\:before\:h-\[566px\]::before{
@@ -3638,6 +3671,10 @@ html {
 
   .xl\:pl-\[70px\]{
     padding-left: 70px;
+  }
+
+  .xl\:pt-5{
+    padding-top: 1.25rem;
   }
 
   .xl\:pt-\[100px\]{
