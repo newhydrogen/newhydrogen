@@ -11,7 +11,7 @@ $videos = include "./data/podcast-data.php";
     <div class="mx-auto lg:max-w-screen-lg xl:max-w-screen-xl px-2 sm:px-4 ">
         <div class="text-center mb-[138px]">
             <h2 class='text-[45px] text-black font-normal mb-[71px]'>
-                CEO Podcast
+                CEO Podcasts
             </h2>
         </div>
 
@@ -25,7 +25,8 @@ $videos = include "./data/podcast-data.php";
             });
 
             foreach ($filteredCommentaryNews as $video) {
-                $title = $video['date'] ? "{$video['date']} - {$video['title']}" : $video['title'];
+                // $title = $video['date'] ? "{$video['date']} - {$video['title']}" : $video['title'];
+                $title = $video['date'] ? "{$video['title']}" : $video['title'];
                 $thumbnailUrl = "//img.youtube.com/vi/{$video['videoID']}/maxresdefault.jpg";
                 $videoLink = "videos/ceo-podcast/{$video['slug']}";
 

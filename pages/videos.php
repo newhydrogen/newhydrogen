@@ -31,7 +31,7 @@ $videos = include "./data/podcast-data.php";
                     </div>
                     <span
                         class="absolute left-1/2 top-1/2 transform -translate-x-1/2 -translate-y-1/2 w-full min-h-[88px] flex items-center justify-center bg-[#ffffffcc] text-[#091113] text-[35px] font-medium leading-[100%] text-center">
-                        CEO Podcast
+                        CEO Podcasts
                     </span>
                 </a>
             </div>
@@ -105,7 +105,7 @@ $videos = include "./data/podcast-data.php";
         <section class="pt-[90px]">
             <div class="flex justify-between items-baseline pb-[37px]   mb-[58px] border-b border-[#cbcbcb]"
                 id='ceo-podcast'>
-                <h3 class=" xl:text-[50px] md:text-5xl text-3xl font-extralight leading-[1.1]">CEO Podcast</h3>
+                <h3 class=" xl:text-[50px] md:text-5xl text-3xl font-extralight leading-[1.1]">CEO Podcasts</h3>
                 <a href='ceo-podcast' class="flex items-center gap-3 ">
                     <span class="   text-[13px] leading-7 font-bold">See All</span>
                     <svg xmlns="http://www.w3.org/2000/svg" width="12" height="13" viewBox="0 0 12 13" fill="none">
@@ -123,7 +123,8 @@ $videos = include "./data/podcast-data.php";
                 $latestCompanyNews = array_slice($filteredCommentaryNews, 0, 3);
 
                 foreach ($latestCompanyNews as $video) {
-                    $title = $video['date'] ? "{$video['date']} - {$video['title']}" : $video['title'];
+                    // $title = $video['date'] ? "{$video['date']} - {$video['title']}" : $video['title'];
+                    $title = $video['date'] ? "{$video['title']}" : $video['title'];
                     $thumbnailUrl = "//img.youtube.com/vi/{$video['videoID']}/maxresdefault.jpg";
                     $videoLink = "videos/ceo-podcast/{$video['slug']}";
 
