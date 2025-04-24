@@ -3,10 +3,7 @@
         <h1 class="w-full text-4xl sm:text-[50px] text-center font-semibold">We Are Moving Very Rapidly on a Fast Track</h1>
         <p class="text-center text-2xl mt-6 text-custom-orange-100 font-semibold">Click this short video to learn more about our progress</p>
         <div class="mt-9">
-            <iframe width="560" height="315" class="h-64 sm:h-[600px] w-full" src="https://www.youtube.com/embed/Q6JhNYwE_3o"
-                title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; 
-                            encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
-            </iframe>
+            <iframe id="explainer-video" title="vimeo-player" class='w-full aspect-video relative z-10' src="https://player.vimeo.com/video/1078126370?&autoplay=1&loop=1" frameborder="0" allowfullscreen></iframe>
         </div>
     </div>
 </section>
