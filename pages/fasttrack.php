@@ -1,7 +1,7 @@
 <section class="pt-5 pb-10">
     <div class="mx-auto lg:max-w-screen-lg xl:max-w-screen-xl px-2 sm:px-4">
-        <h1 class="w-full text-4xl sm:text-[50px] text-center font-semibold">We Are Moving Very Rapidly on a Fast Track</h1>
-        <p class="text-center text-2xl mt-6 text-custom-orange-100 font-semibold">Click this short video to learn more about our progress</p>
+        <h1 class="w-full text-4xl sm:text-[50px] leading-tight text-center font-semibold">Developing the World's Cheapest Green Hydrogen <br> Why New Hydrogen is on a Fast Track</h1>
+        <p class="text-center text-2xl mt-6 text-custom-orange-100 font-semibold">Watch Now to See Our Progress</p>
         <div class="mt-9">
             <iframe id="explainer-video" title="vimeo-player" class='w-full aspect-video relative z-10' src="https://player.vimeo.com/video/1078126370?&autoplay=1&loop=1" frameborder="0" allowfullscreen></iframe>
         </div>

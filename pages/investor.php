@@ -10,6 +10,29 @@
                 </button>
                 <img src="./assets/images/investor.png" alt="investor">
             </a>
+
+    <!-- TradingView Widget BEGIN -->
+<!-- <div class="tradingview-widget-container mt-12 [&>iframe]:!h-[500px]" style="height:100%;width:100%">
+  <div class="tradingview-widget-container__widget" style="height:600px;width:100%"></div>
+  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+  {
+  "autosize": true,
+  "symbol": "NASDAQ:AAPL",
+  "interval": "1",
+  "timezone": "Etc/UTC",
+  "theme": "light",
+  "style": "1",
+  "locale": "en",
+  "hide_top_toolbar": true,
+  "hide_legend": true,
+  "allow_symbol_change": false,
+  "hide_volume": true,
+  "support_host": "https://www.tradingview.com"
+}
+  </script>
+</div> -->
+<!-- TradingView Widget END -->
+
             <h2 class="lg:mt-12 sm:mt-8 mt-4 lg:text-[42px] sm:text-4xl text-3xl mb-2">NewHydrogen Is a Publicly Traded Company</h3>
                 <p class="text-xl font-normal sm:max-w-[80%] max-w-full m-auto">Developing a Breakthrough Technology that Uses Water and Heat Instead of Electricity to Produce the World’s Cheapest Green Hydrogen</p>
                 <a class="py-5 px-10 rounded-[58px] text-xl block w-fit mx-auto mt-8 font-bold bg-custom-green-200" href="">Stock Symbol: NEWH</a>

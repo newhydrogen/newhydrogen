@@ -57,9 +57,9 @@
                         <div class="flex items-center justify-between md:justify-center gap-3 w-full">
 
                             <p class="text-sm [max-380px]:text-base sm:text-lg md:text-lg lg:text-xl xl:text-3xl font-normal break-words text-white">Now Publicly Available <br class="md:hidden" /> - Stock Symbol: NEWH</p>
-                            <a href="/investor"
+                            <a href="/fasttrack"
                                 class="p-2.5 rounded-lg text-sm  sm:text-base font-semibold break-words bg-custom-orange-100 text-white hover:text-white">
-                                Learn more
+                                Investors Click Here
                             </a>
                         </div>
                     </div>
@@ -76,7 +76,7 @@
                 </div>
             </div>
         </div>
-
+    <?php if ($page !== 'explainer'): ?>    
         <nav class="sm:py-4 bg-white ">
             <div class="mx-auto max-w-[1320px] 3xl:max-w-screen-2xl px-2 sm:px-4">
                 <div class="relative flex h-16 justify-between">
@@ -144,4 +144,5 @@
                 </div>
             </div>
         </nav>
+    <?php endif; ?>
     </div>

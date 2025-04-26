@@ -2425,6 +2425,10 @@ a:hover{
   line-height: 27px;
 }
 
+.leading-tight{
+  line-height: 1.25;
+}
+
 .text-\[\#091113\]{
   --tw-text-opacity: 1;
   color: rgb(9 17 19 / var(--tw-text-opacity, 1));
@@ -3013,6 +3017,11 @@ html {
     line-height: 2.5rem;
   }
 
+  .sm\:text-5xl{
+    font-size: 3rem;
+    line-height: 1;
+  }
+
   .sm\:text-\[34px\]{
     font-size: 34px;
   }
@@ -3023,6 +3032,10 @@ html {
 
   .sm\:text-\[44px\]{
     font-size: 44px;
+  }
+
+  .sm\:text-\[50px\]{
+    font-size: 50px;
   }
 
   .sm\:text-base{
@@ -3038,15 +3051,6 @@ html {
   .sm\:text-xl{
     font-size: 1.25rem;
     line-height: 1.75rem;
-  }
-
-  .sm\:text-\[50px\]{
-    font-size: 50px;
-  }
-
-  .sm\:text-5xl{
-    font-size: 3rem;
-    line-height: 1;
   }
 
   .sm\:before\:h-\[566px\]::before{
@@ -3673,10 +3677,6 @@ html {
     padding-left: 70px;
   }
 
-  .xl\:pt-5{
-    padding-top: 1.25rem;
-  }
-
   .xl\:pt-\[100px\]{
     padding-top: 100px;
   }
@@ -3838,6 +3838,18 @@ html {
 
 .\[\&\>h3\]\:font-bold>h3{
   font-weight: 700;
+}
+
+.\[\&\>iframe\]\:h-\[600px\]>iframe{
+  height: 600px;
+}
+
+.\[\&\>iframe\]\:\!h-\[600px\]>iframe{
+  height: 600px !important;
+}
+
+.\[\&\>iframe\]\:\!h-\[500px\]>iframe{
+  height: 500px !important;
 }
 
 .\[\&\>li\]\:text-white>li{
