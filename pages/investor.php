@@ -1,8 +1,11 @@
 <section class=" before:content-[''] sm:before:w-[566px] before:w-[400px] before:h-[566px] before:left-0 before:-bottom-[74px] before:bg-gardiant-top before:absolute relative before:bg-no-repeat">
     <div class="mb-[71px] xl:mt-[100px] mt-16 mx-auto lg:max-w-screen-lg xl:max-w-screen-xl px-2 sm:px-4">
         <div class="relative lg:max-w-[995px] max-w-[830px] mx-auto text-center ">
+            <div class="relative">
+
+           
             <a href="https://www.youtube.com/watch?v=RH8Kwkn_6Pw">
-                <button class="absolute left-1/2 lg:top-[35%] sm:top-[32%] top-[23%] -translate-x-1/2  -translate-y-1/2">
+                <button class="absolute left-1/2 top-1/2 -translate-x-1/2  -translate-y-1/2">
                     <svg class="sm:w-[100px] sm:h-[100px] w-16 h-16" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 56 56" fill="none">
                         <circle cx="27.8926" cy="28.1125" r="27.5" fill="white" fill-opacity="0.8"></circle>
                         <path d="M39.1753 28.1126L21.5537 38.2864L21.5537 17.9387L39.1753 28.1126Z" fill="black"></path>
@@ -10,15 +13,15 @@
                 </button>
                 <img src="./assets/images/investor.png" alt="investor">
             </a>
+            </div>
 
-    <!-- TradingView Widget BEGIN -->
-<!-- <div class="tradingview-widget-container mt-12 [&>iframe]:!h-[500px]" style="height:100%;width:100%">
-  <div class="tradingview-widget-container__widget" style="height:600px;width:100%"></div>
+<div class="tradingview-widget-container mt-12 [&>iframe]:!h-[500px]" style="height:100%;width:100%">
+  <div class="tradingview-widget-container__widget" style="height:calc(100% - 32px);width:100%"></div>
   <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
   {
   "autosize": true,
   "symbol": "NASDAQ:AAPL",
-  "interval": "1",
+  "interval": "D",
   "timezone": "Etc/UTC",
   "theme": "light",
   "style": "1",
@@ -26,12 +29,12 @@
   "hide_top_toolbar": true,
   "hide_legend": true,
   "allow_symbol_change": false,
+  "save_image": false,
   "hide_volume": true,
   "support_host": "https://www.tradingview.com"
 }
   </script>
-</div> -->
-<!-- TradingView Widget END -->
+</div>
 
             <h2 class="lg:mt-12 sm:mt-8 mt-4 lg:text-[42px] sm:text-4xl text-3xl mb-2">NewHydrogen Is a Publicly Traded Company</h3>
                 <p class="text-xl font-normal sm:max-w-[80%] max-w-full m-auto">Developing a Breakthrough Technology that Uses Water and Heat Instead of Electricity to Produce the World’s Cheapest Green Hydrogen</p>
