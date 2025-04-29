@@ -3,6 +3,43 @@
 
 $news = [
     [
+        'id' => "86",
+        'title' => "Eric McFarland to Serve as NewHydrogen Chief Technology Officer",
+        'date' => "April 29, 2025",
+        'excerpt' => "NewHydrogen, Inc. (OTCQB:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced the appointment of Dr. Eric McFarland as Chief Technology Officer",
+        'description' => [
+            [
+                "<p><strong>Veteran energy expert to lead technical development and commercialization of the Company’s green hydrogen technology</strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (April 29, 2025) — NewHydrogen, Inc. (OTCQB:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest green hydrogen, today announced the appointment of Dr. Eric McFarland as Chief Technology Officer.</p>"
+            ],
+            [
+                "<p>As CTO, Dr. McFarland will evolve the company’s technology strategy and help accelerate ThermoLoop’s advancement from the laboratory and pilot scale to the commercial marketplace.  McFarland will also continue to work with the scientific team at the University of California, Santa Barbara (UCSB), led by Dr. Phil Christopher. </p>"
+            ],
+            [
+                "<p>“Dr. McFarland brings deep technical insight and decades of experience in energy systems and reaction engineering,” said Steve Hill, CEO of NewHydrogen. “He’s played a key role in shaping our technology development through our UCSB partnership. As CTO, he will continue to focus on ThermoLoop technology development and proof of concept. Dr. McFarland is also uniquely qualified to guide us through the commercial demonstration process.”</p>"
+            ],
+            [
+                "<p>“I’m excited to expand my role with NewHydrogen at this pivotal time,” said Dr. McFarland. “We’ve already demonstrated the scientific viability of this technology, and I look forward to working closely with the team to optimize performance, reduce costs, and move toward commercial deployment.”</p>"
+            ],
+            [
+                "<p>Eric McFarland studied Nuclear Engineering and received B.S. and M.S. degrees from U.C. Berkeley, and his Ph.D. from the Massachusetts Institute of Technology. He joined the Nuclear Engineering faculty at MIT where his research moved from nuclear reaction fundamentals to use of nuclear phenomena for non-destructive materials and chemical analysis.  In 1991 McFarland moved to the University of California, Santa Barbara, where he is a Professor of Chemical Engineering.  McFarland’s academic research in energy conversion technology and reaction engineering has been both fundamental and applied.  He has published over 200 scientific papers and is the inventor on over 30 patents.  </p>"
+            ],
+            [
+                "<p>McFarland has always worked closely with industry and has been a founder or co-founder of a number of chemical technology companies and has served in several executive and Board positions. Together with other University faculty, he was one of the founding directors of Symyx Technologies a chemical technology start-up that went on to have a successful public offering.  McFarland served as CEO and President of Gas Reaction Technologies Inc. (GRT) that had major R&D programs with several global oil and gas companies.   McFarland was awarded the Dow Chemical Chair of Chemical Engineering at the University of Queensland, Australia and spent two-years as the founding Director of the Dow Centre for Sustainable Engineering Innovation.  He was a founder and served as Chief Technology Officer of CZero a company developing technology to use fossil resources for hydrogen production without carbon dioxide emissions. McFarland also studied medicine and earned an M.D. from Harvard Medical School and did post-graduate training in general surgery. He practiced part-time in Emergency Medicine and worked as a volunteer physician for several relief agencies.</p>"
+            ],
+            [
+                "<p>NewHydrogen recently filed a joint U.S. patent application with UCSB for its novel hydrogen production process, marking a significant milestone in the development of its ThermoLoop technology. </p>"
+            ],
+            [
+                "<p>To learn more about ThermoLoop™ and NewHydrogen’s mission to produce the world’s cheapest green hydrogen, please visit <a href='NewHydrogen.com' target='_blank'>NewHydrogen.com</a>. </p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "85",
         'title' => "NewHydrogen Announces Uplisting to OTCQB Venture Market",
         'date' => "April 22, 2025",
