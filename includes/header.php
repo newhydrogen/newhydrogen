@@ -58,7 +58,7 @@
 
                             <p class="text-sm [max-380px]:text-base sm:text-lg md:text-lg lg:text-xl xl:text-3xl font-normal break-words text-white">Now Publicly Available <br class="md:hidden" /> - Stock Symbol: NEWH</p>
                             <a href="/fasttrack"
-                                class="p-2.5 rounded-lg text-sm  sm:text-base font-semibold break-words bg-custom-orange-100 text-white hover:text-white">
+                                class="p-2.5 rounded-lg text-sm  sm:text-base font-semibold break-words bg-custom-red-100 text-white hover:text-white">
                                 Investors Click Here
                             </a>
                         </div>

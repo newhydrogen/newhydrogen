@@ -1777,6 +1777,11 @@ a:hover{
   background-color: rgb(229 231 235 / var(--tw-bg-opacity, 1));
 }
 
+.bg-red-700{
+  --tw-bg-opacity: 1;
+  background-color: rgb(185 28 28 / var(--tw-bg-opacity, 1));
+}
+
 .bg-transparent{
   background-color: transparent;
 }
@@ -1784,6 +1789,11 @@ a:hover{
 .bg-white{
   --tw-bg-opacity: 1;
   background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));
+}
+
+.bg-custom-red-100{
+  --tw-bg-opacity: 1;
+  background-color: rgb(255 0 0 / var(--tw-bg-opacity, 1));
 }
 
 .bg-banner{
@@ -1962,6 +1972,11 @@ a:hover{
 .py-\[90px\]{
   padding-top: 90px;
   padding-bottom: 90px;
+}
+
+.py-4{
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 
 .pb-10{
@@ -3113,10 +3128,6 @@ html {
 
   .md\:mt-8{
     margin-top: 2rem;
-  }
-
-  .md\:mt-\[89px\]{
-    margin-top: 89px;
   }
 
   .md\:block{

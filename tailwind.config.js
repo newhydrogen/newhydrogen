@@ -33,6 +33,7 @@ module.exports = {
           'white-100': "#F2F6FA",
           'white-200': "#A1B5C8",
           'dark-100': "#000000B2",
+          'red-100': "#FF0000",
         },
       },
       screens: {

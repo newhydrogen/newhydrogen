@@ -30,9 +30,9 @@
                         </div>
                     </div> -->
                     <div class="max-w-[400px] md:ml-auto w-full ">
-                        <p class="text-white font-semibold text-lg mb-1.5">Learn Why We Are on a Fast Track to Make the World's Cheapest Green</p>
+                        <p class="text-white font-semibold text-lg mb-1.5">Recent Progress</p>
                         <div class="bg-custom-gray-100 rounded-[20px] relative sm:h-56 h-52 w-full overflow-hidden border-[14px] border-custom-green-500">
-                            <img src="https://vumbnail.com/1078126370.png" class="object-cover w-full h-full" alt="thumbnail">
+                            <img src="./assets/images/fasttrack-thumbnail.png" class="object-cover w-full h-full" alt="thumbnail">
                             <a href="https://vimeo.com/1078126370" class="popup-vimeo absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56" fill="none">
                                     <circle cx="27.8926" cy="28.1125" r="27.5" fill="white" fill-opacity="0.8"/>
