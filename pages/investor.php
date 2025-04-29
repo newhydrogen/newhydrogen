@@ -1,45 +1,42 @@
 <section class=" before:content-[''] sm:before:w-[566px] before:w-[400px] before:h-[566px] before:left-0 before:-bottom-[74px] before:bg-gardiant-top before:absolute relative before:bg-no-repeat">
-    <div class="mb-[71px] xl:mt-[100px] mt-16 mx-auto lg:max-w-screen-lg xl:max-w-screen-xl px-2 sm:px-4">
-        <div class="relative lg:max-w-[995px] max-w-[830px] mx-auto text-center ">
-            <div class="relative">
-
-           
-            <a href="https://www.youtube.com/watch?v=RH8Kwkn_6Pw">
-                <button class="absolute left-1/2 top-1/2 -translate-x-1/2  -translate-y-1/2">
-                    <svg class="sm:w-[100px] sm:h-[100px] w-16 h-16" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 56 56" fill="none">
-                        <circle cx="27.8926" cy="28.1125" r="27.5" fill="white" fill-opacity="0.8"></circle>
-                        <path d="M39.1753 28.1126L21.5537 38.2864L21.5537 17.9387L39.1753 28.1126Z" fill="black"></path>
-                    </svg>
-                </button>
-                <img src="./assets/images/investor.png" alt="investor">
-            </a>
+    <div class="mb-[71px] xl:mt-[100px] mt-16 mx-auto max-w-[1320px] 3xl:max-w-screen-2xl px-2 sm:px-4">
+        <div class="grid grid-cols-1 lg:grid-cols-2 gap-10">
+        <div class="tradingview-widget-container order-2 lg:order-1" style="height:100%;width:100%">
+                <div class="tradingview-widget-container__widget" style="height:calc(100% - 32px);width:100%"></div>
+                <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
+                    {
+                        "autosize": true,
+                        "symbol": "NEWH",
+                        "interval": "D",
+                        "timezone": "Etc/UTC",
+                        "theme": "light",
+                        "style": "1",
+                        "locale": "en",
+                        "hide_top_toolbar": true,
+                        "hide_legend": true,
+                        "allow_symbol_change": false,
+                        "save_image": false,
+                        "hide_volume": true,
+                        "support_host": "https://www.tradingview.com"
+                    }
+                </script>
             </div>
-
-<div class="tradingview-widget-container mt-12 [&>iframe]:!h-[500px]" style="height:100%;width:100%">
-  <div class="tradingview-widget-container__widget" style="height:calc(100% - 32px);width:100%"></div>
-  <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-advanced-chart.js" async>
-  {
-  "autosize": true,
-  "symbol": "NASDAQ:AAPL",
-  "interval": "D",
-  "timezone": "Etc/UTC",
-  "theme": "light",
-  "style": "1",
-  "locale": "en",
-  "hide_top_toolbar": true,
-  "hide_legend": true,
-  "allow_symbol_change": false,
-  "save_image": false,
-  "hide_volume": true,
-  "support_host": "https://www.tradingview.com"
-}
-  </script>
-</div>
-
+            <div class="relative order-1 lg:order-2">
+                <a href="https://www.youtube.com/watch?v=RH8Kwkn_6Pw">
+                    <button class="absolute left-1/2 top-1/2 -translate-x-1/2  -translate-y-1/2">
+                        <svg class="sm:w-[100px] sm:h-[100px] w-16 h-16" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 56 56" fill="none">
+                            <circle cx="27.8926" cy="28.1125" r="27.5" fill="white" fill-opacity="0.8"></circle>
+                            <path d="M39.1753 28.1126L21.5537 38.2864L21.5537 17.9387L39.1753 28.1126Z" fill="black"></path>
+                        </svg>
+                    </button>
+                    <img src="./assets/images/investor.png" alt="investor">
+                </a>
+            </div>
+        </div>
+        <div class="relative lg:max-w-[995px] max-w-[830px] mx-auto text-center ">
             <h2 class="lg:mt-12 sm:mt-8 mt-4 lg:text-[42px] sm:text-4xl text-3xl mb-2">NewHydrogen Is a Publicly Traded Company</h3>
                 <p class="text-xl font-normal sm:max-w-[80%] max-w-full m-auto">Developing a Breakthrough Technology that Uses Water and Heat Instead of Electricity to Produce the World’s Cheapest Green Hydrogen</p>
                 <a class="py-5 px-10 rounded-[58px] text-xl block w-fit mx-auto mt-8 font-bold bg-custom-green-200" href="">Stock Symbol: NEWH</a>
-
         </div>
         <div class="grid lg:grid-cols-6 md:grid-cols-3 grid-cols-2 mt-28 lg:gap-20 gap-8 relative z-10">
             <div>
@@ -121,13 +118,13 @@
 
         <p class="lg:text-xl text-lg mb-9">According to Goldman Sachs, green hydrogen is a massive once in a lifetime $12 trillion
             market opportunity. </p>
-            <ul class="theme-list space-y-5">
-                <li> Pound for pound, hydrogen contains 3X as much energy as natural gas or gasoline, and 200X as much energy as lithium-ion batteries.</li>
-                <li>It can be used in fuel cells to power electric vehicles or entire cities.</li>
-                <li> It can be used as fuel in gas turbines or internal combustion engines.</li>
-                <li>Green hydrogen is a zero-emission clean fuel and produces only water vapor when used.</li>
-                <li>Hydrogen is the main ingredient in fertilizers that feed our hungry world.</li>
-            </ul>
+        <ul class="theme-list space-y-5">
+            <li> Pound for pound, hydrogen contains 3X as much energy as natural gas or gasoline, and 200X as much energy as lithium-ion batteries.</li>
+            <li>It can be used in fuel cells to power electric vehicles or entire cities.</li>
+            <li> It can be used as fuel in gas turbines or internal combustion engines.</li>
+            <li>Green hydrogen is a zero-emission clean fuel and produces only water vapor when used.</li>
+            <li>Hydrogen is the main ingredient in fertilizers that feed our hungry world.</li>
+        </ul>
     </div>
 
 </section>

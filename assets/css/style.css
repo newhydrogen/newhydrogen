@@ -785,10 +785,6 @@ a:hover{
   top: 6rem;
 }
 
-.top-\[23\%\]{
-  top: 23%;
-}
-
 .top-\[42\%\]{
   top: 42%;
 }
@@ -807,6 +803,14 @@ a:hover{
 
 .z-\[1\]{
   z-index: 1;
+}
+
+.order-1{
+  order: 1;
+}
+
+.order-2{
+  order: 2;
 }
 
 .col-span-5{
@@ -1530,6 +1534,10 @@ a:hover{
 
 .gap-\[62px\]{
   gap: 62px;
+}
+
+.gap-10{
+  gap: 2.5rem;
 }
 
 .space-y-1 > :not([hidden]) ~ :not([hidden]){
@@ -2824,10 +2832,6 @@ html {
     top: 30%;
   }
 
-  .sm\:top-\[32\%\]{
-    top: 32%;
-  }
-
   .sm\:top-\[41\%\]{
     top: 41%;
   }
@@ -3356,8 +3360,12 @@ html {
     right: 38%;
   }
 
-  .lg\:top-\[35\%\]{
-    top: 35%;
+  .lg\:order-1{
+    order: 1;
+  }
+
+  .lg\:order-2{
+    order: 2;
   }
 
   .lg\:mb-8{
@@ -3438,6 +3446,10 @@ html {
 
   .lg\:grid-cols-6{
     grid-template-columns: repeat(6, minmax(0, 1fr));
+  }
+
+  .lg\:grid-cols-2{
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
   .lg\:gap-0{
@@ -3838,14 +3850,6 @@ html {
 
 .\[\&\>h3\]\:font-bold>h3{
   font-weight: 700;
-}
-
-.\[\&\>iframe\]\:h-\[600px\]>iframe{
-  height: 600px;
-}
-
-.\[\&\>iframe\]\:\!h-\[600px\]>iframe{
-  height: 600px !important;
 }
 
 .\[\&\>iframe\]\:\!h-\[500px\]>iframe{
