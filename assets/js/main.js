@@ -79,7 +79,7 @@ $('.popup-youtube').magnificPopup({
 
 });
 
-$('.popup-vimeo').magnificPopup({
+$('.popup-vimeo-hash').magnificPopup({
   type: 'iframe',
   iframe: {
       markup: '<div class="mfp-iframe-scaler">' +
@@ -88,6 +88,8 @@ $('.popup-vimeo').magnificPopup({
           '</div>',
       patterns: {
           vimeo: {
+            // index: 'vimeo.com/',
+            // id: '/',
               index: 'vimeo.com/',
               id: function(url) {
                 var match = url.match(/vimeo\.com\/(\d+)(\?h=[\w]+)/);
@@ -98,7 +100,28 @@ $('.popup-vimeo').magnificPopup({
                   return fallback ? fallback[1] : null;
                 }
               },
-              src: 'https://player.vimeo.com/video/%id%&autoplay=1'
+              src: 'https://player.vimeo.com/video/%id%?autoplay=1'
+          }
+      }
+  },
+  mainClass: 'mfp-fade',
+  removalDelay: 160,
+  preloader: false,
+  fixedContentPos: true,
+});
+
+$('.popup-vimeo').magnificPopup({
+  type: 'iframe',
+  iframe: {
+      markup: '<div class="mfp-iframe-scaler">' +
+          '<div class="mfp-close"></div>' +
+          '<iframe class="mfp-iframe" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>' +
+          '</div>',
+      patterns: {
+          vimeo: {
+              index: 'vimeo.com/',
+              id: '/',
+              src: 'https://player.vimeo.com/video/%id%?autoplay=1'
           }
       }
   },

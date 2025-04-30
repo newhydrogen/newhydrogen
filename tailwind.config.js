@@ -19,6 +19,7 @@ module.exports = {
           'green-500': "#4fe653",
           'orange-100': "#ff5a00",
           'green-600': "#56b947",
+          'green-700': "#00bc05",
           'gray-100': "#D8D5E8",
           'gray-200': "#F2F6FA",
           'gray-300':"#b5b4b4",
@@ -32,6 +33,7 @@ module.exports = {
           'white-100': "#F2F6FA",
           'white-200': "#A1B5C8",
           'dark-100': "#000000B2",
+          'red-100': "#FF0000",
         },
       },
       screens: {

@@ -1,14 +1,15 @@
 <section class=" xl:pt-[100px] md:pt-20 pt-9">
     <div class="mx-auto lg:max-w-screen-lg xl:max-w-screen-xl px-2 sm:px-4 ">
-        <h1 class='max-w-[950px] mx-auto w-full text-[50px] text-center'>
-        Short Explainer Video
+        <h1 class=' w-full text-5xl text-center leading-tight'>
+        We Are Developing the World's Cheapest Green Hydrogen
         </h1>
-        <div class="mt-6 md:mt-[89px]">
-        <iframe id="explainer-video" title="vimeo-player" class='w-full aspect-video relative z-10' src="https://player.vimeo.com/video/1074972732?h=f28ef9ddbb&autoplay=1&loop=1&muted=1&volume=1" frameborder="0" allowfullscreen></iframe>
+        <p class="w-full text-3xl text-center leading-tight font-light mt-6">Watch Our Short Explainer Video</p>
+        <div class="mt-6">
+        <iframe id="explainer-video" title="vimeo-player" class='w-full aspect-video relative z-10' src="https://player.vimeo.com/video/1074972732?h=f28ef9ddbb&autoplay=1&loop=1" frameborder="0" allowfullscreen></iframe>
         </div>
 
         <div class="flex justify-center mt-6 md:mt-16 relative z-10">
-            <a href="https://newhydrogen.com/single-news.php?id=83" class="py-2.5 px-4 rounded-lg text-sm sm:text-base text-center font-semibold break-words bg-custom-green-500 text-black hover:text-black inline-block">Breaking News: Patent Pending</a>
+            <a href="/fasttrack" class="py-4 px-8 rounded-lg text-sm sm:text-xl text-center font-semibold break-words bg-custom-red-100 text-white hover:text-white inline-block">Investors Click Here</a>
         </div>
     </div>
 </section>

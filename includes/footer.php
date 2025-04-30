@@ -1,5 +1,6 @@
-<footer class="bg-custom-gray-dark-100 pt-20 pb-14">
+<footer class="bg-custom-gray-dark-100 <?php echo ($page === 'fasttrack') ? 'pt-10' : 'pt-20'; ?> pb-14">
     <div class="mx-auto max-w-screen-xl px-2 sm:px-4">
+        <?php if ($page !== 'fasttrack') { ?>
         <div class="space-y-6">
             <p class="text-center text-white text-2xl">Be the first to know when we reach new milestones in our tech development</p>
             <form id="jotformForm" action="https://submit.jotform.com/submit/242986385047065/" method="POST" method="POST" autocomplete="off" class="max-w-[475px] mx-auto relative">
@@ -32,7 +33,8 @@
                     }
                 </script>
         </div>
-        <div class="mt-16 mb-20 max-w-7xl px-4 mx-auto space-y-3 text-center">
+        <?php } ?>
+        <div class="<?php echo $page === 'fasttrack' ? '' : 'mt-16'; ?> mb-20 max-w-7xl px-4 mx-auto space-y-3 text-center">
             <p class="text-white/50 text-sm text-left sm:text-base">Matters discussed in this page contain forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. When used in this page, the words <span class="text-white/80">"anticipate," "believe," "estimate," "may," "intend," "expect"</span> and similar expressions identify such forward-looking statements. Actual results, performance or achievements could differ materially from those contemplated, expressed or implied by the forward-looking statements contained herein. These forward-looking statements are based largely on the expectations of the Company and are subject to a number of risks and uncertainties. These include, but are not limited to, risks and uncertainties associated with: the impact of economic, competitive and other factors affecting the Company and its operations, markets, the impact on the national and local economies resulting from terrorist actions, the impact of public health epidemics on the global economy and other factors detailed in reports filed by the Company with the United States Securities and Exchange Commission.</p>
 
             <p class="text-white/50 text-sm text-left sm:text-base"> Any forward-looking statement made by us in this page is based only on information currently available to us and speaks only as of the date on which it is made. We undertake no obligation to publicly update any forward-looking statement, whether written or oral, that may be made from time to time, whether as a result of new information, future developments or otherwise.</p>
