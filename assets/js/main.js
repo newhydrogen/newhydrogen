@@ -32,6 +32,65 @@ $(document).ready(function () {
             ]
         });
     }
+
+    if ($('.vimeo-custom-btn').length) {
+      document.querySelectorAll('.vimeo-custom-btn').forEach(button => {
+        button.addEventListener('click', function() {
+          const wrapper = this.parentElement;
+          const iframe = wrapper.querySelector('iframe');
+          const playButton = this;
+          
+          // Save original iframe HTML to restore later
+          if (!wrapper.dataset.originalIframe) {
+            wrapper.dataset.originalIframe = wrapper.innerHTML;
+          }
+          
+          // Create a new src with autoplay and controls
+          let newSrc = iframe.src;
+          // Add autoplay parameter
+          if (newSrc.includes('?')) {
+            newSrc = newSrc.replace('autoplay=0', 'autoplay=1');
+            if (!newSrc.includes('autoplay=')) {
+              newSrc += '&autoplay=1';
+            }
+          } else {
+            newSrc += '?autoplay=1';
+          }
+          
+          // Add controls parameter
+          if (newSrc.includes('?')) {
+            newSrc = newSrc.replace('controls=0', 'controls=1');
+            if (!newSrc.includes('controls=')) {
+              newSrc += '&controls=1';
+            }
+          } else {
+            newSrc += '?controls=1';
+          }
+          
+          // Update src and hide button
+          iframe.src = newSrc;
+          playButton.style.display = 'none';
+          
+          // Listen for messages from Vimeo player
+          function handleVimeoMessage(e) {
+            if (typeof e.data === 'string' && e.data.includes('vimeo:')) {
+              try {
+                const data = JSON.parse(e.data.replace('vimeo:', ''));
+                if (data.event === 'pause') {
+                  // Reset to original state when paused
+                  wrapper.innerHTML = wrapper.dataset.originalIframe;
+                  window.removeEventListener('message', handleVimeoMessage);
+                }
+              } catch(err) {
+                // Ignore parsing errors
+              }
+            }
+          }
+          
+          window.addEventListener('message', handleVimeoMessage);
+        });
+      });
+    }
 });
 
 
