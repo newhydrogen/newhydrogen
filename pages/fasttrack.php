@@ -3,8 +3,8 @@
         <h1 class="w-full text-4xl sm:text-[50px] leading-tight text-center font-semibold">Developing the World's Cheapest Green Hydrogen <br> Why New Hydrogen is on a Fast Track</h1>
         <p class="text-center text-2xl mt-6 text-custom-orange-100 font-semibold">Watch Now to See Our Progress</p>
         <div class="mt-9 lg:max-w-[995px] max-w-[830px] mx-auto relative">
-            <iframe id="explainer-video" title="vimeo-player" class='w-full aspect-video relative z-10' src="https://player.vimeo.com/video/1078126370?controls=0&autoplay=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-                <div class="absolute inset-0 bg-black bg-opacity-20 flex items-center justify-center cursor-pointer z-20 vimeo-custom-btn">
+            <iframe id="explainer-video" title="vimeo-player" class='w-full aspect-video relative z-10' src="https://player.vimeo.com/video/1078126370?controls=0&autoplay=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen playsinline></iframe>
+                <div class="absolute inset-0 flex items-center justify-center cursor-pointer z-20 vimeo-custom-btn">
                 <svg class="sm:w-[100px] sm:h-[100px] w-16 h-16" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 56 56" fill="none">
                     <circle cx="27.8926" cy="28.1125" r="27.5" fill="white" fill-opacity="0.8"></circle>
                     <path d="M39.1753 28.1126L21.5537 38.2864L21.5537 17.9387L39.1753 28.1126Z" fill="black"></path>
