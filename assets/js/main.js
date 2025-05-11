@@ -33,62 +33,36 @@ $(document).ready(function () {
     });
   }
 
-  if ($(".vimeo-custom-btn").length) {
-
-    const iframe = document.getElementById("explainer-video");
-    const playButton = $(".vimeo-custom-btn");
-    let player = new Vimeo.Player(iframe);
-
-    // Check if the device is iPhone
-    function isIPhone() {
-      return /iPhone|iPod/.test(navigator.userAgent) && !window.MSStream;
-    }
-
-    playButton.on("click", function () {
-      const newSrc = updateVimeoSrc(iframe.src, {
-        autoplay: "1",
-        controls: "1",
-        muted: "0",
-      });
-
-      iframe.onload = function () {
-        player = new Vimeo.Player(iframe);
-      };
-
-      iframe.src = newSrc;
-      playButton.hide();
-
-      player.setMuted(true);
-      player
-        .play()
-        .then(function () {
-          playButton.hide(); 
-          player.setControls(true);
-
-          if (isIPhone()) {
-            setTimeout(() => {
-              player.setMuted(false);
-              player.setVolume(1);
-            }, 500);
-          } else {
-            player.setMuted(false);
-            player.setVolume(1);
-          }
-        })
-        .catch(function (error) {
-          console.error("Error playing the video:", error);
-        });
-    });
-
-    // Function to update Vimeo video URL with new parameters
-    function updateVimeoSrc(src, params) {
-      const url = new URL(src);
-      for (const key in params) {
-        url.searchParams.set(key, params[key]);
-      }
-      return url.toString();
-    }
+  function isIOS() {
+    return /iPad|iPhone|iPod/.test(navigator.userAgent);
   }
+
+  document.querySelectorAll('.vimeo-custom-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      btn.style.display = 'none';
+
+      // Get sibling iframe (previousElementSibling or use parent)
+      const wrapper = btn.closest('.video-wrapper');
+      const iframe = wrapper.querySelector('iframe');
+      const videoId = iframe.dataset.videoId;
+
+      const newSrc = `https://player.vimeo.com/video/${videoId}?controls=1&muted=1&playsinline=1`;
+      const newIframe = iframe.cloneNode();
+      newIframe.src = newSrc;
+
+      iframe.replaceWith(newIframe);
+
+      const player = new Vimeo.Player(newIframe);
+
+      if (isIOS()) {
+        player.setMuted(true).then(() => player.play());
+      } else {
+        player.setMuted(false);
+        player.setVolume(1);
+        player.play();
+      }
+    });
+  });
 });
 
 document.addEventListener("DOMContentLoaded", () => {

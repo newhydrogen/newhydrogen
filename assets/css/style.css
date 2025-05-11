@@ -805,12 +805,12 @@ a:hover{
   z-index: 20;
 }
 
-.z-\[1\]{
-  z-index: 1;
-}
-
 .z-30{
   z-index: 30;
+}
+
+.z-\[1\]{
+  z-index: 1;
 }
 
 .col-span-5{
@@ -1784,10 +1784,6 @@ a:hover{
 .bg-white{
   --tw-bg-opacity: 1;
   background-color: rgb(255 255 255 / var(--tw-bg-opacity, 1));
-}
-
-.bg-opacity-20{
-  --tw-bg-opacity: 0.2;
 }
 
 .bg-banner{
