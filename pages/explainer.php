@@ -1,11 +1,26 @@
 <section class=" xl:pt-[100px] md:pt-20 pt-9">
     <div class="mx-auto lg:max-w-screen-lg xl:max-w-screen-xl px-2 sm:px-4 ">
         <h1 class=' w-full text-5xl text-center leading-tight'>
-        We Are Developing the World's Cheapest Green Hydrogen
+            We Are Developing the World's Cheapest Green Hydrogen
         </h1>
         <p class="w-full text-3xl text-center leading-tight font-light mt-6">Watch Our Short Explainer Video</p>
-        <div class="mt-6">
-        <iframe id="explainer-video" title="vimeo-player" class='w-full aspect-video relative z-10' src="https://player.vimeo.com/video/1074972732?h=f28ef9ddbb&autoplay=1&loop=1" frameborder="0" allowfullscreen></iframe>
+        <div class="mt-6 lg:max-w-[995px] max-w-[830px] mx-auto relative video-wrapper">
+            <!-- <iframe id="explainer-video" title="vimeo-player" class='w-full aspect-video relative z-10' src="https://player.vimeo.com/video/1074972732?h=f28ef9ddbb&controls=0&autoplay=0" allow="autoplay; fullscreen; picture-in-picture"  frameborder="0" allowfullscreen playsinline></iframe> -->
+                <iframe 
+                data-video-id="1074972732"
+                src="https://player.vimeo.com/video/1074972732?controls=0&muted=1&playsinline=1"
+                frameborder="0"
+                allow="autoplay; fullscreen; picture-in-picture"
+                allowfullscreen
+                playsinline
+                class="w-full aspect-video relative z-10">
+                </iframe>
+            <button type="button" class="absolute inset-0 flex items-center justify-center cursor-pointer z-20 vimeo-custom-btn">
+                <svg class="sm:w-[100px] sm:h-[100px] w-16 h-16" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 56 56" fill="none">
+                    <circle cx="27.8926" cy="28.1125" r="27.5" fill="white" fill-opacity="0.8"></circle>
+                    <path d="M39.1753 28.1126L21.5537 38.2864L21.5537 17.9387L39.1753 28.1126Z" fill="black"></path>
+                </svg>
+            </button>
         </div>
 
         <div class="flex justify-center mt-6 md:mt-16 relative z-10">
@@ -54,7 +69,7 @@
                 <h2 class="font-bold lg:text-[42px] text-4xl">The Right Technology</h2>
 
             </div>
-            <p class="lg:text-xl text-lg mb-9">We are developing ThermoLoop™, a breakthrough technology to produce the world’s
+            <p class="lg:text-xl text-lg mb-9">We are developing ThermoLoop™, a breakthrough technology to produce the world's
             </p>
             <ul>
                 <li class="flex gap-[26px] xl:pb-7 pb-[30px] items-center"><span class="min-w-[18px]"><img src="./assets/images/h-icon-green.png" alt="h-icon-green" width="18" height="20"></span>
@@ -98,13 +113,13 @@
 
         <p class="lg:text-xl text-lg mb-9">According to Goldman Sachs, green hydrogen is a massive once in a lifetime $12 trillion
             market opportunity. </p>
-            <ul class="theme-list space-y-5">
-                <li> Pound for pound, hydrogen contains 3X as much energy as natural gas or gasoline, and 200X as much energy as lithium-ion batteries.</li>
-                <li>It can be used in fuel cells to power electric vehicles or entire cities.</li>
-                <li> It can be used as fuel in gas turbines or internal combustion engines.</li>
-                <li>Green hydrogen is a zero-emission clean fuel and produces only water vapor when used.</li>
-                <li>Hydrogen is the main ingredient in fertilizers that feed our hungry world.</li>
-            </ul>
+        <ul class="theme-list space-y-5">
+            <li> Pound for pound, hydrogen contains 3X as much energy as natural gas or gasoline, and 200X as much energy as lithium-ion batteries.</li>
+            <li>It can be used in fuel cells to power electric vehicles or entire cities.</li>
+            <li> It can be used as fuel in gas turbines or internal combustion engines.</li>
+            <li>Green hydrogen is a zero-emission clean fuel and produces only water vapor when used.</li>
+            <li>Hydrogen is the main ingredient in fertilizers that feed our hungry world.</li>
+        </ul>
     </div>
 
 </section>
@@ -145,4 +160,3 @@
         </div>
     </div>
 </section>
-

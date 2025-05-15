@@ -11,6 +11,7 @@
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/slick-carousel@1.8.1/slick/slick.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.1.0/magnific-popup.min.css">
     <link href="<?php echo  $full_url; ?>/assets/css/style.css?v=<?php echo time(); ?>" rel="stylesheet">
+    <script src="https://player.vimeo.com/api/player.js"></script>
     <title>Newhydrogen</title>
 
     <!-- Meta Pixel Code -->
@@ -43,7 +44,7 @@
 
 <body class="<?php echo ($page === 'home') ? 'home' : ''; ?>">
 
-    <div class="sticky top-0 z-20 bg-white transition-all duration-300 ease-in-out header-top">
+    <div class="sticky top-0 z-30 bg-white transition-all duration-300 ease-in-out header-top">
         <div class="bg-black sm:px-5">
             <div class="mx-auto max-w-[1320px] 3xl:max-w-screen-2xl px-2 sm:px-4">
                 <div class="relative py-2 flex justify-between items-center gap-1.5 sm:block">
