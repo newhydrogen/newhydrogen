@@ -2905,6 +2905,10 @@ html {
     height: 600px;
   }
 
+  .sm\:h-\[60px\]{
+    height: 60px;
+  }
+
   .sm\:w-1\/2{
     width: 50%;
   }
