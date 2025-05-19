@@ -16,25 +16,25 @@
                 <p class="text-xl font-normal sm:max-w-[80%] max-w-full m-auto">Developing a Breakthrough Technology that Uses Water and Heat Instead of Electricity to Produce the World’s Cheapest Green Hydrogen</p>
                 <a class="py-5 px-10 rounded-[58px] text-xl block w-fit mx-auto mt-8 font-bold bg-custom-green-200" href="">Stock Symbol: NEWH</a>
         </div>
-        <div class="grid lg:grid-cols-6 md:grid-cols-3 grid-cols-2 mt-28 lg:gap-20 gap-8 relative z-10">
-            <div>
-                <img class="min-h-14 md:m-0 m-auto" src="./assets/images/investor1.png" alt="investor">
-            </div>
-            <div>
-                <img class="min-h-14 md:m-0 m-auto" src="./assets/images/investor2.png" alt="investor">
-            </div>
-            <div>
-                <img class="min-h-14 md:m-0 m-auto" src="./assets/images/investor3.png" alt="investor">
-            </div>
-            <div>
-                <img class="min-h-14 md:m-0 m-auto" src="./assets/images/investor4.png" alt="investor">
-            </div>
-            <div>
-                <img class="min-h-14 md:m-0 m-auto" src="./assets/images/investor5.png" alt="investor">
-            </div>
-            <div>
-                <img class="min-h-14 md:m-0 m-auto" src="./assets/images/investor6.png" alt="investor">
-            </div>
+        <div class="grid lg:grid-cols-6 md:grid-cols-3 grid-cols-2 mt-28 lg:gap-20 gap-8 relative z-10 items-center">
+            <a href="https://www.schwab.com/" target="_blank">
+                <img class="md:m-0 m-auto" src="./assets/images/investor1.png" alt="investor">
+            </a>
+            <a href="https://www.interactivebrokers.com/" target="_blank">
+                <img class="md:m-0 m-auto" src="./assets/images/investor2.png" alt="investor">
+            </a>
+            <a href="https://us.etrade.com/" target="_blank">
+                <img class="md:m-0 m-auto" src="./assets/images/investor3.png" alt="investor">
+            </a>
+            <a href="https://www.ally.com/invest/" target="_blank">
+                <img class="md:m-0 m-auto" src="./assets/images/investor4.png" alt="investor">
+            </a>
+            <a href="https://www.ml.com/" target="_blank">
+                <img class="md:m-0 m-auto" src="./assets/images/investor5.png" alt="investor">
+            </a>
+            <a href="https://www.fidelity.com/" target="_blank">
+                <img class="md:m-0 m-auto" src="./assets/images/investor6.png" alt="investor">
+            </a>
         </div>
     </div>
 </section>
