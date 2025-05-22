@@ -3,6 +3,40 @@
 
 $news = [
     [
+        'id' => "87",
+        'title' => "Sundar Narayanan to Serve as NewHydrogen Director of Process Engineering",
+        'date' => "May 20, 2025",
+        'excerpt' => "NewHydrogen, Inc. (OTCQB:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than renewable electricity to produce the world’s cheapest green hydrogen, today announced the appointment of Sundar Narayanan as Director of Process Engineering",
+        'description' => [
+            [
+                "<p><strong>Accomplished chemical engineer to lead process development and scale-up of the Company’s green hydrogen technology</strong></p>"
+            ],
+            [
+                "<p>Santa Clarita, California (May 20, 2025) – NewHydrogen, Inc. (OTCQB:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than renewable electricity to produce the world’s cheapest green hydrogen, today announced the appointment of Sundar Narayanan as Director of Process Engineering.</p>"
+            ],
+            [
+                "<p>With over 35 years of experience in process development, scale-up, and commercialization, Mr. Narayanan brings deep expertise in chemical process design and innovation. His career spans leadership roles at major institutions including ExxonMobil Research & Engineering and Aspen Technology, where he spearheaded energy efficiency improvements, developed and implemented automated process monitoring systems, and provided technical direction for integrating advanced technologies such as molten carbonate fuel cells. </p>"
+            ],
+            [
+                "<p>“Few engineers possess Sundar’s level of practical and technical depth in process development and systems integration,” said Steve Hill, CEO of NewHydrogen. “His experience evaluating, adapting, and commercializing novel technologies aligns perfectly with our mission to deliver the world’s cheapest green hydrogen.”</p>"
+            ],
+            [
+                "<p>“I’m excited to join the talented team at NewHydrogen and help advance a truly game-changing technology,” said Narayanan. “Scaling up ThermoLoop™ is a unique opportunity to apply decades of process engineering knowledge to accelerate the transition to clean, cost-effective hydrogen.”</p>"
+            ],
+            [
+                "<p>Mr. Narayanan has been a key contributor to several high-impact publications and patents in energy efficiency and emissions reduction, and he continues to consult with cleantech innovators like C-Zero. He holds a B.Tech. in Chemical Engineering from the University of Madras and an M.S. in Chemical Engineering from the University of Akron. </p>"
+            ],
+            [
+                "<p>At NewHydrogen, Mr. Narayanan will play a central role in refining and scaling the company’s ThermoLoop™ technology as it moves toward pilot deployment.</p>"
+            ],
+            [
+                "<p>To learn more about NewHydrogen’s work with leading scientists at UC Santa Barbara to develop the world's cheapest green hydrogen, please visit <a href='NewHydrogen.com' target='_blank'>NewHydrogen.com</a>. </p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "86",
         'title' => "Eric McFarland to Serve as NewHydrogen Chief Technology Officer",
         'date' => "April 29, 2025",
