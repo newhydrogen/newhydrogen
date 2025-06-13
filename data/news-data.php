@@ -3,6 +3,40 @@
 
 $news = [
     [
+        'id' => "88",
+        'title' => "NewHydrogen’s Plan to Win the Green Hydrogen Race",
+        'date' => "June 12, 2025",
+        'excerpt' => "NewHydrogen, Inc. (OTCQB: NEWH), developer of ThermoLoop™, a technology that uses water and heat to produce the world’s cheapest green hydrogen, today described its plan to replace expensive electrolyzers and win the renewable hydrogen race",
+        'description' => [
+            [
+                "<p><strong>The Company’s ThermoLoop™ technology is being developed to replace expensive electrolyzers and could upend a $12 trillion market with a flood of the world’s cheapest green hydrogen</strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (June 12, 2025) – NewHydrogen, Inc. (OTCQB: NEWH), developer of ThermoLoop™, a technology that uses water and heat to produce the world’s cheapest green hydrogen, today described its plan to replace expensive electrolyzers and win the renewable hydrogen race.</p>"
+            ],
+            [
+                "<p>NewHydrogen CEO Steve Hill said, “Today, using electrolyzers is the only commercially available way to split water to produce renewable hydrogen. Electrolyzers have dominated the headlines, but their reign may be coming to an end. The time has come to kill electrolyzers!” </p>"
+            ],
+            [
+                "<p>“The renewable hydrogen industry’s heavy bet on electrolysis is holding it back,” Mr. Hill continued. “Why? Because electrolyzers are old tech—expensive, inefficient, and fundamentally flawed. These 200-year-old systems still depend on large amounts of electricity and face major cost and scaling challenges. Despite massive investment, they’ve struggled to deliver the cost reductions and reliability needed to help unlock the global hydrogen economy.”</p>"
+            ],
+            [
+                "<p>At the heart of ThermoLoop is its novel materials and novel reactions that keep the process running at nearly the same temperature—eliminating the energy losses of traditional thermochemical heating and cooling cycles. The Company believes this can overcome a long-standing thermochemical challenge: how to scale without wasting energy. This approach enables continuous, 24/7 hydrogen production wherever there’s heat and water.</p>"
+            ],
+            [
+                "<p>Even when using large industrial heaters powered by electricity, ThermoLoop’s theoretical heat-based thermodynamic efficiency suggests it can outperform electrolyzers on a cost-per-kilogram basis. That can make ThermoLoop technology not only an alternative, but a direct threat to the electrolysis-first strategy dominating today’s hydrogen buildout.</p>"
+            ],
+            [
+                "<p>Mr. Hill concluded, “Relying on inefficient electrolyzer technology won’t get us to the projected $12 trillion hydrogen economy. Other horses in the race that rely on massive tracts of land and part-time sunlight won’t get us there either. In my opinion, it’s ThermoLoop or bust. We believe ThermoLoop can offer a smarter path forward and has the potential to be the key to finally delivering on green hydrogen’s global promise.”</p>"
+            ],
+            [
+                "<p>To watch a short explainer video about ThermoLoop™ or to learn more about NewHydrogen's mission to produce the world's cheapest green hydrogen, visit NewHydrogen.com.  </p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "87",
         'title' => "Sundar Narayanan to Serve as NewHydrogen Director of Process Engineering",
         'date' => "May 20, 2025",
