@@ -86,7 +86,7 @@
             </ul>
         </div>
         <div>
-        <h2 class=" text-white font-bold xl:text-[64px] lg:text-5xl text-4xl xl:mb-[45px] mb-5 md:hidden">Novel Material</h2>
+            <h2 class=" text-white font-bold xl:text-[64px] lg:text-5xl text-4xl xl:mb-[45px] mb-5 md:hidden">Novel Material</h2>
             <img class="2xl:max-w-[771px] md:w-full w-[600px] md:m-0 m-auto" src="./assets/images/noval.png" alt="noval">
         </div>
     </div>
@@ -95,7 +95,7 @@
 <section class="bg-custom-gray-200 lg:py-[121px] py-20">
     <div class="mx-auto lg:max-w-screen-lg xl:max-w-screen-xl px-2 sm:px-4 grid grid-cols-1 md:grid-cols-2 gap-6 items-center">
         <div>
-        <h2 class="font-bold xl:text-[64px] lg:text-5xl text-4xl md:hidden mb-5">We Designed a Set of <span class="font-bold">Novel Chemical Reactions</span></h2>
+            <h2 class="font-bold xl:text-[64px] lg:text-5xl text-4xl md:hidden mb-5">We Designed a Set of <span class="font-bold">Novel Chemical Reactions</span></h2>
             <img class="md:w-full w-[600px] md:m-0 m-auto" src="./assets/images/chemecial-reactions.png" alt="chemecial-reactions">
         </div>
         <div class="md:max-w-[509px] max-w-full ml-auto">
@@ -120,8 +120,8 @@
             </ul>
         </div>
         <div>
-        <h2 class="xl:text-[64px] lg:text-5xl text-4xl font-bold md:hidden mb-5">A Highly Scalable Thermochemical Water-Splitting System</h2>
-            <img class="md:w-full w-[600px] md:m-0 m-auto" src="./assets/images/Highly-Scalable.png" alt="Highly-Scalable">
+            <h2 class="xl:text-[64px] lg:text-5xl text-4xl font-bold md:hidden mb-5">A Highly Scalable Thermochemical Water-Splitting System</h2>
+            <img class="md:w-full w-[600px] md:m-0 m-auto" src="./assets/images/Highly-Scalable-2.png" alt="Highly-Scalable">
         </div>
     </div>
 </section>
@@ -142,7 +142,7 @@
     </div>
 </section>
 
-<section class="bg-custom-gray-200 lg:py-[121px] py-20 text-center ">
+<!-- <section class="bg-custom-gray-200 lg:py-[121px] py-20 text-center ">
 
     <div class="mx-auto lg:max-w-screen-lg xl:max-w-screen-xl px-2 sm:px-4">
         <h2 class="xl:text-[64px] lg:text-5xl text-4xl font-bold ">Development Plan</h2>
@@ -171,4 +171,12 @@
             </div>
         </div>
     </div>
+</section> -->
+
+
+<section class="bg-custom-gray-200 pb-20">
+    <div class="mx-auto max-w-[1320px] 3xl:max-w-screen-2xl px-2 sm:px-4">
+        <img src="./assets/images/development-plan.svg" alt="development-plan">
+    </div>
+
 </section>

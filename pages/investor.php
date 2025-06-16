@@ -7,8 +7,8 @@
             <div class="grid grid-cols-12 gap-6">
                 <div class="col-span-12 lg:col-span-3 flex items-center">
                     <div class="flex flex-col gap-8 items-center">
-                        <a href="https://finance.yahoo.com/quote/NEWH/ " target="_blank" class="bg-gradient-to-b from-[#00fe2e] to-[#11a12c] text-white w-64 h-32 flex items-center justify-center py-5 px-10 rounded-2xl text-3xl font-semibold hover:text-white">Stock Info</a>
-                        <a href="/assets/pdf/NEWH-Investor-Presentation-v38.pdf" class="bg-gradient-to-b from-[#00fe2e] to-[#11a12c] text-white w-64 h-32 flex items-center justify-center py-5 px-10 rounded-2xl text-3xl font-semibold hover:text-white">Investor Presentation</a>
+                        <a href="https://finance.yahoo.com/quote/NEWH/ " target="_blank" class="bg-gradient-to-b from-[#75b2f8] to-[#007aff] text-white w-64 h-32 flex items-center justify-center py-5 px-10 rounded-2xl text-3xl font-semibold hover:text-white">Stock Info</a>
+                        <a href="/assets/pdf/NEWH-Investor-Presentation-v38.pdf" target="_blank" class="bg-gradient-to-b from-[#75b2f8] to-[#007aff] text-white w-64 h-32 flex items-center justify-center py-5 px-10 rounded-2xl text-3xl font-semibold hover:text-white">Investor Presentation</a>
                     </div>
                 </div>
                 <div class="col-span-12 lg:col-span-9 relative">

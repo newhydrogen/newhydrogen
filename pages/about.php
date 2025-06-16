@@ -39,7 +39,7 @@
     <div class="mx-auto px-2 sm:px-4 lg:max-w-screen-lg xl:max-w-screen-xl py-20">
         <div>
             <h2 class="text-[36px] lg:text-5xl font-black leading-[1.1]">Our Company Team</h2>
-            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-x-[120px] gap-y-10 mt-16">
+            <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-x-[120px] gap-y-10 mt-16">
                 <div class="bg-white rounded-[30px] p-6 h-auto md:h-[300px] relative max-w-[calc(100%_-_75px)] lg:max-w-full">
                     <div class="flex flex-col justify-between h-full">
                         <div class="relative before:content-[''] before:absolute before:top-0 before:-left-6 before:w-0.5 before:h-full before:bg-[#76b3f8] before:bg-no-repeat md:mb-0 mb-4 md:pr-0 pr-16">
@@ -117,7 +117,7 @@
         <div class="mt-28">
             <h2 class="text-[36px] lg:text-5xl font-black leading-[1.1]">The UCSB Technology Team</h2>
             <div class="grid grid-cols-1 md:grid-cols-12 gap-x-[120px] gap-y-10 mt-16">
-                <div class="md:col-span-4 lg:col-start-5 bg-white rounded-[30px] p-6 h-auto md:h-[300px] relative max-w-[calc(100%_-_75px)] lg:max-w-full">
+                <div class="md:col-span-4 xl:col-start-5 bg-white rounded-[30px] p-6 h-auto md:h-[300px] relative max-w-[calc(100%_-_75px)] lg:max-w-full">
                     <div class="flex flex-col justify-between h-full">
                         <div class="relative before:content-[''] before:absolute before:top-0 before:-left-6 before:w-0.5 before:h-full before:bg-[#76b3f8] before:bg-no-repeat md:mb-0 mb-4 md:pr-0 pr-16">
                             <h6>Phillip Christopher, PhD</h6>
@@ -132,7 +132,7 @@
             </div>
             <div class="grid grid-cols-1 md:grid-cols-12 gap-x-[120px] gap-y-10 mt-16">
               
-                <div class="md:col-span-4 lg:col-start-3 bg-white rounded-[30px] p-6 h-auto md:h-[300px] relative max-w-[calc(100%_-_75px)] lg:max-w-full">
+                <div class="md:col-span-4 xl:col-start-3 bg-white rounded-[30px] p-6 h-auto md:h-[300px] relative max-w-[calc(100%_-_75px)] lg:max-w-full">
                     <div class="flex flex-col justify-between h-full">
                         <div class="relative before:content-[''] before:absolute before:top-0 before:-left-6 before:w-0.5 before:h-full before:bg-[#76b3f8] before:bg-no-repeat md:mb-0 mb-4 md:pr-0 pr-16">
                             <h6>Justin Marlowe, PhD </h6>
