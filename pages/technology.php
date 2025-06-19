@@ -1,21 +1,46 @@
-<section class="mb-[115px] xl:mt-[100px] mt-16 mx-auto lg:max-w-screen-lg xl:max-w-screen-xl px-2 sm:px-4 ">
-    <img class="mx-auto xl:max-w-[420px] max-w-[370px]" src="./assets/images/thermoloop-logo.png" width="420" alt="thermoloop-logo">
-    <h1 class="font-normal pt-[13px] xl:text-[64px] text-5xl text-center">The Electrolyzer Killer</h1>
-    <div class="grid grid-cols-1 md:grid-cols-2 lg:mt-[87px] mt-14 gap-6">
-        <div class="max-w-[620px]">
-            <h2 class="font-bold xl:text-[64px] lg:text-5xl text-4xl xl:mb-[45px] mb-5">The Problem</h2>
-            <p class="  text-2xl lg:text-3xl  xl:text-[42px]  xl:leading-tight font-normal  xl:mb-8 mb-5"><span class="font-bold">The primary way of making green hydrogen today </span> is to split water using green electricity (solar and wind) and electrolyzers.</p>
-            <ul class="theme-list blue-list space-y-5">
-                <li>Green electricity is expensive!</li>
-                <li>Electrolyzers are also expensive!</li>
-                <li>Today <span class="font-bold">73% of the cost</span> of green hydrogen is electricity.</li>
-                <li>Electrolyzers are based on a <span class="font-bold">200-year-old technology.</span></li>
-                <li>Now there is a better way!</li>
-            </ul>
+<section class="mb-[115px] xl:mt-[100px] mt-16">
+    <div class="mx-auto lg:max-w-screen-lg xl:max-w-screen-xl px-2 sm:px-4">
+        <img class="mx-auto xl:max-w-[420px] max-w-[370px]" src="./assets/images/thermoloop-logo.png" width="420" alt="thermoloop-logo">
+        <h1 class="font-normal pt-[13px] xl:text-[64px] text-5xl text-center">The Electrolyzer Killer</h1>
+    </div>
+    <div class="bg-custom-gray-200 py-10 mt-14">
+        <p class="text-black text-center font-bold text-xl mb-1.5">Short Explainer Video</p>
+        <div class="lg:max-w-[995px] max-w-[830px] mx-auto relative video-wrapper">
 
+            <iframe
+                data-video-id="1074972732"
+                src="https://player.vimeo.com/video/1074972732?controls=0&muted=1&playsinline=1"
+                frameborder="0"
+                allow="autoplay; fullscreen; picture-in-picture"
+                allowfullscreen
+                playsinline
+                class="w-full aspect-video relative z-10">
+            </iframe>
+            <button type="button" class="absolute inset-0 flex items-center justify-center cursor-pointer z-20 vimeo-custom-btn">
+                <svg class="sm:w-[100px] sm:h-[100px] w-16 h-16" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 56 56" fill="none">
+                    <circle cx="27.8926" cy="28.1125" r="27.5" fill="white" fill-opacity="0.8"></circle>
+                    <path d="M39.1753 28.1126L21.5537 38.2864L21.5537 17.9387L39.1753 28.1126Z" fill="black"></path>
+                </svg>
+            </button>
         </div>
-        <div>
-            <img class="md:w-full w-[600px] md:m-0 m-auto" src="./assets/images/green-hydrogen.png" alt="green-hydrogen">
+    </div>
+    <div class="mx-auto lg:max-w-screen-lg xl:max-w-screen-xl px-2 sm:px-4">
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:mt-[87px] mt-14 gap-6">
+            <div class="max-w-[620px]">
+                <h2 class="font-bold xl:text-[64px] lg:text-5xl text-4xl xl:mb-[45px] mb-5">The Problem</h2>
+                <p class="  text-2xl lg:text-3xl  xl:text-[42px]  xl:leading-tight font-normal  xl:mb-8 mb-5"><span class="font-bold">The primary way of making green hydrogen today </span> is to split water using green electricity (solar and wind) and electrolyzers.</p>
+                <ul class="theme-list blue-list space-y-5">
+                    <li>Green electricity is expensive!</li>
+                    <li>Electrolyzers are also expensive!</li>
+                    <li>Today <span class="font-bold">73% of the cost</span> of green hydrogen is electricity.</li>
+                    <li>Electrolyzers are based on a <span class="font-bold">200-year-old technology.</span></li>
+                    <li>Now there is a better way!</li>
+                </ul>
+
+            </div>
+            <div>
+                <img class="md:w-full w-[600px] md:m-0 m-auto" src="./assets/images/green-hydrogen.png" alt="green-hydrogen">
+            </div>
         </div>
     </div>
 </section>
@@ -176,10 +201,19 @@
 
 <section class="bg-custom-gray-200 pb-20">
     <div class="mx-auto max-w-[1320px] 3xl:max-w-screen-2xl px-2 sm:px-4">
-    <img class="hidden md:block" src="./assets/images/development-plan.svg" alt="development-plan">
-            <div class="block md:hidden max-w-96 mx-auto">
-                <img src="./assets/images/mobile-development-plan.png" alt="development-plan">
-            </div>
+        <img class="hidden md:block" src="./assets/images/development-plan.svg" alt="development-plan">
+        <div class="block md:hidden max-w-96 mx-auto">
+            <img src="./assets/images/mobile-development-plan.png" alt="development-plan">
+        </div>
+    </div>
+
+</section>
+
+
+<section class="py-20">
+    <div class="mx-auto max-w-[1320px] 3xl:max-w-screen-2xl px-2 sm:px-4 text-center">
+        <p class="text-[#00924f] text-5xl font-bold leading-snug">See How We Are On a Fast Track to <br class="hidden md:block" /> Creating The World's Cheapest Hydrogen</p>
+        <a href="#" class="bg-gradient-to-b from-[#75b2f8] to-[#007aff] text-white w-64 h-32 flex items-center justify-center py-5 px-12 rounded-2xl text-3xl font-semibold hover:text-white mt-10 mx-auto">Watch Now</a>
     </div>
 
 </section>
