@@ -176,7 +176,10 @@
 
 <section class="bg-custom-gray-200 pb-20">
     <div class="mx-auto max-w-[1320px] 3xl:max-w-screen-2xl px-2 sm:px-4">
-        <img src="./assets/images/development-plan.svg" alt="development-plan">
+    <img class="hidden md:block" src="./assets/images/development-plan.svg" alt="development-plan">
+            <div class="block md:hidden max-w-96 mx-auto">
+                <img src="./assets/images/mobile-development-plan.png" alt="development-plan">
+            </div>
     </div>
 
 </section>

@@ -1252,6 +1252,10 @@ a:hover{
   max-width: 80rem;
 }
 
+.max-w-96{
+  max-width: 24rem;
+}
+
 .max-w-\[1005px\]{
   max-width: 1005px;
 }
@@ -3104,14 +3108,6 @@ html {
     grid-column: span 4 / span 4;
   }
 
-  .md\:col-start-1{
-    grid-column-start: 1;
-  }
-
-  .md\:col-start-2{
-    grid-column-start: 2;
-  }
-
   .md\:m-0{
     margin: 0px;
   }
@@ -3632,12 +3628,12 @@ html {
     right: 8rem;
   }
 
-  .xl\:col-start-5{
-    grid-column-start: 5;
-  }
-
   .xl\:col-start-3{
     grid-column-start: 3;
+  }
+
+  .xl\:col-start-5{
+    grid-column-start: 5;
   }
 
   .xl\:mb-20{
