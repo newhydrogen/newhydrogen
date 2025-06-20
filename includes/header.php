@@ -124,9 +124,10 @@
                         $baseUrl = (strpos($_SERVER['HTTP_HOST'], 'localhost') !== false) ? "/newhydrogen" : "";
                         ?>
                         <div
-                            class="hidden sm:ml-6 min-[900px]:flex lg:space-x-2 xl:space-x-3 lg:gap-0 gap-2.5 [&>a]:inline-flex [&>a]:items-center [&>a]:border [&>a]:border-transparent [&>a]:text-sm [&>a]:font-normal [&>a]:leading-none [&>a]:text-black [&>a]:lg:px-2 [&>a]:xl:px-4 [&>a]:py-2 [&>a]:rounded-full">
+                            class="hidden sm:ml-6 min-[900px]:flex lg:space-x-2 xl:space-x-3 lg:gap-0 gap-2.5 [&>a]:inline-flex [&>a]:items-center [&>a]:border [&>a]:border-transparent [&>a]:text-sm [&>a]:font-normal [&>a]:leading-none [&>a]:text-black [&>a]:lg:px-2 [&>a]:xl:px-4 [&>a]:py-2 [&>a]:rounded-full ">
                             <?php foreach ($links as $slug => $name): ?>
-                                <a href="<?= $baseUrl ?>/<?= $slug ?>"><?= $name ?></a>
+                                <a href="<?= $baseUrl ?>/<?= $slug ?>" 
+                                   class="<?= ($page === $slug) ? '!text-[#00bc05]' : 'hover:text-gray-500' ?>"><?= $name ?></a>
                             <?php endforeach; ?>
                         </div>
 
@@ -141,7 +142,8 @@
                     <div
                         class="sm:p-[38px] p-[14px] flex flex-col gap-4 [&>a]:block [&>a]:items-center [&>a]:border [&>a]:border-transparent [&>a]:text-sm [&>a]:font-normal [&>a]:py-[5px] [&>a]:px-2.5 [&>a]:leading-none [&>a]:text-black [&>a]:active:text-custom-green-400">
                         <?php foreach ($links as $slug => $name): ?>
-                            <a href="<?= $baseUrl ?>/<?= $slug ?>"><?= $name ?></a>
+                            <a href="<?= $baseUrl ?>/<?= $slug ?>" 
+                               class="<?= ($page === $slug) ? 'text-[#00bc05] font-semibold' : '' ?>"><?= $name ?></a>
                         <?php endforeach; ?>
                     </div>
                 </div>

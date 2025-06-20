@@ -1,8 +1,8 @@
 <section class="mt-16 mx-auto max-w-[1320px] 3xl:max-w-screen-2xl px-2 sm:px-4">
-<img class="hidden md:block" src="./assets/images/development-plan.svg" alt="development-plan">
-            <div class="block md:hidden max-w-96 mx-auto">
-                <img src="./assets/images/mobile-development-plan.png" alt="development-plan">
-            </div>
+    <img class="hidden md:block" src="./assets/images/development-plan.svg" alt="development-plan">
+    <div class="block md:hidden max-w-96 mx-auto">
+        <img src="./assets/images/mobile-development-plan.png" alt="development-plan">
+    </div>
 </section>
 <section class=" before:content-[''] sm:before:w-[566px] before:w-[400px] before:h-[566px] before:left-0 before:-bottom-[74px] before:bg-gardiant-top before:absolute relative before:bg-no-repeat">
     <div class="mb-[71px] xl:mt-[100px] mt-16 mx-auto max-w-[1320px] 3xl:max-w-screen-2xl px-2 sm:px-4">
@@ -199,7 +199,7 @@
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
                     </svg>
                 </button>
-                <div id="accordion-1" class="text-xl text-custom-purple-light-100 max-w-[78%] hidden pt-3">
+                <div id="accordion-1" class="text-xl text-custom-purple-light-100 max-w-[95%] hidden pt-3">
                     NewHydrogen, Inc. is a Nevada corporation with a fiscal year end of December 31st.
                 </div>
             </div>
@@ -213,8 +213,17 @@
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
                     </svg>
                 </button>
-                <div id="accordion-2" class="text-xl text-custom-purple-light-100 max-w-[78%] hidden pt-3">
-                    NewHydrogen, Inc. is a Nevada corporation with a fiscal year end of December 31st.
+                <div id="accordion-2" class="text-xl text-custom-purple-light-100 max-w-[95%] hidden pt-3">
+                    Our shareholder records are managed by ClearTrust, LLC. They can help you with a variety of services related to your NewHydrogen shareholdings such as:
+                    <ul class="list-disc list-inside my-6">
+                        <li> Change of address</li>
+                        <li>Transfer ownership of stock</li>
+                        <li>Request stock certificate(s)</li>
+                        <li>Request account statement</li>
+                    </ul>
+                    You can contact ClearTrust in the following ways: <br> <br>
+                    Email: inbox@cleartrusttransfer.com <br> Phone: (813) 235-4490 <br> Courier or Mail: 16540 Pointe Village Dr, Ste 210, Lutz, FL 33558<br><br>
+                    If you hold certificates in your personal name, not a business name, you can create a self-serviced online account at the ClearTrust Investor Center. If you own shares through a brokerage account, you should contact your broker for information related to those shares.
                 </div>
             </div>
             <!-- Accordion Item -->
@@ -227,8 +236,8 @@
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
                     </svg>
                 </button>
-                <div id="accordion-3" class="text-xl text-custom-purple-light-100 max-w-[78%] hidden pt-3">
-                    NewHydrogen, Inc. is a Nevada corporation with a fiscal year end of December 31st.
+                <div id="accordion-3" class="text-xl text-custom-purple-light-100 max-w-[95%] hidden pt-3">
+                    We automatically enroll investors in a new, convenient service offered by ClearTrust called Book Entry form. With Book Entry, ClearTrust holds your shares electronically, hence making safekeeping and transactions quicker and easier. Instead of sending you a physical stock certificate, they generate and mail you a Restricted Transaction Statement, which is the proof of your ownership of the shares. If you want a physical stock certificate, please contact ClearTrust and request one.
                 </div>
             </div>
 
@@ -236,14 +245,14 @@
             <div class="border-b border-custom-purple-light-300 py-6">
                 <button class="w-full flex justify-between items-center"
                     onclick="toggleAccordion('accordion-4')">
-                    <span class="text-left sm:text-xl text-lg font-semibold">How do I sell the shares that I purchased from the company?</span>
+                    <span class="text-left sm:text-xl text-lg font-semibold">How do I sell the shares that I purchased from the company? </span>
                     <svg id="icon-accordion-4" class="min-w-5 h-5 transform transition-transform duration-300" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
                         stroke="currentColor">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
                     </svg>
                 </button>
-                <div id="accordion-4" class="text-xl text-custom-purple-light-100 max-w-[78%] hidden pt-3">
-                    NewHydrogen, Inc. is a Nevada corporation with a fiscal year end of December 31st.
+                <div id="accordion-4" class="text-xl text-custom-purple-light-100 max-w-[95%] hidden pt-3">
+                    All shares purchased directly from the company are “restricted shares,” as defined by the SEC. To sell your shares, you must apply to have the restriction removed. If you have held your shares for more than 6 months or past your lock-up period, whichever is later, you may be eligible to remove the restrictive legend on your certificate under SEC Rule 144 with a proper legal opinion letter, and then sell those shares in the public market. Please contact your broker or ClearTrust to begin the process of removing the restrictive legend. They will request additional paperwork from you. The Company does not accept legend removal requests directly from shareholders. Please note that the legend removal process may take up to 4 weeks to complete through your broker.
                 </div>
             </div>
 
@@ -251,14 +260,15 @@
             <div class="border-b border-custom-purple-light-300 py-6">
                 <button class="w-full flex justify-between items-center"
                     onclick="toggleAccordion('accordion-5')">
-                    <span class="text-left sm:text-xl text-lg font-semibold">What is a Rule 144 legal opinion letter and how do I get one?</span>
+                    <span class="text-left sm:text-xl text-lg font-semibold">What is a rule 144 legal opinion letter and how do I get one? </span>
                     <svg id="icon-accordion-5" class="min-w-5 h-5 transform transition-transform duration-300" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
                         stroke="currentColor">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
                     </svg>
                 </button>
-                <div id="accordion-5" class="text-xl text-custom-purple-light-100 max-w-[78%] hidden pt-3">
-                    NewHydrogen, Inc. is a Nevada corporation with a fiscal year end of December 31st.
+                <div id="accordion-5" class="text-xl text-custom-purple-light-100 max-w-[95%] hidden pt-3">
+                    When selling shares from physical certificates bearing a “restrictive” legend or ClearTrust Restricted Transaction Statements, a legal opinion from the company’s SEC counsel is required. Your broker or ClearTrust should be able to handle everything for you. <br><br>
+                    The Company’s SEC counsel is: <br>Sichenzia Ross Ference Carmel LLP <br> 1185 Avenue of the Americas, 31st Floor <br>New York, NY 10036 <br>Tel:  (212) 930-9700 <br>Fax: (212) 930-9725 <br> Email: info@srfc.law
                 </div>
             </div>
 
@@ -266,14 +276,14 @@
             <div class="border-b border-custom-purple-light-300 py-6">
                 <button class="w-full flex justify-between items-center"
                     onclick="toggleAccordion('accordion-6')">
-                    <span class="text-left sm:text-xl text-lg font-semibold">When and how are news releases issued by the company?</span>
+                    <span class="text-left sm:text-xl text-lg font-semibold">When and how are news releases issued by the company? </span>
                     <svg id="icon-accordion-6" class="min-w-5 h-5 transform transition-transform duration-300" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
                         stroke="currentColor">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
                     </svg>
                 </button>
-                <div id="accordion-6" class="text-xl text-custom-purple-light-100 max-w-[78%] hidden pt-3">
-                    NewHydrogen, Inc. is a Nevada corporation with a fiscal year end of December 31st.
+                <div id="accordion-6" class="text-xl text-custom-purple-light-100 max-w-[95%] hidden pt-3">
+                    News is generally released by the company through GlobeNewswire. In the interest of the SEC’s Fair Disclosure policy, we refrain from answering questions from individual investors regarding the company’s development progress.
                 </div>
             </div>
 
@@ -281,14 +291,14 @@
             <div class="border-b border-custom-purple-light-300 py-6">
                 <button class="w-full flex justify-between items-center"
                     onclick="toggleAccordion('accordion-7')">
-                    <span class="text-left sm:text-xl text-lg font-semibold">How can I receive on-going information about NewHydrogen?</span>
+                    <span class="text-left sm:text-xl text-lg font-semibold">How can I receive ongoing information about NewHydrogen?</span>
                     <svg id="icon-accordion-7" class="min-w-5 h-5 transform transition-transform duration-300" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24"
                         stroke="currentColor">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
                     </svg>
                 </button>
-                <div id="accordion-7" class="text-xl text-custom-purple-light-100 max-w-[78%] hidden pt-3">
-                    NewHydrogen, Inc. is a Nevada corporation with a fiscal year end of December 31st.
+                <div id="accordion-7" class="text-xl text-custom-purple-light-100 max-w-[95%] hidden pt-3">
+                    The best way to receive ongoing information about NewHydrogen is by subscribing to our newsletter. You can also find NewHydrogen on Facebook, YouTube, and Instagram.com /newhydrogen.
                 </div>
             </div>
         </div>
