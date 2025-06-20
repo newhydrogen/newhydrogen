@@ -213,7 +213,7 @@
 <section class="py-20">
     <div class="mx-auto max-w-[1320px] 3xl:max-w-screen-2xl px-2 sm:px-4 text-center">
         <p class="text-[#00924f] text-5xl font-bold leading-snug">See How We Are On a Fast Track to <br class="hidden md:block" /> Creating The World's Cheapest Hydrogen</p>
-        <a href="#" class="bg-gradient-to-b from-[#75b2f8] to-[#007aff] text-white w-64 h-32 flex items-center justify-center py-5 px-12 rounded-2xl text-3xl font-semibold hover:text-white mt-10 mx-auto">Watch Now</a>
+        <a href="/fasttrack" class="bg-gradient-to-b from-[#75b2f8] to-[#007aff] text-white w-64 h-32 flex items-center justify-center py-5 px-12 rounded-2xl text-3xl font-semibold hover:text-white mt-10 mx-auto">Watch Now</a>
     </div>
 
 </section>
