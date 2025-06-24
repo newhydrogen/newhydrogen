@@ -813,12 +813,20 @@ a:hover{
   z-index: 1;
 }
 
+.col-span-12{
+  grid-column: span 12 / span 12;
+}
+
 .col-span-5{
   grid-column: span 5 / span 5;
 }
 
 .col-span-7{
   grid-column: span 7 / span 7;
+}
+
+.col-span-12{
+  grid-column: span 12 / span 12;
 }
 
 .m-auto{
@@ -830,9 +838,19 @@ a:hover{
   margin-right: auto;
 }
 
+.my-6{
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
+}
+
 .my-8{
   margin-top: 2rem;
   margin-bottom: 2rem;
+}
+
+.my-6{
+  margin-top: 1.5rem;
+  margin-bottom: 1.5rem;
 }
 
 .-mb-\[27rem\]{
@@ -1134,6 +1152,10 @@ a:hover{
   height: 4rem;
 }
 
+.h-32{
+  height: 8rem;
+}
+
 .h-5{
   height: 1.25rem;
 }
@@ -1172,6 +1194,10 @@ a:hover{
 
 .h-full{
   height: 100%;
+}
+
+.h-32{
+  height: 8rem;
 }
 
 .max-h-0{
@@ -1255,6 +1281,10 @@ a:hover{
   max-width: 80rem;
 }
 
+.max-w-96{
+  max-width: 24rem;
+}
+
 .max-w-\[1005px\]{
   max-width: 1005px;
 }
@@ -1327,10 +1357,6 @@ a:hover{
   max-width: 734px;
 }
 
-.max-w-\[78\%\]{
-  max-width: 78%;
-}
-
 .max-w-\[80px\]{
   max-width: 80px;
 }
@@ -1351,6 +1377,10 @@ a:hover{
   max-width: 910px;
 }
 
+.max-w-\[95\%\]{
+  max-width: 95%;
+}
+
 .max-w-\[950px\]{
   max-width: 950px;
 }
@@ -1361,6 +1391,14 @@ a:hover{
 
 .max-w-screen-xl{
   max-width: 1280px;
+}
+
+.max-w-96{
+  max-width: 24rem;
+}
+
+.max-w-\[95\%\]{
+  max-width: 95%;
 }
 
 .flex-1{
@@ -1410,6 +1448,14 @@ a:hover{
 
 .resize-none{
   resize: none;
+}
+
+.list-inside{
+  list-style-position: inside;
+}
+
+.list-disc{
+  list-style-type: disc;
 }
 
 .grid-cols-1{
@@ -1794,6 +1840,20 @@ a:hover{
   background-image: url(../images/breaking-news-bg.png);
 }
 
+.bg-gradient-to-b{
+  background-image: linear-gradient(to bottom, var(--tw-gradient-stops));
+}
+
+.from-\[\#75b2f8\]{
+  --tw-gradient-from: #75b2f8 var(--tw-gradient-from-position);
+  --tw-gradient-to: rgb(117 178 248 / 0) var(--tw-gradient-to-position);
+  --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to);
+}
+
+.to-\[\#007aff\]{
+  --tw-gradient-to: #007aff var(--tw-gradient-to-position);
+}
+
 .bg-cover{
   background-size: cover;
 }
@@ -1842,6 +1902,11 @@ a:hover{
 .px-10{
   padding-left: 2.5rem;
   padding-right: 2.5rem;
+}
+
+.px-12{
+  padding-left: 3rem;
+  padding-right: 3rem;
 }
 
 .px-14{
@@ -1967,10 +2032,6 @@ a:hover{
 .py-\[90px\]{
   padding-top: 90px;
   padding-bottom: 90px;
-}
-
-.pb-10{
-  padding-bottom: 2.5rem;
 }
 
 .pb-12{
@@ -2438,8 +2499,23 @@ a:hover{
   line-height: 27px;
 }
 
-.leading-tight{
-  line-height: 1.25;
+.leading-snug{
+  line-height: 1.375;
+}
+
+.\!text-\[\#00bc05\]{
+  --tw-text-opacity: 1 !important;
+  color: rgb(0 188 5 / var(--tw-text-opacity, 1)) !important;
+}
+
+.text-\[\#00924f\]{
+  --tw-text-opacity: 1;
+  color: rgb(0 146 79 / var(--tw-text-opacity, 1));
+}
+
+.text-\[\#00bc05\]{
+  --tw-text-opacity: 1;
+  color: rgb(0 188 5 / var(--tw-text-opacity, 1));
 }
 
 .text-\[\#091113\]{
@@ -2531,12 +2607,6 @@ a:hover{
 
 .text-white\/80{
   color: rgb(255 255 255 / 0.8);
-}
-
-.shadow-\[inset_0_0_10px_rgba\(0\2c 0\2c 0\2c 0\.3\)\]{
-  --tw-shadow: inset 0 0 10px rgba(0,0,0,0.3);
-  --tw-shadow-colored: inset 0 0 10px var(--tw-shadow-color);
-  box-shadow: var(--tw-ring-offset-shadow, 0 0 #0000), var(--tw-ring-shadow, 0 0 #0000), var(--tw-shadow);
 }
 
 .transition{
@@ -2819,9 +2889,19 @@ html {
   color: rgb(0 0 0 / var(--tw-text-opacity, 1));
 }
 
+.hover\:text-gray-500:hover{
+  --tw-text-opacity: 1;
+  color: rgb(107 114 128 / var(--tw-text-opacity, 1));
+}
+
 .hover\:text-white:hover{
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity, 1));
+}
+
+.hover\:text-gray-500:hover{
+  --tw-text-opacity: 1;
+  color: rgb(107 114 128 / var(--tw-text-opacity, 1));
 }
 
 .focus-visible\:outline-0:focus-visible{
@@ -3363,6 +3443,14 @@ html {
 
   .lg\:right-\[38\%\]{
     right: 38%;
+  }
+
+  .lg\:col-span-3{
+    grid-column: span 3 / span 3;
+  }
+
+  .lg\:col-span-9{
+    grid-column: span 9 / span 9;
   }
 
   .lg\:mb-8{

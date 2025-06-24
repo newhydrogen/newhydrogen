@@ -173,6 +173,23 @@ function toggleAccordion(id) {
   const content = document.getElementById(id);
   const icon = document.getElementById(`icon-${id}`);
 
+  // Close all other accordion items first
+  const allAccordionContents = document.querySelectorAll('[id^="accordion-"]');
+  const allAccordionIcons = document.querySelectorAll('[id^="icon-accordion-"]');
+  
+  allAccordionContents.forEach(accordionContent => {
+    if (accordionContent.id !== id) {
+      accordionContent.classList.add("hidden");
+    }
+  });
+  
+  allAccordionIcons.forEach(accordionIcon => {
+    if (accordionIcon.id !== `icon-${id}`) {
+      accordionIcon.classList.remove("rotate-180");
+    }
+  });
+
+  // Toggle the clicked accordion
   if (content.classList.contains("hidden")) {
     content.classList.remove("hidden");
     icon.classList.add("rotate-180"); // Add rotation class
