@@ -55,7 +55,7 @@ $(document).ready(function () {
       const player = new Vimeo.Player(newIframe);
 
       if (isIOS()) {
-        player.setMuted(true).then(() => player.play());
+        player.setMuted(false).then(() => player.play());
       } else {
         player.setMuted(false);
         player.setVolume(1);
