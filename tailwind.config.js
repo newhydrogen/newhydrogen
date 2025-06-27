@@ -58,6 +58,7 @@ module.exports = {
         'faq-arrow': 'url(../images/arrow.svg)',
         'bluelist': 'url("../images/h-icon-blue.svg")',
         'greenlist': 'url("../images/h-icon-green.svg")',
+        'coming-soon': 'url("../images/coming-soon-bg.png")',
       },
 
     },
