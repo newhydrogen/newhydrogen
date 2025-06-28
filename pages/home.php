@@ -2,37 +2,17 @@
 <section class="bg-coming-soon bg-cover bg-center bg-no-repeat bg-black relative py-32">
     <div class="mx-auto lg:max-w-screen-lg xl:max-w-screen-xl px-2 sm:px-4 z-10 relative">
         <div class="text-6xl text-white text-center font-bold">Coming Soon</div>
-        <div class="text-white text-4xl text-center font-semibold my-4 leading-snug">NewHydrogen to Reveal the Secret <br class="hidden md:inline-block" /> to Its Revolutionary Green Hydrogen Technology
+        <div class="text-white text-4xl text-center font-semibold my-4 leading-snug">NewHydrogen to Announce Reachin <br class="hidden md:inline-block" />
+        a Major Green Hydrogen Milestone
         </div>
-        <p class="text-2xl text-center text-white font-medium">Reverse your spot now for our upcoming webinar Tuesday, <br class="hidden md:inline-block" /> July 15, 2025, at 4pm EST (1pm PST)
+        <p class="text-2xl text-center text-white font-medium">Reserve your spot now for our upcoming webinar Tuesday, <br class="hidden md:inline-block" /> July 15, 2025, at 4pm EST (1pm PST)
         </p>
         <form action="https://submit.jotform.com/submit/250137276726055/" method="POST" autocomplete="off" class="relative max-w-[420px] mx-auto mt-8">
             <input type="hidden" name="formID" value="250137276726055">
             <input type="email" id="webinar-email" name="q3_webinaremail" placeholder="Enter email address" required class="w-full h-12 rounded-xl py-1 pl-4 pr-32 text-base border-0 focus-visible:outline-none">
-          
-            <div class="form-line captcha-field pt-3 jf-required" data-type="control_captcha" id="id_4"><label class="form-label form-label-top form-label-auto text-white" id="label_4" for="webinar_input" aria-hidden="false"> Please verify that you are human<span class="form-required">*</span> </label>
-                <div id="cid_4" class="form-input-wide jf-required" data-layout="full">
-                    <section data-wrapper-react="true">
-                        <div id="hcaptcha_webinar_input" class="h-captcha" data-siteKey="772f4a50-7161-425e-8cd5-4d7e361ab765" data-callback="hcaptchaCallbackwebinar_input" data-expired-callback="hcaptchaExpiredCallbackwebinar_input"></div><input type="hidden" id="webinar_input" class="hidden validate[required]" name="hcaptcha_visible" required="" />
-                        <script type="text/javascript" src="https://hcaptcha.com/1/api.js"></script>
-                       
-                    </section>
-                </div>
-            </div>
+         
             <button type="submit" id="webinarSubmitBtn" class="bg-green-500 text-black py-2.5 px-6 rounded-xl text-base font-semibold absolute right-0 top-0 h-12">Sign up!</button>
         </form>
-        <script type="text/javascript">
-               const webinarSubmitBtn = document.getElementById('webinarSubmitBtn');
-               function onCaptchaSuccess(token) {
-                        document.getElementById('webinar_input').value = token;
-                        submitButtonNewsletter.disabled = false;
-                    }
-
-                    function onCaptchaExpired() {
-                        document.getElementById('webinar_input').value = '';
-                        submitButtonNewsletter.disabled = true;
-                    }
-                        </script>
     </div>
 </section>
 <section class="bg-banner bg-cover bg-[18%_100%] md:bg-center pb-16 sm:pb-0 md:h-[800px] sm:h-[1082px] relative md:pt-28 pt-16 ">
