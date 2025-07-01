@@ -3,7 +3,7 @@
     <div class="mx-auto lg:max-w-screen-lg xl:max-w-screen-xl px-2 sm:px-4 z-10 relative">
         <div class="text-6xl text-white text-center font-bold">Coming Soon</div>
         <div class="text-white text-4xl text-center font-semibold my-4 leading-snug">NewHydrogen to Announce Reaching <br class="hidden md:inline-block" />
-        a Major Green Hydrogen Milestone
+        a Major Clean Hydrogen Milestone
         </div>
         <p class="text-2xl text-center text-white font-medium">Reserve your spot now for our upcoming webinar Tuesday, <br class="hidden md:inline-block" /> July 15, 2025, at 4pm EST (1pm PST)
         </p>
