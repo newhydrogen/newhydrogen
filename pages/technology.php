@@ -9,7 +9,7 @@
 
             <iframe
                 data-video-id="1074972732"
-                src="https://player.vimeo.com/video/1074972732?controls=0&muted=1&playsinline=1"
+                src="https://player.vimeo.com/video/1074972732?controls=0&muted=0&playsinline=1"
                 frameborder="0"
                 allow="autoplay; fullscreen; picture-in-picture"
                 allowfullscreen
