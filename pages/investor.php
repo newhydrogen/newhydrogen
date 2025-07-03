@@ -12,6 +12,7 @@
                     <div class="flex flex-col gap-8 items-center">
                         <a href="https://finance.yahoo.com/quote/NEWH/ " target="_blank" class="bg-gradient-to-b from-[#75b2f8] to-[#007aff] text-white w-64 h-32 flex items-center justify-center py-5 px-10 rounded-2xl text-3xl font-semibold hover:text-white">Stock Info</a>
                         <a href="/assets/pdf/NEWH-Investor-Presentation-v38.pdf" target="_blank" class="bg-gradient-to-b from-[#75b2f8] to-[#007aff] text-white w-64 h-32 flex items-center justify-center py-5 px-10 rounded-2xl text-3xl font-semibold hover:text-white">Investor Presentation</a>
+                        <a href="/assets/pdf/achieving-the-hydrogen-economy.pdf" target="_blank" class="bg-gradient-to-b from-[#75b2f8] to-[#007aff] text-white w-64 h-32 flex items-center justify-center py-5 px-10 rounded-2xl text-3xl font-semibold hover:text-white">White Paper</a>
                     </div>
                 </div>
                 <div class="col-span-12 lg:col-span-9 relative">
