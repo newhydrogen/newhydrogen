@@ -135,7 +135,7 @@ $videos = include "./data/news-data.php";
                     </svg>
                     <h5 class=" text-lg leading-6 text-custom-purple-light-100 font-normal">March 11, 2025</h5>
                 </div>
-                <h5 class=" md:text-2xl text-xl leading-6 text-black lg:leading-7 font-bold mb-2">NewHydrogen Files Patent for its Breakthrough Technology</h5>
+                <h5 class=" md:text-2xl text-xl leading-6 text-black lg:leading-7 font-bold mb-2">A Plan to Achieve the Elusive Hydrogen Economy</h5>
             </div>
             <div class="mt-[22px] text-right">
                 <a class="transition ease-in-outtransition duration-300 ease-in-out  text-lg leading-6 font-semibold py-[11px] px-[30px] rounded-[58px] bg-transparent hover:bg-custom-green-200 border border-black hover:border-0" href="/assets/pdf/achieving-the-hydrogen-economy.pdf" target="_blank">Read More</a>
