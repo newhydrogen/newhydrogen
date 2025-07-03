@@ -133,7 +133,7 @@ $videos = include "./data/news-data.php";
                         <path d="M19.2321 10.8772C19.2321 15.4772 15.4988 19.2105 10.8988 19.2105C6.29876 19.2105 2.56543 15.4772 2.56543 10.8772C2.56543 6.27719 6.29876 2.54385 10.8988 2.54385C15.4988 2.54385 19.2321 6.27719 19.2321 10.8772Z" stroke="#75638E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
                         <path d="M13.9898 13.5272L11.4065 11.9855C10.9565 11.7189 10.5898 11.0772 10.5898 10.5522V7.13553" stroke="#75638E" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
                     </svg>
-                    <h5 class=" text-lg leading-6 text-custom-purple-light-100 font-normal">March 11, 2025</h5>
+                    <h5 class=" text-lg leading-6 text-custom-purple-light-100 font-normal">July 03, 2025</h5>
                 </div>
                 <h5 class=" md:text-2xl text-xl leading-6 text-black lg:leading-7 font-bold mb-2">A Plan to Achieve the Elusive Hydrogen Economy</h5>
             </div>
