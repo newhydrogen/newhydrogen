@@ -28,11 +28,11 @@
         <div class="grid grid-cols-1 md:grid-cols-2 lg:mt-[87px] mt-14 gap-6">
             <div class="max-w-[620px]">
                 <h2 class="font-bold xl:text-[64px] lg:text-5xl text-4xl xl:mb-[45px] mb-5">The Problem</h2>
-                <p class="  text-2xl lg:text-3xl  xl:text-[42px]  xl:leading-tight font-normal  xl:mb-8 mb-5"><span class="font-bold">The primary way of making green hydrogen today </span> is to split water using green electricity (solar and wind) and electrolyzers.</p>
+                <p class="  text-2xl lg:text-3xl  xl:text-[42px]  xl:leading-tight font-normal  xl:mb-8 mb-5"><span class="font-bold">The primary way of making clean hydrogen today </span> is to split water using clean electricity (solar and wind) and electrolyzers.</p>
                 <ul class="theme-list blue-list space-y-5">
-                    <li>Green electricity is expensive!</li>
+                    <li>Clean electricity is expensive!</li>
                     <li>Electrolyzers are also expensive!</li>
-                    <li>Today <span class="font-bold">73% of the cost</span> of green hydrogen is electricity.</li>
+                    <li>Today <span class="font-bold">73% of the cost</span> of clean hydrogen is electricity.</li>
                     <li>Electrolyzers are based on a <span class="font-bold">200-year-old technology.</span></li>
                     <li>Now there is a better way!</li>
                 </ul>
@@ -138,10 +138,10 @@
     <div class="flex flex-col-reverse md:grid grid-cols-1 md:grid-cols-2  gap-6">
         <div class="max-w-[578px] mr-auto">
             <h2 class="xl:text-[64px] lg:text-5xl text-4xl font-bold hidden md:block">A Highly Scalable Thermochemical Water-Splitting System</h2>
-            <p class="xl:text-[26px] lg:text-2xl text-xl mt-2 font-normal xl:mb-8 mb-4 xl:mt-[29px] lg:mt-4	 leading-[1.3]">We combine all these innovations to create ThermoLoop, a highly scalable thermochemical water-splitting system that we believe will produce the world’s cheapest green hydrogen!</p>
+            <p class="xl:text-[26px] lg:text-2xl text-xl mt-2 font-normal xl:mb-8 mb-4 xl:mt-[29px] lg:mt-4	 leading-[1.3]">We combine all these innovations to create ThermoLoop, a highly scalable thermochemical water-splitting system that we believe will produce the world’s cheapest clean hydrogen!</p>
             <ul class="theme-list space-y-5">
                 <li>ThermoLoop is agnostic to the source of heat or water.</li>
-                <li>Couple ThermoLoop with any available source of heat, and we will have a low-cost clean and green hydrogen production machine – anywhere, anytime!</li>
+                <li>Couple ThermoLoop with any available source of heat, and we will have a low-cost clean and clean hydrogen production machine – anywhere, anytime!</li>
             </ul>
         </div>
         <div>

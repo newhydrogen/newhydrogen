@@ -29,7 +29,7 @@
             </div>
             <div class="lg:max-w-[995px] max-w-[830px] mx-auto">
                 <h2 class="lg:mt-12 sm:mt-8 mt-4 lg:text-[42px] sm:text-4xl text-3xl mb-2">NewHydrogen Is a Publicly Traded Company</h3>
-                    <p class="text-xl font-normal sm:max-w-[80%] max-w-full m-auto">Developing a Breakthrough Technology that Uses Water and Heat Instead of Electricity to Produce the World’s Cheapest Green Hydrogen</p>
+                    <p class="text-xl font-normal sm:max-w-[80%] max-w-full m-auto">Developing a Breakthrough Technology that Uses Water and Heat Instead of Electricity to Produce the World’s Cheapest Clean Hydrogen</p>
                     <a class="py-5 px-10 rounded-[58px] text-xl block w-fit mx-auto mt-8 font-bold bg-custom-green-200" href="">Stock Symbol: NEWH</a>
             </div>
         </div>
@@ -111,13 +111,13 @@
             <h2 class="font-bold lg:text-[42px] text-4xl">The Right Time</h2>
         </div>
 
-        <p class="lg:text-xl text-lg mb-9">According to Goldman Sachs, green hydrogen is a massive once in a lifetime $12 trillion
+        <p class="lg:text-xl text-lg mb-9">According to Goldman Sachs, clean hydrogen is a massive once in a lifetime $12 trillion
             market opportunity. </p>
         <ul class="theme-list space-y-5">
             <li> Pound for pound, hydrogen contains 3X as much energy as natural gas or gasoline, and 200X as much energy as lithium-ion batteries.</li>
             <li>It can be used in fuel cells to power electric vehicles or entire cities.</li>
             <li> It can be used as fuel in gas turbines or internal combustion engines.</li>
-            <li>Green hydrogen is a zero-emission clean fuel and produces only water vapor when used.</li>
+            <li>Clean hydrogen is a zero-emission clean fuel and produces only water vapor when used.</li>
             <li>Hydrogen is the main ingredient in fertilizers that feed our hungry world.</li>
         </ul>
     </div>
