@@ -46,7 +46,7 @@ $(document).ready(function () {
       const iframe = wrapper.querySelector('iframe');
       const videoId = iframe.dataset.videoId;
 
-      const newSrc = `https://player.vimeo.com/video/${videoId}?controls=1&muted=1&playsinline=1`;
+      const newSrc = `https://player.vimeo.com/video/${videoId}?controls=1&muted=0&playsinline=1`;
       const newIframe = iframe.cloneNode();
       newIframe.src = newSrc;
 
@@ -55,7 +55,11 @@ $(document).ready(function () {
       const player = new Vimeo.Player(newIframe);
 
       if (isIOS()) {
-        player.setMuted(true).then(() => player.play());
+        player.setMuted(false).then(() => {
+          player.setVolume(1).then(() => {
+            player.play();
+          });
+        });
       } else {
         player.setMuted(false);
         player.setVolume(1);

@@ -31,8 +31,8 @@
                             <img src="//img.youtube.com/vi/p1tz4X0-7Hs/maxresdefault.jpg" class="object-cover w-full h-full" alt="thumbnail">
                             <a href="https://vimeo.com/1074972732?h=f28ef9ddbb" class="popup-vimeo-hash absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56" fill="none">
-                                    <circle cx="27.8926" cy="28.1125" r="27.5" fill="white" fill-opacity="0.8"/>
-                                    <path d="M39.1753 28.1126L21.5537 38.2864L21.5537 17.9387L39.1753 28.1126Z" fill="black"/>
+                                    <circle cx="27.8926" cy="28.1125" r="27.5" fill="white" fill-opacity="0.8" />
+                                    <path d="M39.1753 28.1126L21.5537 38.2864L21.5537 17.9387L39.1753 28.1126Z" fill="black" />
                                 </svg>
                             </a>
                         </div>
@@ -51,8 +51,8 @@
                             <img src="./assets/images/fasttrack-thumbnail.png" class="object-cover w-full h-full" alt="thumbnail">
                             <a href="https://vimeo.com/1078126370" class="popup-vimeo absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56" fill="none">
-                                    <circle cx="27.8926" cy="28.1125" r="27.5" fill="white" fill-opacity="0.8"/>
-                                    <path d="M39.1753 28.1126L21.5537 38.2864L21.5537 17.9387L39.1753 28.1126Z" fill="black"/>
+                                    <circle cx="27.8926" cy="28.1125" r="27.5" fill="white" fill-opacity="0.8" />
+                                    <path d="M39.1753 28.1126L21.5537 38.2864L21.5537 17.9387L39.1753 28.1126Z" fill="black" />
                                 </svg>
                             </a>
                         </div>
