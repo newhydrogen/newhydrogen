@@ -6,7 +6,7 @@
         <div class="text-white text-4xl text-center font-semibold my-4 leading-snug">NewHydrogen to Announce Reaching <br class="hidden md:inline-block" />
         a Major Clean Hydrogen Milestone
         </div>
-        <p class="text-2xl text-center text-white font-medium">Reserve your spot now for our upcoming webinar Tuesday, <br class="hidden md:inline-block" /> July 15, 2025, at 4pm EST (1pm PST)
+        <p class="text-2xl text-center text-white font-medium">Reserve your spot now for our upcoming announcement Tuesday, <br class="hidden md:inline-block" /> July 15, 2025, at 4pm EST (1pm PST)
         </p>
         <form action="https://submit.jotform.com/submit/250137276726055/" method="POST" autocomplete="off" class="relative max-w-[420px] mx-auto mt-8">
             <input type="hidden" name="formID" value="250137276726055">
