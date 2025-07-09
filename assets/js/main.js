@@ -53,18 +53,18 @@ $(document).ready(function () {
       iframe.replaceWith(newIframe);
 
       const player = new Vimeo.Player(newIframe);
-
-      if (isIOS()) {
-        player.setMuted(false).then(() => {
-          player.setVolume(1).then(() => {
-            player.play();
-          });
-        });
-      } else {
-        player.setMuted(false);
-        player.setVolume(1);
-        player.play();
-      }
+      player.play();
+      // if (isIOS()) {
+      //   player.setMuted(false).then(() => {
+      //     player.setVolume(1).then(() => {
+      //       player.play();
+      //     });
+      //   });
+      // } else {
+      //   player.setMuted(false);
+      //   player.setVolume(1);
+      //   player.play();
+      // }
     });
   });
 });
