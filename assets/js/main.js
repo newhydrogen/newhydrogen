@@ -59,32 +59,24 @@ $(document).ready(function () {
         const player = new Vimeo.Player(newIframe);
         
         if (isIOS()) {
-          // For iOS, we need to handle audio in a specific sequence
-          // First, ensure the player is ready
           player.ready().then(() => {
-            // Start playing while muted (iOS allows this)
             return player.play();
           }).then(() => {
-            // Now unmute within the same user gesture context
             return player.setMuted(false);
           }).then(() => {
-            // Set volume to full
             return player.setVolume(1);
           }).catch(error => {
             console.log('iOS Vimeo playback error:', error);
-            // Fallback: try different sequence
             player.setMuted(false).then(() => {
               return player.setVolume(1);
             }).then(() => {
               return player.play();
             }).catch(fallbackError => {
               console.log('iOS Vimeo fallback error:', fallbackError);
-              // Last resort: just try to play
               player.play();
             });
           });
         } else {
-          // For non-iOS devices, handle normally
           player.ready().then(() => {
             return player.setMuted(false);
           }).then(() => {
