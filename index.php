@@ -14,6 +14,12 @@ $requestUri = parse_url($_SERVER['REQUEST_URI'], PHP_URL_PATH);
 $path = trim(str_replace($basePath, '', $requestUri), '/');
 $page = $path === '' ? 'home' : $path;
 
+// Handle special-report redirect before any output
+if ($page === 'special-report') {
+    header('Location: https://youtu.be/xFwYZ2bPkU8', true, 301);
+    exit;
+}
+
 // For load Assets
 $protocol = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http";
 $domain = $_SERVER['HTTP_HOST'];
