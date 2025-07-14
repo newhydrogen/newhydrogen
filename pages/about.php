@@ -127,7 +127,7 @@
                             <h6>Phillip Christopher, PhD</h6>
                             <p class="text-sm mt-1.5">Principal Investigator</p>
                         </div>
-                        <p class="pr-20 text-sm">Associate Professor of Chemical Engineering, University of California, Santa Barbara</p>
+                        <p class="pr-20 text-sm">Professor of Chemical Engineering, University of California, Santa Barbara</p>
                     </div>
                     <div class="absolute top-1/2 -translate-y-1/2 -right-[72px] rounded-full size-36 after:content-[''] after:absolute after:top-0 after:left-0 after:w-full after:h-full after:z-[-1] after:rounded-full after:shadow-[-20px_0_30px_rgb(0_188_2_/_50%)]">
                         <img src="./assets/images/philip-christopher.png" alt="team-member" class="rounded-full w-full h-full overflow-hidden">
