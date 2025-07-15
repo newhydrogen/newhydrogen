@@ -241,3 +241,104 @@ $(".application-popup").magnificPopup({
     },
   },
 });
+
+// YouTube Player API Setup
+let youtubePlayer;
+let isYouTubeAPIReady = false;
+
+// Load YouTube iframe API
+function loadYouTubeAPI() {
+  if (window.YT) {
+    isYouTubeAPIReady = true;
+    return;
+  }
+  
+  const tag = document.createElement('script');
+  tag.src = 'https://www.youtube.com/iframe_api';
+  const firstScriptTag = document.getElementsByTagName('script')[0];
+  firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+}
+
+// YouTube API ready callback
+function onYouTubeIframeAPIReady() {
+  isYouTubeAPIReady = true;
+  console.log('YouTube API is ready');
+}
+
+// Make the function globally available for the YouTube API
+window.onYouTubeIframeAPIReady = onYouTubeIframeAPIReady;
+
+// YouTube custom button handler
+document.addEventListener('DOMContentLoaded', function() {
+  loadYouTubeAPI();
+  
+  document.querySelectorAll('.youtube-custom-btn').forEach(btn => {
+    btn.addEventListener('click', function() {
+      const wrapper = btn.closest('.youtube-video-wrapper');
+      const iframe = wrapper.querySelector('iframe');
+      const videoId = wrapper.dataset.videoId;
+      
+      if (!videoId) {
+        console.error('No video ID found');
+        return;
+      }
+      
+      // Hide the custom button
+      btn.style.display = 'none';
+      
+      // Function to create and play the video
+      function createAndPlayVideo() {
+        // Replace iframe with a new one that has controls enabled
+        const newIframe = iframe.cloneNode();
+        newIframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1&controls=1&playsinline=1&rel=0&modestbranding=1&enablejsapi=1`;
+        iframe.replaceWith(newIframe);
+        
+        // Alternative approach: Create YouTube player directly
+        /*
+        youtubePlayer = new YT.Player(iframe, {
+          videoId: videoId,
+          playerVars: {
+            autoplay: 1,
+            controls: 1,
+            playsinline: 1,
+            rel: 0,
+            modestbranding: 1,
+            enablejsapi: 1
+          },
+          events: {
+            onReady: function(event) {
+              event.target.playVideo();
+            },
+            onError: function(event) {
+              console.error('YouTube player error:', event.data);
+            }
+          }
+        });
+        */
+      }
+      
+      // Check if YouTube API is ready, if not wait for it
+      if (isYouTubeAPIReady && window.YT && window.YT.Player) {
+        createAndPlayVideo();
+      } else {
+        // Wait for API to be ready
+        const checkAPI = setInterval(() => {
+          if (window.YT && window.YT.Player) {
+            clearInterval(checkAPI);
+            createAndPlayVideo();
+          }
+        }, 100);
+        
+        // Fallback timeout - directly update iframe src
+        setTimeout(() => {
+          clearInterval(checkAPI);
+          if (!youtubePlayer) {
+            console.log('YouTube API timeout, using fallback method');
+            // Fallback: update iframe src with autoplay and controls
+            iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1&controls=1&playsinline=1&rel=0&modestbranding=1`;
+          }
+        }, 3000);
+      }
+    });
+  });
+});
