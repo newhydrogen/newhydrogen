@@ -2009,6 +2009,11 @@ a:hover{
   padding-bottom: 1.5rem;
 }
 
+.py-8{
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
+
 .py-9{
   padding-top: 2.25rem;
   padding-bottom: 2.25rem;
@@ -2032,11 +2037,6 @@ a:hover{
 .py-\[90px\]{
   padding-top: 90px;
   padding-bottom: 90px;
-}
-
-.py-8{
-  padding-top: 2rem;
-  padding-bottom: 2rem;
 }
 
 .pb-10{
@@ -2319,6 +2319,10 @@ a:hover{
   text-align: start;
 }
 
+.font-\[inherit\]{
+  font-family: inherit;
+}
+
 .text-2xl{
   font-size: 1.5rem;
   line-height: 2rem;
@@ -2419,6 +2423,10 @@ a:hover{
 .text-xl{
   font-size: 1.25rem;
   line-height: 1.75rem;
+}
+
+.text-\[length\:inherit\]{
+  font-size: inherit;
 }
 
 .font-black{
@@ -2550,6 +2558,10 @@ a:hover{
 .text-\[\#FF533B\]{
   --tw-text-opacity: 1;
   color: rgb(255 83 59 / var(--tw-text-opacity, 1));
+}
+
+.text-\[inherit\]{
+  color: inherit;
 }
 
 .text-black{
