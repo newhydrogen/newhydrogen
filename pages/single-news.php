@@ -45,7 +45,7 @@ if (isset($_GET['id'])) {
                     breakthrough energy technologies, BioSolar's previous successes include the world's first bio-based
                     backsheet for use in solar panels. <br><br> To learn more about BioSolar, please visit our website
                     at <a href="https://www.biosolar.com" target="_blank" rel="noopener noreferrer"
-                        class="text-blue-600">https://www.biosolar.com</a>.</p>
+                        class="text-blue-600 text-[length:inherit]">https://www.biosolar.com</a>.</p>
             </div>
             <?php endif; ?>
             <div class="news-about space-y-4 mt-6">
@@ -94,7 +94,7 @@ if (isset($_GET['id'])) {
                 <p><strong>Investor Relations Contact:</strong></p>
 
                 <span class="text-base">NewHydrogen, Inc.</span>
-                <a href="mailto:ir@newhydrogen.com" class="text-blue-600">ir@newhydrogen.com</a>
+                <a href="mailto:ir@newhydrogen.com" class="text-blue-600 text-[length:inherit]">ir@newhydrogen.com</a>
             </div>
         </div>
         <?php endif; ?>

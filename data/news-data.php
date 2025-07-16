@@ -3,6 +3,55 @@
 
 $news = [
     [
+        'id' => "89",
+        'title' => "NewHydrogen Announces Its First Production of Clean Hydrogen",
+        'date' => "July 15, 2025",
+        'excerpt' => "NewHydrogen, Inc. (OTCQB:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world's cheapest clean hydrogen, today announced its first production of clean hydrogen",
+        'description' => [
+            [
+                "<p><strong>The Company achieves a major milestone and value inflection point by demonstrating real-time hydrogen production using its novel ThermoLoop™ heat-based water-splitting system</strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (July 15, 2025) --- NewHydrogen, Inc. (OTCQB:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world's cheapest clean hydrogen, today announced its first production of clean hydrogen.</p>"
+            ],
+            [
+                "<p>\"This demonstration by our scientific team represents the achievement of a major milestone and a company value inflection point,\" said NewHydrogen CEO Steve Hill. \"For the first time, we're showing the world how we use heat to split water into hydrogen and oxygen in a continuous looping reaction.\" </p>"
+            ],
+            [
+                "<p>The Company also released an online Special Report featuring the first public demonstration of its functioning ThermoLoop lab benchtop unit producing hydrogen in real-time, which can be viewed at <a href=\"https://newhydrogen.com/special-report\" class=\"text-blue-600 text-[length:inherit]\">https://newhydrogen.com/special-report</a>.</p>"
+            ],
+            [
+                "<p>The Special Report highlights a significant milestone and advancement from previous iterations of ThermoLoop technology. Mr. Hill explained, \"Previous versions of the lab unit could only produce oxygen or hydrogen, but both were not achieved simultaneously. Now, for the first time, we've completed the loop. This version enables continuous hydrogen production, allowing our team to refine the chemistry and materials behind ThermoLoop while collecting critical data to guide the next scale-up.\"</p>"
+            ],
+            [
+                "<h4 class=\"text-lg font-bold\">Technology Demonstration</h4>"
+            ],
+            [
+                "<p>The Special Report provides an unprecedented look inside the laboratory, featuring detailed explanations from the company's scientific team. The video demonstrates ThermoLoop's unique approach to thermochemical water-splitting, which the company believes could eventually make traditional electrolyzers obsolete.</p>"
+            ],
+            [
+                "<p>Mr. Hill continued, \"We are proud to have the right team, at the right time, working on a technology that could help unlock the full potential of the clean hydrogen economy. I believe that our technology represents a totally different path from conventional electrolyzers and could have a global impact in the not too distant future.\"</p>"
+            ],
+            [
+                "<p>The Special Report features insights from Dr. Eric McFarland, NewHydrogen’s Chief Technology Officer and co-inventor of ThermoLoop. Other team members are also featured, including Dr. Phil Christopher, Professor of Chemical Engineering at UC Santa Barbara, a co-inventor and Principal Investigator on the ThermoLoop project, as well as Sundar Narayanan, NewHydrogen’s Director of Process Engineering, who brings 35 years of industrial and chemical process engineering experience, including more than 20 years with ExxonMobil.</p>"
+            ],
+            [
+                "<h4 class=\"text-lg font-bold\">Pathway to Commercial Scale</h4>"
+            ],
+            [
+                "<p>This lab demonstration represents the first step in scaling the Company’s breakthrough technology from laboratory to commercial applications, similar to how steam reforming of natural gas evolved from lab units to massive commercial plants that now produce over 60 million tons of hydrogen per year in the current $170 billion fossil-fuel-based hydrogen market.</p>"
+            ],
+            [
+                "<p>ThermoLoop's heat-based approach addresses the fundamental cost challenge in clean hydrogen production, where electricity currently accounts for up to 73% of production costs. By using heat directly from sources such as concentrated solar, geothermal, nuclear reactors, and industrial waste heat, ThermoLoop bypasses the expensive process of electricity generation.</p>"
+            ],
+            [
+                "<p>For more information about NewHydrogen, please visit <a href=\"https://newhydrogen.com/\" class=\"text-blue-600 text-[length:inherit]\">https://newhydrogen.com/</a>. </p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "88",
         'title' => "NewHydrogen’s Plan to Win the Green Hydrogen Race",
         'date' => "June 12, 2025",
