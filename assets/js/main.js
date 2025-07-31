@@ -155,7 +155,7 @@ $(".popup-vimeo-hash").magnificPopup({
             return fallback ? fallback[1] : null;
           }
         },
-        src: "https://player.vimeo.com/video/%id%?autoplay=1",
+        src: "https://player.vimeo.com/video/%id%?autoplay=1&muted=0&playsinline=1&background=0",
       },
     },
   },

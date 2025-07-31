@@ -7,8 +7,8 @@
         <div class="mt-6 lg:max-w-[995px] max-w-[830px] mx-auto relative video-wrapper">
             <!-- <iframe id="explainer-video" title="vimeo-player" class='w-full aspect-video relative z-10' src="https://player.vimeo.com/video/1074972732?h=f28ef9ddbb&controls=0&autoplay=0" allow="autoplay; fullscreen; picture-in-picture"  frameborder="0" allowfullscreen playsinline></iframe> -->
                 <iframe 
-                data-video-id="1074972732"
-                src="https://player.vimeo.com/video/1074972732?controls=0&muted=1&playsinline=1"
+                data-video-id="1105564509"
+                src="https://player.vimeo.com/video/1105564509?controls=0&playsinline=1"
                 frameborder="0"
                 allow="autoplay; fullscreen; picture-in-picture"
                 allowfullscreen
