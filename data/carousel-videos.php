@@ -1,51 +1,51 @@
 <?php
 $videos = [
     [
-        'title' => "April 21, 2025 - NewHydrogen News Commentary",
-        'videoID' => "7LnsiizQCqE",
+        'title' => "August 4, 2025 - NewHydrogen News Commentary",
+        'videoID' => "rJyG-g3fQQ4",
         'date' => "",
         'category' => "news-commentary",
-        'slug' => "april-21-2025-newhydrogen-news-commentary",
+        'slug' => "august-4-2025-newhydrogen-news-commentary",
         "display" => true
     ],
     [
-        'title' => "April 14, 2025 - NewHydrogen News Commentary",
-        'videoID' => "YyZ8CorWGnc",
+        'title' => "July 28, 2025 - NewHydrogen News Commentary",
+        'videoID' => "QqREpu-C7Kk",
         'date' => "",
         'category' => "news-commentary",
-        'slug' => "april-14-2025-newhydrogen-news-commentary",
+        'slug' => "july-28-2025-newhydrogen-news-commentary",
         "display" => true
     ],
     [
-        'title' => "April 7, 2025 - NewHydrogen News Commentary",
-        'videoID' => "6gItpIlY78Y",
+        'title' => "July 21, 2025 - NewHydrogen News Commentary",
+        'videoID' => "T8jVkbKE9dg",
         'date' => "",
         'category' => "news-commentary",
-        'slug' => "april-7-2025-newhydrogen-news-commentary",
+        'slug' => "july-21-2025-newhydrogen-news-commentary",
         "display" => true
     ],
     [
-        'title' => "March 31, 2025 - NewHydrogen News Commentary",
-        'videoID' => "qzShS9xLjVE",
+        'title' => "July 7, 2025 - NewHydrogen News Commentary",
+        'videoID' => "NEpVft1exSk",
         'date' => "",
         'category' => "news-commentary",
-        'slug' => "march-31-2025-newhydrogen-news-commentary",
+        'slug' => "july-7-2025-newhydrogen-news-commentary",
         "display" => true
     ],
     [
-        'title' => "March 24, 2025 - NewHydrogen News Commentary",
-        'videoID' => "vp3ms2zcxgg",
+        'title' => "June 30, 2025 - NewHydrogen News Commentary",
+        'videoID' => "Xo8zjMpkOv0",
         'date' => "",
         'category' => "news-commentary",
-        'slug' => "march-24-2025-newhydrogen-news-commentary",
+        'slug' => "june-30-2025-newhydrogen-news-commentary",
         "display" => true
     ],
     [
-        'title' => "March 17, 2025 - NewHydrogen News Commentary",
-        'videoID' => "SD1U0OwAwnY",
+        'title' => "June 16, 2025 - NewHydrogen News Commentary",
+        'videoID' => "x5VyihCx-VU",
         'date' => "",
         'category' => "news-commentary",
-        'slug' => "march-17-2025-newhydrogen-news-commentary",
+        'slug' => "june-16-2025-newhydrogen-news-commentary",
         "display" => true
     ]
 ];
