@@ -121,7 +121,7 @@
         <div class="mt-28">
             <h2 class="text-[36px] lg:text-5xl font-black leading-[1.1]">The UCSB Technology Team</h2>
             <div class="grid grid-cols-1 md:grid-cols-12 gap-x-[120px] gap-y-10 mt-16">
-                <div class="md:col-span-4 xl:col-start-5 bg-white rounded-[30px] p-6 h-auto relative max-w-[calc(100%_-_75px)] lg:max-w-full">
+                <div class="md:col-span-4 xl:col-start-3 bg-white rounded-[30px] p-6 h-auto relative max-w-[calc(100%_-_75px)] lg:max-w-full">
                     <div class="flex flex-col gap-6">
                         <div class="relative before:content-[''] before:absolute before:top-0 before:-left-6 before:w-0.5 before:h-full before:bg-[#76b3f8] before:bg-no-repeat md:mb-0 mb-4 md:pr-0 pr-16">
                             <h6>Phillip Christopher, PhD</h6>
@@ -131,6 +131,18 @@
                     </div>
                     <div class="absolute top-1/2 -translate-y-1/2 -right-[72px] rounded-full size-36 after:content-[''] after:absolute after:top-0 after:left-0 after:w-full after:h-full after:z-[-1] after:rounded-full after:shadow-[-20px_0_30px_rgb(0_188_2_/_50%)]">
                         <img src="./assets/images/philip-christopher.png" alt="team-member" class="rounded-full w-full h-full overflow-hidden">
+                    </div>
+                </div>
+                <div class="md:col-span-4 bg-white rounded-[30px] p-6 h-auto relative max-w-[calc(100%_-_75px)] lg:max-w-full">
+                    <div class="flex flex-col gap-6">
+                        <div class="relative before:content-[''] before:absolute before:top-0 before:-left-6 before:w-0.5 before:h-full before:bg-[#76b3f8] before:bg-no-repeat md:mb-0 mb-4 md:pr-0 pr-16">
+                            <h6>Austin Morales</h6>
+                            <p class="text-sm mt-1.5">Research Scientist</p>
+                        </div>
+                        <p class="pr-20 text-sm">Austin Morales is a postdoctoral researcher in chemical engineering at UC Santa Barbara, working on advanced catalytic processes for hydrogen production. He holds a Ph.D. from the University of Houston and a B.S. from UC Santa Barbara.</p>
+                    </div>
+                    <div class="absolute top-1/2 -translate-y-1/2 -right-[72px] rounded-full size-36 after:content-[''] after:absolute after:top-0 after:left-0 after:w-full after:h-full after:z-[-1] after:rounded-full after:shadow-[-20px_0_30px_rgb(0_188_2_/_50%)]">
+                        <img src="./assets/images/austin-for-web.png" alt="team-member" class="rounded-full w-full h-full overflow-hidden">
                     </div>
                 </div>
             </div>
