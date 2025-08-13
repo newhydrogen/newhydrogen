@@ -92,6 +92,34 @@
                         <img src="./assets/images/philip-christopher.png" alt="team-member" class="rounded-full w-full h-full overflow-hidden">
                     </div>
                 </div>
+                <div class="md:col-span-4 bg-white rounded-[30px] p-6 h-auto md:h-[300px] relative max-w-[calc(100%_-_75px)] lg:max-w-full">
+                    <div class="flex flex-col gap-6">
+                        <div class="relative before:content-[''] before:absolute before:top-0 before:-left-6 before:w-0.5 before:h-full before:bg-[#76b3f8] before:bg-no-repeat md:mb-0 mb-4 md:pr-0 pr-16">
+                            <h6>Justin Marlowe, PhD </h6>
+                            <p class="text-sm mt-1.5">Research Scientist</p>
+                        </div>
+                        <p class="pr-20 text-sm">Ph.D. in Chemical Engineering University of California, Santa Barbara. Expert in multiple materials characterization techniques and reaction engineering.</p>
+                    </div>
+                    <div class="absolute top-1/2 -translate-y-1/2 -right-[72px] rounded-full size-36 after:content-[''] after:absolute after:top-0 after:left-0 after:w-full after:h-full after:z-[-1] after:rounded-full after:shadow-[-20px_0_30px_rgb(0_188_2_/_50%)]">
+                        <img src="./assets/images/team-member3.png" alt="team-member" class="rounded-full w-full h-full overflow-hidden">
+                    </div>
+                </div>
+            </div>
+            <div class="grid grid-cols-1 md:grid-cols-12 gap-x-[120px] gap-y-10 mt-16">
+              
+                
+                <div class="md:col-span-4 xl:col-start-3 bg-white rounded-[30px] p-6 h-auto relative max-w-[calc(100%_-_75px)] lg:max-w-full">
+                    <div class="flex flex-col gap-6">
+                        <div class="relative before:content-[''] before:absolute before:top-0 before:-left-6 before:w-0.5 before:h-full before:bg-[#76b3f8] before:bg-no-repeat md:mb-0 mb-4 md:pr-0 pr-16">
+                            <h6>Yikyeom Kim, PhD </h6>
+                            <p class="text-sm mt-1.5">Research Scientist</p>
+                        </div>
+                        <p class="pr-20 text-sm">Ph.D. in Chemical Engineering from the Korea Advanced Institute of Science and Technology (KAIST). Expert in the fabrication of tailored redox catalysts and system analysis of solid-gas reactions.</p>
+                    </div>
+                    <div class="absolute top-1/2 -translate-y-1/2 -right-[72px] rounded-full size-36 after:content-[''] after:absolute after:top-0 after:left-0 after:w-full after:h-full after:z-[-1] after:rounded-full after:shadow-[-20px_0_30px_rgb(0_188_2_/_50%)]">
+                        <img src="./assets/images/team-member4.png" alt="team-member" class="rounded-full w-full h-full overflow-hidden">
+                    </div>
+                </div>
                 <div class="md:col-span-4 bg-white rounded-[30px] p-6 h-auto relative max-w-[calc(100%_-_75px)] lg:max-w-full">
                     <div class="flex flex-col gap-6">
                         <div class="relative before:content-[''] before:absolute before:top-0 before:-left-6 before:w-0.5 before:h-full before:bg-[#76b3f8] before:bg-no-repeat md:mb-0 mb-4 md:pr-0 pr-16">
@@ -104,34 +132,6 @@
                         <img src="./assets/images/austin-for-web.png" alt="team-member" class="rounded-full w-full h-full overflow-hidden">
                     </div>
                 </div>
-            </div>
-            <div class="grid grid-cols-1 md:grid-cols-12 gap-x-[120px] gap-y-10 mt-16">
-              
-                <div class="md:col-span-4 xl:col-start-3 bg-white rounded-[30px] p-6 h-auto md:h-[300px] relative max-w-[calc(100%_-_75px)] lg:max-w-full">
-                    <div class="flex flex-col gap-6">
-                        <div class="relative before:content-[''] before:absolute before:top-0 before:-left-6 before:w-0.5 before:h-full before:bg-[#76b3f8] before:bg-no-repeat md:mb-0 mb-4 md:pr-0 pr-16">
-                            <h6>Justin Marlowe, PhD </h6>
-                            <p class="text-sm mt-1.5">Research Scientist</p>
-                        </div>
-                        <p class="pr-20 text-sm">Ph.D. in Chemical Engineering University of California, Santa Barbara. Expert in multiple materials characterization techniques and reaction engineering.</p>
-                    </div>
-                    <div class="absolute top-1/2 -translate-y-1/2 -right-[72px] rounded-full size-36 after:content-[''] after:absolute after:top-0 after:left-0 after:w-full after:h-full after:z-[-1] after:rounded-full after:shadow-[-20px_0_30px_rgb(0_188_2_/_50%)]">
-                        <img src="./assets/images/team-member3.png" alt="team-member" class="rounded-full w-full h-full overflow-hidden">
-                    </div>
-                </div>
-                <div class="md:col-span-4 bg-white rounded-[30px] p-6 h-auto relative max-w-[calc(100%_-_75px)] lg:max-w-full">
-                    <div class="flex flex-col gap-6">
-                        <div class="relative before:content-[''] before:absolute before:top-0 before:-left-6 before:w-0.5 before:h-full before:bg-[#76b3f8] before:bg-no-repeat md:mb-0 mb-4 md:pr-0 pr-16">
-                            <h6>Yikyeom Kim, PhD </h6>
-                            <p class="text-sm mt-1.5">Research Scientist</p>
-                        </div>
-                        <p class="pr-20 text-sm">Ph.D. in Chemical Engineering from the Korea Advanced Institute of Science and Technology (KAIST). Expert in the fabrication of tailored redox catalysts and system analysis of solid-gas reactions.</p>
-                    </div>
-                    <div class="absolute top-1/2 -translate-y-1/2 -right-[72px] rounded-full size-36 after:content-[''] after:absolute after:top-0 after:left-0 after:w-full after:h-full after:z-[-1] after:rounded-full after:shadow-[-20px_0_30px_rgb(0_188_2_/_50%)]">
-                        <img src="./assets/images/team-member4.png" alt="team-member" class="rounded-full w-full h-full overflow-hidden">
-                    </div>
-                </div>
-             
             </div>
         </div>
     </div>
