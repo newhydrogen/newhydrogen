@@ -1,6 +1,22 @@
 <?php
 $videos = [
     [
+        'title' => "August 18, 2025 - NewHydrogen News Commentary",
+        'videoID' => "9V3rfFTpWoQ",
+        'date' => "",
+        'category' => "news-commentary",
+        'slug' => "august-18-2025-newhydrogen-news-commentary",
+        "display" => true
+    ],
+    [
+        'title' => "August 11, 2025 - NewHydrogen News Commentary",
+        'videoID' => "j8UHWqasOdg",
+        'date' => "",
+        'category' => "news-commentary",
+        'slug' => "august-11-2025-newhydrogen-news-commentary",
+        "display" => true
+    ],
+    [
         'title' => "August 4, 2025 - NewHydrogen News Commentary",
         'videoID' => "rJyG-g3fQQ4",
         'date' => "",
@@ -32,22 +48,7 @@ $videos = [
         'slug' => "july-7-2025-newhydrogen-news-commentary",
         "display" => true
     ],
-    [
-        'title' => "June 30, 2025 - NewHydrogen News Commentary",
-        'videoID' => "Xo8zjMpkOv0",
-        'date' => "",
-        'category' => "news-commentary",
-        'slug' => "june-30-2025-newhydrogen-news-commentary",
-        "display" => true
-    ],
-    [
-        'title' => "June 16, 2025 - NewHydrogen News Commentary",
-        'videoID' => "x5VyihCx-VU",
-        'date' => "",
-        'category' => "news-commentary",
-        'slug' => "june-16-2025-newhydrogen-news-commentary",
-        "display" => true
-    ]
+
 ];
 
 
