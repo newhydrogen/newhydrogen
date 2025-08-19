@@ -3,6 +3,41 @@
 
 $news = [
     [
+        'id' => "90",
+        'title' => "Dr. Austin Morales Joins NewHydrogen Team to Help Drive ThermoLoop™ Development",
+        'date' => "August 19, 2025",
+        'excerpt' => "NewHydrogen, Inc. (OTCQB:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest clean hydrogen, today announced that Dr. Austin Morales has joined its UCSB Technology Team to help develop the Company’s cost-effective thermochemical water splitting technology",
+        'description' => [
+            [
+                "<p><strong>Dr. Morales brings expertise in dynamic reactor operation and advanced catalytic processes </strong></p>"
+            ],
+            [
+                "<p>Santa Clarita, Calif. (August 19, 2025) – NewHydrogen, Inc. (OTCQB:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world’s cheapest clean hydrogen, today announced that Dr. Austin Morales has joined its UCSB Technology Team to help develop the Company’s cost-effective thermochemical water splitting technology. </p>"
+            ],
+            [
+                "<p>Dr. Morales will join Dr. Philip Christopher, Dr. Justin Marlowe, and Dr. Yikyeom Kim at the University of California, Santa Barbara, and Dr. Eric McFarland, and Mr. Sundar Narayanan, at NewHydrogen, to advance cost-effective, entropy-driven thermochemical water splitting.  </p>"
+            ],
+            [
+                "<p>Before joining the team, Dr. Morales conducted his doctoral research at University of Houston in dynamic reactor operation and catalytic processes to improve reaction selectivity and efficiency. His work has been published in leading scientific journals including Nature, ACS Catalysis, and the Chemical Engineering Journal, and he has presented at major international conferences on chemical reaction engineering and catalysis. His research has earned multiple awards for excellence, including the prestigious Kokes Award from the North American Catalysis Society. Dr. Morales holds a B.S. in Chemical Engineering from UC Santa Barbara, and Ph.D. in Chemical Engineering from University of Houston.</p>"
+            ],
+            [
+                "<p>“We are excited to welcome Dr. Morales to our team and expect him to have a meaningful impact by strengthening our technology development activities,” said Steve Hill, CEO of NewHydrogen. “Austin’s strong research background, problem-solving skills, and passion for innovation make him a valuable addition to our technical team. His contributions will be key as we continue progressing toward pilot-scale demonstrations of our technology.”</p>"
+            ],
+            [
+                "<p>“I’m thrilled to contribute to a project that has the potential to reshape the economics of green hydrogen production,” said Dr. Morales. “ThermoLoop™ presents an exciting opportunity to apply advanced catalytic science and reactor engineering in a way that could have a significant global impact.”</p>"
+            ],
+            [
+                "<p>NewHydrogen is currently funding a sponsored research program at the University of California, Santa Barbara (“UCSB”), to develop its ThermoLoopTM technology, a novel low-cost thermochemical process to split water using inexpensive heat, instead of expensive electricity. Since the commencement of the Company’s research project in August 2023, the UCSB team has been methodically developing the Company’s ThermoLoopTM technology around unique materials that use heat to produce hydrogen and oxygen when reacted in a cyclic process with water vapor. </p>"
+            ],
+            
+            [
+                "<p>To learn more about NewHydrogen’s work with leading scientists at UC Santa Barbara to develop the world's cheapest green hydrogen, please visit <a href=\"https://newhydrogen.com/\" class=\"text-blue-600 text-[length:inherit]\">https://newhydrogen.com/</a>. </p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "89",
         'title' => "NewHydrogen Announces Its First Production of Clean Hydrogen",
         'date' => "July 15, 2025",
