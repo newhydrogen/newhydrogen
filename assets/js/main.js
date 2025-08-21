@@ -143,19 +143,51 @@ $(".popup-vimeo-hash").magnificPopup({
       "</div>",
     patterns: {
       vimeo: {
-        // index: 'vimeo.com/',
-        // id: '/',
         index: "vimeo.com/",
         id: function (url) {
           var match = url.match(/vimeo\.com\/(\d+)(\?h=[\w]+)/);
+          console.log(match);
           if (match) {
             return match[1] + match[2];
           } else {
             var fallback = url.match(/vimeo\.com\/(\d+)/);
+            console.log(fallback);
             return fallback ? fallback[1] : null;
           }
         },
         src: "https://player.vimeo.com/video/%id%?autoplay=1&muted=0&playsinline=1&background=0",
+      },
+    },
+  },
+  mainClass: "mfp-fade",
+  removalDelay: 160,
+  preloader: false,
+  fixedContentPos: true,
+});
+
+$(".popup-vimeo-slash").magnificPopup({
+  type: "iframe",
+  iframe: {
+    markup:
+      '<div class="mfp-iframe-scaler">' +
+      '<div class="mfp-close"></div>' +
+      '<iframe class="mfp-iframe" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>' +
+      "</div>",
+    patterns: {
+      vimeo: {
+        index: "vimeo.com/",
+        id: function (url) {
+          var match = url.match(/vimeo\.com\/(\d+)\/([a-zA-Z0-9]+)/);
+          console.log(match);
+          if (match) {
+            return match[1] + "?h=" + match[2];
+          } else {
+            var fallback = url.match(/vimeo\.com\/(\d+)/);
+            console.log(fallback);
+            return fallback ? fallback[1] : null;
+          }
+        },
+        src: "https://player.vimeo.com/video/%id%&autoplay=1&muted=0&playsinline=1&background=0",
       },
     },
   },
