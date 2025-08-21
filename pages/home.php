@@ -29,15 +29,15 @@
                 <div class="space-y-6 block items-start justify-between">
                     <div class="max-w-[400px] md:ml-auto w-full md:mt-0 mt-12">
                         <p class="text-white font-semibold text-lg mb-1.5">Short Explainer Video</p>
-                        <div class="bg-custom-gray-100 rounded-[20px] relative sm:h-56 h-52 w-full overflow-hidden border-[14px] border-custom-green-500">
+                        <a href="https://vimeo.com/1105564509" class="popup-vimeo-hash bg-custom-gray-100 rounded-[20px] relative sm:h-56 h-52 w-full overflow-hidden border-[14px] border-custom-green-500 block">
                             <img src="//img.youtube.com/vi/p1tz4X0-7Hs/maxresdefault.jpg" class="object-cover w-full h-full" alt="thumbnail">
-                            <a href="https://vimeo.com/1105564509" class="popup-vimeo-hash absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2">
+                            <div class="popup-vimeo-hash absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56" fill="none">
                                     <circle cx="27.8926" cy="28.1125" r="27.5" fill="white" fill-opacity="0.8" />
                                     <path d="M39.1753 28.1126L21.5537 38.2864L21.5537 17.9387L39.1753 28.1126Z" fill="black" />
                                 </svg>
-                            </a>
-                        </div>
+                            </div>
+                        </a>
                     </div>
                     <!-- <div class="max-w-[400px] md:ml-auto w-full ">
                         <p class="text-white font-semibold text-lg mb-1.5">Breaking News</p>
@@ -58,15 +58,15 @@
                                 </svg>
                             </a>
                         </div> -->
-                        <div class="bg-custom-gray-100 rounded-[20px] relative sm:h-56 h-52 w-full overflow-hidden border-[14px] border-custom-green-500">
+                        <a href="https://www.youtube.com/watch?v=xFwYZ2bPkU8" class="popup-youtube bg-custom-gray-100 rounded-[20px] relative sm:h-56 h-52 w-full overflow-hidden border-[14px] border-custom-green-500 block">
                             <img src="https://img.youtube.com/vi/xFwYZ2bPkU8/maxresdefault.jpg" class="object-cover w-full h-full" alt="thumbnail">
-                            <a href="https://www.youtube.com/watch?v=xFwYZ2bPkU8" class="popup-youtube absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2">
+                            <div  class=" absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56" fill="none">
                                     <circle cx="27.8926" cy="28.1125" r="27.5" fill="white" fill-opacity="0.8" />
                                     <path d="M39.1753 28.1126L21.5537 38.2864L21.5537 17.9387L39.1753 28.1126Z" fill="black" />
                                 </svg>
-                            </a>
-                        </div>
+            </div>
+            </a>
                     </div>
                 </div>
             </div>
