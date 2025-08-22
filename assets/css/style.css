@@ -2319,10 +2319,6 @@ a:hover{
   text-align: start;
 }
 
-.font-\[inherit\]{
-  font-family: inherit;
-}
-
 .text-2xl{
   font-size: 1.5rem;
   line-height: 2rem;
@@ -2405,6 +2401,10 @@ a:hover{
   font-size: 50px;
 }
 
+.text-\[length\:inherit\]{
+  font-size: inherit;
+}
+
 .text-base{
   font-size: 1rem;
   line-height: 1.5rem;
@@ -2423,10 +2423,6 @@ a:hover{
 .text-xl{
   font-size: 1.25rem;
   line-height: 1.75rem;
-}
-
-.text-\[length\:inherit\]{
-  font-size: inherit;
 }
 
 .font-black{
@@ -2558,10 +2554,6 @@ a:hover{
 .text-\[\#FF533B\]{
   --tw-text-opacity: 1;
   color: rgb(255 83 59 / var(--tw-text-opacity, 1));
-}
-
-.text-\[inherit\]{
-  color: inherit;
 }
 
 .text-black{
@@ -3225,10 +3217,6 @@ html {
     top: 40%;
   }
 
-  .md\:col-span-4{
-    grid-column: span 4 / span 4;
-  }
-
   .md\:m-0{
     margin: 0px;
   }
@@ -3281,10 +3269,6 @@ html {
     display: none;
   }
 
-  .md\:h-\[300px\]{
-    height: 300px;
-  }
-
   .md\:h-\[800px\]{
     height: 800px;
   }
@@ -3327,10 +3311,6 @@ html {
 
   .md\:max-w-\[670px\]{
     max-width: 670px;
-  }
-
-  .md\:grid-cols-12{
-    grid-template-columns: repeat(12, minmax(0, 1fr));
   }
 
   .md\:grid-cols-2{
@@ -3739,14 +3719,6 @@ html {
 @media (min-width: 1280px){
   .xl\:right-32{
     right: 8rem;
-  }
-
-  .xl\:col-start-3{
-    grid-column-start: 3;
-  }
-
-  .xl\:col-start-5{
-    grid-column-start: 5;
   }
 
   .xl\:mb-20{
