@@ -3364,6 +3364,11 @@ html {
     padding-bottom: 121px;
   }
 
+  .md\:py-28{
+    padding-top: 7rem;
+    padding-bottom: 7rem;
+  }
+
   .md\:pb-20{
     padding-bottom: 5rem;
   }
@@ -3394,6 +3399,10 @@ html {
 
   .md\:pt-\[114px\]{
     padding-top: 114px;
+  }
+
+  .md\:pb-36{
+    padding-bottom: 9rem;
   }
 
   .md\:text-2xl{
