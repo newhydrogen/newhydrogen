@@ -385,6 +385,14 @@ $videos = [
         "display" => true
     ],
     [
+        'title' => "The Inflection Point in Hydrogen Energy",
+        'videoID' => "gd84SLXql34",
+        'date' => "August 24, 2025",
+        'category' => "ceo-podcast",
+        'slug' => "the-inflection-point-in-hydrogen-energy",
+        "display" => true
+    ],
+    [
         'title' => "Olivera Kesler - Professor at University of Toronto",
         'videoID' => "aitD-owQtJY",
         'date' => "March 17, 2025",
