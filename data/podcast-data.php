@@ -1,6 +1,14 @@
 <?php
 $videos = [
     [
+        'title' => "August 25, 2025 - NewHydrogen News Commentary",
+        'videoID' => "tuzxOPue-Co",
+        'date' => "",
+        'category' => "news-commentary",
+        'slug' => "august-25-2025-newhydrogen-news-commentary",
+        "display" => true
+    ],
+    [
         'title' => "August 18, 2025 - NewHydrogen News Commentary",
         'videoID' => "9V3rfFTpWoQ",
         'date' => "",
@@ -374,6 +382,14 @@ $videos = [
         'date' => "",
         'category' => "news-commentary",
         'slug' => "august-5-2024-newhydrogen-news-commentary",
+        "display" => true
+    ],
+    [
+        'title' => "The Inflection Point in Hydrogen Energy",
+        'videoID' => "gd84SLXql34",
+        'date' => "August 24, 2025",
+        'category' => "ceo-podcast",
+        'slug' => "the-inflection-point-in-hydrogen-energy",
         "display" => true
     ],
     [

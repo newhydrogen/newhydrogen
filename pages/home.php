@@ -17,7 +17,7 @@
             </div>
     </div>
 </section> -->
-<section class="bg-banner bg-cover bg-[18%_100%] md:bg-center pb-16 sm:pb-0 md:h-[800px] sm:h-[1082px] relative md:pt-28 pt-16 ">
+<section class="bg-banner bg-cover bg-[18%_100%] md:bg-center relative md:pb-36 md:pt-28 py-16 ">
     <div class="mx-auto lg:max-w-screen-lg xl:max-w-screen-xl px-2 sm:px-4 z-10 relative">
         <div class="md:grid grid-cols-12 block">
             <div class="col-span-7 md:flex flex-col justify-between">
@@ -59,7 +59,7 @@
                             </a>
                         </div> -->
                         <a href="https://vimeo.com/1112048064/ec2dc82686" class="popup-vimeo-slash bg-custom-gray-100 rounded-[20px] relative sm:h-56 h-52 w-full overflow-hidden border-[14px] border-custom-green-500 block">
-                            <img src="https://vumbnail.com/1112048064/ec2dc82686.jpg" class="object-cover w-full h-full" alt="thumbnail">
+                            <img src="https://vumbnail.com/1112048064/ec2dc82686.jpg" class="w-full h-full" alt="thumbnail">
                             <div  class=" absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56" fill="none">
                                     <circle cx="27.8926" cy="28.1125" r="27.5" fill="white" fill-opacity="0.8" />
