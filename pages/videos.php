@@ -186,8 +186,9 @@ $videos = include "./data/podcast-data.php";
                         </svg>
                         <a href=\"$videoLink\" class='absolute top-0 right-0 left-0 h-full w-full'></a>
                     </button>
-                    <h6 class=\"sm:text-xl font-bold leading-[1.3] text-lg pt-5\">$title</h6>
+                   
                 </div>
+                 <h6 class=\"sm:text-xl font-bold leading-[1.3] text-lg pt-5\">$title</h6>
             </a>
         </div>";
                 }
