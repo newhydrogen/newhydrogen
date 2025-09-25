@@ -8,9 +8,9 @@
             </div>
             
         </section>
-        <div class="md:grid grid-cols-2 block md:pt-[114px] pt-12">
-            <div class="max-w-[600px] mr-auto">
-                <h1 class="text-[36px] lg:text-5xl xl:text-[64px] font-extralight leading-[1.1] mb-4 xl:mb-20">
+        <div class="md:grid grid-cols-2 block md:pt-[114px] pt-12  lg:gap-0 gap-6">
+            <div class="md:max-w-[600px] mr-auto">
+                <h1 class="text-[36px] lg:text-5xl xl:text-[64px] font-extralight leading-snug lg:leading-[1.1] mb-4 xl:mb-20">
                     Developing a Breakthrough Technology to Produce
                     <span class="font-semibold">the World’s Cheapest Green Hydrogen</span>
                 </h1>
@@ -18,7 +18,7 @@
                     <span class="font-bold">NewHydrogen is developing ThermoLoop<sup>TM</sup></span> - a breakthrough technology that uses water and heat instead of electricity to produce the world’s cheapest green hydrogen.
                 </p>
             </div>
-            <div class="max-w-[600px] md:ml-auto">
+            <div class="md:max-w-[600px] md:ml-auto">
                 <p class="text-lg lg:text-xl mb-5">
                     Hydrogen is the cleanest and most abundant element in the universe, and we can’t live without it. Hydrogen is the key ingredient in making fertilizers needed to grow food for the world. It is also used for transportation, refining oil and making steel, glass, pharmaceuticals and more.
                 </p>
