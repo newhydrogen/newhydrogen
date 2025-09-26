@@ -70,9 +70,9 @@
             </div>
         </div>
         <h3 class=" text-[42px] font-normal leading-[1.2] text-center pb-[35px]">Hydrogen Demand By Segment</h3>
-        <div class="lg:grid block grid-cols-2">
+        <div class="lg:grid block grid-cols-2 items-center xl:items-stretch">
             <div>
-                <img class="lg:rounded-none rounded-[40px] lg:h-full m-auto" src="./assets/images/demand-bg-segmant.png" alt="demand-bg-segmant">
+                <img class="lg:rounded-none rounded-[40px] xl:h-full m-auto" src="./assets/images/demand-bg-segmant.png" alt="demand-bg-segmant">
             </div>
             <div class=" bg-custom-gray-dark-100 rounded-[40px] pt-[68px] pr-[42px] pl-[60px] lg:mt-0 mt-8 pb-[68px] lg:rounded-l-none lg:rounded-r-[40px]">
                 <h2 class=" xl:mb-28 mb-8 xl:text-[42px] text-3xl font-bold leading-[1.2] text-white">By 2050 <span class=" text-custom-green-200"> 660 million tons</span> per year of hydrogen needed for net-zero </h2>

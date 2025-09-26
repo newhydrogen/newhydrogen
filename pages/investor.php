@@ -8,14 +8,14 @@
     <div class="mb-[71px] xl:mt-[100px] mt-16 mx-auto max-w-[1320px] 3xl:max-w-screen-2xl px-2 sm:px-4">
         <div class="relative text-center ">
             <div class="grid grid-cols-12 gap-6">
-                <div class="col-span-12 xl:col-span-3 flex items-center justify-center">
-                    <div class="flex flex-col gap-8 items-center">
-                        <a href="https://finance.yahoo.com/quote/NEWH/ " target="_blank" class="bg-gradient-to-b from-[#75b2f8] to-[#007aff] text-white w-64 h-32 flex items-center justify-center py-5 px-10 rounded-2xl text-3xl font-semibold hover:text-white">Stock Info</a>
-                        <a href="/assets/pdf/NEWH-Investor-Presentation-v38.pdf" target="_blank" class="bg-gradient-to-b from-[#75b2f8] to-[#007aff] text-white w-64 h-32 flex items-center justify-center py-5 px-10 rounded-2xl text-3xl font-semibold hover:text-white">Investor Presentation</a>
-                        <a href="/assets/pdf/achieving-the-hydrogen-economy.pdf" target="_blank" class="bg-gradient-to-b from-[#75b2f8] to-[#007aff] text-white w-64 h-32 flex items-center justify-center py-5 px-10 rounded-2xl text-3xl font-semibold hover:text-white">White Paper</a>
+                <div class="col-span-12 lg:col-span-3 flex items-center justify-center">
+                    <div class="flex flex-col gap-8 items-center w-full">
+                        <a href="https://finance.yahoo.com/quote/NEWH/ " target="_blank" class="bg-gradient-to-b from-[#75b2f8] to-[#007aff] text-white w-64 lg:w-full 2xl:w-64 h-32 flex items-center justify-center py-5 px-10 rounded-2xl text-3xl font-semibold hover:text-white">Stock Info</a>
+                        <a href="/assets/pdf/NEWH-Investor-Presentation-v38.pdf" target="_blank" class="bg-gradient-to-b from-[#75b2f8] to-[#007aff] text-white w-64 lg:w-full 2xl:w-64 h-32 flex items-center justify-center py-5 px-10 rounded-2xl text-3xl font-semibold hover:text-white">Investor Presentation</a>
+                        <a href="/assets/pdf/achieving-the-hydrogen-economy.pdf" target="_blank" class="bg-gradient-to-b from-[#75b2f8] to-[#007aff] text-white w-64 lg:w-full 2xl:w-64 h-32 flex items-center justify-center py-5 px-10 rounded-2xl text-3xl font-semibold hover:text-white">White Paper</a>
                     </div>
                 </div>
-                <div class="col-span-12 xl:col-span-9 relative">
+                <div class="col-span-12 lg:col-span-9 relative">
                     <a href="https://www.youtube.com/watch?v=RH8Kwkn_6Pw">
                         <button class="absolute left-1/2 top-1/2 -translate-x-1/2  -translate-y-1/2">
                             <svg class="sm:w-[100px] sm:h-[100px] w-16 h-16" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 56 56" fill="none">
