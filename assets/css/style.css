@@ -745,10 +745,6 @@ a:hover{
   bottom: -13rem;
 }
 
-.-right-\[72px\]{
-  right: -72px;
-}
-
 .bottom-\[-6px\]{
   bottom: -6px;
 }
@@ -1136,9 +1132,19 @@ a:hover{
   aspect-ratio: 16 / 9;
 }
 
+.size-28{
+  width: 7rem;
+  height: 7rem;
+}
+
 .size-36{
   width: 9rem;
   height: 9rem;
+}
+
+.size-32{
+  width: 8rem;
+  height: 8rem;
 }
 
 .h-12{
@@ -1364,10 +1370,6 @@ a:hover{
 
 .max-w-\[950px\]{
   max-width: 950px;
-}
-
-.max-w-\[calc\(100\%_-_75px\)\]{
-  max-width: calc(100% - 75px);
 }
 
 .max-w-full{
@@ -2169,14 +2171,6 @@ a:hover{
 
 .pl-\[60px\]{
   padding-left: 60px;
-}
-
-.pr-16{
-  padding-right: 4rem;
-}
-
-.pr-20{
-  padding-right: 5rem;
 }
 
 .pr-32{
@@ -3035,6 +3029,11 @@ html {
     display: flex;
   }
 
+  .sm\:size-36{
+    width: 9rem;
+    height: 9rem;
+  }
+
   .sm\:h-56{
     height: 14rem;
   }
@@ -3476,14 +3475,6 @@ html {
     right: 38%;
   }
 
-  .lg\:col-span-5{
-    grid-column: span 5 / span 5;
-  }
-
-  .lg\:col-span-7{
-    grid-column: span 7 / span 7;
-  }
-
   .lg\:col-span-3{
     grid-column: span 3 / span 3;
   }
@@ -3749,14 +3740,6 @@ html {
     right: 8rem;
   }
 
-  .xl\:col-span-3{
-    grid-column: span 3 / span 3;
-  }
-
-  .xl\:col-span-9{
-    grid-column: span 9 / span 9;
-  }
-
   .xl\:mb-20{
     margin-bottom: 5rem;
   }
@@ -3795,10 +3778,6 @@ html {
 
   .xl\:grid-cols-3{
     grid-template-columns: repeat(3, minmax(0, 1fr));
-  }
-
-  .xl\:items-start{
-    align-items: flex-start;
   }
 
   .xl\:items-stretch{
