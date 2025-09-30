@@ -745,10 +745,6 @@ a:hover{
   bottom: -13rem;
 }
 
-.-right-\[72px\]{
-  right: -72px;
-}
-
 .bottom-\[-6px\]{
   bottom: -6px;
 }
@@ -1136,9 +1132,19 @@ a:hover{
   aspect-ratio: 16 / 9;
 }
 
+.size-28{
+  width: 7rem;
+  height: 7rem;
+}
+
 .size-36{
   width: 9rem;
   height: 9rem;
+}
+
+.size-32{
+  width: 8rem;
+  height: 8rem;
 }
 
 .h-12{
@@ -1322,10 +1328,6 @@ a:hover{
   max-width: 584px;
 }
 
-.max-w-\[600px\]{
-  max-width: 600px;
-}
-
 .max-w-\[617px\]{
   max-width: 617px;
 }
@@ -1370,10 +1372,6 @@ a:hover{
   max-width: 950px;
 }
 
-.max-w-\[calc\(100\%_-_75px\)\]{
-  max-width: calc(100% - 75px);
-}
-
 .max-w-full{
   max-width: 100%;
 }
@@ -1392,6 +1390,14 @@ a:hover{
 
 .grow{
   flex-grow: 1;
+}
+
+.grow-0{
+  flex-grow: 0;
+}
+
+.basis-auto{
+  flex-basis: auto;
 }
 
 .-translate-x-1\/2{
@@ -2167,14 +2173,6 @@ a:hover{
   padding-left: 60px;
 }
 
-.pr-16{
-  padding-right: 4rem;
-}
-
-.pr-20{
-  padding-right: 5rem;
-}
-
 .pr-32{
   padding-right: 8rem;
 }
@@ -2229,6 +2227,10 @@ a:hover{
 
 .pt-5{
   padding-top: 1.25rem;
+}
+
+.pt-6{
+  padding-top: 1.5rem;
 }
 
 .pt-7{
@@ -2293,10 +2295,6 @@ a:hover{
 
 .pt-\[9px\]{
   padding-top: 9px;
-}
-
-.pt-6{
-  padding-top: 1.5rem;
 }
 
 .text-left{
@@ -2365,6 +2363,10 @@ a:hover{
   font-size: 28px;
 }
 
+.text-\[32px\]{
+  font-size: 32px;
+}
+
 .text-\[35px\]{
   font-size: 35px;
 }
@@ -2419,10 +2421,6 @@ a:hover{
 .text-xl{
   font-size: 1.25rem;
   line-height: 1.75rem;
-}
-
-.text-\[32px\]{
-  font-size: 32px;
 }
 
 .font-black{
@@ -3031,6 +3029,11 @@ html {
     display: flex;
   }
 
+  .sm\:size-36{
+    width: 9rem;
+    height: 9rem;
+  }
+
   .sm\:h-56{
     height: 14rem;
   }
@@ -3136,10 +3139,6 @@ html {
 
   .sm\:pt-\[57rem\]{
     padding-top: 57rem;
-  }
-
-  .sm\:pb-\[135px\]{
-    padding-bottom: 135px;
   }
 
   .sm\:text-center{
@@ -3269,12 +3268,12 @@ html {
     display: none;
   }
 
-  .md\:h-full{
-    height: 100%;
-  }
-
   .md\:w-full{
     width: 100%;
+  }
+
+  .md\:max-w-\[360px\]{
+    max-width: 360px;
   }
 
   .md\:max-w-\[468px\]{
@@ -3299,6 +3298,10 @@ html {
 
   .md\:max-w-\[558px\]{
     max-width: 558px;
+  }
+
+  .md\:max-w-\[600px\]{
+    max-width: 600px;
   }
 
   .md\:max-w-\[624px\]{
@@ -3333,20 +3336,6 @@ html {
     justify-content: space-between;
   }
 
-  .md\:rounded-none{
-    border-radius: 0px;
-  }
-
-  .md\:rounded-l-none{
-    border-top-left-radius: 0px;
-    border-bottom-left-radius: 0px;
-  }
-
-  .md\:rounded-r-\[40px\]{
-    border-top-right-radius: 40px;
-    border-bottom-right-radius: 40px;
-  }
-
   .md\:bg-center{
     background-position: center;
   }
@@ -3374,6 +3363,10 @@ html {
 
   .md\:pr-0{
     padding-right: 0px;
+  }
+
+  .md\:pr-36{
+    padding-right: 9rem;
   }
 
   .md\:pt-0{
@@ -3502,6 +3495,10 @@ html {
     margin-bottom: 77px;
   }
 
+  .lg\:mt-0{
+    margin-top: 0px;
+  }
+
   .lg\:mt-12{
     margin-top: 3rem;
   }
@@ -3586,6 +3583,20 @@ html {
     --tw-space-x-reverse: 0;
     margin-right: calc(0.5rem * var(--tw-space-x-reverse));
     margin-left: calc(0.5rem * calc(1 - var(--tw-space-x-reverse)));
+  }
+
+  .lg\:rounded-none{
+    border-radius: 0px;
+  }
+
+  .lg\:rounded-l-none{
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+  }
+
+  .lg\:rounded-r-\[40px\]{
+    border-top-right-radius: 40px;
+    border-bottom-right-radius: 40px;
   }
 
   .lg\:p-\[14px\]{
@@ -3705,6 +3716,10 @@ html {
     line-height: 1.75rem;
   }
 
+  .lg\:leading-\[1\.1\]{
+    line-height: 1.1;
+  }
+
   .lg\:before\:right-\[86px\]::before{
     content: var(--tw-content);
     right: 86px;
@@ -3717,6 +3732,10 @@ html {
 }
 
 @media (min-width: 1280px){
+  .xl\:-right-\[72px\]{
+    right: -72px;
+  }
+
   .xl\:right-32{
     right: 8rem;
   }
@@ -3745,6 +3764,10 @@ html {
     margin-top: 29px;
   }
 
+  .xl\:h-full{
+    height: 100%;
+  }
+
   .xl\:max-w-\[420px\]{
     max-width: 420px;
   }
@@ -3755,6 +3778,10 @@ html {
 
   .xl\:grid-cols-3{
     grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+
+  .xl\:items-stretch{
+    align-items: stretch;
   }
 
   .xl\:gap-6{
@@ -3800,6 +3827,10 @@ html {
 
   .xl\:pl-\[70px\]{
     padding-left: 70px;
+  }
+
+  .xl\:pr-20{
+    padding-right: 5rem;
   }
 
   .xl\:pt-\[100px\]{
@@ -3869,6 +3900,10 @@ html {
 }
 
 @media (min-width: 1536px){
+  .\32xl\:w-64{
+    width: 16rem;
+  }
+
   .\32xl\:max-w-\[771px\]{
     max-width: 771px;
   }

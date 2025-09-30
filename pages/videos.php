@@ -11,8 +11,8 @@ $videos = include "./data/podcast-data.php";
     <div class="mx-auto lg:max-w-screen-lg xl:max-w-screen-xl px-2 sm:px-4 ">
  
 
-        <div class="grid grid-cols-1 lg:grid-cols-3 gap-5">
-            <div class="relative mb-[32px]">
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-5">
+            <div class="relative mb-[32px] max-w-96 lg:max-w-full mx-auto">
                 <a href="#news-commentary">
                     <div>
                         <img src="./assets/images/cat-bg-1.png" class='max-w-full h-auto' alt="">
@@ -24,7 +24,7 @@ $videos = include "./data/podcast-data.php";
                 </a>
             </div>
 
-            <div class="relative mb-[32px]">
+            <div class="relative mb-[32px] max-w-96 lg:max-w-full mx-auto">
                 <a href="#ceo-podcast">
                     <div>
                         <img src="./assets/images/cat-bg-2.png" class='max-w-full h-auto' alt="">
@@ -36,7 +36,7 @@ $videos = include "./data/podcast-data.php";
                 </a>
             </div>
 
-            <div class="relative mb-[32px]">
+            <div class="relative mb-[32px] max-w-96 lg:max-w-full mx-auto">
                 <a href="#short-video">
                     <div>
                         <img src="./assets/images/cat-bg-3.png" class='max-w-full h-auto' alt="">

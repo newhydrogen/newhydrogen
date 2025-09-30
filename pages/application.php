@@ -23,7 +23,7 @@
     </div>
 </section>
 
-<section class="bg-custom-white-100 lg:py-[120px] py-20 before:content-[''] sm:before:w-[566px] before:w-[400px] before:h-[566px] before:left-0 before:bottom-0 before:bg-gradient-to-t before:absolute relative before:bg-no-repeat">
+<section class="bg-custom-white-100 lg:py-[120px] py-20 before:content-[''] sm:before:w-[566px] before:w-[400px] before:h-[566px] before:left-0 before:bottom-0 before:bg-gradient-to-t before:absolute relative before:bg-no-repeat px-2 sm:px-4">
     <div class="mx-auto lg:max-w-screen-lg text-center xl:max-w-screen-xl z-10 relative">
         <h3 class="lg:mb-[77px] font-bold mb-14 lg:text-[42px] text-4xl leading-[1.1]">
             Green Hydrogen Can Be Used in Many Industries
