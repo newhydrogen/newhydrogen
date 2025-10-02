@@ -14,8 +14,8 @@
                     Developing a Breakthrough Technology to Produce
                     <span class="font-semibold">the World’s Cheapest Green Hydrogen</span>
                 </h1>
-                <p class="text-xl lg:text-xl font-normal">
-                    <span class="font-bold">NewHydrogen is developing ThermoLoop<sup>TM</sup></span> -- a breakthrough technology that uses water and heat instead of electricity to produce the world's cheapest clean hydrogen. Hydrogen is important to modern life and we can't live without it. Hydrogen is the key ingredient in making fertilizers needed to grow food for the world. It is also used for transportation, refining oil and making steel, glass, pharmaceuticals and more. Nearly all the hydrogen today is made from hydrocarbons like coal, oil, and natural gas, which are dirty and limited resources. Water, on the other hand, is an infinite and renewable worldwide resource. Currently, the most common way of making clean hydrogen is to split water into oxygen and hydrogen with electricity using an electrolyzer, a very expensive process. By using heat directly, we can skip the use of expensive electricity. A massive source of inexpensive heat can be obtained from current and future power plants, especially small modular nuclear reactors. Working with a world class research team at UC Santa Barbara, our goal is to help usher in the clean hydrogen economy that Goldman Sachs estimated to have a future market value of $12 trillion.
+                <p class="text-xl lg:text-[26px] font-normal">
+                    <span class="font-bold">NewHydrogen is developing ThermoLoop<sup>TM</sup></span> -- a breakthrough technology that uses water and heat instead of electricity to produce the world’s cheapest green hydrogen.
                 </p>
             </div>
             <div class="md:max-w-[600px] md:ml-auto">
