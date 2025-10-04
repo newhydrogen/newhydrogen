@@ -14,7 +14,7 @@
                         <p class=" text-xl leading-[1.3] font-normal"><span class="font-bold">It can be used as fuel in gas turbines</span> or internal combustion engines.</p>
                     </div>
                     <div class="sm:max-w-[226px] mb-5 sm:mb-[27px]">
-                        <div class=" pt-[11px] px-[9px]  pb-[13px] mb-3.5 w-[50px] h-[50px] rounded-[50%] bg-custom-green-200"><img src="./assets/images/clean-fuel.png" alt="clean-fuel"></div>
+                        <div class="flex items-center justify-center mb-3.5 w-[50px] h-[50px] rounded-[50%] bg-custom-green-200"><img src="./assets/images/clean-fuel.png" alt="clean-fuel"></div>
                         <p class=" text-xl leading-[1.3] font-normal"><span class="font-bold">It is a zero-emission clean fuel</span> and produces only water vapor when used.</p>
                     </div>
                     <div class="sm:max-w-[226px] mb-5 sm:mb-[27px]">
