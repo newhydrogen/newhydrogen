@@ -4,24 +4,24 @@
             <div class="md:max-w-[670px] max-w-full mt-9 md:mt-0 lg:pb-[143px] pb-12">
                 <h1 class=" xl:text-[64px] lg:text-5xl text-[38px] font-normal leading-[1.1] mb-6">The World Needs Lots of Cheap <span class=" font-bold"> Green Hydrogen </span></h1>
                 <p class=" lg:text-2xl text-xl font-normal leading-7 mb-10">Hydrogen is the most abundant and prevalent clean energy in the universe. Approximately 73% of the Sun’s mass consists of hydrogen.</p>
-                <div class="grid grid-cols-2">
-                    <div class="max-w-[226px] mb-[27px]">
+                <div class="grid sm:grid-cols-2 gap-4">
+                    <div class="sm:max-w-[226px] mb-5 sm:mb-[27px]">
                         <div class=" pt-2 pr-[7px] pb-2.5 pl-[13px] mb-3.5 w-[50px] h-[50px] rounded-[50%] bg-custom-green-200"><img src="./assets/images/fuel.png" alt="fuel"></div>
                         <p class=" text-xl leading-[1.3] font-normal"><span class="font-bold">It can be used in fuel cells</span> to power electric vehicles or cities.</p>
                     </div>
-                    <div class="max-w-[226px] mb-[27px]">
+                    <div class="sm:max-w-[226px] mb-5 sm:mb-[27px]">
                         <div class=" pt-[11px] px-[9px]  pb-[13px]  mb-3.5 w-[50px] h-[50px] rounded-[50%] bg-custom-green-200"><img src="./assets/images/gas-turbiness.png" alt="gas-turbiness"></div>
                         <p class=" text-xl leading-[1.3] font-normal"><span class="font-bold">It can be used as fuel in gas turbines</span> or internal combustion engines.</p>
                     </div>
-                    <div class="max-w-[226px] mb-[27px]">
+                    <div class="sm:max-w-[226px] mb-5 sm:mb-[27px]">
                         <div class=" pt-[11px] px-[9px]  pb-[13px] mb-3.5 w-[50px] h-[50px] rounded-[50%] bg-custom-green-200"><img src="./assets/images/clean-fuel.png" alt="clean-fuel"></div>
                         <p class=" text-xl leading-[1.3] font-normal"><span class="font-bold">It is a zero-emission clean fuel</span> and produces only water vapor when used.</p>
                     </div>
-                    <div class="max-w-[226px] mb-[27px]">
+                    <div class="sm:max-w-[226px] mb-5 sm:mb-[27px]">
                         <div class=" pt-[9px] px-[11px] pb-[11px] mb-3.5 w-[50px] h-[50px] rounded-[50%] bg-custom-green-200"><img src="./assets/images/fertilizer.png" alt="fertilizer"></div>
                         <p class=" text-xl leading-[1.3] font-normal"><span class="font-bold">It is the main ingredient in fertilizers</span> that feed our hungry world.</p>
                     </div>
-                    <div class="max-w-[238px] mb-[27px]">
+                    <div class="sm:max-w-[238px] mb-5 sm:mb-[27px]">
                         <div class="pt-[9px] px-[9px] pb-[11px] mb-3.5 w-[50px] h-[50px] rounded-[50%] bg-custom-green-200"><img src="./assets/images/hydrogen.png" alt="hydrogen"></div>
                         <p class=" text-xl leading-[1.3] font-normal"><span class="font-bold">Pound for pound, hydrogen contains 3X as much energy as natural</span> gas or gasoline, and 200X as much energy as lithium-ion batteries.</p>
                     </div>

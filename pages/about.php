@@ -15,7 +15,7 @@
                     <span class="font-semibold">the World’s Cheapest Green Hydrogen</span>
                 </h1>
                 <p class="text-xl lg:text-[26px] font-normal">
-                    <span class="font-bold">NewHydrogen is developing ThermoLoop<sup>TM</sup></span> - a breakthrough technology that uses water and heat instead of electricity to produce the world’s cheapest green hydrogen.
+                    <span class="font-bold">NewHydrogen is developing ThermoLoop<sup>TM</sup></span> -- a breakthrough technology that uses water and heat instead of electricity to produce the world’s cheapest green hydrogen.
                 </p>
             </div>
             <div class="md:max-w-[600px] md:ml-auto">
@@ -40,7 +40,10 @@
 </section>
 
 <section>
-<div class="mx-auto px-2 sm:px-4 lg:max-w-screen-lg xl:max-w-screen-xl py-20">
+    <?php include './includes/team-section.php'; ?>
+
+
+    <!-- <div class="mx-auto px-2 sm:px-4 lg:max-w-screen-lg xl:max-w-screen-xl py-20">
         <div>
             <h2 class="text-[36px] lg:text-5xl font-black leading-[1.1]">Our Company Team</h2>
             <div class="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-x-[120px] gap-y-10 mt-16">
@@ -172,5 +175,5 @@
             </div>
 
         </div>
-    </div>
+    </div> -->
 </section>
