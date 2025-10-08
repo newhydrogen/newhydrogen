@@ -32,9 +32,9 @@
                 <p class="text-lg lg:text-xl mb-5">
                 By using heat directly, we can dramatically reduce the use of expensive electricity. A massive source of inexpensive heat can be obtained from current and future power plants, especially small modular nuclear reactors. 
                 </p>
-                <p class="text-lg lg:text-xl mb-5">
+                <!-- <p class="text-lg lg:text-xl mb-5">
                 Working with a world class research team at UC Santa Barbara, our goal is to help usher in the clean hydrogen economy that Goldman Sachs estimated to have a future market value of $12 trillion.
-                </p>
+                </p> -->
             </div>
         </div>
     </div>
