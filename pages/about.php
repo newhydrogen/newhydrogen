@@ -19,7 +19,7 @@
                     <span class="font-bold">NewHydrogen is developing ThermoLoop<sup>TM</sup></span> -- a breakthrough technology that uses water and heat instead of electricity to produce the world’s cheapest clean hydrogen.
                 </p>
             </div>
-            <div class="md:max-w-[600px] md:ml-auto">
+            <div class="md:max-w-[600px] md:ml-auto mt-6 md:mt-0">
                 <p class="text-lg lg:text-xl mb-5">
                 Hydrogen is important to modern life, and we can't live without it. Hydrogen is the key ingredient in making fertilizers needed to grow food for the world. It is also used for transportation, refining oil and making steel, glass, pharmaceuticals and more.
                 </p>
