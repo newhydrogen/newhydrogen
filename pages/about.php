@@ -11,29 +11,30 @@
         <div class="md:grid grid-cols-2 block md:pt-[114px] pt-12 gap-6">
             <div class="md:max-w-[600px] mr-auto">
                 <h1 class="text-[36px] lg:text-5xl xl:text-[64px] font-extralight leading-snug lg:leading-[1.1] mb-4 xl:mb-20">
-                    Developing a Breakthrough Technology to Produce
-                    <span class="font-semibold">the World’s Cheapest Green Hydrogen</span>
+                Breakthrough Technology to Produce
+                    <span class="font-semibold">the World’s Cheapest Clean Hydrogen
+                    </span>
                 </h1>
                 <p class="text-xl lg:text-[26px] font-normal">
-                    <span class="font-bold">NewHydrogen is developing ThermoLoop<sup>TM</sup></span> -- a breakthrough technology that uses water and heat instead of electricity to produce the world’s cheapest green hydrogen.
+                    <span class="font-bold">NewHydrogen is developing ThermoLoop<sup>TM</sup></span> -- a breakthrough technology that uses water and heat instead of electricity to produce the world’s cheapest clean hydrogen.
                 </p>
             </div>
-            <div class="md:max-w-[600px] md:ml-auto">
+            <div class="md:max-w-[600px] md:ml-auto mt-6 md:mt-0">
                 <p class="text-lg lg:text-xl mb-5">
-                    Hydrogen is the cleanest and most abundant element in the universe, and we can’t live without it. Hydrogen is the key ingredient in making fertilizers needed to grow food for the world. It is also used for transportation, refining oil and making steel, glass, pharmaceuticals and more.
+                Hydrogen is important to modern life, and we can't live without it. Hydrogen is the key ingredient in making fertilizers needed to grow food for the world. It is also used for transportation, refining oil and making steel, glass, pharmaceuticals and more.
                 </p>
                 <p class="text-lg lg:text-xl mb-5">
-                    Nearly all the hydrogen today is made from hydrocarbons like coal, oil, and natural gas, which are dirty and limited resources. Water, on the other hand, is an infinite and renewable worldwide resource.
+                Nearly all the hydrogen today is made from hydrocarbons like coal, oil, and natural gas, which are dirty and limited resources. Water, on the other hand, is an infinite and renewable worldwide resource. 
                 </p>
                 <p class="text-lg lg:text-xl mb-5">
-                    Currently, the most common method of making green hydrogen is to split water into oxygen and hydrogen with an electrolyzer using green electricity produced from solar or wind. However, green electricity is and always will be very expensive. It currently accounts for 73% of the cost of green hydrogen.
+                Currently, the most common way of making clean hydrogen is to split water into oxygen and hydrogen with electricity using an electrolyzer, a very expensive process. 
                 </p>
                 <p class="text-lg lg:text-xl mb-5">
-                    By using heat directly, we can skip the expensive process of making electricity, and fundamentally lower the cost of green hydrogen. Inexpensive heat can be obtained from concentrated solar, geothermal, nuclear reactors and industrial waste heat for use in our novel low-cost thermochemical water splitting process.
+                By using heat directly, we can dramatically reduce the use of expensive electricity. A massive source of inexpensive heat can be obtained from current and future power plants, especially small modular nuclear reactors. 
                 </p>
-                <p class="text-lg lg:text-xl mb-5">
-                    Working with a world-class research team at UC Santa Barbara, our goal is to help usher in the green hydrogen economy that Goldman Sachs estimated to have a future market value of $12 trillion.
-                </p>
+                <!-- <p class="text-lg lg:text-xl mb-5">
+                Working with a world class research team at UC Santa Barbara, our goal is to help usher in the clean hydrogen economy that Goldman Sachs estimated to have a future market value of $12 trillion.
+                </p> -->
             </div>
         </div>
     </div>
