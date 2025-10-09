@@ -59,6 +59,7 @@ module.exports = {
         'bluelist': 'url("../images/h-icon-blue.svg")',
         'greenlist': 'url("../images/h-icon-green.svg")',
         'coming-soon': 'url("../images/coming-soon-bg.png")',
+        'coming-soon-new': 'url("../images/coming-soon-bg-new.png")'
       },
 
     },

@@ -1814,6 +1814,10 @@ a:hover{
   background-image: linear-gradient(to bottom, var(--tw-gradient-stops));
 }
 
+.bg-coming-soon-new{
+  background-image: url("../images/coming-soon-bg-new.png");
+}
+
 .from-\[\#75b2f8\]{
   --tw-gradient-from: #75b2f8 var(--tw-gradient-from-position);
   --tw-gradient-to: rgb(117 178 248 / 0) var(--tw-gradient-to-position);
