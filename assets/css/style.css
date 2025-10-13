@@ -1810,12 +1810,12 @@ a:hover{
   background-image: url("../images/coming-soon-bg.png");
 }
 
-.bg-gradient-to-b{
-  background-image: linear-gradient(to bottom, var(--tw-gradient-stops));
-}
-
 .bg-coming-soon-new{
   background-image: url("../images/coming-soon-bg-new.png");
+}
+
+.bg-gradient-to-b{
+  background-image: linear-gradient(to bottom, var(--tw-gradient-stops));
 }
 
 .from-\[\#75b2f8\]{
@@ -3139,6 +3139,11 @@ html {
     padding-right: 1.25rem;
   }
 
+  .sm\:py-32{
+    padding-top: 8rem;
+    padding-bottom: 8rem;
+  }
+
   .sm\:py-4{
     padding-top: 1rem;
     padding-bottom: 1rem;
@@ -3222,6 +3227,11 @@ html {
   .sm\:text-xl{
     font-size: 1.25rem;
     line-height: 1.75rem;
+  }
+
+  .sm\:text-6xl{
+    font-size: 3.75rem;
+    line-height: 1;
   }
 
   .sm\:shadow-none{
