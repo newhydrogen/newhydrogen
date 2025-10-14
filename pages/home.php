@@ -17,7 +17,6 @@
             </div>
     </div>
 </section> -->
-
 <section class="bg-banner bg-cover bg-[18%_100%] md:bg-center relative md:pb-36 md:pt-28 py-16 ">
     <div class="mx-auto lg:max-w-screen-lg xl:max-w-screen-xl px-2 sm:px-4 z-10 relative">
         <div class="md:grid grid-cols-12 block">
