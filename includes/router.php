@@ -21,7 +21,7 @@ $pathParts = explode('/', $path);
 $page = $pathParts[0] ?? '';
 
 // Define valid static pages
-$validPages = ['home', 'about', 'technology', 'application', 'team', 'market', 'news-archive', 'newsroom', 'news-commentary', 'investor', 'contact', 'short-videos', 'videos', 'thermoloop-video', 'ceo-podcast', 'webinar', 'thank-you', 'explainer', '3reasons', 'electrolyzer-tech', 'why-thermoloop', 'fasttrack', 'home1', 'home2', 'home3'];
+$validPages = ['home', 'about', 'technology', 'application', 'team', 'market', 'news-archive', 'newsroom', 'news-commentary', 'investor', 'contact', 'short-videos', 'videos', 'thermoloop-video', 'ceo-podcast', 'webinar', 'thank-you', 'explainer', '3reasons', 'electrolyzer-tech', 'why-thermoloop', 'fasttrack', 'home1', 'home2', 'home3', 'special-report-October-2025'];
 
 // Dynamic video categories
 $videoCategories = ['news-commentary', 'ceo-podcast', 'short-videos'];
