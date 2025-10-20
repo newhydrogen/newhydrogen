@@ -2031,6 +2031,11 @@ a:hover{
   padding-bottom: 90px;
 }
 
+.py-40{
+  padding-top: 10rem;
+  padding-bottom: 10rem;
+}
+
 .pb-10{
   padding-bottom: 2.5rem;
 }
@@ -3198,6 +3203,11 @@ html {
     line-height: 1;
   }
 
+  .sm\:text-6xl{
+    font-size: 3.75rem;
+    line-height: 1;
+  }
+
   .sm\:text-\[34px\]{
     font-size: 34px;
   }
@@ -3227,11 +3237,6 @@ html {
   .sm\:text-xl{
     font-size: 1.25rem;
     line-height: 1.75rem;
-  }
-
-  .sm\:text-6xl{
-    font-size: 3.75rem;
-    line-height: 1;
   }
 
   .sm\:shadow-none{
