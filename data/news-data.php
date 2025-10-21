@@ -3,6 +3,32 @@
 
 $news = [
     [
+        'id' => "91",
+        'title' => "NewHydrogen to Release a Special Report on October 27, 2025",
+        'date' => "October 21, 2025",
+        'excerpt' => "NewHydrogen, Inc. (OTCQB:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world's cheapest clean hydrogen, announced the release of a Special Report on October 27, 2025",
+        'description' => [
+            [
+                "<p><strong>The Company will reveal a massive source of heat for its novel ThermoLoop™ heat-based water-splitting system</strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (October 21, 2025) --- NewHydrogen, Inc. (OTCQB:NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat rather than electricity to produce the world's cheapest clean hydrogen, announced the release of a Special Report on October 27, 2025.   </p>"
+            ],
+            [
+                "<p>The Special Report will identify globally available, large scale sources of heat that can be used to power its ThermoLoop process. The Special Report will also feature insights from Dr. Eric McFarland, NewHydrogen’s Chief Technology Officer and co-inventor of ThermoLoop, and Sundar Narayanan, NewHydrogen’s Director of Process Engineering, who brings 35 years of industrial and chemical process engineering experience, including more than 20 years with ExxonMobil.</p>"
+            ],
+            [
+                "<p>Please see our Special Report with more information about this massive source of heat available to power ThermoLoop at <a href=\"https://newhydrogen.com/special-report-October-2025\" class=\"text-blue-600 text-[length:inherit]\">https://newhydrogen.com/special-report-October-2025</a> after 4PM ET on October 27, 2025.</p>"
+            ],
+            
+            [
+                "<p>For more information about NewHydrogen, please visit <a href=\"https://newhydrogen.com/\" class=\"text-blue-600 text-[length:inherit]\">https://newhydrogen.com/</a>. </p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "90",
         'title' => "Dr. Austin Morales Joins NewHydrogen Team to Help Drive ThermoLoop™ Development",
         'date' => "August 19, 2025",
