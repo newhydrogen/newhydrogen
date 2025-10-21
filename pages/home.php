@@ -23,7 +23,9 @@
         <div class="text-white text-2xl sm:text-4xl text-center font-semibold my-4 leading-snug">NewHydrogen to Reveal its Massive <br class="hidden md:inline-block" />
         Source of Heat for ThermoLoop
         </div>
-     
+        <p class="text-2xl text-center text-white font-medium">Monday, October 27, 2025
+         <br class="hidden md:inline-block" /> 4:00 pm Eastern (1:00 pm Pacific)
+        </p>
         <form action="https://submit.jotform.com/submit/250137276726055/" method="POST" autocomplete="off" class="relative max-w-[420px] mx-auto mt-4 sm:mt-8">
             <input type="hidden" name="formID" value="250137276726055">
             <input type="email" id="webinar-email" name="q3_webinaremail" placeholder="Enter email address" required class="w-full h-12 rounded-xl py-1 pl-4 pr-32 text-base border-0 focus-visible:outline-none">
