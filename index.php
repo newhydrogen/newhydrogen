@@ -20,6 +20,12 @@ if ($page === 'special-report') {
     exit;
 }
 
+if ($page === 'report') {
+    header('Location: special-report-October-2025', true, 301);
+    exit;
+}
+
+
 // For load Assets
 $protocol = isset($_SERVER['HTTPS']) && $_SERVER['HTTPS'] === 'on' ? "https" : "http";
 $domain = $_SERVER['HTTP_HOST'];
