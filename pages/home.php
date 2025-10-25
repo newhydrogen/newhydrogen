@@ -39,14 +39,14 @@
         <div class="md:grid grid-cols-12 block">
             <div class="col-span-7 md:flex flex-col justify-between">
                 <h1 class="text-white lg:text-6xl xl:text-7xl text-[44px] font-extralight text-center [text-shadow:_0_4px_4px_rgb(0_0_0_/_0.4)] uppercase md:normal-case mt-5">Using <span class="font-semibold text-custom-orange-100">Heat</span> and <span class="font-semibold text-custom-blue-light-200">Water</span> to Make the World's Cheapest Clean Hydrogen</h1>
-                <p class="text-white sm:text-2xl text-xl font-normal sm:mt-14 mt-12 md:mt-8 max-w-[584px] [text-shadow:_0_3px_4px_rgb(0_0_0_/_0.4)]"><span class="font-bold">NewHydrogen</span> is developing ThermoLoop<sup>TM</sup> , our breakthrough technology that uses inexpensive heat instead of expensive electricity to split water to make green hydrogen for a future $12 trillion market</p>
+                <p class="text-white sm:text-2xl text-xl font-normal sm:mt-14 mt-12 md:mt-8 max-w-[584px] [text-shadow:_0_3px_4px_rgb(0_0_0_/_0.4)]"><span class="font-bold">NewHydrogen</span> is developing ThermoLoop<sup>TM</sup> , our breakthrough technology that uses inexpensive heat instead of expensive electricity to split water to make clean hydrogen for a future $12 trillion market</p>
                 <!-- <p class="text-white sm:text-2xl text-xl mt-8">Working with a <span>Worldclass Tech Team at UCSB</span></p> -->
             </div>
             <div class="col-span-5">
                 <div class="space-y-6 block items-start justify-between">
                     <div class="max-w-[400px] md:ml-auto w-full md:mt-0 mt-12">
                         <p class="text-white font-semibold text-lg mb-1.5">Short Explainer Video</p>
-                        <a href="https://vimeo.com/1105564509" class="popup-vimeo-hash bg-custom-gray-100 rounded-[20px] relative sm:h-56 h-52 w-full overflow-hidden border-[14px] border-custom-green-500 block">
+                        <!-- <a href="https://vimeo.com/1105564509" class="popup-vimeo-hash bg-custom-gray-100 rounded-[20px] relative sm:h-56 h-52 w-full overflow-hidden border-[14px] border-custom-green-500 block">
                             <img src="//img.youtube.com/vi/p1tz4X0-7Hs/maxresdefault.jpg" class="object-cover w-full h-full" alt="thumbnail">
                             <div class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56" fill="none">
@@ -54,7 +54,16 @@
                                     <path d="M39.1753 28.1126L21.5537 38.2864L21.5537 17.9387L39.1753 28.1126Z" fill="black" />
                                 </svg>
                             </div>
-                        </a>
+                        </a> -->
+                        <a href="https://www.youtube.com/watch?v=qK926v0n9jM" class="popup-youtube bg-custom-gray-100 rounded-[20px] relative sm:h-56 h-52 w-full overflow-hidden border-[14px] border-custom-green-500 block">
+                            <img src="//img.youtube.com/vi/qK926v0n9jM/maxresdefault.jpg" class="w-full h-full" alt="thumbnail">
+                            <div  class=" absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56" fill="none">
+                                    <circle cx="27.8926" cy="28.1125" r="27.5" fill="white" fill-opacity="0.8" />
+                                    <path d="M39.1753 28.1126L21.5537 38.2864L21.5537 17.9387L39.1753 28.1126Z" fill="black" />
+                                </svg>
+            </div>
+            </a>
                     </div>
                     <!-- <div class="max-w-[400px] md:ml-auto w-full ">
                         <p class="text-white font-semibold text-lg mb-1.5">Breaking News</p>
@@ -75,8 +84,17 @@
                                 </svg>
                             </a>
                         </div> -->
-                        <a href="https://vimeo.com/1112048064/ec2dc82686" class="popup-vimeo-slash bg-custom-gray-100 rounded-[20px] relative sm:h-56 h-52 w-full overflow-hidden border-[14px] border-custom-green-500 block">
+                        <!-- <a href="https://vimeo.com/1112048064/ec2dc82686" class="popup-vimeo-slash bg-custom-gray-100 rounded-[20px] relative sm:h-56 h-52 w-full overflow-hidden border-[14px] border-custom-green-500 block">
                             <img src="https://vumbnail.com/1112048064/ec2dc82686.jpg" class="w-full h-full" alt="thumbnail">
+                            <div  class=" absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2">
+                                <svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56" fill="none">
+                                    <circle cx="27.8926" cy="28.1125" r="27.5" fill="white" fill-opacity="0.8" />
+                                    <path d="M39.1753 28.1126L21.5537 38.2864L21.5537 17.9387L39.1753 28.1126Z" fill="black" />
+                                </svg>
+            </div>
+            </a> -->
+            <a href="https://www.youtube.com/watch?v=xsT6_tSNjUs" class="popup-youtube bg-custom-gray-100 rounded-[20px] relative sm:h-56 h-52 w-full overflow-hidden border-[14px] border-custom-green-500 block">
+                            <img src="//img.youtube.com/vi/xsT6_tSNjUs/maxresdefault.jpg" class="w-full h-full" alt="thumbnail">
                             <div  class=" absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56" fill="none">
                                     <circle cx="27.8926" cy="28.1125" r="27.5" fill="white" fill-opacity="0.8" />
@@ -118,13 +136,13 @@
                     </div>
                     <div class="space-y-4 sm:max-w-56 m-auto md:m-0 text-start">
                         <img class="sm:m-auto md:m-0" src="./assets/images/h-4.svg" alt="hydrogen">
-                        <p class="text-xl"><span class="font-extrabold">We are developing ThermoLoop - a breakthrough technology</span> that uses inexpensive heat and water to make unlimited amounts of cheap green hydrogen.
+                        <p class="text-xl"><span class="font-extrabold">We are developing ThermoLoop - a breakthrough technology</span> that uses inexpensive heat and water to make unlimited amounts of cheap clean hydrogen.
 
                         </p>
                     </div>
                     <div class="space-y-4 sm:max-w-56 m-auto md:m-0 text-start">
                         <img class="sm:m-auto md:m-0" src="./assets/images/h-5.svg" alt="hydrogen">
-                        <p class="text-xl"><span class="font-extrabold">Our goal is to help usher in the green hydrogen economy</span> that Goldman Sachs estimated to be worth $12 trillion.
+                        <p class="text-xl"><span class="font-extrabold">Our goal is to help usher in the clean hydrogen economy</span> that Goldman Sachs estimated to be worth $12 trillion.
                         </p>
                     </div>
                 </div>
@@ -166,7 +184,7 @@
 
 <section class="relative pt-20 pb-32 bg-custom-gray-dark-100 overflow-hidden">
     <div class="mx-auto max-w-screen-xl px-2 sm:px-4">
-        <h3 class="sm:text-center text-white">Green Hydrogen Cost Projection</h3>
+        <h3 class="sm:text-center text-white">Clean Hydrogen Cost Projection</h3>
         <div class="grid grid-cols-1 md:grid-cols-2 mt-24 gap-6">
             <div>
                 <img src="./assets/images/cost-projection.png" alt="cost projection">
@@ -177,7 +195,7 @@
                         electricity.
                     </p>
                     <p class="text-white text-lg">By <span class="text-custom-green-200">using heat directly</span> we can skip the expensive process of
-                        making electricity, and <span class="text-custom-green-200">fundamentally lower the cost of green hydrogen.</span></p>
+                        making electricity, and <span class="text-custom-green-200">fundamentally lower the cost of clean hydrogen.</span></p>
                 </div>
                 <a href="/technology" class="text-white py-2.5 px-7 h-12 border border-white rounded-full inline-flex items-center justify-center font-bold text-base hover:text-white">Learn More</a>
             </div>
@@ -200,7 +218,7 @@
                         electricity.
                     </p>
                     <p class="text-lg">Therefore, by using heat directly we can skip the expensive process of
-                        making electricity, and fundamentally lower the cost of green hydrogen.</p>
+                        making electricity, and fundamentally lower the cost of clean hydrogen.</p>
                 </div>
                 <a href="/technology" class="text-black py-2.5 px-7 h-12 border border-black rounded-full inline-flex items-center justify-center font-bold text-base mt-14">Learn More</a>
             </div>
@@ -219,7 +237,7 @@
 <section class="bg-white py-20 sm:py-40 relative">
     <div class="mx-auto max-w-screen-xl px-2 sm:px-4">
         <div class="max-w-[910px] mx-auto relative z-10">
-            <h3 class="text-left md:text-[42px] text-4xl">Our mission is to help produce unlimited <br class="hidden md:inline-block" /> quantities of the world’s cheapest green <br class="hidden md:inline-block" /> hydrogen, and usher in the green hydrogen <br class="hidden md:inline-block" /> economy that Goldman Sachs estimated to be <br class="hidden md:inline-block" /> worth <span class="text-custom-green-100">$12 trillion</span> in the near future.</h3>
+            <h3 class="text-left md:text-[42px] text-4xl">Our mission is to help produce unlimited <br class="hidden md:inline-block" /> quantities of the world’s cheapest clean <br class="hidden md:inline-block" /> hydrogen, and usher in the clean hydrogen <br class="hidden md:inline-block" /> economy that Goldman Sachs estimated to be <br class="hidden md:inline-block" /> worth <span class="text-custom-green-100">$12 trillion</span> in the near future.</h3>
         </div>
     </div>
     <div class="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2">

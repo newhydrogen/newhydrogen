@@ -109,9 +109,18 @@
 
                         </div>
                         <?php
+                        $desktoplinks = [
+                            "team" => "Team",
+                            "market" => "Market",
+                            "technology" => "Technology",
+                            "heat-source" => "Heat Source",
+                            "application" => "Applications",
+                            "newsroom" => "Newsroom",
+                        ];
                         $links = [
                             "market" => "Market",
                             "technology" => "Technology",
+                            "heat-source" => "Heat Source",
                             "team" => "Team",
                             "application" => "Applications",
                             "newsroom" => "Newsroom",
@@ -124,12 +133,27 @@
                         $baseUrl = (strpos($_SERVER['HTTP_HOST'], 'localhost') !== false) ? "/newhydrogen" : "";
                         ?>
                         <div
+                            class="hidden sm:ml-6 min-[900px]:flex flex-col">
+                            <div class="flex justify-end">
+                                <a href="<?= $baseUrl ?>/about" class="text-sm font-normal leading-none text-black min-[900px]:px-2 xl:px-4 py-2 rounded-full">About</a>
+                                <a href="<?= $baseUrl ?>/investor" class="text-sm font-normal leading-none text-black min-[900px]:px-2 xl:px-4 py-2 rounded-full">Investors</a>
+                                <a href="<?= $baseUrl ?>/videos" class="text-sm font-normal leading-none text-black min-[900px]:px-2 xl:px-4 py-2 rounded-full">Videos</a>
+                                <a href="<?= $baseUrl ?>/contact" class="text-sm font-normal leading-none text-black min-[900px]:px-2 xl:px-4 py-2 rounded-full">Contact</a>
+                            </div>
+                           <div class="lg:space-x-2 xl:space-x-3 lg:gap-0 gap-2.5 [&>a]:inline-flex [&>a]:items-center [&>a]:border [&>a]:border-transparent [&>a]:text-lg [&>a]:font-bold [&>a]:leading-none [&>a]:text-black [&>a]:min-[900px]:px-2 [&>a]:xl:px-4 [&>a]:py-2 [&>a]:rounded-full">
+                           <?php foreach ($desktoplinks as $slug => $name): ?>
+                                <a href="<?= $baseUrl ?>/<?= $slug ?>" 
+                                   class="<?= ($page === $slug) ? '!text-[#00bc05]' : 'hover:text-gray-500' ?>"><?= $name ?></a>
+                            <?php endforeach; ?>
+                           </div>
+                        </div>
+                        <!-- <div
                             class="hidden sm:ml-6 min-[900px]:flex lg:space-x-2 xl:space-x-3 lg:gap-0 gap-2.5 [&>a]:inline-flex [&>a]:items-center [&>a]:border [&>a]:border-transparent [&>a]:text-sm [&>a]:font-normal [&>a]:leading-none [&>a]:text-black [&>a]:lg:px-2 [&>a]:xl:px-4 [&>a]:py-2 [&>a]:rounded-full ">
                             <?php foreach ($links as $slug => $name): ?>
                                 <a href="<?= $baseUrl ?>/<?= $slug ?>" 
                                    class="<?= ($page === $slug) ? '!text-[#00bc05]' : 'hover:text-gray-500' ?>"><?= $name ?></a>
                             <?php endforeach; ?>
-                        </div>
+                        </div> -->
 
                     </div>
                 </div>

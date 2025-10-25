@@ -1,12 +1,12 @@
 <section class="mb-20 mt-24 mx-auto lg:max-w-screen-lg text-center xl:max-w-screen-xl">
     <h1 class="lg:text-[64px] text-[40px] mb-4 font-normal leading-[1.1]">
-        Green Hydrogen <br> is the <span class="font-bold text-custom-green-100">Ultimate Green Resource</span>
+    Clean Hydrogen <br> is the <span class="font-bold text-custom-green-100">Ultimate Clean Resource</span>
     </h1>
     <p class="lg:text-[26px] sm:text-xl text-lg font-normal leading-[1.2] mb-5">
-        Because of the versatility of hydrogen, <span class="font-bold">green hydrogen has the potential to fundamentally change the global economy and usher in a new era of economic prosperity,</span> sustainability, and energy independence to those with access to solar, wind and water.
+        Because of the versatility of hydrogen, <span class="font-bold">clean hydrogen has the potential to fundamentally change the global economy and usher in a new era of economic prosperity,</span> sustainability, and energy independence to those with access to solar, wind and water.
     </p>
     <p class="lg:text-xl sm:text-lg text-base font-normal leading-6 mb-4">
-        At the center of this extraordinary opportunity is a hydrogen generator that can produce cheap green hydrogen. The applications for green hydrogen range from small to massive, including:
+        At the center of this extraordinary opportunity is a hydrogen generator that can produce cheap clean hydrogen. The applications for clean hydrogen range from small to massive, including:
     </p>
     <img src="./assets/images/application.png" alt="application">
 </section>
@@ -14,7 +14,7 @@
 <section class="relative lg:py-44 py-28 bg-custom-gray-dark-100 overflow-hidden">
     <div class="mx-auto max-w-screen-xl px-2 sm:px-4 z-[1] relative">
         <h3 class="text-center max-w-[888px] lg:text-[42px] text-3xl m-auto text-white">
-            Unlike lithium-ion battery technology, which is simply a battery evolution, <span class="text-custom-green-100">green hydrogen technology is revolutionary and can dramatically affect the global economy.</span>
+            Unlike lithium-ion battery technology, which is simply a battery evolution, <span class="text-custom-green-100">clean hydrogen technology is revolutionary and can dramatically affect the global economy.</span>
         </h3>
     </div>
 
@@ -26,7 +26,7 @@
 <section class="bg-custom-white-100 lg:py-[120px] py-20 before:content-[''] sm:before:w-[566px] before:w-[400px] before:h-[566px] before:left-0 before:bottom-0 before:bg-gradient-to-t before:absolute relative before:bg-no-repeat px-2 sm:px-4">
     <div class="mx-auto lg:max-w-screen-lg text-center xl:max-w-screen-xl z-10 relative">
         <h3 class="lg:mb-[77px] font-bold mb-14 lg:text-[42px] text-4xl leading-[1.1]">
-            Green Hydrogen Can Be Used in Many Industries
+        Clean Hydrogen Can Be Used in Many Industries
         </h3>
         <div class="grid lg:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-6">
             <div class="flex bg-white lg:max-w-[350px] sm:w-full w-4/5 rounded-[30px] items-center p-[17px] lg-m-0 m-auto">
@@ -168,7 +168,7 @@
     <div class="p-7 sm:px-20 sm:py-8 max-h-96 overflow-y-auto">
         <h4 class="text-3xl pb-3 mb-5 sm:text-[44px] text-black font-bold border-b border-custom-green-600 sm:pb-5 sm:mb-6">Shipping</h4>
         <p class="text-base sm:text-lg font-medium text-black ">
-            Hydrogen is used as the primary fuel to drive the ship in two primary ways: Method A – to use it directly in the internal combustion engine (i.e., in the engine of the ship) in place of the traditional fuel (MDO) or Method B – to use the hydrogen to run fuel-cells onboard which will in turn generate electricity to drive the vessel. Ships powered by green hydrogen could help meet the emissions reduction targets of the shipping industry.
+            Hydrogen is used as the primary fuel to drive the ship in two primary ways: Method A – to use it directly in the internal combustion engine (i.e., in the engine of the ship) in place of the traditional fuel (MDO) or Method B – to use the hydrogen to run fuel-cells onboard which will in turn generate electricity to drive the vessel. Ships powered by clean hydrogen could help meet the emissions reduction targets of the shipping industry.
         </p>
     </div>
 </div>
@@ -216,7 +216,7 @@
     <div class="p-7 sm:px-20 sm:py-8 max-h-96 overflow-y-auto">
         <h4 class="text-3xl pb-3 mb-5 sm:text-[44px] text-black font-bold border-b border-custom-green-600 sm:pb-5 sm:mb-6">Heating</h4>
         <p class="text-base sm:text-lg font-medium text-black ">
-            Green hydrogen can be used as a clean fuel source to generate heat in boilers, similar to natural gas, effectively decarbonizing heating systems by burning hydrogen instead of fossil fuels, potentially through blending hydrogen with existing natural gas in existing infrastructure, or by utilizing dedicated hydrogen boilers for pure hydrogen combustion; it can also be used in fuel cells to produce electricity for powering electric heat pumps within an HVAC system.
+        Clean hydrogen can be used as a clean fuel source to generate heat in boilers, similar to natural gas, effectively decarbonizing heating systems by burning hydrogen instead of fossil fuels, potentially through blending hydrogen with existing natural gas in existing infrastructure, or by utilizing dedicated hydrogen boilers for pure hydrogen combustion; it can also be used in fuel cells to produce electricity for powering electric heat pumps within an HVAC system.
         </p>
     </div>
 </div>
@@ -240,7 +240,7 @@
     <div class="p-7 sm:px-20 sm:py-8 max-h-96 overflow-y-auto">
         <h4 class="text-3xl pb-3 mb-5 sm:text-[44px] text-black font-bold border-b border-custom-green-600 sm:pb-5 sm:mb-6">Fertilizers</h4>
         <p class="text-base sm:text-lg font-medium text-black ">
-            Green hydrogen can be used in fertilizer production by replacing fossil fuels like natural gas in the Haber-Bosch process, which is the primary method for creating ammonia, a key component of most synthetic fertilizers; this allows for the creation of "green ammonia" with significantly reduced carbon emissions, making the fertilizer production process much more sustainable.
+        Clean hydrogen can be used in fertilizer production by replacing fossil fuels like natural gas in the Haber-Bosch process, which is the primary method for creating ammonia, a key component of most synthetic fertilizers; this allows for the creation of "clean ammonia" with significantly reduced carbon emissions, making the fertilizer production process much more sustainable.
         </p>
     </div>
 </div>
@@ -252,7 +252,7 @@
     <div class="p-7 sm:px-20 sm:py-8 max-h-96 overflow-y-auto">
         <h4 class="text-3xl pb-3 mb-5 sm:text-[44px] text-black font-bold border-b border-custom-green-600 sm:pb-5 sm:mb-6">Power</h4>
         <p class="text-base sm:text-lg font-medium text-black ">
-            Hydrogen is used in the power industry for many purposes. Hydrogen can be used to power fuel cells or internal combustion engines. It can also be mixed with natural gas to reduce emissions or supply 100% of the heating fuel. Green hydrogen can provide on-demand dispatchable renewable electricity by combustion or fuel cells. It can power vehicles, appliances, and electronic devices.
+            Hydrogen is used in the power industry for many purposes. Hydrogen can be used to power fuel cells or internal combustion engines. It can also be mixed with natural gas to reduce emissions or supply 100% of the heating fuel. Clean hydrogen can provide on-demand dispatchable renewable electricity by combustion or fuel cells. It can power vehicles, appliances, and electronic devices.
         </p>
     </div>
 </div>
@@ -276,7 +276,7 @@
     <div class="p-7 sm:px-20 sm:py-8 max-h-96 overflow-y-auto">
         <h4 class="text-3xl pb-3 mb-5 sm:text-[44px] text-black font-bold border-b border-custom-green-600 sm:pb-5 sm:mb-6">Hydrogen Fuel Stations</h4>
         <p class="text-base sm:text-lg font-medium text-black ">
-            Electrolyzers are well suited and scalable for distributed onsite green hydrogen generation in fueling station applications. With green electricity from a nearby solar array or renewable electric grid, green hydrogen can be produced anywhere and anytime. This distributed model of hydrogen production eliminates the need for expensive transportation from a centralized facility.
+            Electrolyzers are well suited and scalable for distributed onsite clean hydrogen generation in fueling station applications. With clean electricity from a nearby solar array or renewable electric grid, clean hydrogen can be produced anywhere and anytime. This distributed model of hydrogen production eliminates the need for expensive transportation from a centralized facility.
         </p>
     </div>
 </div>
