@@ -37,6 +37,10 @@
         <div class="my-10">
             <img src="./assets/images/darker-greenArtboard-5.png" class="w-full" alt="Heat Before Electricity">
         </div>
+        <p class="text-xl font-normal mb-4 text-black leading-[1.3] lg:mt-6 mt-4">If heat was used directly, near 100% of the input energy is available to produce hydrogen with ThermoLoop.  ThermoLoop is more energy efficient.</p>
+        <div class="my-10">
+            <img src="./assets/images/thermaloop-adv-clear.png" class="w-full" alt="Heat Before Electricity">
+        </div>
         <div class="[&_p]:text-xl [&_p]:font-normal mb-4 [&_p]:lg:mt-6 [&_p]:mt-4 [&_p]:text-black [&_p]:leading-[1.3]">
 
             <p>
