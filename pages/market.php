@@ -2,7 +2,7 @@
     <div class="mt-[100px] mx-auto lg:max-w-screen-lg xl:max-w-screen-xl px-2 sm:px-4 ">
         <div class="md:grid flex flex-col-reverse grid-cols-2">
             <div class="md:max-w-[670px] max-w-full mt-9 md:mt-0 lg:pb-[143px] pb-12">
-                <h1 class=" xl:text-[64px] lg:text-5xl text-[38px] font-normal leading-[1.1] mb-6">The World Needs Lots of Cheap <span class=" font-bold"> Green Hydrogen </span></h1>
+                <h1 class=" xl:text-[64px] lg:text-5xl text-[38px] font-normal leading-[1.1] mb-6">The World Needs Lots of Cheap <span class=" font-bold"> Clean Hydrogen </span></h1>
                 <p class=" lg:text-2xl text-xl font-normal leading-7 mb-10">Hydrogen is the most abundant and prevalent clean energy in the universe. Approximately 73% of the Sun’s mass consists of hydrogen.</p>
                 <div class="grid sm:grid-cols-2 gap-4">
                     <div class="sm:max-w-[226px] mb-5 sm:mb-[27px]">
@@ -30,7 +30,7 @@
             <div class=" md:absolute right-0 max-w-full md:max-w-[50%]">
                 <img src="./assets/images/market.jpg.png" alt="">
                 <div class="pb-[70px] bg-custom-gray-dark-100 xl:pt-[202px] pt-44 -mt-[141px] xl:pl-[70px] pl-8">
-                    <h2 class="max-w-[617px] border-b xl:pb-28 pb-12 border-[#CDC3DD] xl:text-[42px] text-4xl  font-normal text-white">Green Hydrogen is a <span class="font-bold"> $12 Trillion</span> “Once in a Lifetime” Market Opportunity</h2>
+                    <h2 class="max-w-[617px] border-b xl:pb-28 pb-12 border-[#CDC3DD] xl:text-[42px] text-4xl  font-normal text-white">Clean Hydrogen is a <span class="font-bold"> $12 Trillion</span> “Once in a Lifetime” Market Opportunity</h2>
                     <img class=" pt-[22px] " src="./assets/images/Goldman_Sachs_logo.png" alt="Goldman_Sachs_logo">
                 </div>
             </div>
@@ -47,9 +47,9 @@
                 <img class="md:max-w-[624px] max-w-full m-auto w-full md:mb-0 mb-10" src="./assets/images/market-2.png" alt="market">
             </div>
             <div>
-                <p class=" text-xl font-normal">According to Grandview Research, <span class="font-bold"> hydrogen is a $155 billion market today </span> and nearly all of it is made from natural gas. Goldman Sachs projected that hydrogen will be a $12 trillion market in the future if it can be made green by using renewable resources such as sun, wind and water.
+                <p class=" text-xl font-normal">According to Grandview Research, <span class="font-bold"> hydrogen is a $155 billion market today </span> and nearly all of it is made from natural gas. Goldman Sachs projected that hydrogen will be a $12 trillion market in the future if it can be made clean by using renewable resources such as sun, wind and water.
                 </p>
-                <p class=" text-xl font-normal mt-6">Green hydrogen is crucial in meeting the greenhouse gas emission goals described in United Nation’s Paris Agreement. Solar, wind and batteries alone simply cannot be relied upon to decarbonize industries, such as aviation, maritime, steel, cement, fertilizers, oil refining and pharmaceuticals. The expected global drive towards “net-zero emission” by 2050 will create tremendous demand for green hydrogen for decades to come.</p>
+                <p class=" text-xl font-normal mt-6">Clean hydrogen is crucial in meeting the greenhouse gas emission goals described in United Nation’s Paris Agreement. Solar, wind and batteries alone simply cannot be relied upon to decarbonize industries, such as aviation, maritime, steel, cement, fertilizers, oil refining and pharmaceuticals. The expected global drive towards “net-zero emission” by 2050 will create tremendous demand for clean hydrogen for decades to come.</p>
                 <div class="flex xl:gap-6 gap-4 relative mt-[38px] ">
                     <div class="bg-white xl:pt-[30px] xl:px-4 md:p-2 after:content-[''] after:right-[-18%] after:top-[36%] after:absolute relative after:h-10 after:z-[1] after:w-10 after:bg-arrow-circle px-4 pt-[30px] pb-[27px] xl:pb-[27px] text-center rounded-[20px]">
                         <h6 class=" xl:text-2xl md:text-xl text-2xl font-bold leading-[27px] text-black">$155 Billion</h6>
