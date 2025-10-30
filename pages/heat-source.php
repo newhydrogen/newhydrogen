@@ -1,8 +1,8 @@
-<section class="xl:mt-[100px] mt-16">
+<section class="xl:mt-[100px] mt-12">
     <div class="mx-auto lg:max-w-screen-lg xl:max-w-screen-xl px-2 sm:px-4">
         <h1 class="font-normal pt-[13px] xl:text-[64px] text-5xl text-center">Massive Source of Heat for ThermoLoop</h1>
     </div>
-    <div class="lg:max-w-[995px] max-w-[830px] mx-auto relative youtube-video-wrapper py-10 mt-14" data-video-id="xsT6_tSNjUs">
+    <div class="lg:max-w-[995px] max-w-[830px] mx-auto relative youtube-video-wrapper py-10 sm:mt-14" data-video-id="xsT6_tSNjUs">
         <iframe id="youtube-player" src="https://www.youtube.com/embed/xsT6_tSNjUs?enablejsapi=1&controls=0&playsinline=1&rel=0&modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen class="w-full aspect-video relative z-10"></iframe>
         <button type="button" class="absolute inset-0 flex items-center justify-center cursor-pointer z-20 youtube-custom-btn">
             <svg class="sm:w-[100px] sm:h-[100px] w-16 h-16" xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 56 56" fill="none">
@@ -28,7 +28,7 @@
             </p>
         </div>
     </div>
-    <div class="mx-auto lg:max-w-screen-lg xl:max-w-screen-xl px-2 sm:px-4 py-24">
+    <div class="mx-auto lg:max-w-screen-lg xl:max-w-screen-xl px-2 sm:px-4 py-12 sm:py-24">
         <h2 class="font-normal lg:text-5xl text-4xl xl:mb-[45px] mb-5">Heat Before Electricity</h2>
         <p class="text-xl font-normal mb-4 text-black leading-[1.3]"> In coal, gas and nuclear power plants, heat is produced first and then converted to electricity by mechanical turbine generators with relatively low efficiency.
        
@@ -41,7 +41,7 @@
         <div class="my-10">
             <img src="./assets/images/thermaloop-adv-clear.png" class="w-full" alt="Heat Before Electricity">
         </div>
-        <div class="[&_p]:text-xl [&_p]:font-normal mb-4 [&_p]:lg:mt-6 [&_p]:mt-4 [&_p]:text-black [&_p]:leading-[1.3]">
+        <div class="[&_p]:text-xl [&_p]:font-normal sm:mb-4 [&_p]:lg:mt-6 [&_p]:mt-4 [&_p]:text-black [&_p]:leading-[1.3]">
 
             <p>
             By coupling directly to heat from power plants, ThermoLoop can eliminate most electricity use and overcome fundamental limits that have prevented electrolyzers from unleashing the Hydrogen Economy. 
@@ -53,12 +53,12 @@
     </div>
 </section>
 
-<section class="xl:py-[121px] py-24 bg-custom-gray-200">
+<section class="xl:py-[121px] sm:py-24 py-12 bg-custom-gray-200">
 
     <div class="mx-auto lg:max-w-screen-lg xl:max-w-screen-xl px-2 sm:px-4">
         <div class="grid grid-cols-1 md:grid-cols-12 gap-6">
 
-            <div class="md:col-span-6 order-2 md:order-1 [&_p]:text-xl [&_p]:font-normal mb-4 [&_p]:lg:mt-6 [&_p]:mt-4 [&_p]:text-black [&_p]:leading-[1.3]">
+            <div class="md:col-span-6 order-2 md:order-1 [&_p]:text-xl [&_p]:font-normal sm:mb-4 [&_p]:lg:mt-6 [&_p]:mt-4 [&_p]:text-black [&_p]:leading-[1.3]">
                 <h2 class="font-normal lg:text-5xl text-4xl xl:mb-[45px] mb-5">Huge Number of New <br class="hidden md:block"> Power Plants </h2>
                 <p>
                 Driven by population growth and the insatiable demand for artificial intelligence (AI) datacenters, more power plants are projected to be built over the coming decades. 
@@ -74,20 +74,20 @@
                 </div>
             </div>
         </div>
-        <div class="grid grid-col-1 md:grid-cols-2 my-20 gap-10">
+        <div class="grid grid-col-1 md:grid-cols-2 sm:my-20 my-12 gap-10">
             <img src="./assets/images/darker-greenArtboard-1.png" alt="image-1">
             <img src="./assets/images/darker-greenArtboard-2.png" alt="image-2">
         </div>
         <div class="grid grid-col-1 sm:grid-cols-12 gap-6">
-            <div class="col-span-2 flex items-center"><img src="./assets/images/google.png" class="w-full" alt=""></div>
-            <p class="col-span-10 lg:text-[26px] text-xl font-normal text-black leading-[1.3]">
+            <div class="sm:col-span-2 flex items-center max-w-44 sm:max-w-full"><img src="./assets/images/google.png" alt=""></div>
+            <p class="sm:col-span-10 lg:text-[26px] text-xl font-normal text-black leading-[1.3]">
             In 2024, Google signed the world’s first SMR power purchase agreement for up to 500 megawatts, with the first 50-megawatt plant sited in Oak Ridge, Tennessee.
             </p>
         </div>
     </div>
 </section>
 
-<section class="my-24">
+<section class="sm:my-24 my-12">
     <div class="mx-auto lg:max-w-screen-lg xl:max-w-screen-xl px-2 sm:px-4">
     <h3 class="font-normal lg:text-5xl text-4xl xl:mb-[45px] mb-5">Massive Scale</h3>
         <p class="col-span-10 text-xl font-normal lg:mb-8 mb-4 lg:mt-[47px] mt-4 text-black leading-[1.3]">
@@ -109,7 +109,7 @@
                 <img src="./assets/images/masive-sales-image.png" class="w-full" alt="Massive Scale Clean Hydrogen">
             </div>
         </div>
-        <div class="[&_p]:lg:text-[26px] [&_p]:text-xl [&_p]:font-normal [&_p]:lg:mb-8 [&_p]:mb-4 [&_p]:text-black [&_p]:leading-[1.3]">
+        <div class="[&_p]:lg:text-[26px] [&_p]:text-xl [&_p]:font-normal [&_p]:lg:mb-8 [&_p]:mb-4 [&_p]:text-black [&_p]:leading-[1.3] sm:mt-0 mt-10">
             <p>Consider the following scenario:</p>
             <ul class="theme-list space-y-5">
                 <li>A barebones 50-megawatt SMR (reactor + steam generator + primary loop) coupled to ThermoLoop (assuming 50% energy efficiency) could potentially produce 54 metric tons of hydrogen per day. </li>
@@ -122,7 +122,7 @@
     </div>
 </section>
 
-<section class="py-24">
+<section class="sm:py-24 pb-12">
     <div class="mx-auto lg:max-w-screen-lg xl:max-w-screen-xl px-2 sm:px-4">
         <h1 class="font-normal lg:text-5xl text-4xl xl:mb-[45px] mb-5">The Benefits Are Clear</h1>
     </div>

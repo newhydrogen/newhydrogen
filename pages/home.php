@@ -58,8 +58,8 @@
                                 </svg>
                             </div>
                         </a> -->
-                        <a href="https://www.youtube.com/watch?v=qK926v0n9jM" class="popup-youtube bg-custom-gray-100 rounded-[20px] relative sm:h-56 h-52 w-full overflow-hidden border-[14px] border-custom-green-500 block">
-                            <img src="//img.youtube.com/vi/qK926v0n9jM/maxresdefault.jpg" class="w-full h-full" alt="thumbnail">
+                        <a href="https://www.youtube.com/watch?v=734Ia_BN2ww" class="popup-youtube bg-custom-gray-100 rounded-[20px] relative sm:h-56 h-52 w-full overflow-hidden border-[14px] border-custom-green-500 block">
+                            <img src="//img.youtube.com/vi/734Ia_BN2ww/maxresdefault.jpg" class="w-full h-full" alt="thumbnail">
                             <div  class=" absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2">
                                 <svg xmlns="http://www.w3.org/2000/svg" width="56" height="56" viewBox="0 0 56 56" fill="none">
                                     <circle cx="27.8926" cy="28.1125" r="27.5" fill="white" fill-opacity="0.8" />
