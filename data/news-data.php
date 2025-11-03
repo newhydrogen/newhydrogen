@@ -3,6 +3,38 @@
 
 $news = [
     [
+        'id' => "93",
+        'title' => "NewHydrogen and Nuclear Power — A Perfect Pairing",
+        'date' => "October 29, 2025",
+        'excerpt' => "NewHydrogen, Inc. (OTCQB: NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat instead of electricity to produce the world’s cheapest clean hydrogen, today described the compelling technical reasons why Small Modular Reactors (SMRs) are the perfect pairing for the Company’s technology",
+        'description' => [
+            [
+                "<p><strong>Coupling ThermoLoop with Small Modular Reactors (SMRs) to Produce the World’s Cheapest Clean Hydrogen</strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (October 29, 2025) — NewHydrogen, Inc. (OTCQB: NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat instead of electricity to produce the world’s cheapest clean hydrogen, today described the compelling technical reasons why Small Modular Reactors (SMRs) are the perfect pairing for the Company’s technology.</p>"
+            ],
+            [
+                "<p>Steve Hill, NewHydrogen CEO, commented, “Nuclear power offers unmatched baseload reliability and, perhaps more importantly, an abundant and continuous supply of high-temperature heat, the exact ingredient ThermoLoop needs to produce the world’s cheapest clean hydrogen. Also, nuclear is a form of clean energy and SMRs do not produce greenhouse gas emissions during operation.”</p>"
+            ],
+            ["<p>Mr. Hill continued, “To move clean hydrogen to center stage, any proposed solution must scale to meet massive demand. SMRs are built in factories and can consist of a single module or multiple modules operating together to meet virtually any power needs. This modularity offers flexibility, as the number of modules can be matched to the required power level, and individual modules can be added or taken offline for maintenance, ensuring continuous operation.  </p>"],
+
+            ["<p>A small 50-megawatt SMR, for example, coupled with ThermoLoop (assuming 50% energy efficiency) could potentially produce approximately 54 metric tons of hydrogen per day. This is enough to fuel 54 standard 1-ton hydrogen fueling stations, handling 10,000 hydrogen fueled passenger vehicle fill-ups per day. This is the kind of scale and high reliability needed to enable a true Hydrogen Economy.  </p>"],
+
+            ["<p>Every nuclear reactor generates vast amounts of heat, much of which is never used. Our ThermoLoop process can tap into that unused energy to continuously split water into hydrogen and oxygen without electricity or fossil fuels. When integrated with nuclear plants, ThermoLoop creates an entirely new revenue stream while supporting global decarbonization. </p>"],
+
+            ["<p>SMRs are heading to market. Governments in the U.S., Japan, and across Europe are expediting nuclear plant construction and streamlining permitting to meet soaring energy demand driven by artificial intelligence data centers and electrified transportation. According to ICF International’s 2025 Nuclear Energy Growth Report, SMRs remain a cornerstone of the next generation of nuclear power, but face challenges related to cost competitiveness. Pairing SMRs with ThermoLoop offers a powerful co-generation solution that can significantly improve project economics by producing both electricity and hydrogen from the same heat source.</p>"],
+
+            ["<p>Nuclear and hydrogen can be mutually enabling technologies, with nuclear providing round-the-clock, zero-carbon heat and hydrogen serving as a flexible carrier for storage, transport, and industrial use. Together, they form a complementary pathway toward large-scale decarbonization and long-term energy security. </p>"],
+
+            ["<p>Mr. Hill, concluded, “The growth of SMRs, is a very exciting development for ThermoLoop. As nations race to build reliable, carbon-free energy capacity, our technology can help convert nuclear heat directly into clean hydrogen, providing both an economic advantage for operators and a critical fuel for the clean energy transition.”  </p>"],
+
+            ["<p>Integrating ThermoLoop into SMR plants could create a new class of multi-output clean energy facilities capable of producing electricity and hydrogen continuously, efficiently, and at scale.</p>"],
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "92",
         'title' => "NewHydrogen Reveals Massive Source of Heat for ThermoLoop",
         'date' => "October 27, 2025",
