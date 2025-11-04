@@ -3,6 +3,32 @@
 
 $news = [
     [
+        'id' => "94",
+        'title' => "NewHydrogen Files Second Patent to Protect Its Breakthrough Technology",
+        'date' => "November 4, 2025",
+        'excerpt' => "NewHydrogen, Inc. (OTCMKTS: NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat instead of electricity to produce the world’s cheapest green hydrogen, announced today that it has jointly filed a second provisional patent application with the University of California, Santa Barbara (“UCSB”) for its innovative clean hydrogen production process",
+        'description' => [
+            [
+                "<p><strong>The Company’s ThermoLoop uses inexpensive heat and water to potentially produce the world’s cheapest clean hydrogen  </strong></p>"
+            ],
+            [
+                "<p>SANTA CLARITA, Calif. (November 4, 2025) – NewHydrogen, Inc. (OTCMKTS: NEWH), the developer of ThermoLoop™, a breakthrough technology that uses water and heat instead of electricity to produce the world’s cheapest green hydrogen, announced today that it has jointly filed a second provisional patent application with the University of California, Santa Barbara (“UCSB”) for its innovative clean hydrogen production process.</p>"
+            ],
+            [
+                "<p>The patent, titled “Improved Materials and Methods For Production of Chemicals By Thermochemical Looping,” is a comprehensive provisional patent application that describes the most recent improvements to the Company’s ThermoLoop thermochemical water splitting process together with new material compositions discovered by the UCSB technology team and the first disclosure of the new isothermal hydrogen process. The Company’s proprietary process utilizes advanced solid-state materials and machine learning-driven material discovery to optimize efficiency and cost-effectiveness.</p>"
+            ],
+            ["<p>Recently, the NewHydrogen technical team completed preliminary design and economic studies on integrating ThermoLoop with current and future power plants. The team also concluded that Small Modular Reactors (SMRs) are the perfect pairing for the Company’s technology, and are ideal sources of constant and reliable baseload heat for powering the ThermoLoop process.  </p>"],
+
+            ["<p>The patent filing marks a significant milestone in NewHydrogen’s collaboration with leading researchers at UC Santa Barbara, who are at the forefront of advancing materials science for hydrogen production. </p>"],
+            
+            [
+                "<p>To watch a short explainer video about ThermoLoop™ or to learn more about NewHydrogen’s mission to produce the world’s cheapest green hydrogen, visit <a href=\"https://newhydrogen.com/\" class=\"text-blue-600 text-[length:inherit]\">https://newhydrogen.com/</a>. </p>"
+            ]
+        ],
+        'category' => "pressrelease",
+        'biosolar' => false
+    ],
+    [
         'id' => "93",
         'title' => "NewHydrogen and Nuclear Power — A Perfect Pairing",
         'date' => "October 29, 2025",
