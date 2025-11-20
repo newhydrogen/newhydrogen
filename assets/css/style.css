@@ -3252,8 +3252,16 @@ html {
     padding-bottom: 1.25rem;
   }
 
+  .sm\:pb-\[135px\]{
+    padding-bottom: 135px;
+  }
+
   .sm\:pl-6{
     padding-left: 1.5rem;
+  }
+
+  .sm\:pt-0{
+    padding-top: 0px;
   }
 
   .sm\:pt-20{
@@ -3266,10 +3274,6 @@ html {
 
   .sm\:pt-\[57rem\]{
     padding-top: 57rem;
-  }
-
-  .sm\:pb-\[135px\]{
-    padding-bottom: 135px;
   }
 
   .sm\:text-center{
