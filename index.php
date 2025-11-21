@@ -16,7 +16,7 @@ $page = $path === '' ? 'home' : $path;
 
 // Handle special-report redirect before any output
 if ($page === 'special-report') {
-    header('Location: https://youtu.be/xFwYZ2bPkU8', true, 301);
+    header('Location: videos', true, 301);
     exit;
 }
 

@@ -11,4 +11,7 @@
             </svg>
         </button>
     </div>
+    <div class="flex justify-center mt-6 md:mt-16 relative z-10">
+            <a href="/videos" class="py-4 px-8 rounded-lg text-sm sm:text-xl text-center font-semibold break-words bg-custom-red-100 text-white hover:text-white inline-block">Learn More</a>
+        </div>
     </div>
