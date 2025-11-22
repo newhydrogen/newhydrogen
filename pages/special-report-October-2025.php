@@ -1,7 +1,7 @@
 
 
 <div class="mx-auto lg:max-w-screen-lg xl:max-w-screen-xl px-2 sm:px-4 z-10 relative sm:py-40 py-20">
-        <div class="sm:text-5xl text-3xl md:text-6xl text-center font-bold">NewHydrogen Special Report - October 27, 2025</div>
+        <div class="sm:text-5xl text-3xl md:text-6xl text-center font-bold">NewHydrogen Special Report</div>
         <div class="lg:max-w-[995px] max-w-[830px] mx-auto relative youtube-video-wrapper sm:mt-14 mt-8" data-video-id="xsT6_tSNjUs">
         <iframe id="youtube-player" src="https://www.youtube.com/embed/xsT6_tSNjUs?enablejsapi=1&controls=0&playsinline=1&rel=0&modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen class="w-full aspect-video relative z-10"></iframe>
         <button type="button" class="absolute inset-0 flex items-center justify-center cursor-pointer z-20 youtube-custom-btn">
